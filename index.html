@@ -22,7 +22,14 @@
     .report .source { background: rgba(255,255,255,0.2); color: white; }
     .loading { text-align: center; padding: 40px; color: #666; }
     @media (max-width: 1000px) { .wrap { grid-template-columns: 1fr; } }
+    .sidebar { order: 1; }
+    .main-content { order: 2; }
+    @media (max-width: 1000px) {
+    .wrap { grid-template-columns: 1fr; }
+    .sidebar, .main-content { grid-column: 1; }
+  }
   </style>
+  
 </head>
 <body>
   <div class="topbar">
@@ -31,25 +38,21 @@
   </div>
 
   <div class="wrap">
-    <div class="card">
-      <div class="title">数据来源</div>
-      <div class="tag">GSMA</div>
-      <div class="tag">Counterpoint</div>
-      <div class="tag">IDC</div>
-      <div class="tag">中关村在线</div>
-      <div class="tag">Omdia</div>
-    </div>
+  <div class="card" style="grid-column: 1 / -1;">
+    <div class="title">最新资讯</div>
+  </div>
+  
+  <div class="card sidebar" style="grid-column: 1;">
+    <div class="title">热门标签</div>
+    <div id="tags-container" class="loading">加载中...</div>
+  </div>
 
-    <div class="card" id="news-container">
-      <div class="title">最新资讯</div>
-      <div class="loading">正在加载最新新闻...</div>
-    </div>
-
-    <div class="card" id="tags-container">
-      <div class="title">热门标签</div>
-      <div class="loading">加载中...</div>
+  <div class="card main-content" style="grid-column: 2 / -1; min-height: 600px;">
+    <div id="news-container">
+      <div class="loading">正在加载最新资讯...</div>
     </div>
   </div>
+</div>
 
   <script>
     async function loadData() {
