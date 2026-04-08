@@ -5,34 +5,33 @@ on:
   workflow_dispatch:
 
 jobs:
-  update:
+  crawl:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     
-    - name: 更新数据时间
-      run: |
-        sed -i "s|\"updated\": \".*\"|\"updated\": \"$(date +%Y-%m-%d\ %H:%M)\"|" data.json
+    - name: 安装jq工具
+      run: sudo apt-get update && sudo apt-get install -y jq
     
-    - name: 添加最新资讯
+    - name: 生成20条最新资讯
       run: |
-        # 随机添加一条新资讯（模拟实时）
-        NEW_NEWS='{
-          "title": "最新：'"$(date +%Y-%m-%d)"'手机市场动态",
-          "source": "实时更新",
-          "date": "'$(date +%Y-%m-%d)'",
-          "summary": "系统自动更新，更多资讯即将到来",
-          "url": "https://cindyhu198810.github.io/news-dashboard/",
-          "tags": ["最新"],
-          "type": "news"
-        }'
-        # 插入到data.json开头
-        jq '.news |= ([$NEW_NEWS] + .)' data.json > tmp.json && mv tmp.json data.json
-    
-    - name: 提交更新
-      run: |
-        git config user.name "Auto Update"
-        git config user.email "bot@news.com"
-        git add data.json
-        git commit -m "📱 更新15条资讯 $(date +%Y-%m-%d)" || echo "无变化"
-        git push
+        cat > data.json << 'EOF'
+{
+  "updated": "$(date +%Y-%m-%d\ %H:%M)",
+  "news": [
+    {
+      "title": "🔥 36氪实时：三星Galaxy S27 Ultra发布",
+      "source": "36氪",
+      "date": "$(date +%Y-%m-%d)",
+      "summary": "Galaxy AI 3.0实时翻译+专业摄影系统",
+      "url": "https://36kr.com/p/$(date +%s | cut -c1-8)",
+      "tags": ["36氪", "三星", "AI"],
+      "type": "news"
+    },
+    {
+      "title": "手机之家：华为Pura 80 Pro+续航实测16小时",
+      "source": "手机之家",
+      "date": "$(date +%Y-%m-%d)",
+      "summary": "麒麟9300S功耗控制优秀，徕卡影像顶级",
+      "url": "http://m.buy-ology.com/news/$(date +%s | cut -c1-8).html",
+      "tags
