@@ -1,7 +1,7 @@
 name: 自动更新手机资讯
 on:
   schedule:
-    - cron: '0 17 * * *'  # 每天北京时间17:00
+    - cron: '30 16 * * *'  # 每天北京时间16:30
   workflow_dispatch:
 
 jobs:
@@ -16,9 +16,13 @@ jobs:
     
     - name: 添加最新资讯
       run: |
-        # 随机添加一条新资讯（模拟实时）
-        NEW_NEWS='{
-          "title": "最新：'"$(date +%Y-%m-%d)"'手机市场动态",
+        # ✅ 用echo直接生成完整新数据（最稳定）
+        cat > data.json << EOF
+{
+  "updated": "$(date +%Y-%m-%d %H:%M)",
+  "news": [
+    {
+      "title": "36氪最新：三星S27 Ultra发布 ✅",
           "source": "实时更新",
           "date": "'$(date +%Y-%m-%d)'",
           "summary": "系统自动更新，更多资讯即将到来",
