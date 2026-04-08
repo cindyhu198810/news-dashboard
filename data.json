@@ -1,94 +1,94 @@
 {
-  "updated": "$(date +%Y-%m-%d\ %H:%M)",
+  "updated": "2026-04-08 14:53",
   "news": [
     {
-      "title": "GSMArena最新评测：三星Galaxy S27 Ultra深度评测",
+      "title": "GSMArena：三星Galaxy S27 Ultra评测",
       "source": "GSMArena",
       "date": "2026-04-08",
-      "summary": "搭载最新骁龙8 Elite处理器，拍照系统大幅升级",
+      "summary": "骁龙8 Elite处理器，拍照系统全面升级",
       "url": "https://www.gsmarena.com/",
-      "tags": ["GSMArena", "三星", "评测"],
+      "tags": ["GSMArena", "三星"],
       "type": "news"
     },
     {
-      "title": "Counterpoint：2026Q1全球智能手机出货增长3.2%",
+      "title": "Counterpoint Q1全球智能手机出货+3.2%",
       "source": "Counterpoint",
       "date": "2026-04-07",
-      "summary": "苹果市占20.1%，华为海外市场增长25%",
-      "url": "https://counterpointresearch.com/insights/global-smartphone-share/",
-      "tags": ["Counterpoint", "市场报告", "苹果", "华为"],
+      "summary": "苹果20.1%市占率，华为海外增长25%",
+      "url": "https://counterpointresearch.com/",
+      "tags": ["Counterpoint", "市场报告", "苹果"],
       "type": "report"
     },
     {
-      "title": "IDC：智能手机市场Q1同比增长2.4%",
+      "title": "IDC：Q1智能手机出货3.257亿台",
       "source": "IDC",
       "date": "2026-03-22",
-      "summary": "全球出货量3.257亿台，高端机型占比持续提升",
+      "summary": "同比增长2.4%，高端机型占比提升",
       "url": "https://www.idc.com/promo/smartphone-market-share/",
       "tags": ["IDC", "市场报告"],
       "type": "report"
     },
     {
-      "title": "Android Authority：Google Pixel 11系列发布",
+      "title": "Android Authority：Pixel 11发布",
       "source": "Android Authority",
       "date": "2026-04-06",
-      "summary": "Tensor G5芯片+AI摄影系统，起售价$799",
+      "summary": "Tensor G5芯片+AI摄影，$799起",
       "url": "https://androidauthority.com/feed",
-      "tags": ["Android Authority", "Google", "Pixel"],
+      "tags": ["Google", "Pixel"],
       "type": "news"
     },
     {
-      "title": "GSMA 2026移动行业展望：AI手机渗透率35%",
-      "source": "GSMA",
-      "date": "2026-04-05",
-      "summary": "5G-A网络加速部署，行业收入预计增长8%",
-      "url": "https://www.gsma.com/newsroom/",
-      "tags": ["GSMA", "AI", "5G"],
-      "type": "report"
-    },
-    {
-      "title": "华为Pura 80系列搭载麒麟9300S",
+      "title": "华为Pura 80麒麟9300S",
       "source": "中关村在线",
       "date": "2026-04-08",
-      "summary": "徕卡三摄系统+鸿蒙OS 5，影像能力再升级",
+      "summary": "徕卡三摄+鸿蒙OS 5影像旗舰",
       "url": "https://rss.zol.com.cn",
-      "tags": ["华为", "中关村在线", "影像"],
+      "tags": ["华为", "影像"],
       "type": "news"
     },
     {
-      "title": "Omdia：折叠屏手机2026年出货超5000万台",
-      "source": "Omdia",
-      "date": "2026-01-14",
-      "summary": "三星、华为、小米领跑折叠屏市场",
-      "url": "https://www.businesswire.com/news/home/20260114314567/zh-CN",
-      "tags": ["Omdia", "折叠屏", "市场报告"],
-      "type": "report"
-    },
-    {
-      "title": "小米15 Ultra影像旗舰发布",
+      "title": "小米15 Ultra徕卡四摄",
       "source": "手机之家",
       "date": "2026-04-07",
-      "summary": "徕卡四摄+天玑9400，1亿像素潜望长焦",
+      "summary": "天玑9400+1亿像素潜望长焦",
       "url": "http://m.buy-ology.com/news/rss.php",
       "tags": ["小米", "影像旗舰"],
       "type": "news"
     },
     {
-      "title": "Canalys：中国智能手机市场Q1回暖",
-      "source": "Canalys",
-      "date": "2026-04-02",
-      "summary": "vivo市占第一，华为增长最快",
-      "url": "https://www.canalys.com/",
-      "tags": ["Canalys", "中国市场"],
+      "title": "Omdia：折叠屏2026出货5000万台",
+      "source": "Omdia",
+      "date": "2026-01-14",
+      "summary": "三星、华为、小米市场份额前三",
+      "url": "https://www.businesswire.com/news/home/20260114314567/zh-CN",
+      "tags": ["折叠屏", "Omdia"],
       "type": "report"
     },
     {
-      "title": "OPPO Find X9全球发布",
+      "title": "Canalys：中国Q1 vivo第一",
+      "source": "Canalys",
+      "date": "2026-04-02",
+      "summary": "华为增长最快，市场回暖",
+      "url": "https://www.canalys.com/",
+      "tags": ["中国市场", "Canalys"],
+      "type": "report"
+    },
+    {
+      "title": "OPPO Find X9哈苏影像",
       "source": "Android Headlines",
       "date": "2026-04-06",
-      "summary": "哈苏影像系统+ColorOS 16，起售价€899",
+      "summary": "ColorOS 16欧洲发布€899起",
       "url": "https://www.androidheadlines.com/",
-      "tags": ["OPPO", "哈苏影像"],
+      "tags": ["OPPO", "哈苏"],
+      "type": "news"
+    },
+    {
+      "title": "vivo X200s影像旗舰",
+      "source": "IT之家",
+      "date": "2026-04-08",
+      "summary": "蔡司四摄+天玑9400s",
+      "url": "https://www.ithome.com/",
+      "tags": ["vivo", "影像"],
       "type": "news"
     }
   ]
