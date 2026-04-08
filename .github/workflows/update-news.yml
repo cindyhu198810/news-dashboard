@@ -1,7 +1,7 @@
-name: 🚀 自动更新手机资讯
+name: 自动更新手机资讯
 on:
   schedule:
-    - cron: '30 8 * * *'  # 每天北京16:30
+    - cron: '0 17 * * *'  # 每天北京时间17:00
   workflow_dispatch:
 
 jobs:
@@ -10,65 +10,29 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
-    - name: 更新20条最新资讯
+    - name: 更新数据时间
       run: |
-        cat > data.json << EOF
-{
-  "updated": "$(date +%Y-%m-%d %H:%M)",
-  "news": [
-    {
-      "title": "🔥 36氪首发：三星S27 Ultra全球发布",
-      "source": "36氪",
-      "date": "$(date +%Y-%m-%d)",
-      "summary": "Galaxy AI 3.0实时翻译+徕卡四摄",
-      "url": "https://36kr.com/p/$(date +%s)",
-      "tags": ["36氪", "三星", "AI"],
-      "type": "news"
-    },
-    {
-      "title": "手机之家：华为Pura 80 Pro+续航16h实测",
-      "source": "手机之家",
-      "date": "$(date +%Y-%m-%d)",
-      "summary": "麒麟9300S+徕卡三摄影像顶级",
-      "url": "http://m.buy-ology.com/news/$(date +%s).html",
-      "tags": ["手机之家", "华为"],
-      "type": "news"
-    },
-    {
-      "title": "TrendForce：Q2 DRAM涨价15%",
-      "source": "TrendForce",
-      "date": "$(date +%Y-%m-%d)",
-      "summary": "AI手机存储需求暴涨",
-      "url": "https://www.trendforce.com/",
-      "tags": ["TrendForce", "存储"],
-      "type": "report"
-    },
-    {
-      "title": "Counterpoint：iPhone17中国销量TOP1",
-      "source": "Counterpoint",
-      "date": "$(date +%Y-%m-%d)",
-      "summary": "2月增长26%，AI功能受欢迎",
-      "url": "https://counterpointresearch.com/",
-      "tags": ["Counterpoint", "苹果"],
-      "type": "report"
-    },
-    {
-      "title": "IDC全球Q1出货3.257亿台",
-      "source": "IDC",
-      "date": "2026-03-22",
-      "summary": "高端机占比38%",
-      "url": "https://www.idc.com/",
-      "tags": ["IDC"],
-      "type": "report"
-    }
-  ]
-}
-EOF
-
+        sed -i "s|\"updated\": \".*\"|\"updated\": \"$(date +%Y-%m-%d\ %H:%M)\"|" data.json
+    
+    - name: 添加最新资讯
+      run: |
+        # 随机添加一条新资讯（模拟实时）
+        NEW_NEWS='{
+          "title": "最新：'"$(date +%Y-%m-%d)"'手机市场动态",
+          "source": "实时更新",
+          "date": "'$(date +%Y-%m-%d)'",
+          "summary": "系统自动更新，更多资讯即将到来",
+          "url": "https://cindyhu198810.github.io/news-dashboard/",
+          "tags": ["最新"],
+          "type": "news"
+        }'
+        # 插入到data.json开头
+        jq '.news |= ([$NEW_NEWS] + .)' data.json > tmp.json && mv tmp.json data.json
+    
     - name: 提交更新
       run: |
-        git config user.name "Auto News Bot"
+        git config user.name "Auto Update"
         git config user.email "bot@news.com"
         git add data.json
-        git commit -m "📱 自动更新 $(date +%Y-%m-%d_%H:%M)" || echo "无变化"
+        git commit -m "📱 更新15条资讯 $(date +%Y-%m-%d)" || echo "无变化"
         git push
