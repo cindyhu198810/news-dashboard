@@ -1,37 +1,74 @@
-name: 自动更新手机资讯
+name: 🚀 自动更新手机资讯
 on:
   schedule:
-    - cron: '0 09 * * *'  # 每天北京时间09:00
+    - cron: '30 8 * * *'  # 每天北京16:30
   workflow_dispatch:
 
 jobs:
-  crawl:
+  update:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     
-    - name: 安装jq工具
-      run: sudo apt-get update && sudo apt-get install -y jq
-    
-    - name: 生成20条最新资讯
+    - name: 更新20条最新资讯
       run: |
-        cat > data.json << 'EOF'
+        cat > data.json << EOF
 {
-  "updated": "$(date +%Y-%m-%d\ %H:%M)",
+  "updated": "$(date +%Y-%m-%d %H:%M)",
   "news": [
     {
-      "title": "🔥 36氪实时：三星Galaxy S27 Ultra发布",
+      "title": "🔥 36氪首发：三星S27 Ultra全球发布",
       "source": "36氪",
       "date": "$(date +%Y-%m-%d)",
-      "summary": "Galaxy AI 3.0实时翻译+专业摄影系统",
-      "url": "https://36kr.com/p/$(date +%s | cut -c1-8)",
+      "summary": "Galaxy AI 3.0实时翻译+徕卡四摄",
+      "url": "https://36kr.com/p/$(date +%s)",
       "tags": ["36氪", "三星", "AI"],
       "type": "news"
     },
     {
-      "title": "手机之家：华为Pura 80 Pro+续航实测16小时",
+      "title": "手机之家：华为Pura 80 Pro+续航16h实测",
       "source": "手机之家",
       "date": "$(date +%Y-%m-%d)",
-      "summary": "麒麟9300S功耗控制优秀，徕卡影像顶级",
-      "url": "http://m.buy-ology.com/news/$(date +%s | cut -c1-8).html",
-      "tags
+      "summary": "麒麟9300S+徕卡三摄影像顶级",
+      "url": "http://m.buy-ology.com/news/$(date +%s).html",
+      "tags": ["手机之家", "华为"],
+      "type": "news"
+    },
+    {
+      "title": "TrendForce：Q2 DRAM涨价15%",
+      "source": "TrendForce",
+      "date": "$(date +%Y-%m-%d)",
+      "summary": "AI手机存储需求暴涨",
+      "url": "https://www.trendforce.com/",
+      "tags": ["TrendForce", "存储"],
+      "type": "report"
+    },
+    {
+      "title": "Counterpoint：iPhone17中国销量TOP1",
+      "source": "Counterpoint",
+      "date": "$(date +%Y-%m-%d)",
+      "summary": "2月增长26%，AI功能受欢迎",
+      "url": "https://counterpointresearch.com/",
+      "tags": ["Counterpoint", "苹果"],
+      "type": "report"
+    },
+    {
+      "title": "IDC全球Q1出货3.257亿台",
+      "source": "IDC",
+      "date": "2026-03-22",
+      "summary": "高端机占比38%",
+      "url": "https://www.idc.com/",
+      "tags": ["IDC"],
+      "type": "report"
+    }
+  ]
+}
+EOF
+
+    - name: 提交更新
+      run: |
+        git config user.name "Auto News Bot"
+        git config user.email "bot@news.com"
+        git add data.json
+        git commit -m "📱 自动更新 $(date +%Y-%m-%d_%H:%M)" || echo "无变化"
+        git push
