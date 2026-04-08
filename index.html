@@ -135,9 +135,17 @@
 </head>
 <body>
   <div class="topbar">
-    全球手机市场资讯
+  全球手机市场资讯
+  <div style="display:flex;gap:10px;align-items:center;">
     <span class="update-time">加载中...</span>
+    <button onclick="resetFilter()" style="
+      background:#ff6b6b;color:white;border:none;
+      padding:6px 16px;border-radius:20px;
+      font-size:13px;cursor:pointer;font-weight:500;
+      box-shadow:0 2px 10px rgba(255,107,107,0.3);
+    ">全部</button>
   </div>
+</div>
 
   <div class="container">
     <!-- 新闻主区 -->
@@ -162,47 +170,106 @@
 </div>
 
   <script>
-    async function loadData() {
-      try {
-        const response = await fetch('data.json');
-        const data = await response.json();
-        
-        // 更新时间
-        document.querySelector('.update-time').textContent = 
-          `最后更新：${data.updated} | ${data.news.length} 条资讯`;
-        
-        // 显示新闻
-        const container = document.getElementById('news-container');
-        container.innerHTML = '<div class="title">最新资讯</div>';
-        
-        data.news.slice(0, 8).forEach(item => {
-          const div = document.createElement('div');
-          div.className = `item ${item.type === 'report' ? 'report' : ''}`;
-          div.innerHTML = `
-            <div class="source">${item.source}</div>
-            <div class="headline">${item.title}</div>
-            <div class="meta">${item.date}</div>
-            <div class="summary">${item.summary}</div>
-            ${item.tags.map(tag => `<div class="tag">${tag}</div>`).join('')}
-          `;
-          div.onclick = () => window.open(item.url, '_blank');
-          container.appendChild(div);
-        });
-        
-        // 显示标签
-        const tagsContainer = document.getElementById('tags-container');
-        const allTags = [...new Set(data.news.flatMap(n => n.tags))].slice(0, 8);
-        tagsContainer.innerHTML = '<div class="title">热门标签</div>' + 
-          allTags.map(tag => `<div class="tag sidebar-tag">${tag}</div>`).join('');
-        
-      } catch (e) {
-        document.getElementById('news-container').innerHTML = 
-          '<div class="title">最新资讯</div><div style="padding:20px;text-align:center;color:#999;">暂无数据，请稍后刷新</div>';
-      }
-    }
+async function loadData() {
+  try {
+    const response = await fetch('data.json');
+    const data = await response.json();
     
-    loadData();
-    setInterval(loadData, 5 * 60 * 1000); // 每5分钟检查更新
-  </script>
+    window.currentData = data;
+    renderNews(data);
+    renderTags(data);
+  } catch (e) {
+    document.getElementById('news-container').innerHTML = 
+      '<div style="padding:40px;text-align:center;color:#999;">暂无数据，请稍后刷新</div>';
+  }
+}
+
+function renderNews(data) {
+  const container = document.getElementById('news-container');
+  container.innerHTML = '';
+  
+  // 标题 + 筛选状态
+  const activeFilter = window.activeFilter || '全部';
+  container.innerHTML = `
+    <div style="display:flex;align-items:center;margin-bottom:25px;">
+      <div style="font-size:20px;font-weight:600;color:#0f62fe;margin-right:20px;">最新资讯</div>
+      <div style="background:#e8f0ff;color:#0f62fe;padding:8px 16px;border-radius:25px;font-size:14px;">
+        ${activeFilter} (${data.news.length}条)
+      </div>
+    </div>
+  `;
+  
+  data.news.forEach((item, index) => {
+    const div = document.createElement('div');
+    div.className = `item ${item.type === 'report' ? 'report' : ''}`;
+    div.style.animationDelay = `${index * 0.05}s`;
+    div.innerHTML = `
+      <div class="source">${item.source}</div>
+      <div class="headline">${item.title}</div>
+      <div class="meta">${item.date}</div>
+      <div class="summary">${item.summary}</div>
+      ${item.tags.map(tag => `<div class="tag">${tag}</div>`).join('')}
+    `;
+    div.onclick = () => window.open(item.url, '_blank');
+    container.appendChild(div);
+  });
+}
+
+function renderTags(data) {
+  const container = document.getElementById('tags-container');
+  container.innerHTML = '';
+  
+  // 统计热门标签
+  const tagCount = {};
+  data.news.forEach(item => {
+    item.tags.forEach(tag => {
+      tagCount[tag] = (tagCount[tag] || 0) + 1;
+    });
+  });
+  
+  // 按热度排序前12个
+  const topTags = Object.entries(tagCount)
+    .sort(([,a], [,b]) => b - a)
+    .slice(0, 12)
+    .map(([tag, count]) => ({ tag, count }));
+  
+  topTags.forEach(({ tag, count }) => {
+    const tagEl = document.createElement('div');
+    tagEl.className = 'tag';
+    tagEl.style.cursor = 'pointer';
+    tagEl.style.margin = '12px 0';
+    tagEl.style.padding = '10px 18px';
+    tagEl.style.fontSize = '15px';
+    tagEl.style.fontWeight = '500';
+    tagEl.textContent = `${tag} (${count})`;
+    tagEl.onclick = () => filterByTag(tag);
+    container.appendChild(tagEl);
+  });
+}
+
+function filterByTag(tag) {
+  window.activeFilter = tag;
+  
+  if (window.currentData) {
+    const filtered = {
+      ...window.currentData,
+      news: window.currentData.news.filter(item => 
+        item.tags.includes(tag)
+      )
+    };
+    renderNews(filtered);
+  }
+}
+
+// 重置筛选
+function resetFilter() {
+  window.activeFilter = '全部';
+  loadData();
+}
+
+// 加载 + 5分钟自动刷新
+loadData();
+setInterval(loadData, 5 * 60 * 1000);
+</script>
 </body>
 </html>
