@@ -1,94 +1,139 @@
 {
-  "updated": "2026-04-08 14:53",
+  "updated": "2026-04-08 15:20",
   "news": [
     {
-      "title": "GSMArena：三星Galaxy S27 Ultra评测",
-      "source": "GSMArena",
+      "title": "36氪｜三星发布Galaxy S27系列，AI功能大幅升级",
+      "source": "36氪",
       "date": "2026-04-08",
-      "summary": "骁龙8 Elite处理器，拍照系统全面升级",
-      "url": "https://www.gsmarena.com/",
-      "tags": ["GSMArena", "三星"],
+      "summary": "搭载Galaxy AI 3.0，支持实时翻译和AI摄影编辑",
+      "url": "https://36kr.com/feed",
+      "tags": ["36氪", "三星", "AI"],
       "type": "news"
     },
     {
-      "title": "Counterpoint Q1全球智能手机出货+3.2%",
-      "source": "Counterpoint",
+      "title": "手机之家｜华为Pura 80 Pro+上手：麒麟9300S真香",
+      "source": "手机之家",
+      "date": "2026-04-08",
+      "summary": "徕卡三摄表现惊艳，鸿蒙5流畅度拉满",
+      "url": "http://m.buy-ology.com/news/rss.php",
+      "tags": ["手机之家", "华为"],
+      "type": "news"
+    },
+    {
+      "title": "TrendForce：2026Q1智能手机DRAM需求增长12%",
+      "source": "TrendForce",
       "date": "2026-04-07",
-      "summary": "苹果20.1%市占率，华为海外增长25%",
-      "url": "https://counterpointresearch.com/",
-      "tags": ["Counterpoint", "市场报告", "苹果"],
+      "summary": "AI手机推动存储需求，三星海力士市占领先",
+      "url": "https://www.trendforce.com/presscenter/rss.html",
+      "tags": ["TrendForce", "存储", "市场报告"],
       "type": "report"
     },
     {
-      "title": "IDC：Q1智能手机出货3.257亿台",
+      "title": "Counterpoint：苹果iPhone 17系列2月全球销量+26%",
+      "source": "Counterpoint",
+      "date": "2026-04-06",
+      "summary": "中国市场贡献突出，AI功能受欢迎",
+      "url": "https://counterpointresearch.com/",
+      "tags": ["Counterpoint", "苹果"],
+      "type": "report"
+    },
+    {
+      "title": "IDC：全球智能手机Q1出货3.257亿台同比+2.4%",
       "source": "IDC",
       "date": "2026-03-22",
-      "summary": "同比增长2.4%，高端机型占比提升",
+      "summary": "高端机型占比提升至38%",
       "url": "https://www.idc.com/promo/smartphone-market-share/",
-      "tags": ["IDC", "市场报告"],
+      "tags": ["IDC"],
       "type": "report"
     },
     {
-      "title": "Android Authority：Pixel 11发布",
+      "title": "GSMArena：小米15 Ultra相机评测满分",
+      "source": "GSMArena",
+      "date": "2026-04-07",
+      "summary": "徕卡四摄DxOMark 158分领跑",
+      "url": "https://www.gsmarena.com/",
+      "tags": ["GSMArena", "小米"],
+      "type": "news"
+    },
+    {
+      "title": "36氪｜OPPO Find X9海外发布",
+      "source": "36氪",
+      "date": "2026-04-06",
+      "summary": "哈苏影像+ColorOS 16，€899起售",
+      "url": "https://36kr.com/feed",
+      "tags": ["36氪", "OPPO"],
+      "type": "news"
+    },
+    {
+      "title": "手机之家｜vivo X200s蔡司四摄上手",
+      "source": "手机之家",
+      "date": "2026-04-08",
+      "summary": "天玑9400s+影像芯片，夜景表现优秀",
+      "url": "http://m.buy-ology.com/news/rss.php",
+      "tags": ["手机之家", "vivo"],
+      "type": "news"
+    },
+    {
+      "title": "TrendForce：折叠屏面板出货Q1增长28%",
+      "source": "TrendForce",
+      "date": "2026-04-05",
+      "summary": "三星显示市占第一，华为京东方紧追",
+      "url": "https://www.trendforce.com/presscenter/rss.html",
+      "tags": ["TrendForce", "折叠屏"],
+      "type": "report"
+    },
+    {
+      "title": "Android Authority：Google Pixel 11 AI功能解析",
       "source": "Android Authority",
       "date": "2026-04-06",
-      "summary": "Tensor G5芯片+AI摄影，$799起",
+      "summary": "Tensor G5带来Gemini 2.0实时翻译",
       "url": "https://androidauthority.com/feed",
-      "tags": ["Google", "Pixel"],
+      "tags": ["Android Authority", "Google"],
       "type": "news"
     },
     {
-      "title": "华为Pura 80麒麟9300S",
-      "source": "中关村在线",
-      "date": "2026-04-08",
-      "summary": "徕卡三摄+鸿蒙OS 5影像旗舰",
-      "url": "https://rss.zol.com.cn",
-      "tags": ["华为", "影像"],
-      "type": "news"
-    },
-    {
-      "title": "小米15 Ultra徕卡四摄",
-      "source": "手机之家",
-      "date": "2026-04-07",
-      "summary": "天玑9400+1亿像素潜望长焦",
-      "url": "http://m.buy-ology.com/news/rss.php",
-      "tags": ["小米", "影像旗舰"],
-      "type": "news"
-    },
-    {
-      "title": "Omdia：折叠屏2026出货5000万台",
-      "source": "Omdia",
-      "date": "2026-01-14",
-      "summary": "三星、华为、小米市场份额前三",
-      "url": "https://www.businesswire.com/news/home/20260114314567/zh-CN",
-      "tags": ["折叠屏", "Omdia"],
-      "type": "report"
-    },
-    {
-      "title": "Canalys：中国Q1 vivo第一",
+      "title": "Canalys：中国智能手机Q1 vivo第一",
       "source": "Canalys",
       "date": "2026-04-02",
-      "summary": "华为增长最快，市场回暖",
+      "summary": "华为增长最快，市场整体回暖",
       "url": "https://www.canalys.com/",
-      "tags": ["中国市场", "Canalys"],
+      "tags": ["Canalys", "中国"],
       "type": "report"
     },
     {
-      "title": "OPPO Find X9哈苏影像",
-      "source": "Android Headlines",
-      "date": "2026-04-06",
-      "summary": "ColorOS 16欧洲发布€899起",
-      "url": "https://www.androidheadlines.com/",
-      "tags": ["OPPO", "哈苏"],
+      "title": "IT之家｜荣耀Magic7 RSR保时捷设计",
+      "source": "IT之家",
+      "date": "2026-04-07",
+      "summary": "魔法OS 9.0+Snapdragon 8 Elite",
+      "url": "https://www.ithome.com/",
+      "tags": ["IT之家", "荣耀"],
       "type": "news"
     },
     {
-      "title": "vivo X200s影像旗舰",
-      "source": "IT之家",
+      "title": "Omdia：全球智能手机2026年增长4%",
+      "source": "Omdia",
+      "date": "2026-01-14",
+      "summary": "AI和折叠屏成主要驱动力",
+      "url": "https://www.businesswire.com/news/home/20260114314567/zh-CN",
+      "tags": ["Omdia"],
+      "type": "report"
+    },
+    {
+      "title": "36氪｜一加13T海外首发",
+      "source": "36氪",
+      "date": "2026-04-05",
+      "summary": "天玑9400+ColorOS 16国际版",
+      "url": "https://36kr.com/feed",
+      "tags": ["36氪", "一加"],
+      "type": "news"
+    },
+    {
+      "title": "手机之家｜iQOO 13 Legend版开售",
+      "source": "手机之家",
       "date": "2026-04-08",
-      "summary": "蔡司四摄+天玑9400s",
-      "url": "https://www.ithome.com/",
-      "tags": ["vivo", "影像"],
+      "summary": "2K+144Hz直屏+自研Q2芯片",
+      "url": "http://m.buy-ology.com/news/rss.php",
+      "tags": ["手机之家", "iQOO"],
       "type": "news"
     }
   ]
