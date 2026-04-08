@@ -5,141 +5,94 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>全球手机市场资讯</title>
   <style>
-    body {
-      font-family: Arial, "Microsoft YaHei", sans-serif;
-      margin: 0;
-      background: #f5f7fb;
-      color: #222;
-    }
-    .topbar {
-      background: #0f62fe;
-      color: white;
-      padding: 18px 24px;
-      font-size: 22px;
-      font-weight: bold;
-    }
-    .wrap {
-      display: grid;
-      grid-template-columns: 1fr 2fr 1fr;
-      gap: 16px;
-      padding: 16px;
-    }
-    .card {
-      background: white;
-      border-radius: 14px;
-      box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-      padding: 16px;
-    }
-    .title {
-      font-size: 18px;
-      font-weight: bold;
-      margin-bottom: 12px;
-      color: #0f62fe;
-    }
-    .item {
-      border-bottom: 1px solid #eee;
-      padding: 12px 0;
-    }
-    .source {
-      display: inline-block;
-      background: #e8f0ff;
-      color: #0f62fe;
-      border-radius: 999px;
-      padding: 3px 10px;
-      font-size: 12px;
-      margin-bottom: 6px;
-    }
-    .headline {
-      font-size: 15px;
-      font-weight: bold;
-      margin: 6px 0;
-      line-height: 1.5;
-    }
-    .meta {
-      font-size: 12px;
-      color: #777;
-      margin-bottom: 6px;
-    }
-    .tag {
-      display: inline-block;
-      background: #f2f4f8;
-      color: #444;
-      border-radius: 999px;
-      padding: 3px 10px;
-      font-size: 12px;
-      margin: 4px 6px 0 0;
-    }
-    .sidebar-item {
-      padding: 10px 0;
-      border-bottom: 1px solid #eee;
-      font-size: 14px;
-    }
-    .footer {
-      padding: 16px;
-      text-align: center;
-      color: #666;
-      font-size: 13px;
-    }
-    @media (max-width: 1000px) {
-      .wrap { grid-template-columns: 1fr; }
-    }
+    body { font-family: Arial, "Microsoft YaHei", sans-serif; margin: 0; background: #f5f7fb; color: #222; }
+    .topbar { background: #0f62fe; color: white; padding: 18px 24px; font-size: 22px; font-weight: bold; display: flex; justify-content: space-between; align-items: center; }
+    .update-time { font-size: 14px; opacity: 0.9; }
+    .wrap { display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 16px; padding: 16px; }
+    .card { background: white; border-radius: 14px; box-shadow: 0 2px 10px rgba(0,0,0,0.08); padding: 16px; }
+    .title { font-size: 18px; font-weight: bold; margin-bottom: 12px; color: #0f62fe; }
+    .item { border-bottom: 1px solid #eee; padding: 12px 0; cursor: pointer; transition: background 0.2s; }
+    .item:hover { background: #f8faff; }
+    .source { display: inline-block; background: #e8f0ff; color: #0f62fe; border-radius: 999px; padding: 3px 10px; font-size: 12px; margin-bottom: 6px; }
+    .headline { font-size: 15px; font-weight: bold; margin: 6px 0; line-height: 1.5; }
+    .meta { font-size: 12px; color: #777; margin-bottom: 6px; }
+    .summary { color: #555; font-size: 13px; line-height: 1.4; margin-bottom: 8px; }
+    .tag { display: inline-block; background: #f2f4f8; color: #444; border-radius: 999px; padding: 3px 10px; font-size: 12px; margin: 4px 6px 0 0; }
+    .report { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white !important; }
+    .report .source { background: rgba(255,255,255,0.2); color: white; }
+    .loading { text-align: center; padding: 40px; color: #666; }
+    @media (max-width: 1000px) { .wrap { grid-template-columns: 1fr; } }
   </style>
 </head>
 <body>
-  <div class="topbar">全球手机市场资讯</div>
+  <div class="topbar">
+    <span>全球手机市场资讯</span>
+    <span class="update-time">加载中...</span>
+  </div>
 
   <div class="wrap">
     <div class="card">
-      <div class="title">分类过滤</div>
-      <div class="tag">国内</div>
-      <div class="tag">国际</div>
-      <div class="tag">苹果</div>
-      <div class="tag">华为</div>
-      <div class="tag">三星</div>
-      <div class="tag">AI</div>
-      <div class="tag">折叠屏</div>
-      <div class="tag">市场报告</div>
+      <div class="title">数据来源</div>
+      <div class="tag">GSMA</div>
+      <div class="tag">Counterpoint</div>
+      <div class="tag">IDC</div>
+      <div class="tag">中关村在线</div>
+      <div class="tag">Omdia</div>
     </div>
 
-    <div class="card">
-      <div class="title">最新新闻</div>
-
-      <div class="item">
-        <div class="source">IT之家</div>
-        <div class="headline">华为Mate70麒麟9100曝光，原生鸿蒙生态继续扩展</div>
-        <div class="meta">发布时间：2026-04-08 12:00</div>
-        <div>摘要：华为手机新品和芯片消息持续更新，围绕AI与鸿蒙生态的布局成为关注重点。</div>
-        <div class="tag">华为</div><div class="tag">AI</div><div class="tag">国内</div>
-      </div>
-
-      <div class="item">
-        <div class="source">PhoneArena</div>
-        <div class="headline">Galaxy Z Fold新一代折叠屏曝光，轻薄设计成亮点</div>
-        <div class="meta">发布时间：2026-04-08 11:20</div>
-        <div>摘要：海外媒体持续关注三星折叠屏新机，轻薄化与续航成为竞争重点。</div>
-        <div class="tag">三星</div><div class="tag">折叠屏</div><div class="tag">国际</div>
-      </div>
-
-      <div class="item">
-        <div class="source">Counterpoint</div>
-        <div class="headline">2026年第一季度全球智能手机市场份额分析</div>
-        <div class="meta">发布时间：2026-04-08 10:00</div>
-        <div>摘要：高端机型和AI手机推动市场结构变化，苹果、三星、华为份额变化值得关注。</div>
-        <div class="tag">市场报告</div><div class="tag">国际</div>
-      </div>
+    <div class="card" id="news-container">
+      <div class="title">最新资讯</div>
+      <div class="loading">正在加载最新新闻...</div>
     </div>
 
-    <div class="card">
-      <div class="title">热门话题</div>
-      <div class="sidebar-item"># 华为Mate70</div>
-      <div class="sidebar-item"># 小米15 Pro</div>
-      <div class="sidebar-item"># 苹果AI</div>
-      <div class="sidebar-item"># 折叠屏</div>
-      <div class="sidebar-item"># GSMA报告</div>
-      <div class="sidebar-item"># Omdia市场趋势</div>
+    <div class="card" id="tags-container">
+      <div class="title">热门标签</div>
+      <div class="loading">加载中...</div>
     </div>
   </div>
 
-  <div class="footer">这是一个可嵌入飞书云文档的手机市场资讯展示页示例</div>
+  <script>
+    async function loadData() {
+      try {
+        const response = await fetch('data.json');
+        const data = await response.json();
+        
+        // 更新时间
+        document.querySelector('.update-time').textContent = 
+          `最后更新：${data.updated} | ${data.news.length} 条资讯`;
+        
+        // 显示新闻
+        const container = document.getElementById('news-container');
+        container.innerHTML = '<div class="title">最新资讯</div>';
+        
+        data.news.slice(0, 8).forEach(item => {
+          const div = document.createElement('div');
+          div.className = `item ${item.type === 'report' ? 'report' : ''}`;
+          div.innerHTML = `
+            <div class="source">${item.source}</div>
+            <div class="headline">${item.title}</div>
+            <div class="meta">${item.date}</div>
+            <div class="summary">${item.summary}</div>
+            ${item.tags.map(tag => `<div class="tag">${tag}</div>`).join('')}
+          `;
+          div.onclick = () => window.open(item.url, '_blank');
+          container.appendChild(div);
+        });
+        
+        // 显示标签
+        const tagsContainer = document.getElementById('tags-container');
+        const allTags = [...new Set(data.news.flatMap(n => n.tags))].slice(0, 8);
+        tagsContainer.innerHTML = '<div class="title">热门标签</div>' + 
+          allTags.map(tag => `<div class="tag sidebar-tag">${tag}</div>`).join('');
+        
+      } catch (e) {
+        document.getElementById('news-container').innerHTML = 
+          '<div class="title">最新资讯</div><div style="padding:20px;text-align:center;color:#999;">暂无数据，请稍后刷新</div>';
+      }
+    }
+    
+    loadData();
+    setInterval(loadData, 5 * 60 * 1000); // 每5分钟检查更新
+  </script>
 </body>
 </html>
