@@ -1,31 +1,95 @@
 {
-  "updated": "2026-04-08 06:42",
+  "updated": "$(date +%Y-%m-%d\ %H:%M)",
   "news": [
     {
-      "title": "GSMA发布2026年移动行业展望报告",
-      "source": "GSMA",
+      "title": "GSMArena最新评测：三星Galaxy S27 Ultra深度评测",
+      "source": "GSMArena",
       "date": "2026-04-08",
-      "summary": "5G-A网络部署加速，AI手机渗透率预计达35%",
-      "url": "https://www.gsma.com/newsroom/",
-      "tags": [
-        "GSMA",
-        "5G",
-        "AI"
-      ],
+      "summary": "搭载最新骁龙8 Elite处理器，拍照系统大幅升级",
+      "url": "https://www.gsmarena.com/",
+      "tags": ["GSMArena", "三星", "评测"],
+      "type": "news"
+    },
+    {
+      "title": "Counterpoint：2026Q1全球智能手机出货增长3.2%",
+      "source": "Counterpoint",
+      "date": "2026-04-07",
+      "summary": "苹果市占20.1%，华为海外市场增长25%",
+      "url": "https://counterpointresearch.com/insights/global-smartphone-share/",
+      "tags": ["Counterpoint", "市场报告", "苹果", "华为"],
       "type": "report"
     },
     {
-      "title": "Counterpoint：Q1全球智能手机出货量增长3%",
-      "source": "Counterpoint",
-      "date": "2026-04-07",
-      "summary": "苹果市占率稳定20%，华为海外增长迅猛",
-      "url": "https://counterpointresearch.com/",
-      "tags": [
-        "Counterpoint",
-        "市场报告",
-        "苹果"
-      ],
+      "title": "IDC：智能手机市场Q1同比增长2.4%",
+      "source": "IDC",
+      "date": "2026-03-22",
+      "summary": "全球出货量3.257亿台，高端机型占比持续提升",
+      "url": "https://www.idc.com/promo/smartphone-market-share/",
+      "tags": ["IDC", "市场报告"],
       "type": "report"
+    },
+    {
+      "title": "Android Authority：Google Pixel 11系列发布",
+      "source": "Android Authority",
+      "date": "2026-04-06",
+      "summary": "Tensor G5芯片+AI摄影系统，起售价$799",
+      "url": "https://androidauthority.com/feed",
+      "tags": ["Android Authority", "Google", "Pixel"],
+      "type": "news"
+    },
+    {
+      "title": "GSMA 2026移动行业展望：AI手机渗透率35%",
+      "source": "GSMA",
+      "date": "2026-04-05",
+      "summary": "5G-A网络加速部署，行业收入预计增长8%",
+      "url": "https://www.gsma.com/newsroom/",
+      "tags": ["GSMA", "AI", "5G"],
+      "type": "report"
+    },
+    {
+      "title": "华为Pura 80系列搭载麒麟9300S",
+      "source": "中关村在线",
+      "date": "2026-04-08",
+      "summary": "徕卡三摄系统+鸿蒙OS 5，影像能力再升级",
+      "url": "https://rss.zol.com.cn",
+      "tags": ["华为", "中关村在线", "影像"],
+      "type": "news"
+    },
+    {
+      "title": "Omdia：折叠屏手机2026年出货超5000万台",
+      "source": "Omdia",
+      "date": "2026-01-14",
+      "summary": "三星、华为、小米领跑折叠屏市场",
+      "url": "https://www.businesswire.com/news/home/20260114314567/zh-CN",
+      "tags": ["Omdia", "折叠屏", "市场报告"],
+      "type": "report"
+    },
+    {
+      "title": "小米15 Ultra影像旗舰发布",
+      "source": "手机之家",
+      "date": "2026-04-07",
+      "summary": "徕卡四摄+天玑9400，1亿像素潜望长焦",
+      "url": "http://m.buy-ology.com/news/rss.php",
+      "tags": ["小米", "影像旗舰"],
+      "type": "news"
+    },
+    {
+      "title": "Canalys：中国智能手机市场Q1回暖",
+      "source": "Canalys",
+      "date": "2026-04-02",
+      "summary": "vivo市占第一，华为增长最快",
+      "url": "https://www.canalys.com/",
+      "tags": ["Canalys", "中国市场"],
+      "type": "report"
+    },
+    {
+      "title": "OPPO Find X9全球发布",
+      "source": "Android Headlines",
+      "date": "2026-04-06",
+      "summary": "哈苏影像系统+ColorOS 16，起售价€899",
+      "url": "https://www.androidheadlines.com/",
+      "tags": ["OPPO", "哈苏影像"],
+      "type": "news"
     }
   ]
 }
