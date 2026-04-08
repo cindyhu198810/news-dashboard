@@ -1,2 +1,31 @@
-.github/workflows/
-    └── update-news.yml
+name: 自动更新手机资讯
+on:
+  schedule:
+    - cron: '0 9 * * *'  # 每天早上9点 UTC (北京17点)
+  workflow_dispatch:  # 支持手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: 设置 Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: 安装依赖
+      run: |
+        pip install requests beautifulsoup4 feedparser
+    
+    - name: 运行更新脚本
+      run: python update.py
+    
+    - name: 提交更新
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Auto Update Bot"
+        git add data.json
+        git diff --staged --quiet || git commit -m "📱 更新手机市场资讯 $(date +%Y-%m-%d)"
+        git push
