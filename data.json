@@ -1,0 +1,32 @@
+{
+  "updated": "2026-04-08 14:00",
+  "news": [
+    {
+      "title": "全球智能手机市场2025年Q4增长2.4%，三星苹果领跑",
+      "source": "IDC",
+      "date": "2026-03-22",
+      "summary": "全球智能手机出货量增长2.4%，高端机型和AI手机推动市场复苏。",
+      "tags": ["IDC", "市场报告", "三星", "苹果"],
+      "url": "https://www.idc.com/promo/smartphone-market-share/market-share/",
+      "type": "report"
+    },
+    {
+      "title": "苹果iPhone 17系列2月全球销量增26%，中国市场贡献突出",
+      "source": "中关村在线",
+      "date": "2026-04-08",
+      "summary": "iPhone 17系列热销推动全球销量增长，中国市场均价上涨20%。",
+      "tags": ["苹果", "iPhone17", "中国市场"],
+      "url": "https://rss.zol.com.cn",
+      "type": "news"
+    },
+    {
+      "title": "Omdia：2025年Q4全球智能手机市场增长4%",
+      "source": "Omdia",
+      "date": "2026-01-14",
+      "summary": "苹果25%市场份额领跑，三星18%，小米11%。",
+      "tags": ["Omdia", "市场报告", "苹果", "三星"],
+      "url": "https://www.businesswire.com/news/home/20260114314567/zh-CN",
+      "type": "report"
+    }
+  ]
+}
