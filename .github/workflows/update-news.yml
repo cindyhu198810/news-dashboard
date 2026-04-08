@@ -1,7 +1,7 @@
 name: 自动更新手机资讯
 on:
   schedule:
-    - cron: '0 17 * * *'  # 每天北京时间17:00
+    - cron: '0 09 * * *'  # 每天北京时间09:00
   workflow_dispatch:
 
 jobs:
