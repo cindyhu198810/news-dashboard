@@ -28,6 +28,32 @@
     .wrap { grid-template-columns: 1fr; }
     .sidebar, .main-content { grid-column: 1; }
   }
+      .wrap {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    padding: 20px;
+    max-width: 1400px;
+    margin: 0 auto;
+  }
+  .main-content {
+    grid-column: 1;
+  }
+  .sidebar {
+    grid-column: 2;
+    position: sticky;
+    top: 20px;
+    height: fit-content;
+  }
+  @media (max-width: 900px) {
+    .wrap {
+      grid-template-columns: 1fr;
+      gap: 16px;
+    }
+    .sidebar {
+      order: 2;
+    }
+  }
   </style>
   
 </head>
@@ -38,19 +64,18 @@
   </div>
 
   <div class="wrap">
-  <div class="card" style="grid-column: 1 / -1;">
+  <!-- 主资讯区（占大部分空间） -->
+  <div class="card main-content">
     <div class="title">最新资讯</div>
-  </div>
-  
-  <div class="card sidebar" style="grid-column: 1;">
-    <div class="title">热门标签</div>
-    <div id="tags-container" class="loading">加载中...</div>
-  </div>
-
-  <div class="card main-content" style="grid-column: 2 / -1; min-height: 600px;">
     <div id="news-container">
       <div class="loading">正在加载最新资讯...</div>
     </div>
+  </div>
+  
+  <!-- 右侧标签区（窄列） -->
+  <div class="card sidebar">
+    <div class="title">热门标签</div>
+    <div id="tags-container" class="loading">加载中...</div>
   </div>
 </div>
 
