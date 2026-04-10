@@ -1,42 +1,40 @@
 name: 手机资讯更新
+
 on:
   schedule:
-    - cron: '30 16 * * *'  # 每天北京时间16:30
+    - cron: '30 8 * * *'   # 北京时间16:30
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
     - uses: actions/checkout@v4
-    
-    - name: 更新数据时间
+
+    - name: 生成最新资讯
       run: |
-        sed -i "s|\"updated\": \".*\"|\"updated\": \"$(date +%Y-%m-%d\ %H:%M)\"|" data.json
-    
-    - name: 添加最新资讯
-      run: |
-        # ✅ 用echo直接生成完整新数据（最稳定）
         cat > data.json << EOF
 {
-  "updated": "$(date +%Y-%m-%d %H:%M)",
+  "updated": "$(date '+%Y-%m-%d %H:%M')",
   "news": [
     {
-      "title": "36氪最新：三星S27 Ultra发布 ✅",
-          "source": "实时更新",
-          "date": "'$(date +%Y-%m-%d)'",
-          "summary": "系统自动更新，更多资讯即将到来",
-          "url": "https://cindyhu198810.github.io/news-dashboard/",
-          "tags": ["最新"],
-          "type": "news"
-        }'
-        # 插入到data.json开头
-        jq '.news |= ([$NEW_NEWS] + .)' data.json > tmp.json && mv tmp.json data.json
-    
+      "title": "三星S27 Ultra发布",
+      "source": "系统自动更新",
+      "date": "$(date '+%Y-%m-%d')",
+      "summary": "自动更新手机行业资讯",
+      "url": "https://cindyhu198810.github.io/news-dashboard/",
+      "tags": ["最新"],
+      "type": "news"
+    }
+  ]
+}
+EOF
+
     - name: 提交更新
       run: |
         git config user.name "Auto Update"
         git config user.email "bot@news.com"
         git add data.json
-        git commit -m "📱 更新15条资讯 $(date +%Y-%m-%d)" || echo "无变化"
+        git commit -m "📱 更新手机资讯 $(date '+%Y-%m-%d')" || echo "无变化"
         git push
