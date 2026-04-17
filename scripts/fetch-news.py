@@ -1,6 +1,7 @@
 import feedparser
 import json
 import re
+import requests
 from datetime import datetime
 
 feeds = {
@@ -11,22 +12,72 @@ feeds = {
 
 news = []
 
+# -------------------------
+# 清洗HTML
+# -------------------------
 def clean_html(text):
     return re.sub('<.*?>', '', text)
 
+# -------------------------
+# 翻译（免费API）
+# -------------------------
+def translate(text):
+    try:
+        url = "https://translate.googleapis.com/translate_a/single"
+        params = {
+            "client": "gtx",
+            "sl": "en",
+            "tl": "zh-CN",
+            "dt": "t",
+            "q": text
+        }
+        res = requests.get(url, params=params, timeout=5)
+        return res.json()[0][0][0]
+    except:
+        return text  # 失败就返回原文
+
+# -------------------------
+# 分类
+# -------------------------
+def classify(title):
+    t = title.lower()
+    if "iphone" in t or "apple" in t:
+        return "苹果"
+    elif "samsung" in t or "galaxy" in t:
+        return "三星"
+    elif "xiaomi" in t or "redmi" in t:
+        return "小米"
+    else:
+        return "安卓"
+
+# -------------------------
+# SEO标题
+# -------------------------
+def seo_title(title_cn):
+    return title_cn[:28] + "..." if len(title_cn) > 28 else title_cn
+
+# -------------------------
+# 主逻辑
+# -------------------------
 for source, url in feeds.items():
     feed = feedparser.parse(url)
 
     for entry in feed.entries[:10]:
 
-        # ✅ 安全处理标题
-        title = entry.get("title", "无标题")
-
-        # ✅ 安全处理摘要
+        title_en = entry.get("title", "")
         summary_raw = entry.get("summary", "")
-        summary = clean_html(summary_raw)[:120] if summary_raw else "暂无摘要"
 
-        # ✅ 安全处理日期（不会报错）
+        # 清洗摘要
+        summary_clean = clean_html(summary_raw)
+
+        # 翻译
+        title_cn = translate(title_en)
+        summary_cn = translate(summary_clean[:100])
+
+        # 分类
+        category = classify(title_en)
+
+        # 日期
         date = ""
         if hasattr(entry, "published_parsed") and entry.published_parsed:
             try:
@@ -35,12 +86,12 @@ for source, url in feeds.items():
                 date = ""
 
         news.append({
-            "title": title,
+            "title": seo_title(title_cn),
             "source": source,
             "date": date,
-            "summary": summary,
+            "summary": summary_cn if summary_cn else "暂无摘要",
             "url": entry.get("link", ""),
-            "tags": ["手机","科技"],
+            "tags": [category],
             "type": "news"
         })
 
