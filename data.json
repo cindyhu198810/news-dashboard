@@ -1,8 +1,19 @@
 {
-  "updated": "2026-04-17 09:25",
+  "updated": "2026-04-17 09:42",
   "news": [
     {
-      "title": "Chrome 中的 Google AI 模式现在可以在同...",
+      "title": "荣耀 600 和 600 Pro 提前上市",
+      "source": "GSMArena",
+      "date": "2026-04-17",
+      "summary": "我们已经看到了有关 Honor 600 和 600 Pro 的大量谣言和泄密信息，但现在我们有了官方列表，在下周发布之前确认了它们的关键规格。",
+      "url": "https://www.gsmarena.com/honor_600_and_600_pro_listed_ahead_of_launch-news-72416.php",
+      "tags": [
+        "安卓"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Chrome 中的 Google AI 模式现在可以在同一选项卡中并排打开链接",
       "source": "GSMArena",
       "date": "2026-04-17",
       "summary": "如今，谷歌每隔几个小时就会发布多个人工智能更新。",
@@ -13,10 +24,10 @@
       "type": "news"
     },
     {
-      "title": "Tecno Pop X 5G 的主要功能、设计和发布日期...",
+      "title": "Tecno Pop X 5G 的主要功能、设计和发布日期揭晓",
       "source": "GSMArena",
       "date": "2026-04-17",
-      "summary": "Tecno 宣布将推出 P 来扩大其 Pop 系列智能手机产品组合",
+      "summary": "Tecno 宣布将于 4 月 20 日推出 Pop X 5G，扩大其 Pop 系列智能手机产品组合，该产品将通过印度 Amazon.in 销售。\n\n\n\n",
       "url": "https://www.gsmarena.com/tecno_pop_x_5g_key_specs_launch_date-news-72414.php",
       "tags": [
         "安卓"
@@ -24,10 +35,10 @@
       "type": "news"
     },
     {
-      "title": "OnePlus Nord CE6 或 CE6 Lite ...",
+      "title": "OnePlus Nord CE6 或 CE6 Lite 运行 Geekbench，展示其芯片组",
       "source": "GSMArena",
       "date": "2026-04-17",
-      "summary": "OnePlus本月初推出了Nord 6，该公司也有望完成家族化",
+      "summary": "OnePlus 于本月初推出了 Nord 6，预计该公司还将推出 Nord CE6 和 Nord CE6 Lite 来完善该系列。",
       "url": "https://www.gsmarena.com/oneplus_nord_ce6_or_ce6_lite_runs_geekbench_reveals_its_chipset_-news-72412.php",
       "tags": [
         "安卓"
@@ -38,7 +49,7 @@
       "title": "Redmi Buds 8 配备 50dB ANC",
       "source": "GSMArena",
       "date": "2026-04-17",
-      "summary": "Redmi Buds 8 Pro和Redmi Buds 8 Lite已经正式发布，但还有第三位成员",
+      "summary": "Redmi Buds 8 Pro 和 Redmi Buds 8 Lite 已经正式发布，但该家族的第三位成员也即将上市：Redmi Buds 8。它们将于 4 月 21 日与 Redmi K90 Max 和 Redmi K Pad 2 一起全面亮相。\n\n",
       "url": "https://www.gsmarena.com/redmi_buds_8_are_coming_with_50db_anc-news-72411.php",
       "tags": [
         "小米"
@@ -46,10 +57,10 @@
       "type": "news"
     },
     {
-      "title": "Oppo Find X10 有望配备 8,000mAh ...",
+      "title": "Oppo Find X10 有望配备 8,000mAh 电池",
       "source": "GSMArena",
       "date": "2026-04-17",
-      "summary": "Oppo 的 Find X10 系列预计将于今年晚些时候首次亮相，有关该阵容的几个细节",
+      "summary": "Oppo 的 Find X10 系列预计将于今年晚些时候首次亮相，有关该系列的一些细节已经通过泄密浮出水面。",
       "url": "https://www.gsmarena.com/oppo_find_x10_tipped_to_pack_an_8000mah_battery-news-72409.php",
       "tags": [
         "安卓"
@@ -57,10 +68,10 @@
       "type": "news"
     },
     {
-      "title": "Spotify 重新设计了其平板电脑应用程序，以下是新内...",
+      "title": "Spotify 重新设计了其平板电脑应用程序，以下是新内容",
       "source": "GSMArena",
       "date": "2026-04-17",
-      "summary": "今天 Spotify 宣布改进了其平板电脑界面 - 适用于 Android 平板电脑和",
+      "summary": "今天，Spotify 宣布改进其平板电脑界面 - 适用于 Android 平板电脑和 iPad。",
       "url": "https://www.gsmarena.com/spotify_has_redesigned_its_tablet_app_heres_whats_new-news-72407.php",
       "tags": [
         "安卓"
@@ -68,10 +79,10 @@
       "type": "news"
     },
     {
-      "title": "Gemini 现在可以根据您的 Google 照片库创建...",
+      "title": "Gemini 现在可以根据您的 Google 照片库创建个性化图像",
       "source": "GSMArena",
       "date": "2026-04-17",
-      "summary": "Google 的 Gemini 现在可以使用 Nano Banana 2 和 Google Photos 创建更加个性化的图像",
+      "summary": "Google 的 Gemini 现在可以使用 Nano Banana 2 和您的 Google 照片库创建更加个性化的图像，当然您需要将其连接到 Gemini 才能实现此功能。",
       "url": "https://www.gsmarena.com/gemini_can_now_create_personalized_images_based_on_your_google_photos_library-news-72410.php",
       "tags": [
         "安卓"
@@ -82,7 +93,7 @@
       "title": "Oppo Find X9 至尊版开箱视频",
       "source": "GSMArena",
       "date": "2026-04-16",
-      "summary": "Oppo Find X9 Ultra 仍在等待 4 月 21 日的发布，但已经有单位在售，w",
+      "summary": "Oppo Find X9 Ultra 仍在等待 4 月 21 日的发布，但已经有一些设备在售，这意味着我们会收到像这样的视频。",
       "url": "https://www.gsmarena.com/oppo_find_x9_ultra_master_edition_unboxed_on_video-news-72405.php",
       "tags": [
         "安卓"
@@ -90,10 +101,10 @@
       "type": "news"
     },
     {
-      "title": "以下是 iOS 27 中推出的四项新 Apple Int...",
+      "title": "以下是 iOS 27 中推出的四项新 Apple Intelligence 功能",
       "source": "GSMArena",
       "date": "2026-04-16",
-      "summary": "Apple Intelligence 在 iOS 27 中得到增强，该系统将于今年 6 月在该公司的发布会上发布",
+      "summary": "Apple Intelligence 在 iOS 27 中得到增强，该系统将于今年 6 月在该公司年度全球开发者大会上亮相，并将于 9 月 iPhone 18 Pro 和 iPhone 18 Pro Max 发布时发布。\n\n",
       "url": "https://www.gsmarena.com/here_are_four_new_apple_intelligence_features_launching_in_ios_27-news-72408.php",
       "tags": [
         "苹果"
@@ -101,13 +112,13 @@
       "type": "news"
     },
     {
-      "title": "iPhone 18 Pro的可变光圈相机进入生产阶段",
-      "source": "GSMArena",
-      "date": "2026-04-16",
-      "summary": "韩国 ETNews 的一份新报告表明，与",
-      "url": "https://www.gsmarena.com/iphone_18_pros_variable_aperture_cameras_enter_production_phase-news-72406.php",
+      "title": "我尝试了新的 Gemini Mac 应用程序，但谷歌在两个基本功能上失败了",
+      "source": "Android Authority",
+      "date": "2026-04-17",
+      "summary": "Gemini 在 Mac 上运行良好，只是还不足以成为必不可少的功能。",
+      "url": "https://www.androidauthority.com/gemini-mac-app-hands-on-3658234/",
       "tags": [
-        "苹果"
+        "安卓"
       ],
       "type": "news"
     },
@@ -115,7 +126,7 @@
       "title": "三星解决了人工智能的“负担”，以及为什么不再生产小型手机",
       "source": "Android Authority",
       "date": "2026-04-17",
-      "summary": "三星营销副总裁讨论“隐形”人工智能的未来以及消费者需求缺乏的原因",
+      "summary": "三星营销副总裁讨论了“隐形”人工智能的未来，以及为什么消费者需求不足会扼杀这款紧凑型旗舰产品。",
       "url": "https://www.androidauthority.com/samsung-galaxy-ai-future-vision-ama-3658489/",
       "tags": [
         "三星"
@@ -123,7 +134,7 @@
       "type": "news"
     },
     {
-      "title": "我拒绝支付 YouTube Premium 费用的 5 ...",
+      "title": "我拒绝支付 YouTube Premium 费用的 5 个原因",
       "source": "Android Authority",
       "date": "2026-04-17",
       "summary": "每次我想订阅时，我都会想起所有不订阅的原因。",
@@ -134,7 +145,7 @@
       "type": "news"
     },
     {
-      "title": "YouTube 正在取消视频分享功能以及随之而来的 1,...",
+      "title": "YouTube 正在取消视频分享功能以及随之而来的 1,000 美元的副业",
       "source": "Android Authority",
       "date": "2026-04-17",
       "summary": "YouTube Clips 正在消失，随之而来的是利润丰厚的副业。",
@@ -145,7 +156,7 @@
       "type": "news"
     },
     {
-      "title": "谷歌测试了 Play 商店 UI 更改，这应该可以帮助挑...",
+      "title": "谷歌测试了 Play 商店 UI 更改，这应该可以帮助挑剔的游戏玩家节省时间",
       "source": "Android Authority",
       "date": "2026-04-17",
       "summary": "对于那些经常寻找特定类型游戏的人来说，这是一个虽小但意义重大的变化。",
@@ -156,7 +167,7 @@
       "type": "news"
     },
     {
-      "title": "Pixel Glow“视觉反馈”工具可能只是暗示 Pix...",
+      "title": "Pixel Glow“视觉反馈”工具可能只是暗示 Pixel 11 硬件发生重大变化",
       "source": "Android Authority",
       "date": "2026-04-16",
       "summary": "谷歌真的要推出配备 Pixel 11 后面板的全 RGB 游戏手机吗？",
@@ -167,10 +178,10 @@
       "type": "news"
     },
     {
-      "title": "Netflix 正在准备对移动设备进行改造，推出 Tik...",
+      "title": "Netflix 正在准备对移动设备进行改造，推出 TikTok 风格的垂直视频流等",
       "source": "Android Authority",
       "date": "2026-04-16",
-      "summary": "该更新将于本月底推出，不太可能对您的滚动习惯有帮助",
+      "summary": "该更新将于本月底推出，它不太可能帮助您养成滚动习惯。",
       "url": "https://www.androidauthority.com/netflix-mobile-app-vertical-video-3658431/",
       "tags": [
         "安卓"
@@ -189,7 +200,7 @@
       "type": "news"
     },
     {
-      "title": "Amazfit 通过 Cheetah 2 Pro 加强对...",
+      "title": "Amazfit 通过 Cheetah 2 Pro 加强对训练的关注",
       "source": "Android Authority",
       "date": "2026-04-16",
       "summary": "今天的发布让该品牌回归严肃的跑步手表。",
@@ -200,22 +211,11 @@
       "type": "news"
     },
     {
-      "title": "Android 17 Beta 4 终于揭晓谷歌新复活节...",
+      "title": "Android 17 Beta 4 终于揭晓谷歌新复活节彩蛋",
       "source": "Android Authority",
       "date": "2026-04-16",
       "summary": "低调地展示每个新 Android 版本中最好的部分。",
       "url": "https://www.androidauthority.com/android-17-easter-egg-3658364/",
-      "tags": [
-        "安卓"
-      ],
-      "type": "news"
-    },
-    {
-      "title": "Android XR 明年可能会推出雷朋 Meta 的奢...",
-      "source": "Android Authority",
-      "date": "2026-04-16",
-      "summary": "Gucci 所有者 Kering 表示，其谷歌支持的 Android XR 智能眼镜可能会在 2027 年某个时候上市。",
-      "url": "https://www.androidauthority.com/gucci-android-xr-smart-glasses-timeline-3658332/",
       "tags": [
         "安卓"
       ],
