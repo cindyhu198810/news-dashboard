@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 09:42",
+  "updated": "2026-04-17 09:50",
   "news": [
     {
       "title": "荣耀 600 和 600 Pro 提前上市",
@@ -10,6 +10,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/honor-600-600-pro-listed-ahead-of-launch/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
@@ -21,6 +22,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/google-chrome-ai-mode-new-features/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
@@ -32,6 +34,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/tecno-pop-x-5g-key-specs-launch-date/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
@@ -43,6 +46,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-nord-ce6-ce6-lite-geekbench/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
@@ -54,6 +58,7 @@
       "tags": [
         "小米"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/redmi-buds-8-teaser/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
@@ -65,6 +70,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-find-x10-specs-leak/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
@@ -76,6 +82,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/spotify-new-tablet-app/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
@@ -87,6 +94,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/gemini-personalized-image-creation/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
@@ -98,6 +106,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-find-x9-ultra-phot-kit-unboxing/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
@@ -109,6 +118,19 @@
       "tags": [
         "苹果"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/apple-intelligence-new-features/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Thor、Odin 3 做出更多规格牺牲，Android 游戏手持设备再次受到打击",
+      "source": "Android Authority",
+      "date": "2026-04-17",
+      "summary": "首先是 RAM，现在是存储芯片。",
+      "url": "https://www.androidauthority.com/ayn-thor-ufs-storage-downgrade-3658502/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "",
       "type": "news"
     },
     {
@@ -120,6 +142,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "",
       "type": "news"
     },
     {
@@ -131,6 +154,7 @@
       "tags": [
         "三星"
       ],
+      "image": "",
       "type": "news"
     },
     {
@@ -142,6 +166,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "",
       "type": "news"
     },
     {
@@ -153,6 +178,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "",
       "type": "news"
     },
     {
@@ -164,6 +190,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "",
       "type": "news"
     },
     {
@@ -175,6 +202,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "",
       "type": "news"
     },
     {
@@ -186,6 +214,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "",
       "type": "news"
     },
     {
@@ -197,6 +226,7 @@
       "tags": [
         "安卓"
       ],
+      "image": "",
       "type": "news"
     },
     {
@@ -208,17 +238,7 @@
       "tags": [
         "安卓"
       ],
-      "type": "news"
-    },
-    {
-      "title": "Android 17 Beta 4 终于揭晓谷歌新复活节彩蛋",
-      "source": "Android Authority",
-      "date": "2026-04-16",
-      "summary": "低调地展示每个新 Android 版本中最好的部分。",
-      "url": "https://www.androidauthority.com/android-17-easter-egg-3658364/",
-      "tags": [
-        "安卓"
-      ],
+      "image": "",
       "type": "news"
     }
   ]
