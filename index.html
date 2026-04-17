@@ -168,10 +168,7 @@
 </body>
   
   <!-- 右侧标签区（窄列） -->
-  <div class="card sidebar">
-    <div class="title">热门标签</div>
-    <div id="tags-container" class="loading">加载中...</div>
-  </div>
+  
 </div>
 
   <script>
@@ -179,7 +176,7 @@ document.querySelector('.update-time').textContent = '加载中...';
 
 async function loadData() {
   try {
-    const response = await fetch('data.json');
+    const response = await fetch('data.json?t=' + Date.now());
     const data = await response.json();
 
     document.querySelector('.update-time').textContent = 
