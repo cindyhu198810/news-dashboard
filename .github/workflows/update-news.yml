@@ -18,7 +18,8 @@ jobs:
           python-version: '3.x'
 
       - name: 安装依赖
-        run: pip install feedparser
+        run: |
+          pip install feedparser requests
 
       - name: 抓取新闻
         run: python scripts/fetch-news.py
