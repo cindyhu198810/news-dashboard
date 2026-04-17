@@ -89,8 +89,8 @@ for source, url in feeds.items():
         img_match = re.search(r'<img.*?src="(.*?)"', summary_raw)
         image = img_match.group(1) if img_match else ""
 
-        # 👇 在这里加（关键位置）
-        if not image:
+        # ✅ 强制兜底（关键）
+        if not image or image.strip() == "":
             image = "https://via.placeholder.com/120x80?text=Phone"
 
         news.append({
