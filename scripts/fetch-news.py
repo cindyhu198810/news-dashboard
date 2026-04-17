@@ -1,7 +1,23 @@
 import feedparser
 import json
 import re
+import requests
 from datetime import datetime
+
+def translate(text):
+    try:
+        url = "https://translate.googleapis.com/translate_a/single"
+        params = {
+            "client": "gtx",
+            "sl": "en",
+            "tl": "zh-CN",
+            "dt": "t",
+            "q": text
+        }
+        res = requests.get(url, params=params)
+        return res.json()[0][0][0]
+    except:
+        return text
 
 feeds = {
     "GSMArena": "https://www.gsmarena.com/rss-news-reviews.php3",
@@ -11,31 +27,28 @@ feeds = {
 
 news = []
 
-def clean_html(text):
-    return re.sub('<.*?>', '', text)
-
 for source, url in feeds.items():
     feed = feedparser.parse(url)
 
     for entry in feed.entries[:10]:
 
-        # 清洗摘要
-        summary = clean_html(entry.get("summary", ""))[:120]
+        raw_summary = entry.get("summary", "")
+        clean_summary = re.sub('<.*?>', '', raw_summary)
 
-        # 处理日期（转 YYYY-MM-DD）
-        date_raw = entry.get("published", "")
+        date_str = entry.get("published", "")
         try:
-            date = datetime(*entry.published_parsed[:6]).strftime("%Y-%m-%d")
+            dt = datetime.strptime(date_str[:25], "%a, %d %b %Y %H:%M:%S")
+            date = dt.strftime("%Y-%m-%d")
         except:
             date = ""
 
         news.append({
-            "title": entry.get("title", ""),
-            "source": source,   # ✅ 正确来源
-            "date": date,       # ✅ 中文格式日期
-            "summary": summary if summary else "暂无摘要",
+            "title": translate(entry.get("title", "")),
+            "source": source,
+            "date": date,
+            "summary": clean_summary[:120],
             "url": entry.get("link", ""),
-            "tags": ["手机","科技"],
+            "tags": ["手机"],
             "type": "news"
         })
 
