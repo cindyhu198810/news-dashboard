@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 09:50",
+  "updated": "2026-04-17 10:34",
   "news": [
     {
       "title": "荣耀 600 和 600 Pro 提前上市",
@@ -122,6 +122,42 @@
       "type": "news"
     },
     {
+      "title": "DJI Osmo Pocket 4 已经上市，但它的“Pro”兄弟仍在蓄势待发",
+      "source": "Android Authority",
+      "date": "2026-04-17",
+      "summary": "标准型号首次亮相时配备了新的 1 英寸传感器，但双镜头“4P”版本也正式推出。",
+      "url": "https://www.androidauthority.com/dji-osmo-pocket-4-launch-3658515/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我讨厌这个 Android 短信功能七年了——但 Android 17 终于修复了它",
+      "source": "Android Authority",
+      "date": "2026-04-17",
+      "summary": "每次我不小心点击建议的回复时，我都可以不再惊慌。",
+      "url": "https://www.androidauthority.com/android-17-smart-replies-biggest-gripe-fixed-3657784/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "经验与规格：我们的读者已经说过，基准测试并不代表一切",
+      "source": "Android Authority",
+      "date": "2026-04-17",
+      "summary": "我们询问您更喜欢原始动力还是流畅体验，超过 70% 的人给出了相同的答案。",
+      "url": "https://www.androidauthority.com/experience-vs-specs-survey-results-3657882/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
       "title": "Thor、Odin 3 做出更多规格牺牲，Android 游戏手持设备再次受到打击",
       "source": "Android Authority",
       "date": "2026-04-17",
@@ -130,7 +166,7 @@
       "tags": [
         "安卓"
       ],
-      "image": "",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -142,7 +178,7 @@
       "tags": [
         "安卓"
       ],
-      "image": "",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -154,7 +190,7 @@
       "tags": [
         "三星"
       ],
-      "image": "",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -166,7 +202,7 @@
       "tags": [
         "安卓"
       ],
-      "image": "",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -178,7 +214,7 @@
       "tags": [
         "安卓"
       ],
-      "image": "",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -190,7 +226,7 @@
       "tags": [
         "安卓"
       ],
-      "image": "",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -202,43 +238,7 @@
       "tags": [
         "安卓"
       ],
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Netflix 正在准备对移动设备进行改造，推出 TikTok 风格的垂直视频流等",
-      "source": "Android Authority",
-      "date": "2026-04-16",
-      "summary": "该更新将于本月底推出，它不太可能帮助您养成滚动习惯。",
-      "url": "https://www.androidauthority.com/netflix-mobile-app-vertical-video-3658431/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "沃尔玛的新款 Onn 4K Pro 流媒体盒出现在列表中",
-      "source": "Android Authority",
-      "date": "2026-04-16",
-      "summary": "沃尔玛的清单在发布前透露了有关 Onn 4K Pro 的更多细节。",
-      "url": "https://www.androidauthority.com/walmart-onn-4k-pro-listing-3658347/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "",
-      "type": "news"
-    },
-    {
-      "title": "Amazfit 通过 Cheetah 2 Pro 加强对训练的关注",
-      "source": "Android Authority",
-      "date": "2026-04-16",
-      "summary": "今天的发布让该品牌回归严肃的跑步手表。",
-      "url": "https://www.androidauthority.com/amazfit-cheetah-2-pro-launch-3658398/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     }
   ]
