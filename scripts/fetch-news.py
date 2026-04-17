@@ -54,7 +54,7 @@ def classify(title):
 # SEO标题
 # -------------------------
 def seo_title(title_cn):
-    return title_cn[:28] + "..." if len(title_cn) > 28 else title_cn
+    return title_cn
 
 # -------------------------
 # 主逻辑
@@ -72,7 +72,8 @@ for source, url in feeds.items():
 
         # 翻译
         title_cn = translate(title_en)
-        summary_cn = translate(summary_clean[:100])
+        summary_cn = translate(summary_clean)
+        summary_cn = summary_cn[:180] if len(summary_cn) > 180 else summary_cn
 
         # 分类
         category = classify(title_en)
