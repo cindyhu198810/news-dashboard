@@ -2,7 +2,7 @@ name: 自动更新手机资讯
 
 on:
   schedule:
-    - cron: '30 16 * * *'   # 北京时间16:30
+    - cron: '30 8 * * *'   # 北京时间16:30（UTC+8）
   workflow_dispatch:
 
 jobs:
@@ -13,29 +13,105 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: 生成最新资讯
+      - name: 安装工具
         run: |
-          cat <<EOF > data.json
-          {
-            "updated": "$(date '+%Y-%m-%d %H:%M')",
-            "news": [
-              {
-                "title": "三星S27 Ultra发布",
-                "source": "系统自动更新",
-                "date": "$(date '+%Y-%m-%d')",
-                "summary": "自动更新手机行业资讯",
-                "url": "https://cindyhu198810.github.io/news-dashboard/",
-                "tags": ["最新"],
-                "type": "news"
-              }
-            ]
-          }
-          EOF
+          sudo apt-get update
+          sudo apt-get install -y jq curl xmlstarlet
 
+      - name: 初始化JSON
+        run: |
+          echo '{"updated":"","news":[]}' > data.json
+
+      # =========================
+      # GSMArena（10条）
+      # =========================
+      - name: 抓取 GSMArena
+        run: |
+          curl -s https://www.gsmarena.com/rss-news-reviews.php3 > feed.xml
+
+          xmlstarlet sel -t -m "//item[position()<11]" \
+          -v "concat(title,'|',link)" -n feed.xml | while IFS="|" read title link
+          do
+
+          jq --arg t "$title" --arg u "$link" \
+          '.news += [{
+            "title":$t,
+            "source":"GSMArena",
+            "date":"'$(date +%Y-%m-%d)'",
+            "summary":"手机行业最新资讯",
+            "url":$u,
+            "tags":["手机"],
+            "type":"news"
+          }]' data.json > tmp.json
+
+          mv tmp.json data.json
+          done
+
+      # =========================
+      # Android Authority（10条）
+      # =========================
+      - name: 抓取 Android Authority
+        run: |
+          curl -s https://www.androidauthority.com/feed/ > feed.xml
+
+          xmlstarlet sel -t -m "//item[position()<11]" \
+          -v "concat(title,'|',link)" -n feed.xml | while IFS="|" read title link
+          do
+
+          jq --arg t "$title" --arg u "$link" \
+          '.news += [{
+            "title":$t,
+            "source":"Android Authority",
+            "date":"'$(date +%Y-%m-%d)'",
+            "summary":"安卓手机资讯",
+            "url":$u,
+            "tags":["安卓"],
+            "type":"news"
+          }]' data.json > tmp.json
+
+          mv tmp.json data.json
+          done
+
+      # =========================
+      # PhoneArena（10条）
+      # =========================
+      - name: 抓取 PhoneArena
+        run: |
+          curl -s https://www.phonearena.com/rss/news > feed.xml
+
+          xmlstarlet sel -t -m "//item[position()<11]" \
+          -v "concat(title,'|',link)" -n feed.xml | while IFS="|" read title link
+          do
+
+          jq --arg t "$title" --arg u "$link" \
+          '.news += [{
+            "title":$t,
+            "source":"PhoneArena",
+            "date":"'$(date +%Y-%m-%d)'",
+            "summary":"手机新闻资讯",
+            "url":$u,
+            "tags":["手机"],
+            "type":"news"
+          }]' data.json > tmp.json
+
+          mv tmp.json data.json
+          done
+
+      # =========================
+      # 更新时间
+      # =========================
+      - name: 更新时间
+        run: |
+          jq '.updated="'$(date "+%Y-%m-%d %H:%M")'"' data.json > tmp.json
+          mv tmp.json data.json
+
+      # =========================
+      # 提交
+      # =========================
       - name: 提交更新
         run: |
-          git config user.name "Auto Update"
+          git config user.name "Auto News Bot"
           git config user.email "bot@news.com"
           git add data.json
-          git commit -m "📱 更新手机资讯 $(date '+%Y-%m-%d')" || echo "无变化"
+          git commit -m "📱 自动更新30条手机资讯 $(date '+%Y-%m-%d %H:%M')" || echo "No changes"
           git push
