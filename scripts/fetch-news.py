@@ -86,13 +86,17 @@ for source, url in feeds.items():
             except:
                 date = ""
 
+        img_match = re.search(r'<img.*?src="(.*?)"', summary_raw)
+        image = img_match.group(1) if img_match else ""
+
         news.append({
             "title": seo_title(title_cn),
             "source": source,
             "date": date,
-            "summary": summary_cn if summary_cn else "暂无摘要",
+            "summary": summary_cn,
             "url": entry.get("link", ""),
             "tags": [category],
+            "image": image,
             "type": "news"
         })
 
