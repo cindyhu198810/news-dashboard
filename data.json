@@ -1,13 +1,224 @@
 {
-  "updated": "2026-04-16 20:03",
+  "updated": "2026-04-17 09:01",
   "news": [
     {
-      "title": "三星S27 Ultra发布",
-      "source": "系统自动更新",
-      "date": "2026-04-16",
-      "summary": "自动更新手机行业资讯",
-      "url": "https://cindyhu198810.github.io/news-dashboard/",
-      "tags": ["最新"],
+      "title": "Google's AI Mode in Chrome now opens links side by side in the same tab",
+      "source": "GSMArena",
+      "date": "Fri, 17 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/googles_ai_mode_in_chrome_now_opens_links_side_by_side_in_the_same_tab-news-72413.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Tecno Pop X 5G's key features, design, and launch date revealed",
+      "source": "GSMArena",
+      "date": "Fri, 17 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/tecno_pop_x_5g_key_specs_launch_date-news-72414.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "OnePlus Nord CE6 or CE6 Lite runs Geekbench, reveals its chipset",
+      "source": "GSMArena",
+      "date": "Fri, 17 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/oneplus_nord_ce6_or_ce6_lite_runs_geekbench_reveals_its_chipset_-news-72412.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Redmi Buds 8 are coming with 50dB ANC",
+      "source": "GSMArena",
+      "date": "Fri, 17 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/redmi_buds_8_are_coming_with_50db_anc-news-72411.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X10 tipped to pack an 8,000mAh battery",
+      "source": "GSMArena",
+      "date": "Fri, 17 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/oppo_find_x10_tipped_to_pack_an_8000mah_battery-news-72409.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Spotify has redesigned its tablet app, here's what's new",
+      "source": "GSMArena",
+      "date": "Fri, 17 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/spotify_has_redesigned_its_tablet_app_heres_whats_new-news-72407.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Gemini can now create personalized images based on your Google Photos library",
+      "source": "GSMArena",
+      "date": "Fri, 17 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/gemini_can_now_create_personalized_images_based_on_your_google_photos_library-news-72410.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X9 Ultra Master Edition unboxed on video",
+      "source": "GSMArena",
+      "date": "Fri, 17 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/oppo_find_x9_ultra_master_edition_unboxed_on_video-news-72405.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Here are four new Apple Intelligence features launching in iOS 27",
+      "source": "GSMArena",
+      "date": "Thu, 16 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/here_are_four_new_apple_intelligence_features_launching_in_ios_27-news-72408.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "iPhone 18 Pro’s variable aperture cameras enter production phase",
+      "source": "GSMArena",
+      "date": "Thu, 16 Ap",
+      "summary": "<img align=\"left\" alt=\"\" border=\"0\" height=\"111\" hspace=\"3\" src=\"https://fdn.gsmarena.com/imgroot/ne",
+      "url": "https://www.gsmarena.com/iphone_18_pros_variable_aperture_cameras_enter_production_phase-news-72406.php",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "YouTube is killing a video sharing feature and $1,000 side hustles along with it",
+      "source": "Android Authority",
+      "date": "Fri, 17 Ap",
+      "summary": "YouTube Clips are going away, and with it a lucrative side hustle.",
+      "url": "https://www.androidauthority.com/youtube-video-sharing-clips-killed-3658479/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Google tests Play Store UI change that should help picky gamers save time",
+      "source": "Android Authority",
+      "date": "Fri, 17 Ap",
+      "summary": "A small but significant change for those who regularly trawl for genre-specific games.",
+      "url": "https://www.androidauthority.com/google-play-store-games-tab-ui-change-3658482/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Pixel Glow ‘visual feedback’ tool might just hint at big Pixel 11 hardware changes",
+      "source": "Android Authority",
+      "date": "Thu, 16 Ap",
+      "summary": "Is Google really about to go full RGB gaming-phone with the Pixel 11's rear panel?",
+      "url": "https://www.androidauthority.com/pixel-glow-3658443/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Netflix is prepping a mobile revamp with a TikTok-style vertical video feed and all",
+      "source": "Android Authority",
+      "date": "Thu, 16 Ap",
+      "summary": "The update is set to roll out at the end of the month, and it's unlikely to help your scrolling habi",
+      "url": "https://www.androidauthority.com/netflix-mobile-app-vertical-video-3658431/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Walmart’s new Onn 4K Pro streaming box shows up in listings",
+      "source": "Android Authority",
+      "date": "Thu, 16 Ap",
+      "summary": "Walmart's listing reveals more details about Onn 4K Pro ahead of launch.",
+      "url": "https://www.androidauthority.com/walmart-onn-4k-pro-listing-3658347/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Amazfit sharpens its focus on training with the Cheetah 2 Pro",
+      "source": "Android Authority",
+      "date": "Thu, 16 Ap",
+      "summary": "Today's launch returns the brand to serious running watches.",
+      "url": "https://www.androidauthority.com/amazfit-cheetah-2-pro-launch-3658398/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Android 17 Beta 4 finally reveals Google’s new Easter egg",
+      "source": "Android Authority",
+      "date": "Thu, 16 Ap",
+      "summary": "Low-key the best part of every new Android release.",
+      "url": "https://www.androidauthority.com/android-17-easter-egg-3658364/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Android XR could get its own luxury rival to Ray-Ban Meta next year",
+      "source": "Android Authority",
+      "date": "Thu, 16 Ap",
+      "summary": "Gucci owner Kering says its Google-backed Android XR smart glasses could arrive sometime in 2027.",
+      "url": "https://www.androidauthority.com/gucci-android-xr-smart-glasses-timeline-3658332/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Samsung is preparing to unleash Now Brief across your home",
+      "source": "Android Authority",
+      "date": "Thu, 16 Ap",
+      "summary": "Now Brief is expanding beyond phones to TVs and refrigerators.",
+      "url": "https://www.androidauthority.com/samsung-now-brief-expands-tv-fridge-3658310/",
+      "tags": [
+        "手机"
+      ],
+      "type": "news"
+    },
+    {
+      "title": "Android 17 Beta 4 has arrived: Here’s what to expect",
+      "source": "Android Authority",
+      "date": "Thu, 16 Ap",
+      "summary": "We're finally closing in on that stable release!",
+      "url": "https://www.androidauthority.com/android-17-beta-4-3658290/",
+      "tags": [
+        "手机"
+      ],
       "type": "news"
     }
   ]
