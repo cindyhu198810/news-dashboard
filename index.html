@@ -243,15 +243,19 @@ function renderNews(data) {
   
   data.news.forEach((item, index) => {
     const div = document.createElement('div');
-    div.className = `item ${item.type === 'report' ? 'report' : ''}`;
-    div.style.animationDelay = `${index * 0.05}s`;
+    div.className = 'card-news';
+  
     div.innerHTML = `
-      <div class="source">${item.source}</div>
-      <div class="headline">${item.title}</div>
-      <div class="meta">${item.date}</div>
-      <div class="summary">${item.summary}</div>
-      ${item.tags.map(tag => `<div class="tag">${tag}</div>`).join('')}
+      ${item.image ? `<img src="${item.image}" class="card-img">` : ''}
+      
+      <div class="card-content">
+        <div class="category">${item.tags[0] || '资讯'}</div>
+        <div class="headline">${item.title}</div>
+        <div class="meta">${item.source} · ${item.date}</div>
+        <div class="summary">${item.summary}</div>
+      </div>
     `;
+  
     div.onclick = () => window.open(item.url, '_blank');
     container.appendChild(div);
   });
