@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 09:10",
+  "updated": "2026-04-17 09:20",
   "news": [
     {
       "title": "Google's AI Mode in Chrome now opens links side by side in the same tab",
@@ -122,6 +122,18 @@
       "type": "news"
     },
     {
+      "title": "Samsung addresses the ‘burden’ of AI, and why it won’t make small phones anymore",
+      "source": "Android Authority",
+      "date": "2026-04-17",
+      "summary": "Samsung’s VP of Marketing discusses the future of \"invisible\" AI and why lack of consumer demand killed the compact flag",
+      "url": "https://www.androidauthority.com/samsung-galaxy-ai-future-vision-ama-3658489/",
+      "tags": [
+        "手机",
+        "科技"
+      ],
+      "type": "news"
+    },
+    {
       "title": "5 reasons why I refuse to pay for YouTube Premium",
       "source": "Android Authority",
       "date": "2026-04-17",
@@ -223,18 +235,6 @@
       "date": "2026-04-16",
       "summary": "Gucci owner Kering says its Google-backed Android XR smart glasses could arrive sometime in 2027.",
       "url": "https://www.androidauthority.com/gucci-android-xr-smart-glasses-timeline-3658332/",
-      "tags": [
-        "手机",
-        "科技"
-      ],
-      "type": "news"
-    },
-    {
-      "title": "Samsung is preparing to unleash Now Brief across your home",
-      "source": "Android Authority",
-      "date": "2026-04-16",
-      "summary": "Now Brief is expanding beyond phones to TVs and refrigerators.",
-      "url": "https://www.androidauthority.com/samsung-now-brief-expands-tv-fridge-3658310/",
       "tags": [
         "手机",
         "科技"
