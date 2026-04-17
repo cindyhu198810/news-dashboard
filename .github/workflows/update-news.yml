@@ -12,98 +12,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: 安装工具
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y jq curl
+      - name: 设置Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-      - name: 初始化JSON
-        run: echo '{"updated":"","news":[]}' > data.json
+      - name: 安装依赖
+        run: pip install feedparser
 
-      # GSMArena
-      - name: 抓取 GSMArena
-        run: |
-          curl -s https://www.gsmarena.com/rss-news-reviews.php3 > feed.xml
+      - name: 抓取新闻
+        run: python scripts/fetch-news.py
 
-          grep "<title>" feed.xml | tail -n +2 | head -10 || true | while read line
-          do
-            TITLE=$(echo "$line" | sed 's/<[^>]*>//g')
-
-            jq --arg t "$TITLE" \
-            '.news += [{
-              "title":$t,
-              "source":"GSMArena",
-              "date":"'$(date +%Y-%m-%d)'",
-              "summary":"手机资讯",
-              "url":"https://www.gsmarena.com",
-              "tags":["手机"],
-              "type":"news"
-            }]' data.json > tmp.json
-
-            mv tmp.json data.json
-          done
-
-      # Android Authority
-      - name: 抓取 Android Authority
-        run: |
-          curl -s https://www.androidauthority.com/feed/ > feed.xml
-
-          grep "<title>" feed.xml | tail -n +2 | head -10 || true | while read line
-          do
-            TITLE=$(echo "$line" | sed 's/<[^>]*>//g')
-
-            jq --arg t "$TITLE" \
-            '.news += [{
-              "title":$t,
-              "source":"Android Authority",
-              "date":"'$(date +%Y-%m-%d)'",
-              "summary":"安卓资讯",
-              "url":"https://www.androidauthority.com",
-              "tags":["安卓"],
-              "type":"news"
-            }]' data.json > tmp.json
-
-            mv tmp.json data.json
-          done
-
-      # PhoneArena
-      - name: 抓取 PhoneArena
-        run: |
-          curl -s https://www.phonearena.com/rss/news > feed.xml
-
-          grep "<title>" feed.xml | tail -n +2 | head -10 || true | while read line
-          do
-            TITLE=$(echo "$line" | sed 's/<[^>]*>//g')
-
-            jq --arg t "$TITLE" \
-            '.news += [{
-              "title":$t,
-              "source":"PhoneArena",
-              "date":"'$(date +%Y-%m-%d)'",
-              "summary":"手机新闻",
-              "url":"https://www.phonearena.com",
-              "tags":["手机"],
-              "type":"news"
-            }]' data.json > tmp.json
-
-            mv tmp.json data.json
-          done
-
-      # 更新时间
-      - name: 更新时间
-        run: |
-          jq '.updated="'$(date "+%Y-%m-%d %H:%M")'" | .news |= .[:30]' data.json > tmp.json
-          mv tmp.json data.json
-
-      # 调试输出（强烈建议保留）
-      - name: 查看结果
+      - name: 查看结果（调试）
         run: cat data.json
 
-      # 提交
       - name: 提交更新
         run: |
           git config user.name "Auto News Bot"
           git config user.email "bot@news.com"
           git add data.json
-          git commit -m "📱 自动更新手机资讯 $(date '+%Y-%m-%d %H:%M')" || echo "No changes"
+          git commit -m "📱 自动更新30条手机资讯 $(date '+%Y-%m-%d %H:%M')" || echo "No changes"
           git push
