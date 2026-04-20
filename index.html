@@ -246,7 +246,10 @@ function renderNews(data) {
     div.className = 'card-news';
   
     div.innerHTML = `
-      <img src="${item.image || 'https://via.placeholder.com/120x80?text=News'}" class="card-img">
+      <img 
+        src="${item.image}" 
+        class="card-img"
+        onerror="this.onerror=null;this.src='https://via.placeholder.com/120x80?text=News';">
       
       <div class="card-content">
         <div class="category">${item.tags[0] || '资讯'}</div>
