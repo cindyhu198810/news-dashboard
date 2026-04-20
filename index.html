@@ -249,7 +249,9 @@ function renderNews(data) {
       <img 
         src="${item.image}" 
         class="card-img"
-        onerror="this.onerror=null;this.src='https://via.placeholder.com/120x80?text=News';">
+        loading="lazy"
+        referrerpolicy="no-referrer"
+        onerror="this.onerror=null;this.src='https://picsum.photos/120/80';">
       
       <div class="card-content">
         <div class="category">${item.tags[0] || '资讯'}</div>
