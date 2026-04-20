@@ -1,11 +1,83 @@
 {
-  "updated": "2026-04-20 03:04",
+  "updated": "2026-04-20 12:13",
   "news": [
+    {
+      "title": "Tecno Pop X 5G 亮相，配备天玑 6400 和 6,500mAh...",
+      "source": "GSMArena",
+      "date": "2026-04-20",
+      "summary": "Tecno宣布推出Pop系列的最新成员Pop X 5G。它采用了全新的设计，背面有水平摄像头遮阳板，配备 6500mAh 电池，支持 45W 有线充电，并搭载联发科天玑 6400 芯片组。传音 Pop X 5G Pop ...",
+      "url": "https://www.gsmarena.com/tecno_pop_x_5g_unveiled_with_dimensity_6400_and_6500mah_battery_with_45w_charging-news-72447.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/tecno-pop-x-5g-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus Nord CE6、Nord CE6 Lite 将于下个月发布...",
+      "source": "GSMArena",
+      "date": "2026-04-20",
+      "summary": "OnePlus 将在未来几周内推出多款智能手机。在确认 Ace 6 Ultra 在中国的上市日期后，该公司现在宣布了 Nord CE6 和 Nord CE6 Lite 将在印度上市的时间。在 X 的官方帖子中，OnePl...",
+      "url": "https://www.gsmarena.com/oneplus_nord_ce6_nord_ce6_lite_launch_set_for_next_month_specs_confirmed-news-72446.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-nord-ce6-lite-specs-launch-date/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "华为Pura X Max亮相：更大的显示屏，支持手写笔，更纤薄的机身",
+      "source": "GSMArena",
+      "date": "2026-04-20",
+      "summary": "华为是可折叠手机技术的先行者，它正在尝试新的外形尺寸，例如 Pura X即所谓的宽屏可折叠手机。它的尺寸介于翻盖式和书本式可折叠设备之间。但如果 X 变大怎么办？今天该公司回答了这个问题。华为Pura X Max华为 P...",
+      "url": "https://www.gsmarena.com/huawei_pura_x_max_unveiled_larger_displays_with_stylus_support_slimmer_build-news-72448.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/huawei-pura-x-max-announcement/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀Magic9 Pro Max有望配备双200MP摄像头",
+      "source": "GSMArena",
+      "date": "2026-04-20",
+      "summary": "我们已经看到了有关即将推出的荣耀Magic9的传闻，但现在我们得到了Magic9 Pro Max的第一组详细信息。这将是Magic9系列中的高端选项，据说会带来显着的相机升级。据中国爆料者 Smart Pikachu 称...",
+      "url": "https://www.gsmarena.com/honor_magic9_pro_max_tipped_to_bring_dual_200mp_cameras-news-72445.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/honor-magic9-pro-max-dual-200mp-cameras/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus Ace 6 Ultra 关键规格和发布日期公布，将配备专用游...",
+      "source": "GSMArena",
+      "date": "2026-04-20",
+      "summary": "OnePlus Ace 6 Ultra 将成为该公司 Ace 6 系列的最新成员，现已在中国正式发布。除了智能手机之外，一加还将推出一款手机专用游戏控制器。OnePlus 已确认 Ace 6 Ultra 将于 4 月 2...，带来多项升级",
+      "url": "https://www.gsmarena.com/oneplus_ace_6_ultra_key_specs_and_launch_date_revealed_will_get_a_dedicated_gaming_controller-news-72444.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-ace-6-ultra-specs-gaming-controller/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 AirPods Max 2 接受审查",
+      "source": "GSMArena",
+      "date": "2026-04-20",
+      "summary": "今天我们带来了新款 Apple AirPods Max 2 耳机。这是苹果最新一代的旗舰音频产品，与前代产品相比，其性能有望得到一些显着的改进，同时仍然大体上为人们所熟悉。没错，前辈们。 AirPods Max 2 是该...",
+      "url": "https://www.gsmarena.com/apple_airpods_max_2_in_for_review-news-72442.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/airpods-max-2-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "第 16 周十大热门手机",
       "source": "GSMArena",
       "date": "2026-04-20",
-      "summary": "三星 Galaxy A57 连续四个星期位居我们趋势榜榜首，它面临着迄今为止最严峻的挑战。即将推出的荣耀 600 Pro 已经足够吸引你去查看，因为该公司本周的预告活动已经全面展开。InlinePriceWidget 1...",
+      "summary": "三星 Galaxy A57 连续四个星期位居我们趋势榜榜首，它面临着迄今为止最严峻的挑战。即将推出的荣耀 600 Pro 已经吸引了足够多的人关注，因为该公司本周的预告片宣传活动如火如荼地展开。InlinePriceWi...",
       "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_16-news-72443.php",
       "tags": [
         "安卓"
@@ -14,7 +86,7 @@
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Moto G Stylus (2026) 接受审查",
+      "title": "摩托罗拉 Moto G Stylus (2026) 正在接受审查",
       "source": "GSMArena",
       "date": "2026-04-19",
       "summary": "摩托罗拉于 4 月初推出了 Moto G Stylus 2026，该手机于本周早些时候开始销售。因此，在我们开始评测手机之前，我们会按计划为您带来快速拆箱。Moto G Stylus 2026 可在亚马逊、百思买和 Mo...",
@@ -50,83 +122,23 @@
       "type": "news"
     },
     {
-      "title": "每周优惠：Galaxy S26系列立减100英镑，OnePlus 15R和小...",
-      "source": "GSMArena",
-      "date": "2026-04-19",
-      "summary": "OnePlus 15R 凭借 7400mAh 电池，在我们的图表中电池续航时间名列前 5。 80W充电，0100充电仅需53分钟。这款手机配备 683 英寸 165Hz OLED 显示屏10 位色彩，杜比视界，搭载非 E...",
-      "url": "https://www.gsmarena.com/weekly_deals_the_galaxy_s26_series_is_100_off_oneplus_15r_and_xiaomi_15t_are_on_sale-news-72428.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-deals-17/-184x111/gsmarena_uk.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy A53 和 Galaxy A55 收到 2026 年 4...",
-      "source": "GSMArena",
-      "date": "2026-04-19",
-      "summary": "三星已发布适用于 Galaxy A53 和 Galaxy A55 的 2026 年 4 月安全补丁。Galaxy A53 的 2026 年 4 月安全补丁附带固件版本为 A536NKSSGGZD1 的更新，目前在韩国可用...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a53_galaxy_a55_april_2026_security_update-news-72438.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/25/04/samsung-galaxy-a55-one-ui-7-beta-update/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周优惠：vivo X300 Ultra到货，X300和X300 Pro大促...",
-      "source": "GSMArena",
-      "date": "2026-04-19",
-      "summary": "虽然目前还无法购买，但 vivo X300 Ultra 现已在欧洲上市，首批设备预计将在一周左右发货。这将是今年最顶级的拍照手机之一我们目前正在测试一个评测单元，它看起来非常有前途。这款手机配备了 200MP 1112 ...",
-      "url": "https://www.gsmarena.com/weekly_deals_vivo_x300_ultra_arrives_x300_and_x300_pro_on_sale_iphone_air_also_discounted-news-72425.php",
+      "title": "泄密显示苹果和三星正在为其即将推出的可折叠产品寻求不同的设计",
+      "source": "Android Authority",
+      "date": "2026-04-20",
+      "summary": "Galaxy Z Fold 8 Wide 和 iPhone Fold 有着天壤之别。",
+      "url": "https://www.androidauthority.com/apple-samsung-wide-foldable-comparison-3658912/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-deals-17/-184x111/gsmarena_de.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "每周投票：你会购买 Poco X8 Pro 还是 Poco X8 Pro M...",
-      "source": "GSMArena",
-      "date": "2026-04-19",
-      "summary": "价格全面上涨，这可能会导致一些人选择中档或旗舰杀手手机，而不是高端旗舰手机。如果是你，你会将 Poco X8 Pro 或 X8 Pro Max 作为你的下一部手机吗？Poco X8 Pro 和 X8 Pro Max 一览...",
-      "url": "https://www.gsmarena.com/weekly_poll_would_you_buy_a_poco_x8_pro_or_a_poco_x8_pro_max-news-72397.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-poll-poco-x8-pro-poco-x8-pro-max/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星将淘汰旧的 LPDDR4 RAM 并将生产转移到 LPDDR5",
-      "source": "GSMArena",
-      "date": "2026-04-19",
-      "summary": "熟悉 DRAM 市场的人士称，三星正在接受 LPDDR4 和 LPDDR4X 内存芯片的最后订单。为了满足所有订单，生产可能会持续到 2026 年。一旦 LPDDR4 和 LPDDR4X 模块被淘汰，三星将在 2027 ...",
-      "url": "https://www.gsmarena.com/samsung_to_retire_old_lpddr4_ram_and_move_to_lpddr5_only_production-news-72441.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/01/apple-pressure-samsung-dram-price-hike/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周投票结果：vivo X300 Ultra对于那些买得起的人来说是一款很棒...",
-      "source": "GSMArena",
-      "date": "2026-04-19",
-      "summary": "本周早些时候，vivo 宣布开始在全球推出 X300 Ultra 和 X300 FE，具体日期取决于市场，例如西班牙为 4 月 24 日。此外，X300 Ultra 现已在亚马逊上架，售价高达 2000 欧元16GB1T...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_the_vivo_x300_ultra_is_a_great_phone_for_those_who_can_afford_it-news-72398.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-poll-results-vivo-x300-ultra/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三年后，200MP 相机终于不负众望",
+      "title": "我永远不会购买另一台 Kindle，你也不应该",
       "source": "Android Authority",
-      "date": "2026-04-19",
-      "summary": "从像素合并照片到全分辨率快照，我比较了第一代和新一代 200MP 主摄像头。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s23-ultra-vivo-x300-ultra-200mp-shootout-3656082/",
+      "date": "2026-04-20",
+      "summary": "在 Kindle 推出十年后，亚马逊的最新变化明确表明，所有权仅次于控制权。",
+      "url": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "这款 10 美元的配件彻底改变了我的 Pixel 10",
+      "title": "调查显示，Pixel 独有的功能对大多数用户来说仍然是个秘密",
       "source": "Android Authority",
-      "date": "2026-04-19",
-      "summary": "如果您有 Pixel 10，则需要这个磁环。",
-      "url": "https://www.androidauthority.com/10-dollar-accessory-transformed-pixel-10-3657933/",
+      "date": "2026-04-20",
+      "summary": "大多数了解它的用户都会使用它并喜欢它。",
+      "url": "https://www.androidauthority.com/google-pixel-take-a-message-poll-results-3658907/",
       "tags": [
         "安卓"
       ],
@@ -146,23 +158,11 @@
       "type": "news"
     },
     {
-      "title": "我喜欢 Galaxy S26 Ultra，但它仍然无法击败这款 2025 年...",
+      "title": "你应该购买 5 款 Android 手机，而不是 Nothing Phone...",
       "source": "Android Authority",
-      "date": "2026-04-19",
-      "summary": "亲爱的三星，是时候寻找你的道路了。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-cant-beat-2025-android-phone-3658251/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我测试过大量的投影仪 - 以下是它们没有告诉你的有关亮度级别的信息",
-      "source": "Android Authority",
-      "date": "2026-04-19",
-      "summary": "规格正在攀升，但您的体验可能不会。",
-      "url": "https://www.androidauthority.com/how-many-lumens-need-projector-brightness-truth-3658086/",
+      "date": "2026-04-20",
+      "summary": "没有什么比推荐替代 Android 手机更让我喜欢的了。",
+      "url": "https://www.androidauthority.com/nothing-phone-4a-alternatives-3658337/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +170,23 @@
       "type": "news"
     },
     {
-      "title": "我不想使用 YouTube Music，即使我付费了",
+      "title": "这些智能手表看起来像 苹果 Watch，但一次充电可以使用一周",
       "source": "Android Authority",
-      "date": "2026-04-19",
-      "summary": "我愿意为 Spotify Duo 付费，因为我不太信任或不喜欢我的 YouTube Music 订阅来使用它。",
-      "url": "https://www.androidauthority.com/i-dont-want-to-use-youtube-music-even-though-i-pay-for-it-3658596/",
+      "date": "2026-04-20",
+      "summary": "正在寻找一款具有 Apple Watch 风格设计但软件不同的手表吗？ Watch Fit 5 系列可能适合您。",
+      "url": "https://www.androidauthority.com/apple-watch-like-smartwatches-long-battery-life-3658861/",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉开启 Android 17 测试版",
+      "source": "Android Authority",
+      "date": "2026-04-20",
+      "summary": "摩托罗拉将 Android 17 Beta 版扩展到更多 Razr 和 Edge 手机。",
+      "url": "https://www.androidauthority.com/motorola-expands-android-17-beta-3658913/",
       "tags": [
         "安卓"
       ],
@@ -182,47 +194,23 @@
       "type": "news"
     },
     {
-      "title": "使用 Android 平板电脑十多年后，我转向了 iPad",
+      "title": "苹果和三星再次在宽折方面遭遇失败",
       "source": "Android Authority",
-      "date": "2026-04-19",
-      "summary": "虽然存在一些挑战，但 iPad Mini 非常适合我的孩子。",
-      "url": "https://www.androidauthority.com/android-tablet-to-ipad-mini-3653204/",
+      "date": "2026-04-20",
+      "summary": "今年第一款宽屏折叠手机并非来自苹果或三星。",
+      "url": "https://www.androidauthority.com/huawei-pura-x-max-launch-3658876/",
       "tags": [
-        "安卓"
+        "苹果"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "亚马逊的新款 Fire TV Stick HD 标志着侧载的结束",
+      "title": "什么时候结束？ Galaxy S25系列获得第十个One UI 8.5测试版",
       "source": "Android Authority",
-      "date": "2026-04-18",
-      "summary": "该公司还扩展了对各种 Fire TV 设备的软件支持。",
-      "url": "https://www.androidauthority.com/fire-tv-stick-hd-sideloading-warning-3658819/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我取消了 ChatGPT Plus 和其他 2 个 AI 订阅 - 这是我替...",
-      "source": "Android Authority",
-      "date": "2026-04-18",
-      "summary": "这是您审核 AI 订阅的标志。",
-      "url": "https://www.androidauthority.com/canceled-chatgpt-plus-perplexity-pro-firefly-replacements-3658171/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星在 Exynos 上对 AMD 下了重注——实际效果如下",
-      "source": "Android Authority",
-      "date": "2026-04-18",
-      "summary": "三星对 AMD 的赌注让 Exynos 变得更快，但并不比竞争对手更快。",
-      "url": "https://www.androidauthority.com/samsung-exynos-amd-analysis-3656892/",
+      "date": "2026-04-20",
+      "summary": "三星最新的 915MB 更新带来了新的人工智能功能和关键错误修复，但稳定的软件可能还需要几周的时间。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-beta-10-3658882/",
       "tags": [
         "三星"
       ],
@@ -230,13 +218,25 @@
       "type": "news"
     },
     {
-      "title": "忘掉照片和地图吧，这是我离不开的 谷歌 应用程序",
+      "title": "别管 S26 Ultra，这款新 Pro Max 拥有同类首款 200MP ...",
       "source": "Android Authority",
-      "date": "2026-04-18",
-      "summary": "Google 钱包慢慢赢得了我的信任，并成为我的 Pixel 和 Android 体验的支柱。",
-      "url": "https://www.androidauthority.com/google-wallet-app-cant-live-without-anymore-3658522/",
+      "date": "2026-04-20",
+      "summary": "华为新推出的Pura 90 Pro Max配备了全球首款200MP RYYB传感器。",
+      "url": "https://www.androidauthority.com/huawei-pura-90-pro-max-3658873/",
       "tags": [
         "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "您的三星手机刚刚获得了编辑照片、视频和文档的重大升级",
+      "source": "Android Authority",
+      "date": "2026-04-20",
+      "summary": "GalaxyEnhanceX 刚刚进行了重大改进，添加了更清晰的界面、新的插件和更强大的编辑工具。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-ehance-x-update-3658856/",
+      "tags": [
+        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
