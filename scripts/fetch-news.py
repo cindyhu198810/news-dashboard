@@ -49,7 +49,7 @@ def ai_summary(text):
     text = text.strip().replace("\n", "").replace("  ", " ")
 
     # 去掉奇怪符号
-    text = re.sub(r'[^一-龥a-zA-Z0-9，。！？、:： ]', '', text)
+    text = re.sub(r'[^\u4e00-\u9fa5a-zA-Z0-9，。！？、:： ]', '', text)
 
     # 常见优化
     text = text.replace("该 设备", "该设备")
