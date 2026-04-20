@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20 01:57",
+  "updated": "2026-04-20 02:02",
   "news": [
     {
       "title": "第 16 周十大热门手机",
@@ -14,7 +14,7 @@
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Moto G Stylus (2026) 正在接受审查",
+      "title": "摩托罗拉 Moto G Stylus (2026) 接受审查",
       "source": "GSMArena",
       "date": "2026-04-19",
       "summary": "摩托罗拉于 4 月初推出了 Moto G Stylus (2026)，该手机于本周早些时候开始销售。",
@@ -221,7 +221,7 @@
       "title": "三星在 Exynos 上对 AMD 下了重注——实际效果如下",
       "source": "Android Authority",
       "date": "2026-04-18",
-      "summary": "三星对 AMD 的赌注让 Exynos 变得更快，但并不比竞争对手快。",
+      "summary": "三星对 AMD 的赌注让 Exynos 变得更快，但并不比竞争对手更快。",
       "url": "https://www.androidauthority.com/samsung-exynos-amd-analysis-3656892/",
       "tags": [
         "三星"
