@@ -1,6 +1,90 @@
 {
-  "updated": "2026-04-19 10:26",
+  "updated": "2026-04-20 01:50",
   "news": [
+    {
+      "title": "第 16 周十大热门手机",
+      "source": "GSMArena",
+      "date": "2026-04-20",
+      "summary": "三星 Galaxy A57 连续四个星期位居我们趋势榜榜首，它面临着迄今为止最严峻的挑战。",
+      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_16-news-72443.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-184x111/gsmarena_003.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Moto G Stylus (2026) 正在接受审查",
+      "source": "GSMArena",
+      "date": "2026-04-19",
+      "summary": "摩托罗拉于 4 月初推出了 Moto G Stylus (2026)，该手机于本周早些时候开始销售。",
+      "url": "https://www.gsmarena.com/motorola_moto_g_stylus_2026_in_for_review-news-72431.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/moto-g-stylus-2026-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周优惠：Galaxy A37 和 A57 发布，但 Galaxy S25 FE 和 Pixel 10a 构成挑战",
+      "source": "GSMArena",
+      "date": "2026-04-19",
+      "summary": "对于美国智能手机市场来说，这是相当平静的一周——发生的最大（也是最糟糕）的事情是三星提高了其几款智能手机和平板电脑型号的价格。",
+      "url": "https://www.gsmarena.com/weekly_deals_galaxy_a37_and_a57_launch_but_galaxy_s25_fe_and_pixel_10a_present_a_challenge-news-72418.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-deals-17/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X300 Ultra 欧洲价格官方，我们拆箱 Find X9 Ultra，第 16 周回顾",
+      "source": "GSMArena",
+      "date": "2026-04-19",
+      "summary": "华为的 Pura X Max 可折叠手机将于 4 月 20 日在中国首次亮相。宽屏可折叠手机较短，但屏幕更宽，尤其是展开的手机。",
+      "url": "https://www.gsmarena.com/vivo_x300_ultra_european_price_official_we_unbox_the_find_x9_ultra_week_16_in_review-news-72432.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/week-13-in-review/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周优惠：Galaxy S26系列立减100英镑，OnePlus 15R和小米15T促销",
+      "source": "GSMArena",
+      "date": "2026-04-19",
+      "summary": "OnePlus 15R 凭借 7,400mAh 电池，在我们的图表中电池续航时间名列前 5。 ",
+      "url": "https://www.gsmarena.com/weekly_deals_the_galaxy_s26_series_is_100_off_oneplus_15r_and_xiaomi_15t_are_on_sale-news-72428.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-deals-17/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy A53 和 Galaxy A55 收到 2026 年 4 月安全更新",
+      "source": "GSMArena",
+      "date": "2026-04-19",
+      "summary": "三星已发布适用于 Galaxy A53 和 Galaxy A55 的 2026 年 4 月安全补丁。\n\n",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a53_galaxy_a55_april_2026_security_update-news-72438.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/25/04/samsung-galaxy-a55-one-ui-7-beta-update/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周优惠：vivo X300 Ultra到货，X300和X300 Pro大促销，iPhone Air也打折",
+      "source": "GSMArena",
+      "date": "2026-04-19",
+      "summary": "虽然目前还无法购买，但 vivo X300 Ultra 现已在欧洲上市，首批设备预计将在一周左右发货。",
+      "url": "https://www.gsmarena.com/weekly_deals_vivo_x300_ultra_arrives_x300_and_x300_pro_on_sale_iphone_air_also_discounted-news-72425.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-deals-17/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
     {
       "title": "每周投票：你会购买 Poco X8 Pro 还是 Poco X8 Pro Max？",
       "source": "GSMArena",
@@ -38,87 +122,39 @@
       "type": "news"
     },
     {
-      "title": "摩托罗拉今年将允许更多用户尝试新的 Android 17 Beta",
-      "source": "GSMArena",
+      "title": "三年后，200MP 相机终于不负众望",
+      "source": "Android Authority",
       "date": "2026-04-19",
-      "summary": "随着谷歌在 2 月份发布了第一个 Android 17 测试版，现在轮到智能手机制造商启动他们的测试版计划了。",
-      "url": "https://www.gsmarena.com/motorola_will_let_even_more_users_to_try_out_the_new_android_17_beta_this_year-news-72440.php",
+      "summary": "从像素合并照片到全分辨率快照，我比较了第一代和新一代 200MP 主摄像头。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s23-ultra-vivo-x300-ultra-200mp-shootout-3656082/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/01/moto-g17-g77-edge-70-fusion-prices-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "OnePlus Buds Ace 3 关键规格和图片在线曝光",
-      "source": "GSMArena",
-      "date": "2026-04-18",
-      "summary": "OnePlus 预计将于本月某个时候推出名为 Buds Ace 3 的经济型 TWS 耳机，接替 2024 年底推出的 Buds Ace 2。因此从某种意义上说，Buds Ace 3 有点姗姗来迟。\n\n\n\n",
-      "url": "https://www.gsmarena.com/oneplus_buds_ace_3_key_specs_and_images_surface_online-news-72439.php",
+      "title": "这款 10 美元的配件彻底改变了我的 Pixel 10",
+      "source": "Android Authority",
+      "date": "2026-04-19",
+      "summary": "如果您有 Pixel 10，则需要这个磁环。",
+      "url": "https://www.androidauthority.com/10-dollar-accessory-transformed-pixel-10-3657933/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-buds-ace-3-teased/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Geekbench 上发现 Oppo Find X9 运行天玑 9500s",
-      "source": "GSMArena",
-      "date": "2026-04-18",
-      "summary": "Oppo Find X9 Ultra 将于 4 月 21 日在全球首发，但它不会单独上市。 ",
-      "url": "https://www.gsmarena.com/oppo_find_x9s_spotted_on_geekbench_running_dimensity_9500s-news-72437.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/02/oppo-find-x9s-global-specs-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Z TriFold 2 可能比第一代 TriFold 更薄",
-      "source": "GSMArena",
-      "date": "2026-04-18",
-      "summary": "三星 Galaxy Z TriFold 于去年 12 月推出，已在多个市场停产，展开时厚度为 3.9-4.2 毫米，折叠时厚度为 12 毫米。",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_trifold_2_new_hinge_thinner_design-news-72435.php",
+      "title": "我喜欢 Galaxy S26 Ultra，但它仍然无法击败这款 2025 年的 Android 手机",
+      "source": "Android Authority",
+      "date": "2026-04-19",
+      "summary": "亲爱的三星，是时候寻找你的道路了。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-cant-beat-2025-android-phone-3658251/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/03/samsung-galaxy-z-trifold-battery-capacity-upgrade/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "印度放弃了要求智能手机品牌在其设备上预装独特 ID 应用程序 Aadhaar 的提议",
-      "source": "GSMArena",
-      "date": "2026-04-18",
-      "summary": "路透社上个月报道称，印度政府电子和信息技术部 (MeitY) 下属的法定机构印度唯一身份识别机构 (UIDAI) 在 1 月份私下提议，要求智能手机制造商在其设备上预装其 Aadhaar 应用程序。",
-      "url": "https://www.gsmarena.com/aadhaar_app_smartphone_pre_install_mandate_proposal_dropped_india-news-72436.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/aadhaar-app-smartphone-pre-install-mandate-india/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Realme C81 的内存和存储选项与颜色一起泄露",
-      "source": "GSMArena",
-      "date": "2026-04-18",
-      "summary": "根据一份新报告，Realme C81 即将推出，它显然可能是重新命名的 Realme Note 80。顺便说一句，该设备于上个月推出。\n\n",
-      "url": "https://www.gsmarena.com/realme_c81s_memory_and_storage_options_leak_alongside_its_colors-news-72433.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/realme-c81-surfaces/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Z TriFold 现已在美国停产",
-      "source": "GSMArena",
-      "date": "2026-04-18",
-      "summary": "三星 Galaxy Z TriFold 的生命短暂而动荡。",
-      "url": "https://www.gsmarena.com/the_samsung_galaxy_z_trifold_is_now_discontinued_in_the_us_as_well-news-72434.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-z-trifold-discontinued-us/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -158,7 +194,7 @@
       "type": "news"
     },
     {
-      "title": "亚马逊新推出的 Fire TV Stick HD 标志着侧载的结束",
+      "title": "亚马逊的新款 Fire TV Stick HD 标志着侧载的结束",
       "source": "Android Authority",
       "date": "2026-04-18",
       "summary": "该公司还扩展了对各种 Fire TV 设备的软件支持。",
@@ -201,42 +237,6 @@
       "url": "https://www.androidauthority.com/google-wallet-app-cant-live-without-anymore-3658522/",
       "tags": [
         "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌正在慢慢破坏购买 Pixel 的最佳理由之一",
-      "source": "Android Authority",
-      "date": "2026-04-18",
-      "summary": "较旧的 Pixel 不再像以前那样受到喜爱，而且越来越引人注目。",
-      "url": "https://www.androidauthority.com/google-pixel-ai-features-not-coming-to-older-phones-3657850/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我喜欢 Google Photos，但我希望它有这 8 个缺失的功能",
-      "source": "Android Authority",
-      "date": "2026-04-18",
-      "summary": "谷歌照片做了很多正确的事情，但缺少一些可以将其提升到新水平的功能。",
-      "url": "https://www.androidauthority.com/love-google-photos-8-missing-features-3656631/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我尝试过 iPhone 17e，只需升级一次就可以避免毁掉廉价 Android 手机",
-      "source": "Android Authority",
-      "date": "2026-04-18",
-      "summary": "如果没有60Hz刷新率，iPhone 17e将势不可挡。",
-      "url": "https://www.androidauthority.com/iphone-17e-ruin-budget-android-phones-3657797/",
-      "tags": [
-        "苹果"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
