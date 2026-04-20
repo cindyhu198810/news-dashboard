@@ -42,6 +42,32 @@ def translate(text):
 # 分类
 # -------------------------
 def classify(title):
+# -------------------------
+# AI摘要优化（核心升级）
+# -------------------------
+def ai_summary(text):
+    text = text.strip().replace("\n", "").replace("  ", " ")
+
+    # 去掉奇怪符号
+    text = re.sub(r'[^一-龥a-zA-Z0-9，。！？、:： ]', '', text)
+
+    # 常见优化
+    text = text.replace("该 设备", "该设备")
+    text = text.replace("这个 设备", "该设备")
+
+    # 控制长度（适合网页展示）
+    if len(text) > 110:
+        text = text[:110] + "..."
+
+    # AI风格增强
+    if "发布" in text:
+        text += "，带来多项升级"
+    elif "曝光" in text:
+        text += "，更多细节逐步揭晓"
+    elif "更新" in text:
+        text += "，用户体验进一步优化"
+
+    return text
     t = title.lower()
     if "iphone" in t or "apple" in t:
         return "苹果"
@@ -109,10 +135,14 @@ for source, url in feeds.items():
         # 清洗摘要
         summary_clean = clean_html(summary_raw)
 
+        # 太短就用标题补充
+        if len(summary_clean) < 30:
+            summary_clean = title_en
+
         # 翻译
         title_cn = translate(title_en)
         summary_cn = translate(summary_clean)
-        summary_cn = summary_cn[:180] if len(summary_cn) > 180 else summary_cn
+        summary_cn = ai_summary(summary_cn)
 
         # 分类
         category = classify(title_en)
