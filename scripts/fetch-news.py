@@ -34,7 +34,7 @@ def translate(text):
         res = requests.get(url, params=params, timeout=5)
         result = res.json()[0]
         # ✅ 拼接完整句子（关键优化）
-        return "".join([item[0] for item in result])
+        return "".join([item[0] for item in result if item[0]])
     except:
         return text
 
@@ -42,32 +42,46 @@ def translate(text):
 # 分类
 # -------------------------
 def classify(title):
+    t = title.lower()
+    if "iphone" in t or "apple" in t:
+        return "苹果"
+    elif "samsung" in t or "galaxy" in t:
+        return "三星"
+    elif "xiaomi" in t or "redmi" in t:
+        return "小米"
+    else:
+        return "安卓"
+
+
 # -------------------------
 # AI摘要优化（核心升级）
 # -------------------------
 def ai_summary(text):
-    text = text.strip().replace("\n", "").replace("  ", " ")
+    try:
+        text = text.strip().replace("\n", "").replace("  ", " ")
 
-    # 去掉奇怪符号
-    text = re.sub(r'[^\u4e00-\u9fa5a-zA-Z0-9，。！？、:： ]', '', text)
+        # 安全正则（必须这个写法）
+        text = re.sub(r'[^\u4e00-\u9fa5a-zA-Z0-9，。！？、:： ]', '', text)
 
-    # 常见优化
-    text = text.replace("该 设备", "该设备")
-    text = text.replace("这个 设备", "该设备")
+        # 优化语句
+        text = text.replace("该 设备", "该设备")
+        text = text.replace("这个 设备", "该设备")
 
-    # 控制长度（适合网页展示）
-    if len(text) > 110:
-        text = text[:110] + "..."
+        # 控制长度
+        if len(text) > 110:
+            text = text[:110] + "..."
 
-    # AI风格增强
-    if "发布" in text:
-        text += "，带来多项升级"
-    elif "曝光" in text:
-        text += "，更多细节逐步揭晓"
-    elif "更新" in text:
-        text += "，用户体验进一步优化"
+        # AI增强
+        if "发布" in text:
+            text += "，带来多项升级"
+        elif "曝光" in text:
+            text += "，更多细节逐步揭晓"
+        elif "更新" in text:
+            text += "，用户体验进一步优化"
 
-    return text
+        return text
+    except:
+        return text
     t = title.lower()
     if "iphone" in t or "apple" in t:
         return "苹果"
