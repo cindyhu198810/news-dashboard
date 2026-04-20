@@ -32,9 +32,11 @@ def translate(text):
             "q": text
         }
         res = requests.get(url, params=params, timeout=5)
-        return res.json()[0][0][0]
+        result = res.json()[0]
+        # ✅ 拼接完整句子（关键优化）
+        return "".join([item[0] for item in result])
     except:
-        return text  # 失败就返回原文
+        return text
 
 # -------------------------
 # 分类
@@ -53,7 +55,44 @@ def classify(title):
 # -------------------------
 # SEO标题
 # -------------------------
+# -------------------------
+# 标题优化（关键词）
+# -------------------------
+def optimize_title(title):
+    replace_map = {
+        "Google": "谷歌",
+        "Samsung": "三星",
+        "Apple": "苹果",
+        "Xiaomi": "小米",
+        "Redmi": "红米",
+        "launch": "发布",
+        "launches": "发布",
+        "reveals": "曝光",
+        "leak": "泄露",
+        "hands-on": "上手",
+        "review": "评测",
+        "vs": "对比"
+    }
+
+    for k, v in replace_map.items():
+        title = title.replace(k, v)
+
+    return title.strip()
 def seo_title(title_cn):
+    title_cn = optimize_title(title_cn)
+
+    # AI风格增强
+    if "发布" in title_cn:
+        title_cn += "，新机正式登场"
+    elif "曝光" in title_cn or "泄露" in title_cn:
+        title_cn += "，核心配置曝光"
+    elif "评测" in title_cn:
+        title_cn += "，真实体验如何？"
+
+    # 防止过长
+    if len(title_cn) > 38:
+        title_cn = title_cn[:38] + "..."
+
     return title_cn
 
 # -------------------------
