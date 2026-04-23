@@ -1,156 +1,204 @@
 {
-  "updated": "2026-04-22 11:46",
+  "updated": "2026-04-23 11:49",
   "news": [
     {
-      "title": "华硕退出智能手机市场，现在正在生产平板电脑，这就是它的样子",
+      "title": "摩托罗拉 Razr 70 Ultra 出现在官方渲染图中",
       "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "华硕在一月份正式确认退出智能手机市场，但显然这并不适用于平板电脑。今天，新的泄漏让我们第一次看到即将推出的华硕 Pad，其中有一些漂亮的渲染图。正如您所看到的，对于平板电脑来说，边框相当薄。据传华硕 Pad 配备 122...",
-      "url": "https://www.gsmarena.com/asus_exited_the_smartphone_market_and_now_its_making_a_tablet_heres_what_it_looks_like-news-72485.php",
+      "date": "2026-04-23",
+      "summary": "摩托罗拉将于下周推出 Razr 70 系列，其中至少有两款型号。到目前为止，我们已经看到了大量的泄露信息，现在我们有了埃文布拉斯 Evan Blass 分享的 Razr 70 Ultra 官方渲染图。Razr 70 Ul...",
+      "url": "https://www.gsmarena.com/motorola_razr_70_ultra_emerges_in_officiallooking_renders-news-72506.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/asus-pad-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/motorola-razr-70-ultra-ofic-renders-leak/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "荣耀600 Pro接受评测，真实体验如何？",
+      "title": "荣耀600和荣耀600 Pro登陆欧洲，价格如下",
       "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "刚刚发布的荣耀 600 Pro 已在办公室加入我们的评测队列。它与普通 600 和 600 Lite 一样，强调出色的相机和大电池，Pro 是旗舰产品。下图为荣耀 600，荣耀 600 Pro 并不大，因为两者共用相同的...，带来多项升级",
-      "url": "https://www.gsmarena.com/honor_600_pro_in_for_review-news-72490.php",
+      "date": "2026-04-23",
+      "summary": "昨天，荣耀 600 和荣耀 600 Pro 在全球发布，今天也宣布在欧洲市场发布。这些手机在欧洲配备 6400 mAh 电池国际上为 7000 mAh，但幸运的是，其余规格保持不变。在欧洲购买的荣耀 600 和荣耀 60...，带来多项升级",
+      "url": "https://www.gsmarena.com/honor_600_and_honor_600_pro_land_in_europe_here_are_the_prices-news-72507.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/honor-600-pro-ifr/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/honor-600-honor-600-pro-european-prices/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "高通 Snapdragon 8 Elite Gen 6 可能由三星制造",
+      "title": "OnePlus 16 的显示屏细节，再次暗示将配备 Snapdragon 8...",
+      "source": "GSMArena",
+      "date": "2026-04-23",
+      "summary": "距离 OnePlus 16 的发布还有几个月的时间，但我们已经收到了一些有关这款手机的泄密和谣言，可靠的消息人士 Digital Chat Station 声称它将搭载高通尚未发布的 Snapdragon 8 Elite...，带来多项升级",
+      "url": "https://www.gsmarena.com/oneplus_16_display_detailed-news-72505.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-16-display-detailed/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "新报告详细介绍 iPhone 18 显示屏降级",
+      "source": "GSMArena",
+      "date": "2026-04-23",
+      "summary": "昨天有传言称普通 iPhone 18 将进行一些降级，现在一份报告似乎澄清了苹果将节省一些资金的领域之一：屏幕。据称，该手机显示屏的主要候选材料使用了三星的 M12 材料，该材料是 iPhone 14 Pro 和 Gal...",
+      "url": "https://www.gsmarena.com/iphone_18s_display_downgrade_detailed_in_new_report-news-72503.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/iphone-18-display-downgrade/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X9 Ultra 拆解视频深入了解每个组件",
+      "source": "GSMArena",
+      "date": "2026-04-23",
+      "summary": "Oppo 昨天发布了 Find X9 Ultra，今天已经有该设备的完整拆解，由 YouTube 频道 WekiHome 提供。与往常一样，他们记录了一次令人难以置信的深入拆解，其中手机不仅被快速拆解，而且还对每个组件进...，带来多项升级",
+      "url": "https://www.gsmarena.com/oppo_find_x9_ultra_teardown_video_goes_indepth_for_every_component-news-72502.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-find-x9-ultra-teardown/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "这些是下一代 iPhone 的相机升级",
+      "source": "GSMArena",
+      "date": "2026-04-23",
+      "summary": "迄今为止，苹果已经两次传言要为即将推出的 iPhone 开发 200MP 摄像头。第一次据说是主摄像头，然后，几天前，我们听说 200MP 长焦摄像头将于 2028 年上市。今天，微博上数字聊天站的最新泄密事件澄清了一些...",
+      "url": "https://www.gsmarena.com/these_are_the_camera_upgrades_coming_to_the_next_iphone_generations-news-72501.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/iphone-pro-upcoming-camera-upgrades/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "ChatGPT Images 2.0为图像生成带来思维能力",
+      "source": "GSMArena",
+      "date": "2026-04-23",
+      "summary": "OpenAI最新的图像生成器具有思考能力。 ChatGPT Images 20 在 10 版本一年后发布，它承诺为视觉任务提供专业策划的端到端自动化。 Images 20 能够研究并将网络信息合成为详细的生产级视觉效果。...，带来多项升级",
+      "url": "https://www.gsmarena.com/chatgpt_images_20_brings_thinking_capabilities_to_image_generation_-news-72497.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/chat-gpt-images-2-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus Ace 6 Ultra 以全新金属风暴配色亮相",
+      "source": "GSMArena",
+      "date": "2026-04-23",
+      "summary": "OnePlus Ace 6 Ultra 将于 4 月 28 日也就是下周二发布。上周，该公司发布了有关 Ace Awakening 设计的详细信息，该设计的特点是在设备背面刻有Ace一词，以产生 3D 效果。现在，One...，带来多项升级",
+      "url": "https://www.gsmarena.com/oneplus_ace_6_ultra_shown_off_in_new_metal_storm_color-news-72498.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-ace-6-ultra-metal-storm/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "有关 iPhone 18 Pro 英雄色彩的更多细节泄露，核心配置曝光",
       "source": "GSMArena",
       "date": "2026-04-22",
-      "summary": "高通首席执行官克里斯蒂亚诺阿蒙被发现在韩国会见三星高管。这次旅行的重点是制造 2nm 工艺的芯片，高通有可能会转向三星制造即将推出的 Snapdragon 8 Elite Gen 6 SoC。早在 1 月份的 CES 上...",
-      "url": "https://www.gsmarena.com/qualcomms_snapdragon_8_elite_gen_6_might_be_made_by_samsung-news-72482.php",
+      "summary": "苹果即将推出的 iPhone 18 Pro 和 iPhone 18 Pro Max 预计将拥有一种新的英雄颜色  市场上销售最多的颜色，就像 iPhone 17 Pro 和 iPhone 17 Pro Max 的宇宙橙一...",
+      "url": "https://www.gsmarena.com/more_details_about_the_iphone_18_pros_hero_color_leak-news-72500.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/iphone-18-pro-hero-color/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 钱包现在可以在主屏幕上跟踪您的航班",
+      "source": "GSMArena",
+      "date": "2026-04-22",
+      "summary": "早在 10 月份，谷歌就表示将让 Android 上的谷歌钱包能够通过持久通知跟踪主屏幕上的实时航班更新，现在终于上线了。如果您之前已将登机牌添加到 Google 电子钱包，则会显示这些实时更新。这样做已经向您发送了有关...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/google_wallet_now_tracks_your_flight_on_your_home_screen-news-72494.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/google-wallet-flight-tracking/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Xfinity Mobile 现提供免费设备保护和无限制的手机升级",
+      "source": "Android Authority",
+      "date": "2026-04-23",
+      "summary": "康卡斯特 Comcast 凭借全面的计划和福利，让 Xfinity Mobile 更难以被忽视。",
+      "url": "https://www.androidauthority.com/comcast-xfinity-mobile-select-and-plus-plans-3660233/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "尽管 Galaxy S26 销售成功，但三星移动首席执行官警告称将出现重大损...",
+      "source": "Android Authority",
+      "date": "2026-04-23",
+      "summary": "尽管 Galaxy S26 系列销量令人印象深刻，但这一消息还是传来了。",
+      "url": "https://www.androidauthority.com/samsung-mobile-division-full-year-losses-3660205/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/qualcomm-in-talks-with-samsung-fab/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "荣耀 600 和 600 Pro 配备 200MP 摄像头、IP69K 防护...",
-      "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "去年的荣耀 500 和 500 Pro 仍然是中国独有的，而全新的荣耀 600 和 600 Pro 则在国际上首次亮相。荣耀系列的最新成员带来了改进的设计，其灵感来自 iPhone 17 Pro 系列，具有超大的相机岛和...",
-      "url": "https://www.gsmarena.com/honor_600_and_600_pro_arrive_with_200mp_cameras_ip69k_ratings_and_bold_new_designs-news-72491.php",
+      "title": "谷歌照片正在测试“收藏夹”选项卡的重大重新设计",
+      "source": "Android Authority",
+      "date": "2026-04-23",
+      "summary": "带有可折叠部分的更整洁的布局似乎正在开发中。",
+      "url": "https://www.androidauthority.com/google-photos-collections-redesign-apk-teardown-3660010/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/honor-600-600-pro-ofic/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "配备 200MP 长焦摄像头的 iPhone 可能要到 2028 年才会上市",
-      "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "有关苹果测试 iPhone 200MP 后置摄像头的传言已经流传了一段时间，第一次泄露是在去年 5 月。现在，有消息人士表示，第一款配备 200MP 传感器的 iPhone 可能要到 2028 年才会上市。据爆料者 Di...",
-      "url": "https://www.gsmarena.com/iphone_with_200mp_telephoto_camera_may_not_arrive_until_2028-news-72477.php",
+      "title": "Android OEM 厂商应该担心苹果的“无聊”时代即将结束",
+      "source": "Android Authority",
+      "date": "2026-04-23",
+      "summary": "硬件优先的苹果公司正在崛起，它可能会重新定义整个行业的竞争方式。",
+      "url": "https://www.androidauthority.com/android-oems-should-be-worried-that-apples-boring-era-is-ending-3659715/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/iphone-200mp-telephoto-camera-rumor/-184x111/gsmarena_00.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "红米 K Pad 2首发 8.8英寸屏、天玑9500 SoC",
-      "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "除了K90 Max智能手机之外，Redmi今天还推出了K Pad 2平板电脑。与它的前身一样，它是一款具有非常高性能的迷你平板电脑。它由联发科当前的顶级芯片天玑 9500 提供支持。搭配 81216GB RAM 和 25...",
-      "url": "https://www.gsmarena.com/redmi_k_pad_2_debuts_with_88inch_screen_dimensity_9500_soc-news-72478.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/redmi-k-pad-2-official/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Find X9s 和 Find X9 Ultra 在印度的发布时间...",
-      "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "Oppo 昨天在中国推出了 Find X9s 和 Find X9 Ultra，但这些智能手机也将在国际市场上推出。 Oppo 尚未透露 Find X9s 和 Find X9 Ultra 的国际上市日期，但该公司已宣布这两...",
-      "url": "https://www.gsmarena.com/oppo_find_x9s_find_x9_ultra_india_launch_timeframe_official-news-72488.php",
+      "title": "YouTube TV 完全可定制的多视图终于开始推出",
+      "source": "Android Authority",
+      "date": "2026-04-23",
+      "summary": "添加到多视图功能的有限推出为流媒体服务带来了期待已久的频道定制。",
+      "url": "https://www.androidauthority.com/youtube-tv-customizable-multiview-rollout-3660196/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-find-x9s-find-x9-ultra-india-launch-timeframe-official/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Edge 70 Pro+ 渲染图泄漏有五种颜色",
-      "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "摩托罗拉将于明天推出 Edge 70 Pro，之后可能还会推出 Edge 70 Pro，甚至 Edge 70 Pro Lite。我们没有关于后者的新信息，但今天已经发布了一些显示 Edge 70 Pro 和 Edge 7...，带来多项升级",
-      "url": "https://www.gsmarena.com/motorola_edge_70_pro_renders_leak_in_five_colors-news-72476.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/motorola-edge-70-pro-edge-70-pro-plus-renders/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Z Flip8 不会升级电池、充电",
-      "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "上个月，我们听说三星 Galaxy Z Flip8 将配备 4300 mAh 电池，与去年的 Galaxy Z Flip7 相同。韩国的一则新传言证实了这一点，同时也揭示了 Flip8 的电池充电速度。消息人士称，Gal...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8_battery_capacity_charging_speed_surface-news-72468.php",
+      "title": "三星信息正在消亡——这是我要取代它的开源替代方案",
+      "source": "Android Authority",
+      "date": "2026-04-23",
+      "summary": "事实证明，最好的替代品并不是显而易见的。",
+      "url": "https://www.androidauthority.com/replacing-samsung-messages-not-with-google-messages-fossify-3659190/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-z-flip8-battery-capacity-charging-speed-surface/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新传言称 iPhone 18 将进行一些重要的成本削减降级",
-      "source": "GSMArena",
-      "date": "2026-04-22",
-      "summary": "长期以来一直有传言称普通iPhone 18 将错过今年传统的 9 月发布窗口。相反，据说它会在明年春天与 iPhone 18e 同时上市，只剩下 iPhone 18 Pro、iPhone 18 Pro Max 和 iPh...，带来多项升级",
-      "url": "https://www.gsmarena.com/iphone_18_to_have_some_important_costcutting_downgrades_new_rumor_claims-news-72470.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/iphone-18-downgrades/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "我尝试了一款新的 Android 拍照手机，这应该会让三星和苹果感到害怕",
-      "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "OPPO Find X9 Ultra 为变焦、人像和移动摄影树立了令人印象深刻的新标准。",
-      "url": "https://www.androidauthority.com/oppo-find-x9-ultra-camera-hands-on-3659414/",
-      "tags": [
-        "苹果"
-      ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "如果它没有抄袭苹果的液态玻璃的话，这可能是 2026 年最好的智能手机",
+      "title": "我使用 Nova Launcher 已经超过 10 年了——但我已经正式不再...",
       "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "液态玻璃正在毁掉今年最好的 Android 智能手机。让它停止。",
-      "url": "https://www.androidauthority.com/oppo-shameless-iphone-copying-3658552/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "从大理石到定制面料：摩托罗拉 Edge 70 Pro 推出独特的颜色和饰面",
-      "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "除了引人注目的 Pantone 认证美学之外，新款 Pro 型号还配备 5200nit 显示屏和 6500mAh 超大电池。",
-      "url": "https://www.androidauthority.com/motorola-edge-70-pro-launch-3659772/",
+      "date": "2026-04-23",
+      "summary": "我使用 Nova Launcher 已经超过 10 年了但我已经正式不再使用它了",
+      "url": "https://www.androidauthority.com/used-nova-launcher-10-years-done-with-it-why-3659417/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "制造商希望你彻底告别小手机",
+      "title": "OnePlus 16可能不会满足于165Hz：泄漏显示更高的刷新率跳跃",
       "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "首先是三星，现在竞争对手品牌都在给小型手机的前景泼冷水。",
-      "url": "https://www.androidauthority.com/bad-news-small-phone-fan-3659748/",
+      "date": "2026-04-23",
+      "summary": "京东方定制的 678 英寸 15K 面板可能会为下一代旗舰带来 185Hz240Hz 刷新率和专业级视觉效果。",
+      "url": "https://www.androidauthority.com/oneplus-16-240hz-display-leak-3660170/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 Pixel 10年后的电池问题是不可原谅的",
+      "title": "这款超亮的 谷歌 TV 投影仪安装起来并不困难",
       "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "Google 用了 10 代的时间来研究 Pixel 的电池续航时间，但仍然没有做到。",
-      "url": "https://www.androidauthority.com/google-pixel-battery-problems-unforgiveable-3659335/",
+      "date": "2026-04-23",
+      "summary": "JMGO N3 Ultimate 拥有 5800 ISO 流明，并跳过设置难题。",
+      "url": "https://www.androidauthority.com/jmgo-n3-ultimate-launch-3660182/",
       "tags": [
         "安卓"
       ],
@@ -182,61 +230,13 @@
       "type": "news"
     },
     {
-      "title": "Anker 通过针对耳塞进行大幅优化的芯片提高了设备​​上人工智能的门槛",
+      "title": "再见，一次性密码和神奇链接：注册新的 Android 应用程序变得更加容易",
       "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "Anker 可能是从耳机开始的，但它对这款芯片的野心远不止于此。",
-      "url": "https://www.androidauthority.com/anker-thus-3659454/",
+      "date": "2026-04-23",
+      "summary": "如果您需要恢复您的应用程序帐户，这也应该会让您的生活变得更轻松。",
+      "url": "https://www.androidauthority.com/android-verified-email-no-magic-links-otps-3660150/",
       "tags": [
         "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus 首次尝试 Android 游戏手机，结果一团糟",
-      "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "这是一半的控制器和两倍的混乱。",
-      "url": "https://www.androidauthority.com/oneplus-ace-6-ultra-gaming-phone-total-mess-3659601/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "联想疯狂强大的Android游戏平板电脑终于准备好上市了",
-      "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "联想Legion Tab Gen 5即将正式上市。",
-      "url": "https://www.androidauthority.com/lenovo-legion-tab-gen-5-coming-soon-3659763/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 钱包现在可以让您从锁定屏幕跟踪航班，如下所示",
-      "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "Google 钱包现在可以分享您的航班、火车行程等的实时更新。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/google-wallet-flight-live-updates-3659749/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "荣耀新机苦苦追击Galaxy S25 FE",
-      "source": "Android Authority",
-      "date": "2026-04-22",
-      "summary": "HONOR 600 系列与 Galaxy S25 FE 和 OnePlus 15R 等设备展开竞争。",
-      "url": "https://www.androidauthority.com/honor-600-series-3658857/",
-      "tags": [
-        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
