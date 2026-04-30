@@ -1,132 +1,168 @@
 {
-  "updated": "2026-04-29 15:34",
+  "updated": "2026-04-30 15:29",
   "news": [
     {
-      "title": "报告：三星代工 4nm 芯片良率超过 80%",
+      "title": "Tecno Pova 8 5G 出现在 谷歌 Play Console 中，...",
       "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "来自韩国的一份新报告表明，三星代工厂在 4 纳米 FinFET 工艺生产方面已达到一个重要里程碑。据 SEDaily 报道，三星 Foundry 的 4nm 工艺良率已超过 80，这意味着它目前已牢固地处于工艺成熟阶段。...",
-      "url": "https://www.gsmarena.com/report_samsung_foundry_surpasses_80_yield_on_4nm_chips-news-72603.php",
+      "date": "2026-04-30",
+      "summary": "我们打赌，即将推出的 Tecno Pova 8 5G 现在已经接近正式发布了，因为它已经在 Google Play 控制台中列出了。该列表附带了您可以在下面看到的手机图像。它还透露，Pova 8 5G 拥有 1080x2...，带来多项升级",
+      "url": "https://www.gsmarena.com/tecno_pova_8_5g_shows_up_in_the_google_play_console_confirming_its_main_specs-news-72622.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/tecno-pova-8-5g-google-play-console/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Moto G37 和 G37 Power 正式推出，配备不同尺寸的电池",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "摩托罗拉的重大发布不仅包括三款新的 Razrs、Moto G87 和 Moto G47。该公司还正式推出了 Moto G37 和 Moto G37 Power。G37配备了667英寸液晶触摸屏，刷新率为120Hz，顶部配...，带来多项升级",
+      "url": "https://www.gsmarena.com/moto_g37_and_g37_power_become_official_with_differentsized_batteries-news-72623.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/moto-g37-moto-g37-power-official/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus Pad 4 首次亮相，配备 13.2 英寸显示屏、Snapd...",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "OnePlus Pad 4 已在印度推出，作为 OnePlus Pad 3 的继任者，OnePlus Pad 3 于 2025 年 9 月在该国首次亮相。OnePlus 最新的旗舰 Android 平板电脑配备了 Sna...",
+      "url": "https://www.gsmarena.com/oneplus_pad_4_debuts_with_a_132inch_display_snapdragon_8_elite_gen_5_soc-news-72619.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-pad-4-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Edge 70 Pro 的全球版本配备潜望式长焦摄像头和无线充电",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "摩托罗拉上周在印度推出了 Edge 70 Pro，配备三个 50MP 摄像头一个主摄像头、一个超广角摄像头和一个自拍摄像头。现在，摩托罗拉推出了全球版 Edge 70 Pro，配备额外的 50MP 摄像头，这是一款潜望式...",
+      "url": "https://www.gsmarena.com/motorola_edge_70_pro_global_features_price_sale_date-news-72618.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/motorola-edge-70-pro-global-official/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X300 FE 在欧洲推出，包括配备蔡司长焦镜头的特别版",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "虽然花了比预期更长的时间，但 vivo X300 FE 现已通过西班牙、奥地利和匈牙利的 vivo 官方在线商店发售。我们将密切关注其他欧盟商店的供货情况。嗯，就在这里。 vivo X300 FE 的售价高达 1000 ...",
+      "url": "https://www.gsmarena.com/the_vivo_x300_fe_launches_in_europe_including_the_special_edition_with_azeiss_tele_extender_lens-news-72617.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/vivo-x300-fe-available-in-spain/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "报告：OnePlus 和 Realme 正在合并",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "过去几个月，围绕 OnePlus 和 Realme 的排名存在相当大的争议，来自中国的最新报告表明这两个品牌已经合并。 Tipster数码闲聊站透露，经过深思熟虑，两个品牌将合二为一，由一加中国总裁李杰领导，李杰将直接向...",
+      "url": "https://www.gsmarena.com/oneplus_and_realme_are_merging_reportedly_-news-72616.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-realme-merging-report/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X300 Ultra评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "vivo X300 Ultra评测",
+      "url": "https://www.gsmarena.com/vivo_x300_ultra-review-2957.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/vivo-x300-ultra/-347x151/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X9 Ultra、vivo X300 Ultra 支持快...",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "现在，更多 Android 设备在 Quick Share 中获得 AirDrop 支持，最新添加的是 Oppo Find X9 Ultra 和 vivo X300 Ultra。该功能上个月还推出到了三星 Galaxy ...",
+      "url": "https://www.gsmarena.com/airdrop_support_in_quick_share_comes_to_oppo_find_x9_ultra_vivo_x300_ultra-news-72615.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/airdrop-quick-share-oppo-vivo/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Moto G47 宣布配备 108MP 摄像头和 120Hz 屏幕",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "摩托罗拉发布了 Moto G47，以及 Moto G37、Moto G37 Power、Moto G87 和三款 Razr 70 系列智能手机。摩托罗拉 Moto G47 搭载天玑 6300 SoC，搭配 8GB LPD...，带来多项升级",
+      "url": "https://www.gsmarena.com/motorola_moto_g47_features_price_sale_date-news-72614.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/motorola-moto-g47-official/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Moto G87 正式配备 200MP 主摄像头，这是 G 系列设备中最好的",
+      "source": "GSMArena",
+      "date": "2026-04-30",
+      "summary": "摩托罗拉不仅推出了三款新的 Razrs，还让之前泄露的 Moto G87 正式上市。该设备配备了 G 系列手机中最好的主摄像头。它是一个带 OIS 的 200MP 传感器，并具有 2 倍无损变焦功能。还有一个 8MP 超...",
+      "url": "https://www.gsmarena.com/moto_g87_is_official_with_a_200mp_main_camera_the_best_ever_in_a_gseries_device-news-72613.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/moto-g87-official/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Gemini 干净的聊天界面可能不会长期保持无广告状态",
+      "source": "Android Authority",
+      "date": "2026-04-30",
+      "summary": "Gemini 的无广告记录已经岌岌可危。",
+      "url": "https://www.androidauthority.com/google-gemini-could-soon-get-ads-3662450/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "据报道，三星 Galaxy S27 Ultra 在大胆的相机改革中取消了 3...",
+      "source": "Android Authority",
+      "date": "2026-04-30",
+      "summary": "据报道，随着三星将焦点转向更强大的 5 倍传感器，长期受到批评的变焦镜头将被砍掉。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-no-3x-camera-leak-3662420/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-4nm-process-maturity/-184x111/gsmarena_00.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Oppo Find X10 相机和显示屏规格曝光，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "有关即将推出的 Oppo Find X10 的更多细节已在网上曝光，该产品预计将于今年 10 月在中国首次亮相。最近有传言称该设备可能配备 8000mAh 电池和双 200MP 后置摄像头。据爆料者数码闲聊站透露，该机最...，更多细节逐步揭晓",
-      "url": "https://www.gsmarena.com/oppo_find_x10_camera_and_display_specifications_tipped-news-72601.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-find-x10-camera-specs-rumor/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉签名获得新版本",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "摩托罗拉今年早些时候推出了两种颜色的 Motorola Signature：Pantone Martini Olive 和 Pantone Carbon。现在，新的泄漏表明该品牌将推出第三种配色，可能被称为 House ...",
-      "url": "https://www.gsmarena.com/motorola_signature_house_of_moto_indigo_version_surfaces-news-72599.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/motorola-signature-house-of-moto-indigo-version-surfaces/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Realme 16x 颜色、RAM 和存储选项泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "Realme 16 5G 本月早些时候在印度首次亮相。现在的新消息表明该公司正准备推出 Realme 16x 5G，它将接替 2025 年 10 月宣布的 15x。根据泄露的信息，Realme 16x 5G 的型号为 R...",
-      "url": "https://www.gsmarena.com/realme_16x_colors_ram_and_storage_options_leak-news-72598.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/realme-16x-5g-india-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉 Moto G87 出现在新渲染图中",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "上周，我们看到了即将推出的 Moto G87 的两张清单，借助 Evan Blass 分享的官方渲染图，我们现在可以第一次看到这款设备。Moto G87 潘通序曲灰色该设备采用平面显示屏，并为其前置摄像头打孔，就像它的前...",
-      "url": "https://www.gsmarena.com/motorola_moto_g87_emerges_in_new_renders_-news-72600.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/moto-g87-renders/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Pixel 11 的 Tensor G6 芯片组规格泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "如果谷歌坚持其通常的发布时间表，那么 Google Pixel 11 系列可能会在 8 月发布。该系列所有型号的基于 CAD 的渲染图已经浮出水面，现在有关该系列 Tensor G6 芯片组的关键细节也已泄露。有爆料者分...，带来多项升级",
-      "url": "https://www.gsmarena.com/google_pixel_11s_tensor_g6_chipset_specs_revealed_in_leak-news-72597.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/google-tensor-g6-specs-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iQOO Neo 10 推出沥青黑新配色",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "iQOO去年5月在印度推出了iQOO Neo 10，有地狱红和钛金铬两种颜色，4月30日将推出两种新配色。一种是我们昨天看到的阿尔卑斯白版本另一种是我们昨天看到的阿尔卑斯白版本。今天，我们第一次正式看到第二款车型，称为沥...",
-      "url": "https://www.gsmarena.com/iqoo_neo_10_asphalt_black_color-news-72596.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/iqoo-neo-10-asphalt-black-color/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌翻译 20 岁了，添加了一项非常受欢迎的功能",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "不管你信不信，谷歌翻译已经 20 岁了。该服务于 2006 年作为一项不起眼的实验推出，如今支持约 250 种语言和超过 60000 个潜在语言对，支持世界上 95 的人口。也许并不奇怪，最常用的语言对是英语到西班牙语。...",
-      "url": "https://www.gsmarena.com/google_translate_turns_20_adds_a_very_requested_feature-news-72593.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/google-translate-pronunciation-practice/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米发布适用于小米17系列和15T Pro的Android 17开发者预览版...",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "小米今天开放了 Android 17 开发者预览版计划，首批三款设备有资格试用。小米17、17 Ultra和15T Pro可以接收更新，未来将支持更广泛的设备。Android 开发者计划允许尽早访问即将推出的操作系统版本...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/xiaomi_releases_android_17_developer_preview_for_the_xiaomi_17_series_and_15t_pro-news-72594.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/xiaomi-android-developers-beta/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果预计将在 iOS 27 中带来三款新的人工智能照片编辑工具",
-      "source": "GSMArena",
-      "date": "2026-04-29",
-      "summary": "苹果将于 6 月 8 日在其年度全球开发者大会上推出 iOS 27，预计该版本的操作系统将与经常被推迟的智能 Siri 一起发布，该操作系统由谷歌的 Gemini 型号提供支持。这不会是 iOS 27 中唯一的人工智能增...，带来多项升级",
-      "url": "https://www.gsmarena.com/apple_tipped_to_bring_three_new_aipowered_photo_editing_tools_in_ios_27-news-72595.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/apple-photos-new-ai-features-ios-27/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谁要求这个？ YouTube Shorts 即将出现在您的 谷歌 TV 主屏...",
+      "title": "下一代 Galaxy Book 可能是一款搭载 One UI 9 的旗舰 A...",
       "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "新的适合您的短视频行将于今年夏天为美国电视带来 YouTube Shorts 的个性化信息流。",
-      "url": "https://www.androidauthority.com/google-tv-short-videos-home-screen-3661920/",
+      "date": "2026-04-30",
+      "summary": "新的泄密事件表明三星笔记本电脑发生了巨大的转变，具有更深入的 Galaxy AI 集成和彻底修改的 DeX。",
+      "url": "https://www.androidauthority.com/samsung-android-galaxy-book-aluminium-os-leak-3662390/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Android Auto 不允许你关闭闹钟，但谷歌正在研究解决方案",
+      "source": "Android Authority",
+      "date": "2026-04-30",
+      "summary": "仅仅花了近十年的时间，谷歌就可以为您提供一种简单的方法来消除 Android Auto 中的警报。",
+      "url": "https://www.androidauthority.com/android-auto-dismiss-alarms-apk-teardown-3662381/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "Spotify 不适合您吗？你并不孤单",
+      "title": "嘿 Android，我需要为我的爸爸妈妈提供反向家长控制",
       "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "音乐流媒体服务可能已关闭。",
-      "url": "https://www.androidauthority.com/spotify-outage-april-2026-3661978/",
+      "date": "2026-04-30",
+      "summary": "当年长的父母也需要大量帮助来管理手机时，为什么家长控制仅限于孩子？",
+      "url": "https://www.androidauthority.com/i-need-reverse-android-parental-controls-mom-dad-3662353/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "Quick Share 的 Windows 应用程序现在看起来更像 Andr...",
+      "title": "YouTube Premium 正在悄然赢得与广告拦截器的战争",
       "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "Quick Share 的 Windows 应用程序现在看起来更像 Android 应用程序",
-      "url": "https://www.androidauthority.com/quick-shares-windows-app-now-looks-a-little-more-like-an-android-app-3661953/",
+      "date": "2026-04-30",
+      "summary": "本月涨价后，这种势头还会持续吗？",
+      "url": "https://www.androidauthority.com/youtube-winning-war-against-ad-blockers-3662287/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "周三壁纸：更多精彩手机壁纸供大家分享（4月29日）",
+      "title": "水滴过滤器是母亲节日常健康的明智选择",
       "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "以下是我们的读者和 Android Authority 团队成员每周精选的 Android 壁纸！",
-      "url": "https://www.androidauthority.com/wallpaper-wednesday-april-29-2026-3661344/",
+      "date": "2026-04-30",
+      "summary": "干净的饮用水是不断赠送的礼物。",
+      "url": "https://www.androidauthority.com/waterdrop-filter-mothers-day-3660926/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "随着又有一个品牌加入抢先体验计划，Android 17 Beta 版不断壮大",
+      "title": "T-Mobile 光纤套餐可能会更便宜，但有一个重大问题",
       "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "Android 17 Beta 登陆这四款智能手机。",
-      "url": "https://www.androidauthority.com/xiaomi-android-17-beta-3661923/",
+      "date": "2026-04-30",
+      "summary": "传闻中的重组可能会取消 TMobile 的五年价格保证，使新用户容易受到未来利率上涨的影响。",
+      "url": "https://www.androidauthority.com/t-mobile-new-fiber-plans-leak-3662322/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Visible 现在拥有自己的 5G 家庭互联网选项，而且实际上相当便宜",
+      "title": "您应该购买 5 款 Android 手机，而不是摩托罗拉 Razr (202...",
       "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "只需 50 美元，您就可以获得两个月的服务和一个网关，此后每月只需 30 美元。",
-      "url": "https://www.androidauthority.com/visible-5g-home-internet-3660308/",
+      "date": "2026-04-30",
+      "summary": "当这些竞争对手的手机上市时，为什么还要购买 Razr 2026？",
+      "url": "https://www.androidauthority.com/motorola-razr-2026-alternatives-3661445/",
       "tags": [
         "安卓"
       ],
@@ -194,47 +230,11 @@
       "type": "news"
     },
     {
-      "title": "Aiper Scuba V3 让泳池清洁变得简单无忧",
+      "title": "用于 Wear OS 的 Gemini 也可能很快就会焕发光彩",
       "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "我深入研究了 Scuba V3，这是一款每次设置后就可以忘记的泳池清洁器。",
-      "url": "https://www.androidauthority.com/aiper-scuba-v3-robot-pool-cleaner-review-3658471/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "iPhone 17 电量耗尽后无法开机？你并不孤单",
-      "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "让它比平常更长时间地插入电源可能会有所帮助。",
-      "url": "https://www.androidauthority.com/iphone-17-battery-issue-3661857/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "随着 RAM 危机的持续，更多 AYANEO 手持设备价格上涨",
-      "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "RAM 危机给我的人工智能公司带来了影响，并继续影响着手持设备市场。",
-      "url": "https://www.androidauthority.com/more-ayaneo-handhelds-price-increases-3661830/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "您还在使用 谷歌 登录吗？这就是为什么你应该停止",
-      "source": "Android Authority",
-      "date": "2026-04-29",
-      "summary": "把所有的数字鸡蛋都放在谷歌的篮子里是不明智的。",
-      "url": "https://www.androidauthority.com/are-you-still-using-sign-in-with-google-why-you-should-stop-3660780/",
+      "date": "2026-04-30",
+      "summary": "新的零售演示展示了充满活力的发光动画和刷新的天气图标，双子座将出现在您的手腕上。",
+      "url": "https://www.androidauthority.com/google-gemini-wear-os-visual-refresh-apk-teardown-3662278/",
       "tags": [
         "安卓"
       ],
