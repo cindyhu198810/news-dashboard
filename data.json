@@ -1,168 +1,156 @@
 {
-  "updated": "2026-05-01 11:46",
+  "updated": "2026-05-02 09:37",
   "news": [
     {
-      "title": "观看 Oppo Find X9 Ultra 从太空边缘拍摄地球",
+      "title": "苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 定...",
       "source": "GSMArena",
-      "date": "2026-05-01",
-      "summary": "Oppo 上周在中国推出了 Find X9 Ultra，在我们的评测中，我们发现它是一款出色的拍照手机，拥有强大的摄像系统，无论白天还是夜晚都能拍摄出精彩的静态照片。虽然我们显然用 Find X9 Ultra 点击了地球...",
-      "url": "https://www.gsmarena.com/oppo_find_x9_ultra_earth_space_photos-news-72638.php",
+      "date": "2026-05-02",
+      "summary": "RAM 危机预计将严重影响未来智能手机的定价，但显然苹果不会受到任何影响。根据分析师 Jeff Pu 的一份新研究报告，苹果正在为其即将推出的 iPhone 18 Pro 和 iPhone 18 Pro Max 准备一些...",
+      "url": "https://www.gsmarena.com/apples_iphone_18_pro_and_iphone_18_pro_max_to_be_aggressively_priced-news-72646.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/iphone-18-pro-iphone-18-pro-max-aggressive-pricing/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Realme C100 即将登陆欧洲 配备更小的电池",
+      "source": "GSMArena",
+      "date": "2026-05-02",
+      "summary": "Realme本月初首先在亚洲部分地区推出了C100，现在该设备正在欧洲左右上市。 128GB 存储售价为 269 欧元，256GB 售价为 299 欧元。它将提供萌芽绿和绽放紫两种颜色，配备 4GB 内存。在欧洲，这款手...",
+      "url": "https://www.gsmarena.com/realme_c100_is_headed_to_europe_with_a_smaller_battery-news-72647.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-find-x9-ultra-earth-space-photos/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/realme-c100-europe/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "带有施华洛世奇水晶的 Motorola Signature 和 Buds 2...",
+      "title": "传闻中的 20 周年 iPhone 设计将应用于两款 Pro 机型",
+      "source": "GSMArena",
+      "date": "2026-05-02",
+      "summary": "明年，初代 iPhone 就将迎来 20 岁生日，或者更确切地说，这是其发布 20 周年，因为我们怀疑是否还有任何设备存在。长期以来一直有传言称，苹果公司计划推出一些特别的产品来纪念这一时刻，几天前有报道称，苹果将推出一...，带来多项升级",
+      "url": "https://www.gsmarena.com/the_rumored_20th_anniversary_iphone_design_will_be_applied_to_both_pro_models-news-72645.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/iphone-pro-2027-redesign/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 AirPods Max 2 评测，真实体验如何？",
       "source": "GSMArena",
       "date": "2026-05-01",
-      "summary": "摩托罗拉最近推出了多款设备，包括新款 Razr 70 系列、Moto G87、Moto G47、Moto G37 和 Moto G37 Power。除了这些产品的推出外，该公司还增加了新的 Brilliant 系列。Br...",
-      "url": "https://www.gsmarena.com/motorola_signature_and_buds_2_plus_with_swarovski_crystals_are_here-news-72637.php",
+      "summary": "AirPods Max 是苹果有史以来唯一一款全尺寸耳机。当最初的型号在 2020 年首次推出时，尽管不是特别像 pod，但仍保留 AirPods 的名称，这确实令人惊讶。即使与市场上其他优质无线耳机相比，它们的售价为 ...",
+      "url": "https://www.gsmarena.com/apple_airpods_max_2_review-news-72570.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/apple-airpods-max-2-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Spotify 开始验证非 AI 艺术家，添加有关所有艺术家的更多详细信息",
+      "source": "GSMArena",
+      "date": "2026-05-01",
+      "summary": "Spotify 已开始验证非人工智能艺术家，以提高音乐背后艺术家的真实性和信任度。这也是暗示任何未经验证的艺术家很可能是人工智能的一种肯定的方式。Spotify 验证徽章将表明该艺术家随着时间的推移具有持续的听众活动和参...",
+      "url": "https://www.gsmarena.com/spotify_starts_verifying_nonai_artists_adds_more_details_about_all_artists-news-72642.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/motorola-signature-buds-2-plus-brilliant-collection-ofic/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/spotify-verified-profiles/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy A54 收到 One UI 8.5 Beta 2 更新",
+      "title": "安兔兔4月份成绩出炉，iQOO领跑智能手机排行榜",
       "source": "GSMArena",
       "date": "2026-05-01",
-      "summary": "日前，三星发布了适用于 Galaxy S23 系列、Galaxy Z Flip5、Galaxy A36 和 Galaxy A35 的 One UI 85 Beta 2 更新。现在，该品牌已将第二个 One UI 85 B...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a54_one_ui_8_5_beta_2_update-news-72636.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-a54-one-ui-8-5-beta-2-update/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo X Fold6规格曝光，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-05-01",
-      "summary": "vivo预计将在未来两个月内推出X Fold6。如果该公司遵循通常的发布周期，可折叠设备可能会在六月上市。在官方确认之前，有关该设备的新细节已在网上浮出水面。有关 vivo X Fold6 的初步细节于去年 11 月浮出...，带来多项升级",
-      "url": "https://www.gsmarena.com/vivo_x_fold6_specifications_tipped-news-72635.php",
+      "summary": "每个月初，安兔兔都会发布图表，向我们展示哪些设备上个月的平均得分最高。所以现在这些都是四月份可用的。请记住，这些是平均值，而不是高分，并且只有在中国完成的基准才算数。话不多说，我们先从旗舰领域开始，iQOO 15 Ult...，带来多项升级",
+      "url": "https://www.gsmarena.com/antutu_results_for_april_are_in_iqoo_leads_the_smartphone_charts-news-72643.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/vivo-x-fold6-specs-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/antutu-april-charts/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "华为 Nova 15 Max 即将上市，电池容量为 8,500mAh",
+      "title": "vivo S50t 正式发布，你不会相信与 S50 相比有什么不同，新机正式...",
       "source": "GSMArena",
       "date": "2026-05-01",
-      "summary": "华为已确认在全球推出nova 15系列新机nova 15 Max。该手机预计将于 5 月 7 日在泰国的一次活动中首次亮相。值得注意的是，该公司此前于 2025 年 12 月在中国推出了 Nova 15、Nova 15 ...",
-      "url": "https://www.gsmarena.com/huawei_nova_15_max_is_coming_soon_with_an_8500mah_battery-news-72632.php",
+      "summary": "vivo S50于12月与S50 Pro mini一起亮相，今天vivo还发布了S50t。现在，如果您想知道这款型号与原版 S50 相比有什么不同，请做好准备，因为这只是一个细节，我们敢打赌您猜不出是什么。如果你说UFS...，带来多项升级",
+      "url": "https://www.gsmarena.com/vivo_s50t_gets_official_you_wont_believe_whats_different_compared_to_the_s50-news-72644.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/huawei-nova-15-max-launch-soon/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/vivo-s50t-announced/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Omdia：受供应方推动，第一季度全球智能手机出货量增长 1%",
+      "title": "Xbox 模式现已在 Windows 11 上推出",
       "source": "GSMArena",
       "date": "2026-05-01",
-      "summary": "尽管存储芯片危机持续存在，Omdia 报告第一季度全球智能手机出货量仍增长 1。在供应商提前装载的推动下，今年前三个月的总出货量达到 2985 亿台。此时，智能手机公司因预计零部件成本上升而战略性地增加库存量。三星重回全...",
-      "url": "https://www.gsmarena.com/omdia_global_smartphone_shipments_grew_by_1_in_q1_fueled_by_supply_side_push-news-72630.php",
+      "summary": "微软正式宣布开始在特定市场向 Windows 11 推出 Xbox 模式。它将在台式机、笔记本电脑和平板电脑上提供，并承诺为比以往更多的玩家带来受主机启发的 Xbox 体验。Xbox 模式可让您更轻松地进入游戏，并提供专...",
+      "url": "https://www.gsmarena.com/xbox_mode_is_now_rolling_out_on_windows_11-news-72641.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/omdia-q1-global-smartphone-shipments-report/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/windows-11-xbox-mode-rolling-out/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星将 One UI 引入笔记本电脑",
+      "title": "小米手环10 Pro曝光，核心配置曝光",
       "source": "GSMArena",
       "date": "2026-05-01",
-      "summary": "据新传言，三星目前正在开发 Galaxy Book 品牌笔记本电脑，该笔记本电脑将运行 Android 17，并搭载 One UI 9。在您认为这很疯狂之前，请记住 Google 本身正处于将 ChromeOS 与 An...",
-      "url": "https://www.gsmarena.com/samsung_is_bringing_one_ui_to_laptops-news-72634.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-book-laptops-running-android-and-one-ui-9/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "AirPods Ultra 配备 Siri 摄像头",
-      "source": "GSMArena",
-      "date": "2026-05-01",
-      "summary": "有传言称，苹果公司将在未来几个月内认真对待 Ultra 品牌建设，iPhone Fold 预计将以 iPhone Ultra 的名义推出。还将推出 MacBook Ultra 和一对新的 AirPods Ultra。这些...",
-      "url": "https://www.gsmarena.com/airpods_ultra_are_coming_with_cameras_for_siri-news-72633.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/airpods-ultra-cameras/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Gemini 现在可以为您生成文件",
-      "source": "GSMArena",
-      "date": "2026-04-30",
-      "summary": "Google 的 Gemini 现在可以轻松地为您生成文件。支持的格式有：工作区文件文档、表格和幻灯片、pdf、docx、xlsx、csv、LaTeX、纯文本 TXT、富文本格式 RTF 和 Markdown MD。此功...",
-      "url": "https://www.gsmarena.com/gemini_can_now_generate_files_for_you-news-72629.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/google-gemini-file-generation/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy S27 Ultra 的摄像头数量将比前身少",
-      "source": "GSMArena",
-      "date": "2026-04-30",
-      "summary": "最近有传言称，三星即将推出的 Galaxy S27 系列将进行重大设计改革移动相机岛。事实上，Galaxy S27 Ultra 可能看起来像这样：这不是泄露的图像，它只是基于上述谣言的推测性渲染。来自同一个来源，多产的冰...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultra_to_have_one_less_camera_then_its_predecessor-news-72631.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-s27-ultra-one-less-camera/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "忘记模拟器：这些新的手持设备专为玩 Commodore 64 和 Spect...",
-      "source": "Android Authority",
-      "date": "2026-05-01",
-      "summary": "这些售价 130 美元的 Hyper Mega Tech 手持设备采用翻盖式设计、IPS 显示屏，并支持您自己的游戏 ROM。",
-      "url": "https://www.androidauthority.com/hyper-mega-tech-c64-zx-spectrum-handhelds-3662737/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Pixel 10 Pro 是我最喜欢的手机摄像头 — 直到我测试了这款火爆的...",
-      "source": "Android Authority",
-      "date": "2026-05-01",
-      "summary": "OPPO Find X9 Ultra 证明相机硬件甚至胜过 Pixel 最强大的计算摄影技巧。",
-      "url": "https://www.androidauthority.com/pixel-vs-find-x9-ultra-camera-shootout-3661508/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "小米智能手环 10 Pro 曝光，采用优雅的陶瓷设计，核心配置曝光",
-      "source": "Android Authority",
-      "date": "2026-05-01",
-      "summary": "泄漏还暗示 Band 10 Pro 配备了更大的电池或更大的屏幕。",
-      "url": "https://www.androidauthority.com/xiaomi-smart-band-10-pro-leak-ceramic-3662709/",
+      "summary": "小米于 2024 年 10 月推出了智能手环 9 Pro，现在看来该公司正在努力开发其继任者。据来自中国的新传言，智能手环 10 Pro 最早可能于下个月推出。小米手环9 Pro据称，它将提供黑色、白色、银色、橙色和粉色...",
+      "url": "https://www.gsmarena.com/xiaomi_smart_band_10_pro_leaks-news-72640.php",
       "tags": [
         "小米"
       ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-smart-band-10-pro-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果第二季度业绩出炉 iPhone 17系列有史以来最受欢迎",
+      "source": "GSMArena",
+      "date": "2026-05-01",
+      "summary": "苹果公司公布了截至 3 月 28 日的季度财务业绩。在新闻稿中，该公司报告收入为 1112 亿美元，较去年第二季度增长 17。苹果还指出，iPhone 17 系列是迄今为止最受欢迎的产品。苹果公司首席执行官蒂姆库克表示，...",
+      "url": "https://www.gsmarena.com/apples_q2_results_are_out_iphone_17_lineup_is_the_most_popular_ever-news-72639.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/apple-q2-2026-results/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "您应该购买 5 款 Android 手机，而不是摩托罗拉 Razr Ultr...",
+      "source": "Android Authority",
+      "date": "2026-05-02",
+      "summary": "也许你不应该花 1500 美元购买新款 Razr Ultra。",
+      "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-alternatives-3661675/",
+      "tags": [
+        "安卓"
+      ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "240Hz 显示屏？最新的 OnePlus 16 泄露事件充满了绝望的气息，...",
+      "title": "无论是否私密，我都无法忍受 S26 Ultra 的屏幕",
+      "source": "Android Authority",
+      "date": "2026-05-02",
+      "summary": "我的眼睛应该不会因使用手机 10 分钟而受伤。",
+      "url": "https://www.androidauthority.com/couldnt-live-with-s26-screen-3660952/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "你并不孤单：一个错误正在使 YouTube 的网络播放器陷入无限的滞后循环",
       "source": "Android Authority",
       "date": "2026-05-01",
-      "summary": "规格越来越大，但方向却越来越不明确。",
-      "url": "https://www.androidauthority.com/oneplus-16-spec-race-problem-3662533/",
+      "summary": "渲染错误导致 YouTube 网络播放器动画无限循环，并导致视频变得一团糟。",
+      "url": "https://www.androidauthority.com/youtube-web-player-render-bug-3662908/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "这是我今年最喜欢的拍照手机，但它的价格标签已经很长时间了",
+      "title": "使用此配件将您的新 Steam 控制器转变为临时 Steam Deck",
       "source": "Android Authority",
       "date": "2026-05-01",
-      "summary": "如果您能接受价格标签，Vivo 在全球市场推出的首款 Ultra 手机非常值得等待。",
-      "url": "https://www.androidauthority.com/vivo-x300-ultra-review-3659010/",
+      "summary": "Steam 控制器正在获取安装您手机的第三方伙伴。",
+      "url": "https://www.androidauthority.com/basegrip-for-steam-controller-3662896/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "我比较了摩托罗拉 Razr Fold 和 Pixel 10 Pro Fold...",
+      "title": "谷歌 希望您帮助塑造 I/O 2026 倒计时的外观",
       "source": "Android Authority",
       "date": "2026-05-01",
-      "summary": "谷歌最贵的 Pixel 给人的感觉并不是最好的手机。",
-      "url": "https://www.androidauthority.com/motorola-razr-fold-vs-google-pixel-10-pro-fold-3662261/",
+      "summary": "谷歌想要你的振动编码的想法。",
+      "url": "https://www.androidauthority.com/google-io-countdown-contest-3662872/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "鲜为人知的 Android 技巧可以让 ChatGPT 的屏幕共享方式在手机...",
+      "title": "谷歌刚刚发布了一款专门针对 Android 的新“实验性人工智能助手”应用程...",
       "source": "Android Authority",
       "date": "2026-05-01",
-      "summary": "尽管允许辅助功能访问可能会引起一些用户的担忧。",
-      "url": "https://www.androidauthority.com/chatgpt-android-17-new-screen-sharing-3662693/",
+      "summary": "COSMO 作为 Google 最新的 Android 人工智能应用程序首次亮相，但它的用途是什么？",
+      "url": "https://www.androidauthority.com/google-cosmo-3662838/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +194,23 @@
       "type": "news"
     },
     {
-      "title": "谷歌 Meet 现在允许您选择会议记录中包含的内容",
+      "title": "Galaxy 手机上的一个令人讨厌的错误是截屏后冻结手势",
       "source": "Android Authority",
-      "date": "2026-04-30",
-      "summary": "Google Meet 的笔记工具现在可让您自定义部分并跟踪决策。",
-      "url": "https://www.androidauthority.com/google-meet-notes-customization-3662613/",
+      "date": "2026-05-01",
+      "summary": "三星确认单手操作 Plus 存在滑动冻结错误。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-one-hand-gesture-freeze-3662831/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "奇怪的 Pixel Buds 错误导致 ANC 和透明度切换消失",
+      "source": "Android Authority",
+      "date": "2026-05-01",
+      "summary": "Pixel Buds 用户声称他们的噪音控制开关已经消失。",
+      "url": "https://www.androidauthority.com/pixel-buds-anc-controls-disappear-3662799/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Gemini 笔记本电脑通过移动设备扩展到网络之外",
+      "title": "今年 5 月您需要尝试的 5 款最佳 Android 新应用",
       "source": "Android Authority",
-      "date": "2026-04-30",
-      "summary": "移动设备上的 Gemini 终于从网络应用程序中获得了此功能。",
-      "url": "https://www.androidauthority.com/gemini-notebooks-expands-to-mobile-3662556/",
+      "date": "2026-05-01",
+      "summary": "这个月的版本包括一个出色的新 Android 启动器、一个非常好的 RPG 移植等等。",
+      "url": "https://www.androidauthority.com/best-new-android-apps-games-may-2026-3661657/",
       "tags": [
         "安卓"
       ],
@@ -230,13 +230,13 @@
       "type": "news"
     },
     {
-      "title": "Android Auto 主屏幕小部件看起来即将推出",
+      "title": "Galaxy Z Fold 8 的竞争对手可能拥有迄今为止可折叠设备中最大的...",
       "source": "Android Authority",
-      "date": "2026-04-30",
-      "summary": "Google 是否准备好在下个月的 IO 大会上宣布该功能？",
-      "url": "https://www.androidauthority.com/android-auto-home-widgets-3662452/",
+      "date": "2026-05-01",
+      "summary": "vivo X Fold 6 还可能配备新的 200MP 摄像头。",
+      "url": "https://www.androidauthority.com/vivo-x-fold-6-leak-biggest-battery-3662718/",
       "tags": [
-        "安卓"
+        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
