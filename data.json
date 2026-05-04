@@ -1,8 +1,92 @@
 {
-  "updated": "2026-05-03 09:43",
+  "updated": "2026-05-04 10:29",
   "news": [
     {
-      "title": "Oppo Find X9 Ultra Khronos Creator 套件上...",
+      "title": "三星 Galaxy Z Flip8 将带来无折痕显示屏和新铰链",
+      "source": "GSMArena",
+      "date": "2026-05-04",
+      "summary": "三星的 Galaxy Z Flip和 Z Fold系列正准备在今年晚些时候进入第八代，我们收到了来自韩国的一份新报告，其中强调了翻盖型号可能发生的一些变化。预计三星将带来无折痕折叠面板以及新的铰链机制。新报告没有详细说明...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8_to_bring_creasefree_display_and_new_hinge-news-72657.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/galaxy-flip8-crease-less-report/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "联想拯救者Y70关键规格在发布前得到确认，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-05-04",
+      "summary": "联想透露了即将推出的 Legion Y70 2026 智能手机的新细节。上个月，该公司确认凭借升级版Legion Y70重返智能手机市场，该产品将于5月19日在中国发布。该手机将采用摩托罗拉风格的设计，并有两种颜色可供选...，带来多项升级",
+      "url": "https://www.gsmarena.com/lenovo_legion_y70_key_specifications_confirmed_ahead_of_launch-news-72656.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/lenovo-legion-y70-specs/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus Nord Buds 4 Pro 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-05-04",
+      "summary": "Nord Buds 4 Pro 是 OnePlus 不断增长且令人困惑的产品线中的又一款无线耳机。这些是该公司低端产品系列中最优质的耳塞，但低于非 Pro 编号系列和 Pro 编号系列，以及非编号 Pro 系列。不管怎样...",
+      "url": "https://www.gsmarena.com/oneplus_nord_buds_4_pro_review-news-72654.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oneplus-nord-buds-4-pro-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "第 18 周十大热门手机",
+      "source": "GSMArena",
+      "date": "2026-05-03",
+      "summary": "在上周失去榜首位置后，三星 Galaxy A57 现在重新成为我们数据库中过去 7 天最受欢迎的智能手机。对于三星来说更好的是，紧随其后的是 Galaxy S26 Ultra，而上周的冠军荣耀 600 Pro 也登上了领...",
+      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_18-news-72655.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-184x111/gsmarena_002.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S26 与 Galaxy S25",
+      "source": "GSMArena",
+      "date": "2026-05-03",
+      "summary": "是时候升级你的 Galaxy 了，或者你已经决定想要一些新鲜的东西，而新的 Galaxy S26 系列突然出现在你的雷达上。如果有趣的三星 Galaxy S26 满足您的需求，那么您肯定也可以考虑旧款三星 Galaxy ...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_vs_galaxy_s25_review_battery_camera_price_compared-news-72229.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-s26-vs-galaxy-s25/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "查看 WhatsApp 即将推出的液态玻璃设计",
+      "source": "GSMArena",
+      "date": "2026-05-03",
+      "summary": "2025 年末，WhatsApp 的 Beta 版本暗示即将进行设计改革，与苹果在最新 iOS 中开始使用的所谓 Liquid Glass 设计语言保持一致。用户开始报告小的 UI 元素与主聊天屏幕一起被重新设计。然而，...",
+      "url": "https://www.gsmarena.com/check_out_whatsapps_upcoming_liquid_glass_design-news-72652.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/whatsapp-liquid-glass-redesign/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周优惠：iPhone Air 和 iPhone 17 降价，Galaxy ...",
+      "source": "GSMArena",
+      "date": "2026-05-03",
+      "summary": "苹果 iPhone Air 并不是第一款超薄手机，但无论如何，它却引发了这股热潮苹果对市场产生了这种影响。目前，这款手机最高可享受 480 欧元的折扣。这为你提供了 65 英寸 LTPO 显示屏 120Hz 和强大的 A...",
+      "url": "https://www.gsmarena.com/weekly_deals_iphone_air_and_iphone_17_get_price_cuts_galaxy_s26_and_pixel_10_10_pro_on_sale_too-news-72624.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-deals-30/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X9 Ultra Khronos Creator 套件动...",
       "source": "GSMArena",
       "date": "2026-05-03",
       "summary": "最近的中国Ultra智能手机是非常强大的成像工具，你可以说Oppo Find X9 Ultra绝对是其中的佼佼者。但当您能够增强已经很棒的功能并扩展其用途时，总是令人兴奋的。没有什么比我们为最近的智能手机配备的这些不断发...",
@@ -38,95 +122,11 @@
       "type": "news"
     },
     {
-      "title": "每周投票结果：荣耀600 Pro盖过荣耀600",
-      "source": "GSMArena",
-      "date": "2026-05-03",
-      "summary": "在欧洲，荣耀 600 Pro 比普通型号贵 43。然而，在马来西亚，附加费仅为 27，这很重要。 Pro 始终是这两款手机中更好的一款，唯一的问题是其较高的价格是否值得。   内存  荣耀600  荣耀600 Pro  ...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_the_honor_600_pro_overshadows_the_honor_600-news-72606.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-poll-results-honor-600-honor-600-pro/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy S26 Plus 对比. Galaxy S25 Plus",
-      "source": "GSMArena",
-      "date": "2026-05-03",
-      "summary": "经过又一次适度的升级后，您可能想知道新发布的三星 Galaxy S26 和已有一年的三星 Galaxy S25 之间最明智的选择是什么。毕竟，看起来后者可以让你以更合理的起始价格获得很多好处。但仅从规格表来看，并不是所有...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_plus_vs_galaxy_s25_plus_review_battery_camera_price_compared-news-72228.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-s26-plus-vs-galaxy-s25-plus/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周优惠：Nothing Phone(3)开售，Galaxy S26和Pix...",
-      "source": "GSMArena",
-      "date": "2026-05-02",
-      "summary": "下周是母亲节，我们已经看到一些发货时间推迟到假期后。不过，大多数手机仍会准时到达。诚然，Nothing Phone 3 可能不会是妈妈的首选，但这款搭载 Snapdragon 8s Gen 4 的手机可享受 200 美元...",
-      "url": "https://www.gsmarena.com/weekly_deals_nothing_phone_3_goes_on_sale_galaxy_s26_and_pixel_10_series_also_discounted-news-72621.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-deals-30/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果 停止通过其在线商店销售 M4 Mac Mini 256GB 存储型号",
-      "source": "GSMArena",
-      "date": "2026-05-02",
-      "summary": "苹果于 2024 年推出了搭载 M4 芯片的 Mac Mini，其基本型号拥有 256GB 存储空间。该型号上个月在包括美国在内的一些国家的苹果在线商店中脱销，目前已从全球苹果网站上下架。因此，苹果网站上 M4 Mac ...",
-      "url": "https://www.gsmarena.com/apple_m4_mac_mini_256_gb_storage_model_discontinued-news-72651.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/apple-m4-mac-mini-256-gb-storage-model-discontinued/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米 Civi 6、Civi 6 Pro 规格曝光，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-05-02",
-      "summary": "小米去年五月推出了 Civi 5 Pro，因此我们预计这个中国品牌很快就会推出其继任者。我们还没有听到有关小米 Civi 6 Pro 的任何消息，但当它到达时，它将配备天玑 9500 SoC。该消息来自可靠的爆料者数字聊...",
-      "url": "https://www.gsmarena.com/xiaomi_civi_6_civi_6_pro_specs_tipped-news-72650.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-civi-6-civi-6-pro-specs-tipped/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "据称 Realme 16T 出现在 Geekbench 上并附有主要规格",
-      "source": "GSMArena",
-      "date": "2026-05-02",
-      "summary": "Realme于去年9月推出了Realme 15T，据传其继任者16T即将推出。虽然 Realme 还没有关于 16T 发布的消息，但一款型号为 RMX5268 且传闻为 Realme 16T 的 Realme 设备已出现...，带来多项升级",
-      "url": "https://www.gsmarena.com/realme_16t_key_specs_geekbench-news-72649.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/realme-16t-key-specs-geekbench/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周优惠：Galaxy S26系列仍在打折，小米17 Ultra、Pixel...",
-      "source": "GSMArena",
-      "date": "2026-05-02",
-      "summary": "三星的新 Galaxy S26 系列实际上可能正在亏损。这些手机从第一天起就一直在打折，并将持续下去。 Galaxy A37 和 Galaxy Z Flip7 等其他三星设备也获得了折扣。谷歌、一加、小米和苹果的手机也纷...",
-      "url": "https://www.gsmarena.com/weekly_deals_galaxy_s26_lineup_still_on_discount_xiaomi_17_ultra_pixel_10_pro_fold_others_get_price_-news-72648.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/weekly-deals-30/-184x111/gsmarena_uk.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Chrome 的新 Gemini 功能很棒，但不足以让我切换回来",
+      "title": "Pixel 7 Pro 68 美元的电池更换变成了 250 美元的噩梦",
       "source": "Android Authority",
-      "date": "2026-05-03",
-      "summary": "Chrome 的缺点太普遍了，我不能为了单一有用的功能而忽略它们。",
-      "url": "https://www.androidauthority.com/chrome-skills-are-great-but-i-wont-switch-back-3660287/",
+      "date": "2026-05-04",
+      "summary": "电池更换出了问题，这就是您可能想要自己更换的原因。",
+      "url": "https://www.androidauthority.com/pixel-7-pro-battery-replacement-gone-wrong-3663115/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "我在 OnePlus Nord 6 上玩了三个小时的游戏，9,000mAh ...",
+      "title": "谷歌全面改造Gemini UI，但Android用户还需等待",
       "source": "Android Authority",
-      "date": "2026-05-03",
-      "summary": "我的信任问题没有通过这次电池测试。",
-      "url": "https://www.androidauthority.com/oneplus-nord-gaming-battery-test-3660014/",
+      "date": "2026-05-04",
+      "summary": "Gemini 的新外观开始出现在 iPhone 上，这是您的第一个外观。",
+      "url": "https://www.androidauthority.com/gemini-ui-ios-app-3663119/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,47 @@
       "type": "news"
     },
     {
-      "title": "我放弃了 Chrome、Firefox 和 三星 Internet，转而选择...",
+      "title": "我的 谷歌 TV 一直崩溃和滞后 — 直到我更改了一项隐藏设置",
       "source": "Android Authority",
-      "date": "2026-05-02",
-      "summary": "我是为了隐私而来的。我留下来做其他事情。",
-      "url": "https://www.androidauthority.com/ditched-chrome-firefox-samsung-internet-for-brave-android-browser-3662336/",
+      "date": "2026-05-04",
+      "summary": "我从来没有意识到一个改变可以带来多大的改变。",
+      "url": "https://www.androidauthority.com/google-tv-crashing-lagging-how-fix-limiting-processes-3661520/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "新的泄密揭示了一种有前景的低成本 Fitbit 替代品",
+      "source": "Android Authority",
+      "date": "2026-05-04",
+      "summary": "在新泄露的渲染图中，小米智能手环 10 Pro 以其类似智能手表的显示屏亮相。",
+      "url": "https://www.androidauthority.com/xiaomi-smart-band-10-pro-render-leak-3663125/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉刚刚证明它仍然不关心 Android 更新——而且情况只会变得更糟",
+      "source": "Android Authority",
+      "date": "2026-05-04",
+      "summary": "有一天，这种情况必须改变。正确的？",
+      "url": "https://www.androidauthority.com/motorola-still-doesnt-care-about-android-updates-3662785/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "ARMSX2 为许多三星和 Pixel 手机上模拟 PS2 游戏带来了巨大的...",
+      "source": "Android Authority",
+      "date": "2026-05-04",
+      "summary": "新兴的 ARMSX2 模拟器继续取得重大改进，最新版本带来了 Mali GPU 的重大提升。",
+      "url": "https://www.androidauthority.com/armsx2-emulator-update-mali-gpu-3663106/",
       "tags": [
         "三星"
       ],
@@ -158,35 +194,11 @@
       "type": "news"
     },
     {
-      "title": "这款创新的移动电源解决了我的电池和互联网焦虑",
+      "title": "One UI 9 终于可以给三星的媒体播放器带来动态的改变",
       "source": "Android Authority",
-      "date": "2026-05-02",
-      "summary": "Stya 为世界上几乎任何地方提供供电和连接！",
-      "url": "https://www.androidauthority.com/baseus-energeek-gx11-mifi-power-bank-impressions-3642283/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我最喜欢的“圈子搜索”功能是 谷歌 不做广告的功能",
-      "source": "Android Authority",
-      "date": "2026-05-02",
-      "summary": "最有用的圈子搜索功能之一也是很少被提及的。",
-      "url": "https://www.androidauthority.com/favorite-circle-to-search-feature-3660096/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "无法在 Razr Fold 和 Galaxy Z Fold 7 之间做出选择...",
-      "source": "Android Authority",
-      "date": "2026-05-02",
-      "summary": "它可能并不完美，但 Razr Fold 对我来说比 Fold 7 更突出。",
-      "url": "https://www.androidauthority.com/motorola-razr-fold-vs-samsung-galaxy-z-fold-7-3662039/",
+      "date": "2026-05-04",
+      "summary": "新的泄密显示三星的新媒体播放器终于采用了动态设计。",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-media-player-redesign-3663128/",
       "tags": [
         "三星"
       ],
@@ -194,11 +206,23 @@
       "type": "news"
     },
     {
-      "title": "谷歌 时钟的闹钟让我失望，所以我找到了 5 个更好的应用程序来叫醒我",
+      "title": "Galaxy S24 Ultra 是三星制造的最后一款真正的 Galaxy ...",
       "source": "Android Authority",
-      "date": "2026-05-02",
-      "summary": "我再也不会睡过头了我希望。",
-      "url": "https://www.androidauthority.com/google-clock-alternatives-android-alarm-apps-3661128/",
+      "date": "2026-05-04",
+      "summary": "显然，更新并不总是更好。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/3-reasons-the-galaxy-s24-ultra-is-the-last-true-galaxy-ultra-samsung-ever-made-3660630/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Circle to Search 更新让 谷歌 能够超越屏幕内容",
+      "source": "Android Authority",
+      "date": "2026-05-04",
+      "summary": "询问屏幕功能集成了 URL 和 PDF 数据，以提供更深入的人工智能驱动的搜索结果。",
+      "url": "https://www.androidauthority.com/circle-to-search-ask-about-screen-pdf-url-update-3663080/",
       "tags": [
         "安卓"
       ],
@@ -206,37 +230,13 @@
       "type": "news"
     },
     {
-      "title": "您应该购买 5 款 Android 手机，而不是摩托罗拉 Razr Ultr...",
+      "title": "Galaxy S25 何时获得 One UI 8.5？三星错过最后一个日期后...",
       "source": "Android Authority",
-      "date": "2026-05-02",
-      "summary": "也许你不应该花 1500 美元购买新款 Razr Ultra。",
-      "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-alternatives-3661675/",
+      "date": "2026-05-04",
+      "summary": "新的传言引发了人们对 One UI 85 稳定版本的期待。",
+      "url": "https://www.androidauthority.com/samsung-one-ui-8-5-stable-galaxy-s25-3663084/",
       "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "无论是否私密，我都无法忍受 S26 Ultra 的屏幕",
-      "source": "Android Authority",
-      "date": "2026-05-02",
-      "summary": "我的眼睛应该不会因使用手机 10 分钟而受伤。",
-      "url": "https://www.androidauthority.com/couldnt-live-with-s26-screen-3660952/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "你并不孤单：一个错误正在使 YouTube 的网络播放器陷入无限的滞后循环",
-      "source": "Android Authority",
-      "date": "2026-05-01",
-      "summary": "渲染错误导致 YouTube 网络播放器动画无限循环，并导致视频变得一团糟。",
-      "url": "https://www.androidauthority.com/youtube-web-player-render-bug-3662908/",
-      "tags": [
-        "安卓"
+        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
