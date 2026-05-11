@@ -1,6 +1,114 @@
 {
-  "updated": "2026-05-10 09:51",
+  "updated": "2026-05-11 11:40",
   "news": [
+    {
+      "title": "三星开始在印度销售官方翻新智能手机",
+      "source": "GSMArena",
+      "date": "2026-05-11",
+      "summary": "三星现在终于将其认证翻新计划带到了印度。通过该计划，该公司以折扣价在该国提供官方翻新设备。现在，您可以以 97499 印度卢比的价格购买经过认证的翻新版 Galaxy S25 Ultra256GB 存储空间、256GB ...",
+      "url": "https://www.gsmarena.com/samsung_starts_selling_officially_refurbished_smartphones_in_india-news-72762.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-india-certified-re-newed/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星开始在全球范围内向 Galaxy S、Fold、Flip 和 Tab 系...",
+      "source": "GSMArena",
+      "date": "2026-05-11",
+      "summary": "今天，三星在韩国试运行后，正式在全球发布了稳定的 One UI 85 更新。 Galaxy S25系列并不是唯一获得新软件的机型。 Galaxy S24 和 S23 设备包括 Fan Edition 系列的用户也应该期待...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_starts_seeding_stable_one_ui_85_to_galaxy_s_fold_flip_and_tab_series-news-72758.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-s26-fe-geekbench/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "HMD Vibe 2 5G 将于 5 月 21 日首发，电池容量为 6,00...",
+      "source": "GSMArena",
+      "date": "2026-05-11",
+      "summary": "经过几次预告后，HMD 确认了 Vibe 2 5G 在印度的发布日期，并透露了其一些关键规格。该设备将作为 HMD Vibe 的继任者推出，后者于去年 9 月在印度推出。HMD Vibe 2 5G 将于 5 月 21 日...，带来多项升级",
+      "url": "https://www.gsmarena.com/hmd_vibe_2_5g_to_debut_on_may_21_with_a_6000mah_battery-news-72757.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/hmd-vibe-2-5g-specs-launch-date/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X10 Pro Max 相机细节泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-05-11",
+      "summary": "Oppo Find X10 系列预计将于 10 月首次亮相，据传包括基础版 Find X10、Find X10 Pro 和 Find X10 Pro Max。虽然之前的泄密事件已经透露了有关基础版和 Pro 版本的一些细...",
+      "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_camera_details_leaked-news-72754.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oppo-find-x10-pro-max-camera-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 AirPods Max 2 对比 Sennheiser HDB 630...",
+      "source": "GSMArena",
+      "date": "2026-05-11",
+      "summary": "优质无线耳机占据着一个稀有的空间，远远超出了大多数音频产品的承受范围，实际上也超出了大多数人的预算。尽管真正的无线耳机受到侵蚀，这些庞然大物仍然在市场上持续存在，并且由于其卓越的噪音消除和更长的电池寿命而成为首选，尤其是...",
+      "url": "https://www.gsmarena.com/apple_airpods_max_2_vs_sennheiser_hdb_630_vs_sony_wh1000xm6_comparison-news-72752.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/apple-sennheiser-sony/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "第 19 周十大热门手机",
+      "source": "GSMArena",
+      "date": "2026-05-10",
+      "summary": "过去一周我们没有看到太多新公告，这可能解释了为什么我们的趋势图表与上周非常相似。三星 Galaxy A57 再次领先，其次是 Galaxy S26 Ultra 和荣耀 600 Pro。InlinePriceWidget ...",
+      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_19-news-72753.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-184x111/gsmarena_003.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X300 Ultra胜利绿上手",
+      "source": "GSMArena",
+      "date": "2026-05-10",
+      "summary": "vivo于3月份在中国推出了X300 Ultra，随后又向全球市场发布，使其成为首款在vivo本土以外上市的Ultra机型。日前，vivo X300 Ultra也在印度新德里举办的一场盛大活动上发布。该智能手机将在印度上...，带来多项升级",
+      "url": "https://www.gsmarena.com/vivo_x300_ultra_victory_green_hands_on-news-72680.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/vivo-x300-ultra-victory-green-hands-on/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "索尼 Xperia 1 VIII 上市，5 月 13 日上市，小米 17T ...",
+      "source": "GSMArena",
+      "date": "2026-05-10",
+      "summary": "欢迎来到本周的回顾。索尼 Xperia 1 VIII 提前在亚马逊上市，价格非常高德国为 186899 欧元，英国为 1728 英镑。索尼随后宣布了 Xperia 1 VIII 的正式发布日期  5 月 13 日。小米1...，带来多项升级",
+      "url": "https://www.gsmarena.com/sony_xperia_1_viii_listed_coming_may_13_xiaomi_17t_series_leaks_week_19_in_review-news-72736.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/week-19-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周优惠：三星 Galaxy S26 三款手机折扣高达 500 欧元，iPh...",
+      "source": "GSMArena",
+      "date": "2026-05-10",
+      "summary": "我们即将进入 2026 年下半年，届时三星将重点转向 Z 型可折叠手机。与此同时，S26系列的降价幅度相当大。我们从三星 Galaxy S26 开始。基本型号最终配备 256GB 存储空间，而不是 128GB，折扣 16...",
+      "url": "https://www.gsmarena.com/weekly_deals_the_samsung_galaxy_s26_trio_gets_discounts_up_to_500_iphones_also_get_price_cuts-news-72741.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-deals-8/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
     {
       "title": "每周调查：您会购买摩托罗拉 Razr 70、Razr 70+ 还是 Razr...",
       "source": "GSMArena",
@@ -14,119 +122,11 @@
       "type": "news"
     },
     {
-      "title": "每周民意调查结果：Oppo Find X9 Ultra就像一颗钻石，璀璨夺目...",
-      "source": "GSMArena",
-      "date": "2026-05-10",
-      "summary": "我们知道最近一切都变得越来越贵，但对于许多有兴趣购买超一流手机的人来说，价格已经太高了。在上周的民意调查中，人们对 Oppo Find X9 Ultra 很感兴趣，三分之二的选民对该设备表现出兴趣，但只有一半的人认为他们...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_the_oppo_find_x9_ultra_is_like_a_diamond_brilliant_but_expensive-news-72722.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-poll-results-oppo-find-x9-ultra-find-x9s/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为Watch Fit 5 Pro接受评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-05-10",
-      "summary": "华为Watch Fit 5 Pro正式面向全球上市，售价250英镑。该手表有橙色、白色和黑色三种颜色。在盒子里，你会发现手表、一条漂亮的橙色织物表带在我们的盒子里和通用无线充电圆盘遗憾的是它仍然以 USBA 端口结尾。该...",
-      "url": "https://www.gsmarena.com/huawei_watch_fit_5_pro_in_for_review-news-72733.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/huawei-watch-fit-5-pro-ifr-fyck-speedy/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周优惠：谷歌 Pixel 10 系列最高折扣 300 美元，Galaxy ...",
-      "source": "GSMArena",
-      "date": "2026-05-09",
-      "summary": "过去几周我们一直在观察 Pixel 10 手机的价格波动，但很少看到所有四款非折叠机型同时获得大幅折扣。与此同时，Galaxy A37 首次实际降价。Google Pixel 10 Pro XL 目前折扣 300 美元，...",
-      "url": "https://www.gsmarena.com/weekly_deals_the_google_pixel_10_series_is_up_to_300_off_galaxy_a37_gets_its_first_real_discount-news-72735.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-deals-8/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Buds3 Pro 和 Buds4 Pro 获得注重稳定...",
-      "source": "GSMArena",
-      "date": "2026-05-09",
-      "summary": "三星发布了 Galaxy Buds3 Pro 和 Galaxy Buds4 Pro TWS 耳机的新软件更新。三星Galaxy Buds3 Pro的更新附带固件版本R630XXU0AZD2，需要下载约8MB，并为耳机带来...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_buds3_pro_buds4_pro_stability_update-news-72751.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-galaxy-buds3-pro-buds4-pro-stability-update/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Nothing Ear (open) 蓝牙耳机将于 5 月 11 日推出新颜...",
-      "source": "GSMArena",
-      "date": "2026-05-09",
-      "summary": "Nothing于 2024 年 9 月推出了 Ear开放式TWS 耳机，但它们仍然提供单一颜色  白色。好吧，白色型号将于下周推出新颜色，Nothing 已宣布将于 5 月 11 日推出蓝色版本的 Ear开放。蓝色耳朵打...",
-      "url": "https://www.gsmarena.com/nothing_ear_open_blue_color_model_launch_date-news-72750.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/nothing-ear-open-blue-color-model-launch-date/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周优惠：iPhone 打折、Pixel 10 Pro Fold 降价 45...",
-      "source": "GSMArena",
-      "date": "2026-05-09",
-      "summary": "虽然折扣不是特别大，但看到苹果最新的 iPhone 17 机型得到一些降价仍然是件好事。然而，旧款 iPhone 16 的折扣更具吸引力。我们还发现了谷歌 Pixel 10 系列、三星最新 Galaxy S26 系列以及...",
-      "url": "https://www.gsmarena.com/deals_iphones_on_discount_pixel_10_pro_fold_gets_a_450_price_cut_and_more-news-72748.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-deals-8/-184x111/gsmarena_uk.jpg",
-      "type": "news"
-    },
-    {
-      "title": "自拍视频盲测：大卫与歌利亚",
-      "source": "GSMArena",
-      "date": "2026-05-09",
-      "summary": "我们可能已经发现了目前市场上一些最好的拍照手机的盔甲上的裂缝我们希望您能参与进来。如果您喜欢视频说明，可以前往我们的 TikTok 频道、Instagram 或 YouTube。否则请继续阅读。vivo X300 Ult...",
-      "url": "https://www.gsmarena.com/selfie_video_blind_test_davids_vs_goliaths-news-72740.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/selfie-videos-blind-test/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Total Wireless 宣布由 Verizon 5G 网络支持的新无限...",
-      "source": "GSMArena",
-      "date": "2026-05-09",
-      "summary": "Total Wireless 是 Verizon Value 预付费品牌组合的一部分，已为其客户宣布了新的无限套餐。有四种计划  Total Starter、Total MAX 5G BYO、Total MAX 5G 和...",
-      "url": "https://www.gsmarena.com/total_wireless_unlimited_plans-news-72749.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/total-wireless-unlimited-plans/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "更多荣耀Magic9 Pro Max规格泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-05-09",
-      "summary": "早在四月份，有关即将推出的荣耀Magic9 Pro Max的第一个细节就已经曝光，今天来自中国的新消息人士为我们带来了有关这款手机的更多细节。据称，该机配备了 68 英寸至 689 英寸 15K 分辨率的 LTPO OL...，更多细节逐步揭晓",
-      "url": "https://www.gsmarena.com/more_honor_magic9_pro_max_specs_leak-news-72746.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-magic9-pro-max-specs-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Pixel 的这个安全功能让我的驾驶变得不那么安全",
+      "title": "您应该购买 Fitbit Air 还是 Pixel 手表？它比你想象的更复杂",
       "source": "Android Authority",
-      "date": "2026-05-10",
-      "summary": "在路线中间失去导航与安全谷歌相反。",
-      "url": "https://www.androidauthority.com/pixel-volume-safety-driving-3663013/",
+      "date": "2026-05-11",
+      "summary": "我明白为什么有些人倾向于两者兼而有之。",
+      "url": "https://www.androidauthority.com/buy-fitbit-air-vs-pixel-watch-3664675/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "现在是获取新的 谷歌 TV 启动器的最佳时机",
+      "title": "特朗普手机距离蒸发软件又近了一步",
       "source": "Android Authority",
-      "date": "2026-05-10",
-      "summary": "忘记广告和随机 Shorts。以下是收回 Google TV 主屏幕的方法。",
-      "url": "https://www.androidauthority.com/install-google-tv-launcher-alternative-3663642/",
+      "date": "2026-05-11",
+      "summary": "新的条款和条件显示，100 美元的押金不再是 T1 手机生产或销售的保证。",
+      "url": "https://www.androidauthority.com/trump-mobile-t1-phone-preorder-terms-update-3665415/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "我最喜欢的人工智能应用程序只需轻按一下即可在 70 多个人工智能聊天机器人之...",
+      "title": "讨厌人工智能？调查显示有多少人为人工智能订阅付费，但你不会喜欢这个答案",
       "source": "Android Authority",
-      "date": "2026-05-09",
-      "summary": "认识一下 AI Hub，以及本周您应该了解的其他新的 AI 应用程序和服务。",
-      "url": "https://www.androidauthority.com/ai-hub-hands-on-new-ai-apps-weekly-3664583/",
+      "date": "2026-05-11",
+      "summary": "人工智能订阅似乎是一种相当流行的现金消费方式。",
+      "url": "https://www.androidauthority.com/ai-subscriptions-poll-results-3665388/",
       "tags": [
         "安卓"
       ],
@@ -158,23 +158,11 @@
       "type": "news"
     },
     {
-      "title": "我怀念小手机，Galaxy S26 不算",
+      "title": "摩托罗拉是可折叠价值之王。 2026 年的 Razr 系列抛弃了这一点",
       "source": "Android Authority",
-      "date": "2026-05-09",
-      "summary": "别介意 Galaxy S26 和 Pixel 10。我想要 2026 年拥有 6 英寸或更小屏幕的手机。",
-      "url": "https://www.androidauthority.com/i-miss-small-phones-galaxy-s26-doesnt-count-3658983/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "切换到这家运营商可能会使我已经负担得起的蜂窝套餐减少一半",
-      "source": "Android Authority",
-      "date": "2026-05-09",
-      "summary": "不再为优质手机服务支付高价。",
-      "url": "https://www.androidauthority.com/mint-mobile-savings-3665215/",
+      "date": "2026-05-11",
+      "summary": "一台新的摩托罗拉 Razr Ultra 售价 1500 美元，实在是太离谱了。",
+      "url": "https://www.androidauthority.com/motorola-2026-razr-lineup-throws-away-value-3664409/",
       "tags": [
         "安卓"
       ],
@@ -182,23 +170,11 @@
       "type": "news"
     },
     {
-      "title": "使用 苹果 Music 5 年后，我转向 YouTube Music，而且我...",
+      "title": "我为我的所有 Android 手机添加了最好的 Pixel 功能之一 - 方...",
       "source": "Android Authority",
-      "date": "2026-05-09",
-      "summary": "下一首歌总是有意义的。",
-      "url": "https://www.androidauthority.com/leaving-apple-music-for-youtube-music-3662003/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "这是一款坚固耐用的手机，具有我实际使用的额外功能",
-      "source": "Android Authority",
-      "date": "2026-05-09",
-      "summary": "最后，这是一款我实际上会用作日常驾驶员的坚固耐用的手机。",
-      "url": "https://www.androidauthority.com/rugone-xever-7-pro-review-3660142/",
+      "date": "2026-05-11",
+      "summary": "它类似于快速点击，但更好。",
+      "url": "https://www.androidauthority.com/tap-tap-app-add-pixel-quick-tap-any-android-phone-how-3664061/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "作为 Pixel Watch 4 用户，我真的很喜欢（也讨厌）新款 Fitb...",
+      "title": "全新 BOOX Poke 7 系列可能是您一直在等待的彩色电子阅读器",
       "source": "Android Authority",
-      "date": "2026-05-09",
-      "summary": "Fitbit Air 是 Pixel Watch 4 的绝佳伴侣，但谷歌在一些事情上错过了机会。",
-      "url": "https://www.androidauthority.com/as-pixel-watch-4-owner-i-really-love-hate-fitbit-air-3664607/",
+      "date": "2026-05-11",
+      "summary": "Onyx 的最新预告片抛弃了单调的黑色美学，展示了其下一代 Kindle 替代品的纹理、充满活力的设计。",
+      "url": "https://www.androidauthority.com/onyx-boox-poke-7-official-renders-3665381/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "如何在 Android Auto 测试版开放期间加入（或退出）",
+      "title": "我用 Android 最好的拍照手机之一度过了一个周末，发现了一个明显的问题",
       "source": "Android Authority",
-      "date": "2026-05-09",
-      "summary": "错误和令人兴奋的新功能，还是稳定性和更新缓慢？你决定。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/how-to-join-android-auto-beta-3664994/",
+      "date": "2026-05-11",
+      "summary": "智能手机变焦镜头越长，我就越渴望更多实用的功能。",
+      "url": "https://www.androidauthority.com/smartphone-zoom-viewfinder-3659823/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +206,35 @@
       "type": "news"
     },
     {
-      "title": "每个 谷歌 Pixel 用户都需要使用的 6 个隐藏设置",
+      "title": "您应该购买 5 款健身追踪器，而不是 谷歌 Fitbit Air",
       "source": "Android Authority",
-      "date": "2026-05-09",
-      "summary": "您知道您的 Pixel 可以做到这一切吗？",
-      "url": "https://www.androidauthority.com/best-hidden-google-pixel-settings-3661179/",
+      "date": "2026-05-11",
+      "summary": "谷歌的无屏追踪器并不适合所有人，但还有很多其他选择。",
+      "url": "https://www.androidauthority.com/google-fitbit-air-alternatives-3663875/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "《塞尔达传说：黄昏公主》刚刚获得非官方 Android 移植版",
+      "source": "Android Authority",
+      "date": "2026-05-11",
+      "summary": "这个非官方端口提供内部分辨率缩放、解锁帧速率、生活质量切换等。",
+      "url": "https://www.androidauthority.com/legend-of-zelda-twilight-princess-android-3665353/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "T-Mobile 为 US Cellular 客户推出价值高达 830 美元...",
+      "source": "Android Authority",
+      "date": "2026-05-11",
+      "summary": "新的以旧换新优惠、平板电脑折扣和免除费用旨在让美国移动用户转向 TMobile 套餐。",
+      "url": "https://www.androidauthority.com/t-mobile-us-cellular-exclusive-promos-3665358/",
       "tags": [
         "安卓"
       ],
