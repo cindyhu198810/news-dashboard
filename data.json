@@ -1,132 +1,132 @@
 {
-  "updated": "2026-05-15 10:41",
+  "updated": "2026-05-16 09:53",
   "news": [
     {
-      "title": "Honor Win Turbo本月发布，预告活动正式启动，新机正式登场",
+      "title": "OpenAI 推出 ChatGPT Finance，让您连接银行账户",
       "source": "GSMArena",
-      "date": "2026-05-15",
-      "summary": "Honor于去年12月推出了Win和Win RT智能手机，拉开了新系列的序幕，现在该公司几乎准备好向我们介绍该家族的第三位成员。Honor 已经开始预告即将推出的 Win Turbo。不幸的是，目前尚未公布有关该设备的详...",
-      "url": "https://www.gsmarena.com/honor_win_turbo_is_coming_this_month_teaser_campaign_officially_kicks_off-news-72839.php",
+      "date": "2026-05-16",
+      "summary": "ChatGPT 现在可以照顾您的个人财务，这听起来绝对是个好主意。在美国，得益于 OpenAI 与金融连接服务 Plaid 建立的合作伙伴关系，ChatGPT Pro 的订阅者现在可以连接超过 12000 家金融机构的账...",
+      "url": "https://www.gsmarena.com/openai_launches_chatgpt_finance_lets_you_connect_your_bank_accounts-news-72855.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-win-turbo/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/chatgpt-finance/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌正在为 Android 带来期待已久的拨号器更新",
+      "title": "荣耀600评测，真实体验如何？",
       "source": "GSMArena",
-      "date": "2026-05-15",
-      "summary": "如果您经常通过 Android 手机在 WhatsApp、Telegram 或 Messenger 等应用程序上拨打 VoIP 电话，那么您很快就可以直接从默认电话拨号器应用程序拨打这些应用程序上的联系人。谷歌已经测试此...",
-      "url": "https://www.gsmarena.com/google_is_bringing_a_longawaited_dialer_update_to_android-news-72835.php",
+      "date": "2026-05-16",
+      "summary": "荣耀600评测",
+      "url": "https://www.gsmarena.com/honor_600-review-2964.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/google-third-party-apps-dialer-update/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/honor-600/-347x151/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "vivo X500系列再次有望配备7000mAh电池",
+      "title": "三星 Galaxy M47 运行 Geekbench，揭示了为其提供动力的芯...",
       "source": "GSMArena",
-      "date": "2026-05-15",
-      "summary": "vivo X500系列预计将在今年晚些时候首次亮相，作为当前X300系列的后继产品。尽管距离正式发布还有几个月的时间，但有关即将推出的手机的关键细节已经被泄露。一份新报告再次暗示了该产品线的电池容量。据爆料者Smart ...，带来多项升级",
-      "url": "https://www.gsmarena.com/vivo_x500_series_once_again_tipped_to_pack_7000mah_batteries-news-72834.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/vivo-x500-series-battery-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iQOO Z11 即将登陆印度，预计上市时间和售价",
-      "source": "GSMArena",
-      "date": "2026-05-15",
-      "summary": "iQOO Z11 于 3 月份在中国推出，本月早些时候，一款同名但规格略有不同的设备出现在马来西亚。今天 X 上的消息人士称，马来西亚 Z11 也将前往印度。它将于下个月上市，最有可能在 6 月 15 日左右上市。与马来...",
-      "url": "https://www.gsmarena.com/iqoo_z11_is_headed_to_india_heres_when_to_expect_it_and_how_much_it_will_cost-news-72833.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/iqoo-z11-india/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星将使用天玑9500芯片组",
-      "source": "GSMArena",
-      "date": "2026-05-15",
-      "summary": "根据三星 AI Core 应用程序内部代码的信息，未来的三星设备将搭载联发科技的天玑 9500 SoC。该代码通过型号引用了 Dimensity 9500。它没有告诉我们具体是什么设备，但按理说我们正在谈论即将推出的 G...",
-      "url": "https://www.gsmarena.com/samsung_will_be_using_the_dimensity_9500_chipset-news-72832.php",
+      "date": "2026-05-16",
+      "summary": "今年 3 月，GSM 协会的 IMEI 数据库中发现了即将推出的三星 Galaxy M47，这证实了该设备正在开发中。今天，Geekbench 在线数据库中发现了一款原型机，这表明它搭载的是 Snapdragon 6 G...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_m47_runs_geekbench_reveals_the_chipset_powering_it-news-72856.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-dimensity-9500/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-galaxy-m47-geekbench/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "这是Sam Kolder专门用vivo X300 Ultra拍摄的短片",
+      "title": "Tecno Pova 8 Pro 认证揭示了其电池容量、RAM 和存储空间",
+      "source": "GSMArena",
+      "date": "2026-05-16",
+      "summary": "Tecno Pova 8 上个月出现在 Google Play Console 中，所以我们已经知道它即将上市。现在，Pova 8 Pro 已经获得了自己的认证，确认它将加入该公司的普通型号行列。Pova 8 Pro 当...",
+      "url": "https://www.gsmarena.com/tecno_pova_8_pro_certifications_reveal_its_battery_capacity_ram_and_storage-news-72853.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/tecno-pova-8-pro-certified/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X9s 在印度的价格再次泄露，这次价格更高，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-05-16",
+      "summary": "Oppo Find X9s 最初于上个月正式发布，Oppo 将于 5 月 21 日在印度推出。本月早些时候，有传言称其起售价为 70000 印度卢比729 美元。今天有新的传言称 Find X9s 的起价实际上是 799...，带来多项升级",
+      "url": "https://www.gsmarena.com/oppo_find_x9s_price_in_india_leaks_again_and_its_higher_this_time-news-72849.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oppo-find-x9s-higher-price-india/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "据报道，三星 Galaxy S27 系列的 Exynos 2700 SoC ...",
+      "source": "GSMArena",
+      "date": "2026-05-16",
+      "summary": "据最近的一份报告称，三星的下一代旗舰芯片组 Exynos 2700 可能会采用新的封装设计。据报道，该公司计划在即将推出的 SoC 中放弃扇出晶圆级封装 FOWLP 技术。据报道，三星自 Exynos 2400 以来一直...",
+      "url": "https://www.gsmarena.com/samsungs_exynos_2700_soc_for_galaxy_s27_series_to_reportedly_ditch_wlp_technology-news-72852.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-exynos-2700-sbs-packaging-tech/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "郭：苹果正在英特尔测试 iPhone 芯片组生产",
       "source": "GSMArena",
       "date": "2026-05-15",
-      "summary": "vivo 与世界知名电影制作人 Sam Kolder 合作制作了一部完全使用该公司最新旗舰相机 X300 Ultra 拍摄的短片。这部短片名为花园大道，您可以在下面完整地观看它。据vivo的新闻稿称，这部电影颂扬了南非的...",
-      "url": "https://www.gsmarena.com/heres_a_short_film_shot_by_sam_kolder_exclusively_on_the_vivo_x300_ultra-news-72831.php",
+      "summary": "本月早些时候，我们看到一份报告称，苹果正在寻求将其芯片生产多元化，远离台积电，并将英特尔和三星作为潜在合作伙伴。值得注意的是，苹果分析师 Ming ChiKuo 的最新帖子也支持了这些说法以及更多细节。苹果和英特尔显然已...",
+      "url": "https://www.gsmarena.com/kuo_apple_is_testing_iphone_chipset_production_at_intel-news-72836.php",
       "tags": [
-        "安卓"
+        "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/vivo-sam-kolder-film/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/kuo-apple-intel-chip-trial-production/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "配备 7,000mAh 电池的 Moto G37 Power 将与 G37 ...",
+      "title": "Verizon 加入 Project Glasswing，在其基础设施上测试...",
       "source": "GSMArena",
       "date": "2026-05-15",
-      "summary": "Moto G37 和 Moto G37 Power 上个月在全球市场推出，这两款智能手机现已销往印度。虽然印度版本保留了全球同类产品的大部分规格，但它们由天玑 6400 芯片组提供支持。摩托罗拉印度公司已确认 Moto ...",
-      "url": "https://www.gsmarena.com/moto_g37_power_with_a_7000mah_battery_is_coming_to_india_along_with_g37-news-72829.php",
+      "summary": "今天，Verizon 宣布加入 Anthropic 的 Glasswing 项目来测试 Claude Mythos Preview 模型。据 Anthropic 称，该模型能够以前所未有的速度识别关键软件和操作系统中的复...",
+      "url": "https://www.gsmarena.com/verizon_joins_project_glasswing_to_test_anthropics_claude_mythos_model_on_its_infrastructure-news-72850.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/moto-g37-power-india-launch/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/verizon-anthropic-project-glasswing/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "T-Mobile 现在允许在一个帐户上最多使用四个促销设备",
+      "title": "大疆创新推出为独立电影制作人量身定制的Osmo Pocket 4P",
       "source": "GSMArena",
-      "date": "2026-05-14",
-      "summary": "在 TMobile 内部销售代表多次投诉后，该公司正在更改其条款和条件，使合同对新客户来说更有利可图。直到上个月，新客户在一个帐户中最多可以购买两部打折的智能手机。例如，这赶走了许多四口之家的新客户，他们无法以折扣价购买...",
-      "url": "https://www.gsmarena.com/tmobile_now_allows_up_to_four_promotional_devices_on_a_single_account-news-72830.php",
+      "date": "2026-05-15",
+      "summary": "在今年的戛纳电影节期间，大疆创新登台短暂展示了 Osmo Pocket 4P，这是该公司上个月推出的普通 Osmo Pocket 4 的更高级版本。常规 Pocket 4 面向主流内容创作者和视频博主，而 Pocket ...",
+      "url": "https://www.gsmarena.com/dji_reveals_the_osmo_pocket_4p_tailored_for_independent_filmmakers-news-72845.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/25/01/t-mobile-2g-shutdown/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/dji-osmo-pocket-4p-offic/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "AT&T、T-Mobile 和 Verizon 将共同努力改善所有客户的覆盖...",
+      "title": "一对即将推出的 Xbox 控制器出现在列表中",
       "source": "GSMArena",
-      "date": "2026-05-14",
-      "summary": "今天，ATT、TMobile 和 Verizon 宣布成立一家合资企业，旨在利用卫星技术来解决覆盖差距，特别是在无服务和服务不足的社区。该合资企业将通过联合投资在覆盖范围存在差距的地方使用基于卫星的直接设备技术，为所有三...",
-      "url": "https://www.gsmarena.com/at_t_tmobile_and_verizon_will_work_together_to_improve_coverage_for_all_of_their_customers-news-72828.php",
+      "date": "2026-05-15",
+      "summary": "微软有两款新的 Xbox 控制器正在开发中，我们现在有图像及其主要规格。 Tecnoblog 分享的泄露细节展示了 Xbox 云游戏和 Elite Series 3 控制器。两者均出现在巴西 Anatel 认证机构的清单...",
+      "url": "https://www.gsmarena.com/pair_of_upcoming_xbox_controllers_emerges_in_listings-news-72851.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/att-verizon-t-mobile-joint-venture/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xbox-cloud-gaming-controller-elite-series-3-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Pixel 10 系列推出 Android 上下文建议",
-      "source": "GSMArena",
-      "date": "2026-05-14",
-      "summary": "谷歌正在为Android手机测试一项新功能，该功能将了解您的使用习惯并自动推荐建议。这项名为上下文建议的功能隐藏在 Google 服务设置中，9to5Google 的人员能够在运行 Android 16 和 Google...",
-      "url": "https://www.gsmarena.com/androids_contextual_suggestions_rolling_out_to_pixel_10_series-news-72826.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/android-contextual-suggestions-rolling-out-pixel-10-series/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Meta 最新的 Ray-Ban 功能是 Android 用户会喜欢的无声短...",
+      "title": "我认为 谷歌book 将成为 谷歌 的 MacBook 时刻。离它再远不过了",
       "source": "Android Authority",
-      "date": "2026-05-15",
-      "summary": "现在，您可以回复消息，同时感觉自己像个超级间谍。",
-      "url": "https://www.androidauthority.com/meta-ray-ban-display-neural-handwriting-3667458/",
+      "date": "2026-05-16",
+      "summary": "谷歌的生态系统愿景有道理，但同时又不合理。",
+      "url": "https://www.androidauthority.com/googlebook-not-macbook-moment-chromebook-problems-3666718/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "Android 上的 Gemini 获得了新图标、更智能的音频共享和“夜光”...",
+      "title": "5GB 存储空间限制对您的新 谷歌 帐户意味着什么",
       "source": "Android Authority",
-      "date": "2026-05-15",
-      "summary": "Gemini 的重新设计在内部称为发光设计，而小部件中的新细图标称为发光符号。",
-      "url": "https://www.androidauthority.com/gemini-android-audio-sharing-luminous-design-apk-teardown-3667449/",
+      "date": "2026-05-16",
+      "summary": "新注册的用户能否在谷歌有限得多的免费存储层中生存下来？",
+      "url": "https://www.androidauthority.com/google-5gb-storage-limit-3667490/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,83 @@
       "type": "news"
     },
     {
-      "title": "三星 Galaxy Tab A11 Plus 是小山上的廉价 Android...",
+      "title": "最优惠价格：Ring Floodlight Cam Pro 仅售 229.9...",
       "source": "Android Authority",
       "date": "2026-05-15",
-      "summary": "三星 2026 年廉价平板电脑的性能最低，但这对某些人来说可能已经足够了。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-review-3650892/",
+      "summary": "我们的交易计算机发现这款高端设备目前处于有史以来的最低价格，可为您节省 50 美元。",
+      "url": "https://www.androidauthority.com/ring-floodlight-cam-pro-deal-3667720/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Gemini Intelligence 要求意味着大多数 Android 手...",
+      "source": "Android Authority",
+      "date": "2026-05-15",
+      "summary": "Gemini Intelligence 的要求比您想象的要高。",
+      "url": "https://www.androidauthority.com/gemini-intelligence-requirements-3667703/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "ChatGPT 希望连接到您的储蓄账户，这绝对没问题",
+      "source": "Android Authority",
+      "date": "2026-05-15",
+      "summary": "有用？是的。有点不安？也是的。",
+      "url": "https://www.androidauthority.com/chatgpt-personal-finance-launched-3667700/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "索尼对其令人尴尬的人工智能照片的解释只会留下更多疑问",
+      "source": "Android Authority",
+      "date": "2026-05-15",
+      "summary": "索尼在其新的人工智能相机工具遭到网上批评后做出了回应。",
+      "url": "https://www.androidauthority.com/sony-ai-camera-assistant-response-3667676/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "克劳德 (Claude) 在犯下一次代价高昂的吸毒错误后，帮助追回了 40 ...",
+      "source": "Android Authority",
+      "date": "2026-05-15",
+      "summary": "这就是为什么你不要在兴奋时更改你的比特币密码。",
+      "url": "https://www.androidauthority.com/claude-helps-recover-bitcoin-3667658/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Pixel Watch 用户无法在手腕上看到睡眠统计数据，目前还没有人知道原...",
+      "source": "Android Authority",
+      "date": "2026-05-15",
+      "summary": "该错误似乎主要影响 Pixel Watch 2。",
+      "url": "https://www.androidauthority.com/pixel-watch-sleep-data-bug-3667637/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy Z Flip 8 外壳渲染图显示三星仍未完全致力于 Qi2",
+      "source": "Android Authority",
+      "date": "2026-05-15",
+      "summary": "看起来它仍然是 BYO 磁铁。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-cases-3667614/",
       "tags": [
         "三星"
       ],
@@ -158,85 +230,13 @@
       "type": "news"
     },
     {
-      "title": "DJI Osmo Pocket 4P 正式发布，但目前还不能装进口袋，新机正...",
+      "title": "快速行动：Anker SOLIX F3800 Plus 电站现以创纪录低价出...",
       "source": "Android Authority",
       "date": "2026-05-15",
-      "summary": "大疆创新保留发布日期以供未来公告。，带来多项升级",
-      "url": "https://www.androidauthority.com/dji-osmo-pocket-4-official-reveal-3667429/",
+      "summary": "Anker SOLIX F3800 Plus 便携式发电站以有史以来最低的价格享受 20 的折扣，可满足您的所有电力需求。",
+      "url": "https://www.androidauthority.com/deal-anker-solix-f3800-plus-3667643/",
       "tags": [
         "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "作为三星粉丝，我喜欢摩托罗拉 Razr 的表现",
-      "source": "Android Authority",
-      "date": "2026-05-15",
-      "summary": "Z Flip 7 落后于 2023 年 Razr，更不用说新型号了",
-      "url": "https://www.androidauthority.com/samsung-fan-love-2026-razr-lineup-why-3664686/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "OpenAI Codex 即将登陆移动设备，以便您可以随时随地构建应用程序",
-      "source": "Android Authority",
-      "date": "2026-05-15",
-      "summary": "移动设备上的 Codex 不会让您在 Android 手机上输入 Python，但它可能会节省您的通勤时间。",
-      "url": "https://www.androidauthority.com/openai-unveils-codex-on-chatgpt-mobile-3667443/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "调查显示，大量读者不使用我最喜欢的 Android 广告拦截工具",
-      "source": "Android Authority",
-      "date": "2026-05-15",
-      "summary": "读者推荐它，但很少有人真正使用它。",
-      "url": "https://www.androidauthority.com/nextdns-android-poll-results-3667368/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 图书是未来吗？连谷歌似乎都不知道",
-      "source": "Android Authority",
-      "date": "2026-05-15",
-      "summary": "问题如此之多，答案却如此之少。",
-      "url": "https://www.androidauthority.com/googlebooks-future-chromebooks-unclear-3666204/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我佩戴 WHOOP 一年了——以下是我不会改用 Fitbit Air 的 6...",
-      "source": "Android Authority",
-      "date": "2026-05-15",
-      "summary": "我佩戴 WHOOP 一年了以下是我不会改用 Fitbit Air 的 6 个原因",
-      "url": "https://www.androidauthority.com/wont-switch-from-whoop-fitbit-air-why-3665830/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "由于选择了这种芯片，某些 Galaxy S27 型号可能会运行得更热",
-      "source": "Android Authority",
-      "date": "2026-05-15",
-      "summary": "三星的其他变化能否抵消这一芯片决定？",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-chip-major-change-3667384/",
-      "tags": [
-        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
