@@ -1,132 +1,132 @@
 {
-  "updated": "2026-05-18 11:57",
+  "updated": "2026-05-19 11:36",
   "news": [
     {
-      "title": "观看索尼直播发布其最新旗舰耳机，新机正式登场",
+      "title": "Honor与马拉松世界纪录保持者塞巴斯蒂安·萨维（Sebastian Saw...",
+      "source": "GSMArena",
+      "date": "2026-05-19",
+      "summary": "今天，荣耀宣布与肯尼亚马拉松运动员塞巴斯蒂安萨维Sebastian Sawe合作，塞巴斯蒂安萨维目前保持着马拉松世界纪录，跑出了不到两小时准确地说是1:59:30。 Sawe将成为荣耀最新的品牌大使。Honor称他为全球...",
+      "url": "https://www.gsmarena.com/honor_partners_with_marathon_runner_sebastian_sawe-news-72888.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-partners-with-sebastian-sawe/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Moto G37 和 G37 Power 在印度首次亮相，搭载天玑 6400...",
+      "source": "GSMArena",
+      "date": "2026-05-19",
+      "summary": "摩托罗拉已正式将 Moto G37 和 Moto G37 Power 引入印度。在该国推出的手机与上个月发布的全球型号基本相似。Moto G37和Moto G37 Power在印度配备了Dimensity 6400芯片组...，带来多项升级",
+      "url": "https://www.gsmarena.com/moto_g37_and_g37_power_debut_in_india_with_a_dimensity_6400_chipset-news-72890.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/moto-g37-g37-power-india-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Gurman：iOS 27 即将推出独立的 Siri 应用程序、更新的 AI...",
+      "source": "GSMArena",
+      "date": "2026-05-19",
+      "summary": "在 WWDC 2026现已确认于 6 月 8 日开幕之前，彭博社的 Mark Gurman 分享了有关即将推出的 iOS 和 iPadOS 27 更新的一些细节，包括独立的 Siri 应用程序。它被描述为一款 ChatG...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/gurman_ios_27_is_coming_with_standalone_siri_app_updated_ai_writing_tools_and_shortcuts_-news-72887.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/ios-27-standalone-siri-writing-tools/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "泄露的渲染图显示摩托罗拉 Edge (2026) 采用平面显示屏和三后置摄像...",
+      "source": "GSMArena",
+      "date": "2026-05-19",
+      "summary": "摩托罗拉预计将在未来几周内推出去年 5 月推出的 Edge 2025 的继任者。在正式发布之前，摩托罗拉 Edge 2026 的渲染图已在网上曝光，让人们可以初步了解该设备的设计。泄露的渲染图显示，所谓的摩托罗拉 Edg...，带来多项升级",
+      "url": "https://www.gsmarena.com/motorola_edge_2026_seen_with_a_flat_display_triple_rear_cameras_in_leaked_renders-news-72886.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/motorola-edge-2026-renders/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星为另外四款 Galaxy 智能手机发布 One UI 8.5 稳定更新，...",
+      "source": "GSMArena",
+      "date": "2026-05-19",
+      "summary": "三星大约几周前开始推出稳定的 One UI 85 更新，现在可用于另外四款智能手机  Galaxy A36、Galaxy A56、Galaxy Z Fold5 和 Galaxy Z Flip5。InlinePriceWi...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold5_flip5_a36_a56_one_ui_8_5_stable_update-news-72885.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-galaxy-z-fold5-flip5-a36-a56-one-ui-8-5-update/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 WWDC 2026 将于 6 月 8 日开幕",
+      "source": "GSMArena",
+      "date": "2026-05-19",
+      "summary": "Apple 宣布了年度全球开发者大会 WWDC 的日期，并已开始发出此次活动的邀请函。与往常一样，主题演讲预计将展示该公司的下一代软件更新，包括 iOS 27、iPadOS 27、watchOS 27、macOS 27、...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/apples_wwdc_2026_kicks_off_on_june_8-news-72884.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/apple-wwdc-2026-dates/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Reno16 系列、Pad 6、Enco Air 5s 等将于 5...",
+      "source": "GSMArena",
+      "date": "2026-05-19",
+      "summary": "Oppo 正式宣布了即将推出的 Oppo Reno16 系列的上市日期。除了新款智能手机外，该公司还将推出 Oppo Pad 6、Oppo Enco Air 5s 和名为 Oppo Bubble 的新型自拍显示配件。Op...",
+      "url": "https://www.gsmarena.com/oppo_reno16_series_pad_6_enco_air_5s_and_more_to_debut_on_may_25-news-72883.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oppo-reno16-pro-pad-6-launch-date/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "这是 RedMagic 推出下一代游戏平板电脑的时候",
+      "source": "GSMArena",
+      "date": "2026-05-19",
+      "summary": "RedMagic 去年六月在国际上推出了 Astra 游戏平板电脑，现在它几乎准备好推出其继任者。我们假设这款产品在全球范围内将被称为 Astra 2，但在中国国内它将被称为 RedMagic Tablet 5 Pro最...",
+      "url": "https://www.gsmarena.com/this_is_when_redmagic_is_launching_its_next_gaming_tablet-news-72882.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/redmagic-astra-2-teaser/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "无需 苹果 Card 的 AirPods Pro 3 促销活动现已上线，但效...",
       "source": "GSMArena",
       "date": "2026-05-18",
-      "summary": "索尼计划于明天世界标准时间 5 月 19 日下午 4 点举办一场现场活动，专门介绍其即将推出的旗舰产品 WH1000X 耳机系列。上一代 WH1000XM6 大约一年前推出，但这不会成为直接后继产品。到目前为止的传言表明...",
-      "url": "https://www.gsmarena.com/watch_sony_unveil_its_latest_flagship_headphones_live_here-news-72870.php",
+      "summary": "几天前有消息称，苹果正在为注册 Apple Card 的用户准备一项新优惠免费赠送一对 AirPods Pro 3。今天，促销活动已经上线，但并不像泄露的那样简单。因此，您需要成为之前没有 Apple Card 的新客户...",
+      "url": "https://www.gsmarena.com/that_apple_card_free_airpods_pro_3_promo_is_now_live_but_its_worse_than_expected-news-72881.php",
       "tags": [
-        "安卓"
+        "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/sony-collexion-event/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/apple-card-promo-live/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "RedMagic 11S Pro 系列配备超频 SD 8 Elite Gen...",
+      "title": "新传闻称 苹果 Watch Ultra 4 将彻底重新设计",
       "source": "GSMArena",
       "date": "2026-05-18",
-      "summary": "RedMagic 11S Pro和11S Pro现已在中国正式上市，它们比RedMagic 11系列带来了一些小改进。RedMagic 11S Pro左和RedMagic 11S Pro右新型号采用高通 Snapdrag...",
-      "url": "https://www.gsmarena.com/redmagic_11s_pro_series_arrive_with_overclocked_sd_8_elite_gen_5_chips_11s_pro_gets_boosted_battery-news-72868.php",
+      "summary": "据新消息称，Apple Watch Ultra 4 将进行彻底重新设计。这将是苹果自 2022 年推出初代 Apple Watch Ultra 以来首次改变其最昂贵智能手表的设计。不幸的是，目前尚未公布有关 Watch ...",
+      "url": "https://www.gsmarena.com/apple_watch_ultra_4_will_be_completely_redesigned_new_rumor_claims-news-72877.php",
       "tags": [
-        "安卓"
+        "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/redmagic-11s-pro-series-ofic/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/apple-watch-ultra-4-rumor/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "小米 17 Max 将于本周与新可穿戴设备和其他产品一起亮相",
-      "source": "GSMArena",
-      "date": "2026-05-18",
-      "summary": "小米正式宣布了小米 17 Max 的上市日期，它将与 YU7 GT 电动 SUV 一起亮相。除了手机和电动车之外，小米还将推出首款夹式无线耳机Band 10 Pro以及其他智能家电。发布会定于 5 月 21 日在中国举行...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_17_max_launching_later_this_week_alongside_new_wearables_and_other_products-news-72867.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-17-max-smart-band-10-pro-ear-clip-launch/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米17T系列正式发布日期，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-05-18",
-      "summary": "不再是猜测了，小米 17T 系列将于 5 月 28 日正式发布。小米确认了即将推出的 17T 和 17T Pro 手机的发布日期，称其为迄今为止最大的 T 系列升级。等待即将结束。这终于发生了。小米17T系列将于5月28...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_17t_series_gets_a_launch_date-news-72866.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-17t-series-launch-date/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "第 20 周十大热门手机",
-      "source": "GSMArena",
-      "date": "2026-05-18",
-      "summary": "索尼本周推出了最新的旗舰产品，我们直接登上了趋势图的榜首。 Xperia 1 VIII 击败了三星 Galaxy A57，并将 Galaxy S26 Ultra 推至第三位。InlinePriceWidget 14660...",
-      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_20_-news-72865.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为Watch Fit 5 Pro评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-05-18",
-      "summary": "简介、开箱华为的Watch Fit系列非常受欢迎，因为它结合了小巧的外形、实用的矩形显示屏、彩色表带、强大的健康和健身追踪功能以及出色的电池续航时间，而且价格并不高。许多人都倾向于该系列以及其他喜欢它的人，因为它们涵盖了...",
-      "url": "https://www.gsmarena.com/huawei_watch_fit_5_pro_review-news-72755.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/huawei-watch-fit-5-pro-review/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "WhatsApp 现在正在 iOS 上测试查看一次消失消息功能",
-      "source": "GSMArena",
-      "date": "2026-05-17",
-      "summary": "自上个月以来，WhatsApp 一直在其 Android 应用程序上测试查看一次消失消息功能，现在我们听说它也在 iOS 上进行测试。这一消息来自 WABetaInfo 的人员，他们在 WhatsApp iOS 版 26...",
-      "url": "https://www.gsmarena.com/whatsapp_view_once_disappearing_messages_ios_beta_users-news-72864.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/whatsapp-view-once-disappearing-messages-ios-beta-users/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "索尼 Xperia 1 VIII 正式发布，小米 17 Max 即将推出 -...",
-      "source": "GSMArena",
-      "date": "2026-05-17",
-      "summary": "索尼推出了 Xperia 1 VIII 旗舰产品，采用了新的设计，但核心规格和理念还是旧的。有一个新的 1156 英寸长焦相机  与 Mark VII 中的传感器相比，传感器大四倍，分辨率高四倍。新款 48MP 长焦锁定...",
-      "url": "https://www.gsmarena.com/sony_xperia_1_viii_is_official_xiaomi_17_max_is_coming-news-72847.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/week-20-in-review/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Android 版 谷歌 密码管理器似乎获得了密钥导入和导出支持",
-      "source": "GSMArena",
-      "date": "2026-05-17",
-      "summary": "密码非常棒。该技术非常可靠，基于完善的安全加密原理，与记住传统密码相比，其易用性非常高。如果您不知道，万能钥匙范式会让您生成一个保存在设备本地的安全私钥，以及一个向您想要登录的网站服务应用程序提供的相应公钥。一旦您真正想...",
-      "url": "https://www.gsmarena.com/google_password_manager_on_android_appears_to_be_getting_passkey_import_and_export_support-news-72863.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/android-google-password-manager-passkey-migration/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Meta 的雷朋显示屏在最新更新中可通过空中手势打字",
-      "source": "GSMArena",
-      "date": "2026-05-17",
-      "summary": "雷朋显示屏 RayBan Display  Meta 的旗舰智能可穿戴眼镜  带有显示屏覆盖层的眼镜，不要与看似更流行的仅摄像头型号混淆  正在进行相当重大的更新。在 Messenger 和 WhatsApp 中处于限制...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/metas_rayban_display_gets_typing_through_air_gestures_in_latest_update-news-72862.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/meta-rayban-display-major-update/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "今年夏天升级您的露台和游泳池的最佳技术",
+      "title": "Gboard 很快就会使用你的屏幕截图和聊天记录来起草比你更好的回复",
       "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "使用这些小工具充分享受户外活动。",
-      "url": "https://www.androidauthority.com/pool-patio-tech-3666244/",
+      "date": "2026-05-19",
+      "summary": "使用 Gemini Nano，所有文本和媒体都应在设备上处理。",
+      "url": "https://www.androidauthority.com/gboard-writing-tools-upgrade-3668502/",
       "tags": [
         "安卓"
       ],
@@ -134,71 +134,11 @@
       "type": "news"
     },
     {
-      "title": "调查显示这是许多读者离不开的 Android 浏览器功能",
+      "title": "我已经怀念 Galaxy S10 Plus 多年了，Galaxy S27 可...",
       "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "获胜的答案很重要，但这真的是浏览器的责任吗？",
-      "url": "https://www.androidauthority.com/browser-feature-absolutely-cant-live-without-poll-results-3667906/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "沮丧的 Perplexity Pro 用户声称高级人工智能模型的使用限制已被...",
-      "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "多个 Reddit 线程抱怨使用高级 AI 模型的查询的使用限制悄然减少。",
-      "url": "https://www.androidauthority.com/perplexity-pro-advanced-ai-limits-reduced-3667942/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "索尼的高级“The ColleXion”耳机刚刚从上到下泄露，核心配置曝光",
-      "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "索尼 1000XThe ColleXion耳机拥有格莱美获奖录音室资质。",
-      "url": "https://www.androidauthority.com/sony-1000x-the-collexion-bluetooth-headphones-3667922/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "在修复了家人朋友的手机后，我意识到 谷歌 Play Protect 做得还不...",
-      "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "Play Protect 扫描可以表明一切正常，即使情况并非如此。",
-      "url": "https://www.androidauthority.com/google-play-protect-not-doing-enough-3665470/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我为 Gemini、ChatGPT 和 Claude 付费 — 显然有一个赢...",
-      "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "我一直在其他人工智能工具上作弊，但我并不后悔。",
-      "url": "https://www.androidauthority.com/gemini-chatgpt-claude-clear-winner-3666267/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy S23 系列和 A56 是三星 One UI 8.5 重大更新...",
-      "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "三星为这些 Galaxy 用户开启了美好的一周。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s23-one-ui-8-5-3667911/",
+      "date": "2026-05-19",
+      "summary": "我很想看到 Galaxy S10 Plus 的继任者。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-bringing-back-s10-plus-3664947/",
       "tags": [
         "三星"
       ],
@@ -206,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "这款双屏 Android 手持设备成本不到 100 美元，但刚刚安装了 Li...",
+      "title": "调查显示这款传统可穿戴设备是 Fitbit Air 的最佳替代品",
       "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "ANBERNIC 的 Linux 平台为 RG DS 带来了广泛的双屏支持和巧妙的设计。",
-      "url": "https://www.androidauthority.com/anbernic-rg-ds-linux-official-3667912/",
+      "date": "2026-05-19",
+      "summary": "Fitbit 品牌依然充满活力。",
+      "url": "https://www.androidauthority.com/fitbit-air-alternatives-poll-results-3668447/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +158,23 @@
       "type": "news"
     },
     {
-      "title": "我将 Galaxy S26 Ultra 与最好的 Android 拍照手机进...",
+      "title": "Gemini Intelligence揭露谷歌7年Pixel承诺存在问题",
       "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "我将 Galaxy S26 Ultra 与最好的 Android 拍照手机进行对比，结果出人意料地接近",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-vs-oppo-find-x9-ultra-camera-test-3665508/",
+      "date": "2026-05-19",
+      "summary": "尽管谷歌长期承诺进行更新，但其人工智能的未来已经将一些最新的 Pixel 手机抛在了后面。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/gemini-intelligence-pixel-update-clash-3668049/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "无法在您的 AT&T 三星 手机上进行视频通话？不只是你",
+      "source": "Android Authority",
+      "date": "2026-05-19",
+      "summary": "三星和ATT现在正在玩互相指责的游戏。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-phone-video-declined-error-3668472/",
       "tags": [
         "三星"
       ],
@@ -230,11 +182,59 @@
       "type": "news"
     },
     {
-      "title": "亚马逊 Kindle 关闭让用户陷入越狱困境",
+      "title": "经过数月的蒸汽软件担忧后，特朗普移动的 T1 手机终于发货了",
       "source": "Android Authority",
-      "date": "2026-05-18",
-      "summary": "毕竟，您的 Kindle 可能比亚马逊的支持更长久。",
-      "url": "https://www.androidauthority.com/amazon-kindle-jailbreak-2-3667850/",
+      "date": "2026-05-19",
+      "summary": "上手视频显示，这款价值 499 美元的设备是一款重新命名的 HTC U24 Pro，并更改了美国组装原产地声明。",
+      "url": "https://www.androidauthority.com/trump-mobile-t1-phone-finally-shipping-3668476/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "想要一台便宜的 Android 平板电脑吗？沃尔玛现在有 6 种新选择，价格...",
+      "source": "Android Authority",
+      "date": "2026-05-19",
+      "summary": "新款 Onn 平板电脑为不想花旗舰级价格的买家提供了令人惊讶的不错的规格。",
+      "url": "https://www.androidauthority.com/walmart-six-new-onn-android-tablets-3668430/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我尝试了三星的 One UI 9 beta，但这不是我希望的更新",
+      "source": "Android Authority",
+      "date": "2026-05-19",
+      "summary": "三星的最新更新进展缓慢。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-hands-on-3667318/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Perplexity 确认促销代码打击后某些用户的限制减少",
+      "source": "Android Authority",
+      "date": "2026-05-19",
+      "summary": "该平台表示，第三方欺诈和未经授权的转售激增迫使其调整使用上限。",
+      "url": "https://www.androidauthority.com/perplexity-usage-limits-promo-code-crackdown-3668441/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "最好的掌上塞尔达游戏之一现已（非官方）在 Android 上提供",
+      "source": "Android Authority",
+      "date": "2026-05-19",
+      "summary": "本机端口意味着支持更多图形选项等等。",
+      "url": "https://www.androidauthority.com/legend-of-zelda-minish-cap-android-port-3668420/",
       "tags": [
         "安卓"
       ],
