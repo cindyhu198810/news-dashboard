@@ -1,228 +1,132 @@
 {
-  "updated": "2026-05-22 11:22",
+  "updated": "2026-05-23 10:09",
   "news": [
     {
-      "title": "小米 17T 印度发布日期公布，新机正式登场",
+      "title": "优惠：Galaxy Z Fold7、iPhone Air降价，Galaxy ...",
       "source": "GSMArena",
-      "date": "2026-05-22",
-      "summary": "本周早些时候，小米宣布将于 5 月 28 日推出小米 17T 和小米 17T Pro。今天，该中国品牌宣布小米 17T 将于 6 月 4 日在印度推出，标志着 T 系列时隔多年重返亚洲国家。小米在其促销活动中只提到了 1...",
-      "url": "https://www.gsmarena.com/xiaomi_17t_india_launch_date-news-72947.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-17t-india-launch-date/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀Magic9系列重申带来升级电池",
-      "source": "GSMArena",
-      "date": "2026-05-22",
-      "summary": "我们已经看到了一些关于即将推出的荣耀Magic9系列的传言，最新的传言表明该系列的所有三款手机都将配备比前代产品升级的电池。据爆料者Smart Pikachu透露，Magic9系列将由三款手机组成，还将带来8000mAh...",
-      "url": "https://www.gsmarena.com/honor_magic9_series_reiterated_to_bring_upgraded_batteries_-news-72946.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-magic9-battery-upgrades/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Realme 16T 搭载天玑 6300 SoC、144Hz 显示屏和 8,...",
-      "source": "GSMArena",
-      "date": "2026-05-22",
-      "summary": "Realme 今天通过推出 Realme 16T 扩展了其 16 系列，使该系列智能手机总数增加到四款。Realme 16T最大的亮点是其8000mAh电池，宣传续航7年，一次充电可续航3天。电池支持45W充电，也可以作...",
-      "url": "https://www.gsmarena.com/realme_16t_features_price_sale_date-news-72945.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/realme-16t-features-price-sale-date/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "realme 16T开箱",
-      "source": "GSMArena",
-      "date": "2026-05-22",
-      "summary": "Realme 16T是全新16T系列的首款成员。 Realme将其称为Portrait Star，配备8000mAh电池。还需要我们多说吗？好吧，我们会的。让我们拆开 16T 的包装。包装盒内包含您所需的一切  手机、U...",
-      "url": "https://www.gsmarena.com/realme_16t_unboxing_-news-72939.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/realme-16t-unboxing/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星专利暗示将推出一款带有可移动摄像头模块的可卷曲手机",
-      "source": "GSMArena",
-      "date": "2026-05-22",
-      "summary": "根据一份新发现的专利申请，在成为可折叠智能手机领域的领导者之后，三星现在可能正在探索可卷曲显示屏智能手机。WearView 发现的这项专利描述了一款具有可滚动屏幕和可移动后置摄像头模块的手机，该模块可随着显示屏的扩展而移...",
-      "url": "https://www.gsmarena.com/samsung_patent_hints_at_a_rollable_phone_with_movable_camera_module-news-72944.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-rollable-phone-patent-report/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米手环 10 Pro 和夹式耳机发布，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-05-22",
-      "summary": "小米今天在中国举行了发布会，我们看到了小米 17 Max 的首次亮相，但这并不是台上宣布的唯一新设备。我们还推出了智能手环系列的最新产品，以及小米首款夹式无线耳机。小米手环10 Pro 智能手环 10 Pro 是 202...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_band_10_pro_and_clipon_earbuds_announced-news-72941.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-band-10-pro-clip-on-earbuds-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新报告称 MacBook Pro OLED 面板准备下个月投入量产",
-      "source": "GSMArena",
-      "date": "2026-05-22",
-      "summary": "根据韩国的一份新报告，三星显示器 Samsung Display 为下一代苹果 MacBook Pro 设计的 OLED 面板的良率已达到 90 以上。事实上，有些工艺的良率甚至达到了 95。报告接着指出，这些面板最早将...",
-      "url": "https://www.gsmarena.com/macbook_pro_oled_panels_ready_to_go_into_mass_production_next_month_new_report_says-news-72943.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/macbook-pro-oled-panels/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Verizon 与大卫·贝克汉姆 (David Beckham) 合作，为其...",
-      "source": "GSMArena",
-      "date": "2026-05-21",
-      "summary": "Verizon 刚刚宣布 2026 年 FIFA 世界杯大幅降价，世界杯将于 6 月和 7 月在美国、加拿大和墨西哥举行。该公司表示，将在美国每个主办城市为客户提供 64 场比赛的 2500 多张免费门票。之所以发生这种...",
-      "url": "https://www.gsmarena.com/verizon_partners_with_david_beckham_to_give_its_customers_free_tickets_to_the_fifa_world_cup-news-72942.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/verizon-david-beckham-free-fifa-world-cup-tickets/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "AT&T 的 Build-A-Plan 可让您挑选所需内容以及支付金额",
-      "source": "GSMArena",
-      "date": "2026-05-21",
-      "summary": "今天，ATT 宣布推出完全可定制的无线体验，让您可以控制自己的支付费用。它被称为BuildAPlan，将于 5 月 27 日起仅在线提供。这是 30 天的滚动订阅。如果您有兴趣，可以选择每月 15 美元的基本套餐，其中包...",
-      "url": "https://www.gsmarena.com/at_ts_buildaplan_lets_you_pick_and_choose_what_you_need_and_how_much_you_pay-news-72940.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/att-build-a-plan/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新传言称 iPhone 19 Pro 原型机正在使用四曲面屏幕进行测试",
-      "source": "GSMArena",
-      "date": "2026-05-21",
-      "summary": "据微博数字聊天站的多产中国泄密者透露，苹果的 iPhone 19 Pro 和 iPhone 19 Pro Max 原型机目前正在接受四曲面屏幕的测试。我们在 4 月份就听说苹果 2027 Pro 系列将采用这种面板，这有...",
-      "url": "https://www.gsmarena.com/iphone_19_pro_prototypes_are_being_tested_with_quadcurved_screens_new_rumor_says-news-72935.php",
+      "date": "2026-05-23",
+      "summary": "三星 Galaxy S26 和 Galaxy S26 Ultra 目前以折扣价出售，同时还有 Galaxy Z Fold7 和 Galaxy S25 FE。部分 iPhone 型号、Pixel 10 和 Pixel 10...",
+      "url": "https://www.gsmarena.com/deals_galaxy_z_fold7_iphone_air_get_price_cuts_galaxy_s26_ultra_xiaomi_17_ultra_continue_to_be_disco-news-72966.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/20th-anniversary-iphone-display-details/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-deals-22/-184x111/gsmarena_uk.jpg",
       "type": "news"
     },
     {
-      "title": "Spotify 现在允许您为任何内容创建个人播客",
-      "source": "Android Authority",
-      "date": "2026-05-22",
-      "summary": "Spotify 现在允许您为任何内容创建个人播客",
-      "url": "https://www.androidauthority.com/spotify-personal-podcasts-studio-spotify-labs-3670117/",
+      "title": "Honor Win 2 规格以及有关 Win 2 RT 的一些细节泄露，核心...",
+      "source": "GSMArena",
+      "date": "2026-05-23",
+      "summary": "荣耀于 12 月推出了 Win 和 Win RT，今天来自中国的新传闻揭示了它们的继任者的一些情况。让我们从顶级产品开始，我们将其称为 Win 2。据称，这款产品拥有 689 英寸的屏幕，具有2K分辨率和 185Hz 刷...",
+      "url": "https://www.gsmarena.com/honor_win_2_specs_leak_alongside_some_details_about_the_win_2_rt-news-72965.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-win-2-specs-leak/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Pixel Fold 用户报告了一个噩梦般的错误，导致一个屏幕无法使用",
-      "source": "Android Authority",
-      "date": "2026-05-22",
-      "summary": "幸运的是，已经有一个解决方法。",
-      "url": "https://www.androidauthority.com/pixel-fold-screen-not-working-3670146/",
+      "title": "Oppo Reno16 系列在正式发布前几天出现了简短视频，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-05-23",
+      "summary": "Oppo 将于 5 月 25 日在中国全面发布 Reno16 和 Reno16 Pro，在此之前有人成功拍摄了一段短视频，展示了这两款设备并排的情况。在此，供您观赏。 OPPO也不甘示弱，也发布了该系列的宣传视频，您可以...，带来多项升级",
+      "url": "https://www.gsmarena.com/oppo_reno16_series_stars_in_quick_videos_just_a_few_days_ahead_of_the_official_unveiling-news-72961.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oppo-reno16-series-videos/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "联想推出两款游戏平板电脑如此出色，以至于他们跳过了美国",
-      "source": "Android Authority",
-      "date": "2026-05-22",
-      "summary": "两者都配备 4K 显示屏、高端芯片组和大容量电池。",
-      "url": "https://www.androidauthority.com/lenovo-egion-y900-gaming-android-tablet-3670145/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "您的 Android 主屏幕小部件即将获得大量升级",
-      "source": "Android Authority",
-      "date": "2026-05-22",
-      "summary": "谷歌正在使用名为 Remote Compose 的新引擎彻底改造小部件，带来流畅的动画和更高的效率。",
-      "url": "https://www.androidauthority.com/android-widgets-overhaul-remote-compose-3670122/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我尝试了 Gemini 重新设计的 Android 应用程序。这就是谷歌的错...",
-      "source": "Android Authority",
-      "date": "2026-05-22",
-      "summary": "Gemini 最新的重新设计体现了形式比功能更重要的意义。",
-      "url": "https://www.androidauthority.com/gemini-neural-expressive-android-app-hands-on-3668985/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "BOOX 取笑了另一款 Android 驱动的 Kindle Scribe ...",
-      "source": "Android Authority",
-      "date": "2026-05-22",
-      "summary": "新款Note X6电子墨水笔记本即将在中国推出。",
-      "url": "https://www.androidauthority.com/boox-teases-note-x6-3670142/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "亚马逊希望你扔掉你的旧 Kindle。这就是为什么我越狱了",
-      "source": "Android Authority",
-      "date": "2026-05-22",
-      "summary": "亚马逊认为你的旧 Kindle 毫无价值，但事实并非如此。",
-      "url": "https://www.androidauthority.com/amazon-old-kindle-jailbreak-how-3669128/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "小米刚刚升级了其深受粉丝喜爱的 Mi Band，具有更好的跟踪功能和 21 ...",
-      "source": "Android Authority",
-      "date": "2026-05-22",
-      "summary": "它价格便宜，外观精美，并且配备了健身追踪器所需的几乎所有功能。",
-      "url": "https://www.androidauthority.com/xiaomi-smart-band-10-pro-launch-3670082/",
+      "title": "小米17 Max被拆解视频",
+      "source": "GSMArena",
+      "date": "2026-05-23",
+      "summary": "昨天，小米发布了 17 Max，今天 YouTube 上已经出现了完整的拆解拆解视频，展示了其所有内部结构，由中国频道 WekiHome 提供。虽然视频是中文的，但我们发现 YouTube 的英文字幕非常好，所以如果您不...，带来多项升级",
+      "url": "https://www.gsmarena.com/xiaomi_17_max_gets_disassembled_on_video-news-72964.php",
       "tags": [
         "小米"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-17-max-teardown/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌 Play 商店希望您在取消该应用订阅时三思而后行",
-      "source": "Android Authority",
+      "title": "Spotify 的新个人播客功能可让您创建带有文本提示的播客",
+      "source": "GSMArena",
       "date": "2026-05-22",
-      "summary": "想要取消该应用程序订阅吗？ Play 商店可以为您提供降级服务。",
-      "url": "https://www.androidauthority.com/google-play-store-downgrade-not-cancel-subscription-3670106/",
+      "summary": "Spotify 推出了一项名为个人播客的新功能，可让用户生成由人工智能驱动的私人播客。这些个性化的播客也可以根据用户的兴趣和收听习惯进行安排和定制。用户很快就可以通过新的个人播客功能直接在 Spotify 应用程序中创建...",
+      "url": "https://www.gsmarena.com/spotifys_new_personal_podcast_feature_lets_you_create_podcasts_with_text_prompts-news-72962.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/spotify-personal-podcasts/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "特朗普移动证实其泄露了客户数据，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-05-22",
+      "summary": "特朗普移动传奇以最糟糕的方式继续下去。该公司的第一款智能手机据称是更名后的 HTC U24 Pro，该设备于 2024 年推出，最初预计于去年 8 月或 9 月开始发货。显然，这并没有发生，但现在据说发货已经迫在眉睫。但...",
+      "url": "https://www.gsmarena.com/trump_mobile_confirms_that_it_exposed_customer_data-news-72963.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/trump-mobile-exposed-customer-data/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Motorola Razr Fold 在美国和加拿大推出，Razr 2026...",
+      "source": "GSMArena",
+      "date": "2026-05-22",
+      "summary": "经过一周的预购期后，摩托罗拉 2026 年的整个 Razr 系列产品已在美国上市。在加拿大，Razr Fold 自行推出这是摩托罗拉首款书本式可折叠手机。2026 年摩托罗拉 Razr 系列摩托罗拉 Razr Fold ...",
+      "url": "https://www.gsmarena.com/motorola_razr_fold_launches_in_the_us_and_canada_razr_2026_family_available_in_the_us-news-72952.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/motorola-razr-launch-north-america/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "AYANEO 预告其即将推出的类似 Game Boy 的游戏设备 KONKR...",
+      "source": "GSMArena",
+      "date": "2026-05-22",
+      "summary": "AYANEO 希望在手持式复古游戏机领域占据一席之地，并计划推出另一款类似 Game Boy 的设备，名为 KONKR Pocket BLOCK。顾名思义，它是一款适合您口袋的小型游戏设备。KONKR 口袋块该公司在一次...",
+      "url": "https://www.gsmarena.com/ayaneo_teases_its_upcoming_game_boylike_gaming_device_called_konkr_pocket_block-news-72958.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/ayaneo-game-boy-like-device-teased/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Infinix Note 60 Pro 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-05-22",
+      "summary": "Infinix Note 60 Pro 评测",
+      "url": "https://www.gsmarena.com/infinix_note_60_pro-review-2962.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/infinix-note-60-pro/-347x151/gsmarena_002.jpg",
+      "type": "news"
+    },
+    {
+      "title": "认证显示荣耀600智能5G即将到来",
+      "source": "GSMArena",
+      "date": "2026-05-22",
+      "summary": "荣耀的中端600系列在不久的将来还将进一步扩展。根据GCF和SGS的新认证，荣耀600智能5G即将上市，型号为MRKNX1。荣耀600智能5G认证 顾名思义，它支持 5G，但不幸的是，这是这些认证公布的唯一规格。全球认证...",
+      "url": "https://www.gsmarena.com/honor_600_smart_5g_is_coming_certifications_reveal-news-72960.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-600-smart-5g-certifications/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 Pixel 10 Pro 毁了我所有其他 Android 手机",
+      "source": "Android Authority",
+      "date": "2026-05-23",
+      "summary": "其他手机在纸面上是否更好并不重要，我喜欢我的 Pixel 10 Pro。",
+      "url": "https://www.androidauthority.com/google-pixel-10-pro-ruined-other-android-phones-3665497/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +134,107 @@
       "type": "news"
     },
     {
-      "title": "谷歌让我看起来像个白痴，因为我相信它的 Tensor 芯片",
+      "title": "Anker SOLIX C1000 Gen 2 是我最喜欢的便携式电站，适合...",
+      "source": "Android Authority",
+      "date": "2026-05-23",
+      "summary": "我可以用一只手携带它，而且我还没有遇到过它无法供电的电子设备。",
+      "url": "https://www.androidauthority.com/anker-solix-c1000-gen-2-portable-power-station-review-3662064/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我刚刚在 Pixel 上下载了病毒式迪斯科应用程序图标包 - 以下是获取方法",
+      "source": "Android Authority",
+      "date": "2026-05-23",
+      "summary": "我刚刚在 Pixel 上下载了病毒式迪斯科应用程序图标包  以下是获取方法",
+      "url": "https://www.androidauthority.com/how-to-use-disco-app-icons-google-pixel-3670362/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "One UI 8.5 悄悄解决了我使用 Galaxy S24 Ultra 的...",
+      "source": "Android Authority",
+      "date": "2026-05-23",
+      "summary": "我喜欢在 One UI 85 中看到更好的多任务处理。",
+      "url": "https://www.androidauthority.com/one-ui-8-5-samsung-galaxy-s24-ultra-hands-on-3669967/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Helium Mobile 的免费计划不再对任何人免费",
       "source": "Android Authority",
       "date": "2026-05-22",
-      "summary": "Tensor 应该是为 AI 构建的，那么有什么作用呢？",
-      "url": "https://www.androidauthority.com/google-making-me-look-like-idiot-supporting-tensor-3668799/",
+      "summary": "现有的零计划客户似乎只是短暂幸免。",
+      "url": "https://www.androidauthority.com/helium-mobile-ending-free-zero-plan-3670436/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "关于 Chromecast 死亡的报道被严重夸大了——谷歌部署了修复程序",
+      "source": "Android Authority",
+      "date": "2026-05-22",
+      "summary": "你的旧 Chromecast 可能是借来的时间，但它只是设法多借了一点时间。",
+      "url": "https://www.androidauthority.com/chromecast-streaming-fix-3670405/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌最新的 Pixel Watch 更新可能会让你很难找到你的手机",
+      "source": "Android Authority",
+      "date": "2026-05-22",
+      "summary": "值得庆幸的是，临时解决方法似乎已经有所帮助。",
+      "url": "https://www.androidauthority.com/pixel-watch-find-your-phone-issue-3670401/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "SHOKZ OpenMove 耳机降价 31%，现低于 55 美元",
+      "source": "Android Authority",
+      "date": "2026-05-22",
+      "summary": "SHOKZ OpenMove 耳机现已享受 31 折扣，其创新骨传导技术仅需 5494 美元！",
+      "url": "https://www.androidauthority.com/shokz-openmove-headphones-deal-3670421/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "不要错过：Sonos Sub Mini 价格创下数月来最低价，仅为 399 ...",
+      "source": "Android Authority",
+      "date": "2026-05-22",
+      "summary": "准备好升级您的家庭音响了吗？ Sonos Sub Mini 目前在亚马逊上的售价为 399 美元，比近期平均价格低 83 美元。",
+      "url": "https://www.androidauthority.com/sonos-sub-mini-deal-3670414/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌的人工智能概述是如此混乱，它无法判断你是否在查找某些内容（更新）",
+      "source": "Android Authority",
+      "date": "2026-05-22",
+      "summary": "谷歌搜索将单词定义请求与人工智能提示混淆了。",
+      "url": "https://www.androidauthority.com/google-ai-overviews-definition-bug-3670358/",
       "tags": [
         "安卓"
       ],
