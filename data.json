@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-24 10:15",
+  "updated": "2026-05-25 12:01",
   "news": [
+    {
+      "title": "摩托罗拉 Edge 70 Pro+ 印度发布日期揭晓，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-05-25",
+      "summary": "经过几轮预告后，摩托罗拉终于宣布了 Edge 70 Pro 的上市日期。该公司最近确认了这款手机的设计、颜色选项和主要功能。一旦推出，新机型将与 Edge 70、Edge 70 Pro、Edge 70 Fusion 和 ...",
+      "url": "https://www.gsmarena.com/motorola_edge_70_pro_india_launch_date_revealed-news-72976.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/moto-edge-70-pro-plus-launch-date/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo Y600 Turbo 正式上市，电池容量为 9,020mAh",
+      "source": "GSMArena",
+      "date": "2026-05-25",
+      "summary": "上个月，vivo 在中国推出了配备 10200mAh 大电池的 Y600 Pro。该公司现已推出另一款 Y600 系列智能手机，配备类似的 9020mAh 大电池。它被称为vivo Y600 Turbo，已经在国内上市。...",
+      "url": "https://www.gsmarena.com/vivo_y600_turbo_goes_official_with_a_9020mah_battery-news-72974.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/vivo-y600-turbo-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "华为nova 16系列将于6月1日发布，设计曝光，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-05-25",
+      "summary": "华为正式透露，nova 16系列将于6月1日在中国发布。此外，该公司还将推出本月早些时候全球首发的MatePad Pro Max。华为nova 16系列确认包括nova 16、nova 16 Pro、nova 16z、n...，带来多项升级",
+      "url": "https://www.gsmarena.com/huawei_nova_16_series_to_launch_on_june_1_design_revealed-news-72972.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/huawei-nova-16-series-launch-date-design/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "EarFun Clip 2 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-05-25",
+      "summary": "Clip 2 是 EarFun 推出的最新款无线耳机。它们是基于新型夹式耳塞设计的，这种耳塞如今开始风靡一时。我们测试了该公司之前的 EarFun Clip 产品，该产品存在一些关键问题，导致我们无法推荐它。然而，新的 ...",
+      "url": "https://www.gsmarena.com/earfun_clip_2_review-news-72970.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/earfun-clip-2-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀 600 与 600 Pro",
+      "source": "GSMArena",
+      "date": "2026-05-24",
+      "summary": "老问题专业版还是非专业版？这次不是荣耀600就是荣耀600 Pro。与普通的 Honor 600 相比，后者带来了一些有用的功能和硬件升级，但也增加了 300 欧元的费用。当然，您可以获得更强大的芯片组和长焦相机，但普通...",
+      "url": "https://www.gsmarena.com/honor_600_vs_600_pro_review_battery_camera_price_compared-news-72880.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-600-vs-600-pro/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "第 21 周十大热门手机",
+      "source": "GSMArena",
+      "date": "2026-05-24",
+      "summary": "本周，索尼 Xperia 1 VIII 的发布炒作有所减弱，这使得三星 Galaxy A57 重新占据了我们趋势榜的领先地位。 Galaxy S26 Ultra 重新回到第二位，而索尼新旗舰则获得了铜牌。InlinePr...，带来多项升级",
+      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_21-news-72971.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-184x111/gsmarena_002.jpg",
+      "type": "news"
+    },
+    {
+      "title": "我们的 Realme 16T 续航和充电测试已准备就绪",
+      "source": "GSMArena",
+      "date": "2026-05-24",
+      "summary": "Realme 16T 结合了 8000mAh 的大电池和合理规格的底座，价格实惠  起价为 29999 印度卢比约合 270 欧元，换算后。Realme表示，续航时间可达三天，电源组可持续使用7年，这让节俭的买家可以安心...",
+      "url": "https://www.gsmarena.com/our_realme_16t_battery_life_and_charging_test_is_done-news-72959.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/realme-16t-battery-life-test/-184x111/gsmarena_0000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "索尼 1000X、ColleXion、小米 17 Max 正式发布 - 第 ...",
+      "source": "GSMArena",
+      "date": "2026-05-24",
+      "summary": "小米 17 Max 于本周上市，为该系列画上了圆满的句号。它缺少 Pro Max 的副屏，但增加了 200MP 主摄像头和更大的 8000mAh SiC 电池。它使用 Snapdragon 8 Elite Gen 5，内...",
+      "url": "https://www.gsmarena.com/sony_1000x_the_collexion_xiaomi_17_max_are_official-news-72957.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/week-21-in-review/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
     {
       "title": "优惠：Galaxy S26 Ultra 立减 250 美元，可折叠手机促销，...",
       "source": "GSMArena",
@@ -26,217 +122,121 @@
       "type": "news"
     },
     {
-      "title": "每周调查结果：索尼 Xperia 1 VIII 可能会大受欢迎，尽管价格较高",
-      "source": "GSMArena",
-      "date": "2026-05-24",
-      "summary": "上周的调查结果让我们想知道人们真的那么喜欢索尼 Xperia 1 VIII 还是他们喜欢带有 35 毫米耳机插孔和 microSD 插槽的手机，而 Xperia 恰好是唯一拥有这些功能的旗舰手机？因为结果非常积极近四分之...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_sony_xperia_1_viii_might_be_a_hit_despite_its_high_price-news-72956.php",
+      "title": "Helium Mobile 首席执行官在结束免费计划后称早期采用者为“寄生虫...",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "这些评论后来被编辑删除，首席执行官澄清说，他们的意思并不那么广泛。",
+      "url": "https://www.androidauthority.com/helium-mobile-ceo-comments-3670637/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-poll-results-sony-xperia-1-viii/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "优惠：OnePlus 15R 搭配免费手表、摩托罗拉 Razr Fold 和...",
-      "source": "GSMArena",
-      "date": "2026-05-23",
-      "summary": "本周的主题是免费赠品，多家制造商将手机与其他小工具配对，试图吸引人群。我们从 OnePlus 15R 开始，它附带免费的 OnePlus Watch 3 43mm。这还不包括发行价 150 欧元的折扣。         ...",
-      "url": "https://www.gsmarena.com/deals_oneplus_15r_paired_with_a_free_watch_motorola_razr_fold_and_razr_70_phones_launch-news-72955.php",
+      "title": "Android 17 可以让你禁用 Gboard 最烦人的功能",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "您终于可以摆脱那个地球图标了。",
+      "url": "https://www.androidauthority.com/android-17-gboard-globe-key-disable-3670597/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-deals-22/-184x111/gsmarena_de.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy A57 与 Galaxy A56",
-      "source": "GSMArena",
-      "date": "2026-05-23",
-      "summary": "如果您正在市场上购买中档智能手机，几乎不可能不碰上三星 Galaxy A 系列。但随着最近三星 Galaxy A57 的发布，人们会怀疑三星 Galaxy A56 是否实际上是一个更明智的解决方案，因为硬件升级有些温和。...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a57_vs_galaxy_a56_review_battery_camera_price_compared-news-72660.php",
+      "title": "荣获多个奖项后，这位专业摄影师在 Galaxy S25 Ultra 相机上出...",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "这位专业人士并不关心您对三星 Ultra 相机的看法。",
+      "url": "https://www.androidauthority.com/galaxy-s25-ultra-pro-wildlife-photographer-awards-3670596/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-galaxy-a57-vs-galaxy-a56/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "苹果 的睡眠呼吸暂停通知和听力测试功能现已在印度推出",
-      "source": "GSMArena",
-      "date": "2026-05-23",
-      "summary": "苹果公司宣布将睡眠呼吸暂停通知和听力测试功能扩展到印度。睡眠呼吸暂停是一种人在睡眠期间呼吸暂时停止的情况，导致身体无法获得足够的氧气。如果不及时治疗，随着时间的推移，可能会导致健康后果，包括增加患高血压、2 型糖尿病和心...",
-      "url": "https://www.gsmarena.com/apple_sleep_apnea_hearing_test_features_india-news-72969.php",
+      "title": "Valve 让我把我的 Android 掌上电脑变成一个非官方的 Steam...",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "从我的 AYN 手持设备开始，所有这些内容都将在 Android 设备上的 Steam 上整合在一起。",
+      "url": "https://www.androidauthority.com/valve-turn-android-handheld-into-steam-deck-3660739/",
       "tags": [
-        "苹果"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/apple-sleep-apnea-hearing-test-features-india/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "小米向我们展示了 17T 迄今为止最好的官方外观，揭示了 17T 系列长焦相...",
-      "source": "GSMArena",
-      "date": "2026-05-23",
-      "summary": "小米17T和小米17T Pro将于5月28日亮相，随后17T将于6月4日在印度上市。小米已经透露了17T和17T Pro的背面设计，现在其印度分公司通过X上的视频剪辑为我们提供了非Pro型号的最佳官方外观。该视频包含在下...",
-      "url": "https://www.gsmarena.com/xiaomi_17t_series_telephoto_camera_magnification-news-72968.php",
+      "title": "我尝试放弃密码，但替代方案感觉更复杂",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "谷歌的无密码未来听起来毫不费力，直到你真正接受它。",
+      "url": "https://www.androidauthority.com/google-passwordless-future-not-ready-3665902/",
       "tags": [
-        "小米"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-17t-series-telephoto-camera-magnification/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy Tab S10 FE 和 FE+ 获得 One UI 8...",
-      "source": "GSMArena",
-      "date": "2026-05-23",
-      "summary": "三星最近为 Galaxy Tab S11 和 Tab S11 Ultra 发布了稳定的 One UI 85 更新，使它们成为第一批接收该更新的平板电脑。现在，三星又为另外两款平板电脑推出了稳定的 One UI 85  G...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s10_fe_tab_s10_fe_plus_one_ui_8_5_stable_update-news-72967.php",
+      "title": "据读者称，这是最好的摩托罗拉 Razr Ultra (2026) 替代品",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "去年的模型以压倒性优势获胜，但后面还有一场重量级的战斗。",
+      "url": "https://www.androidauthority.com/motorola-razr-ultra-2026-alternatives-poll-results-3670608/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我把我的 Android 平板电脑变成了第二个显示器——我再也回不去了",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "我的 Android 平板电脑终于找到了它的使命。",
+      "url": "https://www.androidauthority.com/android-tablet-second-monitor-3668374/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Trump Mobile 正在调查影响数千个 T1 预订的数据泄露事件，核心...",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "一个基本的代码缺陷可能已经暴露了大约 27000 名特朗普移动的潜在买家。",
+      "url": "https://www.androidauthority.com/trump-mobile-data-leak-investigation-3670612/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我不是健身爱好者，但我还是迫不及待地想买 Fitbit Air",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "适合不喜欢健身追踪器的人的健身追踪器。",
+      "url": "https://www.androidauthority.com/not-fitness-buff-cant-wait-buy-fitbit-air-why-3668191/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星修复了 Galaxy 手机上的一个令人沮丧的游戏错误",
+      "source": "Android Authority",
+      "date": "2026-05-25",
+      "summary": "使用 DeX 模式时您的控制器出现故障吗？尝试更新到 One UI 85。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/samsung-fix-major-gaming-bug-dex-3670559/",
       "tags": [
         "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-galaxy-tab-s10-fe-series-one-ui-8-5-stable-update/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "优惠：Galaxy Z Fold7、iPhone Air降价，Galaxy ...",
-      "source": "GSMArena",
-      "date": "2026-05-23",
-      "summary": "三星 Galaxy S26 和 Galaxy S26 Ultra 目前以折扣价出售，同时还有 Galaxy Z Fold7 和 Galaxy S25 FE。部分 iPhone 型号、Pixel 10 和 Pixel 10...",
-      "url": "https://www.gsmarena.com/deals_galaxy_z_fold7_iphone_air_get_price_cuts_galaxy_s26_ultra_xiaomi_17_ultra_continue_to_be_disco-news-72966.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-deals-22/-184x111/gsmarena_uk.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Honor Win 2 规格以及有关 Win 2 RT 的一些细节泄露，核心...",
-      "source": "GSMArena",
-      "date": "2026-05-23",
-      "summary": "荣耀于 12 月推出了 Win 和 Win RT，今天来自中国的新传闻揭示了它们的继任者的一些情况。让我们从顶级产品开始，我们将其称为 Win 2。据称，这款产品拥有 689 英寸的屏幕，具有2K分辨率和 185Hz 刷...",
-      "url": "https://www.gsmarena.com/honor_win_2_specs_leak_alongside_some_details_about_the_win_2_rt-news-72965.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-win-2-specs-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "我已经使用新的 谷歌 Health 应用一周了，但我讨厌它",
-      "source": "Android Authority",
-      "date": "2026-05-24",
-      "summary": "我不想阅读文字墙，我需要先看数字。",
-      "url": "https://www.androidauthority.com/i-used-new-google-health-app-for-week-and-hate-it-3670318/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我等了 谷歌books 好几年了——但我希望我没有",
-      "source": "Android Authority",
-      "date": "2026-05-24",
-      "summary": "Googlebooks：伪装的 Chromebook。",
-      "url": "https://www.androidauthority.com/waited-years-for-googlebooks-wish-i-hadnt-3668388/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Wear OS 7 是对 Pixel 用户的终极侮辱",
-      "source": "Android Authority",
-      "date": "2026-05-24",
-      "summary": "Gemini Intelligence 适用于我的手表，但不适用于我的手机？",
-      "url": "https://www.androidauthority.com/wear-os-7-ultimate-insult-pixel-owners-3669875/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "如果 谷歌 搜索正在演变成 Gemini，那么 Gemini 的意义何在？",
-      "source": "Android Authority",
-      "date": "2026-05-23",
-      "summary": "让我们来玩找不同吧！",
-      "url": "https://www.androidauthority.com/google-search-vs-gemini-identity-crisis-3669955/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我讨厌 Pixel 上的多任务处理 — 直到我尝试了 Android 17 ...",
-      "source": "Android Authority",
-      "date": "2026-05-23",
-      "summary": "这些是我不想破灭的泡沫。",
-      "url": "https://www.androidauthority.com/android-17-app-bubbles-multitasking-changed-my-pixel-3665850/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android 几年前就毁掉了链接处理。这是我使用免费应用程序修复它的方法",
-      "source": "Android Authority",
-      "date": "2026-05-23",
-      "summary": "Android 几年前就毁掉了链接处理。这是我使用免费应用程序修复它的方法",
-      "url": "https://www.androidauthority.com/i-fixed-android-broken-link-handling-linksheet-app-3667847/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "这款 Android 游戏应用可能会杀死手持电脑",
-      "source": "Android Authority",
-      "date": "2026-05-23",
-      "summary": "对 GameNative 的创建者 Utkarsh Dalal 的采访。",
-      "url": "https://www.androidauthority.com/gamenative-interview-kill-handheld-pcs-3664176/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我对 谷歌 One 价格的未来有不好的预感",
-      "source": "Android Authority",
-      "date": "2026-05-23",
-      "summary": "谷歌升级后的 AI Pro 订阅官方听起来好得令人难以置信。",
-      "url": "https://www.androidauthority.com/google-one-ai-prices-concern-3668896/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Pixel 10 Pro 毁了我所有其他 Android 手机",
-      "source": "Android Authority",
-      "date": "2026-05-23",
-      "summary": "其他手机在纸面上是否更好并不重要，我喜欢我的 Pixel 10 Pro。",
-      "url": "https://www.androidauthority.com/google-pixel-10-pro-ruined-other-android-phones-3665497/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Anker SOLIX C1000 Gen 2 是我最喜欢的便携式电站，适合...",
-      "source": "Android Authority",
-      "date": "2026-05-23",
-      "summary": "我可以用一只手携带它，而且我还没有遇到过它无法供电的电子设备。",
-      "url": "https://www.androidauthority.com/anker-solix-c1000-gen-2-portable-power-station-review-3662064/",
-      "tags": [
-        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
