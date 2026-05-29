@@ -1,132 +1,132 @@
 {
-  "updated": "2026-05-28 11:54",
+  "updated": "2026-05-29 11:43",
   "news": [
     {
-      "title": "观看小米17T系列发布会直播，新机正式登场",
+      "title": "联发科推出天玑 7500，配备 Arm C1 CPU、更快的 NPU",
       "source": "GSMArena",
-      "date": "2026-05-28",
-      "summary": "小米将在今天中午 12 点世界标准时间开始的活动中推出 17T 系列智能手机。它将进行现场直播，您可以通过下面的 YouTube 直播来关注我们。17T系列包括两款智能手机17T和17T Pro。小米尚未详细介绍这两款智...",
-      "url": "https://www.gsmarena.com/xiaomi_17t_17t_pro_launch_event_live_stream-news-73008.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-17t-india-launch-date/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Z Fold Wide 假人​​出现在动手视频中",
-      "source": "GSMArena",
-      "date": "2026-05-28",
-      "summary": "传闻中的三星宽屏可折叠智能手机广泛称为 Galaxy Z Fold Wide预计将于 7 月首次亮相。该设备已经多次泄露，揭示了其设计和关键规格。现在，由 Sonny Dickson 提供的一段展示 Galaxy Z F...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold_wide_dummy_appears_in_handson_video-news-73022.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-galaxy-z-fold-wide-dummy-hands-on/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Dreame 任命克里斯蒂亚诺·罗纳尔多为全球大使",
-      "source": "GSMArena",
-      "date": "2026-05-28",
-      "summary": "Dreame Technology 与克里斯蒂亚诺罗纳尔多 Cristiano Ronaldo 达成战略合作伙伴关系，这位足球传奇人物将代表 Dreame 的多元化产品组合。根据新闻稿，C罗将帮助扩大 Dreame 在智...",
-      "url": "https://www.gsmarena.com/dreame_introduces_cristiano_ronaldo_as_global_ambassador_-news-73023.php",
+      "date": "2026-05-29",
+      "summary": "联发科刚刚推出了天玑 7500，其 CPU、GPU 和 NPU 均进行了升级。该SoC将与高通的Snapdragon 7系列正面竞争，并将在未来几个月内为中高端手机提供支持。该芯片采用 4nm 工艺制造，就像它所取代的 ...",
+      "url": "https://www.gsmarena.com/mediatek_unveils_dimensity_7500_with_arm_c1_cpu_faster_npu-news-73040.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/dreame-ronaldo-partnership/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/mediatek-dimensity-7500/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Edge 70 Pro+ 出现在 Geekbench 上，并在发布...",
+      "title": "Oura Ring 5 宣布采用纤薄设计、更新传感器和血压监测",
+      "source": "GSMArena",
+      "date": "2026-05-29",
+      "summary": "新款 Oura Ring 5 的一大亮点在于它的尺寸。 Oura Ring 5 的宽度仅超过 6 毫米，厚度为 23 毫米，比即将推出的 Ring 4 小 40。新型号仍由钛制成，具有更平滑的弧度，增加了舒适度。它有尺寸...",
+      "url": "https://www.gsmarena.com/oura_ring_5_announced_with_slim_design_updated_sensors_and_blood_pressure_monitoring_-news-73036.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oura-ring-5-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo T5悄然登场，7200mAh电池，IP69防护等级",
+      "source": "GSMArena",
+      "date": "2026-05-29",
+      "summary": "一款新的vivo智能手机在墨西哥悄然亮相。这款手机是 vivo T5，这是一款搭载 Snapdragon 6s Gen 2 芯片组的廉价 4G 手机。其主要亮点之一是 7200mAh 大电池。vivo T5 4G配备67...",
+      "url": "https://www.gsmarena.com/vivo_t5_quietly_debuts_with_a_7200mah_battery_ip69_rating-news-73035.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/vivo-t5-4g-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Lava Bold N2 的发布日期揭晓，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-05-29",
+      "summary": "Lava 几天前推出了 Shark 2，下周还将推出全新的 Bold 系列智能手机。这一爆料来自 Amazonin，该公司在其网站上设置了 Lava Bold N2 的促销页面，该产品将于当地时间 6 月 3 日中午 1...",
+      "url": "https://www.gsmarena.com/lava_bold_n2_5g_launch_date-news-73034.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/lava-bold-n2-5g-launch-date/-184x111/gsmarena_002.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone Ultra 可折叠手机壳泄露，揭示设计、双摄像头设置，核心配置...",
       "source": "GSMArena",
       "date": "2026-05-28",
-      "summary": "摩托罗拉定于 6 月 4 日在印度推出 Edge 70 Pro。联想旗下品牌已经透露了 Edge 70 Pro 的设计和颜色，但尚未详细介绍这款智能手机的规格表。然而，在发布之前，Edge 70 Pro 已经出现在 Ge...，带来多项升级",
-      "url": "https://www.gsmarena.com/motorola_edge_70_pro_plus_key_specs_geekbench-news-73021.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/motorola-edge-70-pro-plus-key-specs-geekbench/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Infinix Hot 70 拆箱和上手",
-      "source": "GSMArena",
-      "date": "2026-05-28",
-      "summary": "Infinix 时尚的 Hot 70 系列刚刚开始其全球之旅，我们已经在办公室里拿到了首款设备 Hot 70，迫不及待地拆箱。Infinix Hot 70 附带一个漂亮的外壳，带有颜色匹配的框架保险杠、一个带 USBA ...",
-      "url": "https://www.gsmarena.com/infinix_hot_70_unboxing-news-72999.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/infinix-hot-70-unboxing/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Facebook、Instagram 和 WhatsApp 现已提供订阅计划",
-      "source": "GSMArena",
-      "date": "2026-05-28",
-      "summary": "Meta 宣布在全球推出 Facebook、Instagram 和 WhatsApp 的订阅计划。该公司还透露，针对 Meta AI 用户、创作者和企业的新计划即将推出。Facebook Plus 和 Instagram...",
-      "url": "https://www.gsmarena.com/facebook_instagram_and_whatsapp_now_offer_subscription_plans-news-73020.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/facebook-instagram-whatsapp-plus/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "RedMagic 11S Pro 接受评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-05-28",
-      "summary": "这是 RedMagic 11S Pro，它看起来就像它的前身。但这并不是坏事，RedMagic游戏手机有自己的风格没有凸起，没有摄像头孤岛，只有齐平的表面、平坦的侧面、良好的工艺。这款手机有两种配置  12256GB 和...",
-      "url": "https://www.gsmarena.com/redmagic_11s_pro_in_for_review-news-73019.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/redmagic-11s-pro-ifr/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Spotify 支持保存和共享播客剪辑",
-      "source": "GSMArena",
-      "date": "2026-05-28",
-      "summary": "Spotify 增加了在其移动应用程序上创建、保存和共享播客剧集剪辑的功能。用户可以在播客播放屏幕上看到一个新的剪辑图标，这将把他们带到新的用户界面。在这里，您将能够修剪剧集的特定部分，然后将其保存到您的媒体库中。然后，...",
-      "url": "https://www.gsmarena.com/spotify_now_lets_you_save_and_share_clips_from_podcasts-news-73017.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/spotify-podcast-clips/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "YouTube 现在将更加显着地标记人工智能生成的内容",
-      "source": "GSMArena",
-      "date": "2026-05-27",
-      "summary": "YouTube 宣布将更加透明地标记人工智能生成的内容。从今天开始，上传到 YouTube 的所有经过有意义的 AI 修改或生成的视频都将在其上显示显着的 AI 标签。长视频将在视频播放器下方和说明上方显示标签，而短视频...",
-      "url": "https://www.gsmarena.com/youtube_will_now_more_prominently_label_aigenerated_content-news-73018.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/youtube-ai-label/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果提高了大多数旧 iPhone、iPad、Mac 和手表的以旧换新估价",
-      "source": "GSMArena",
-      "date": "2026-05-27",
-      "summary": "智能手机实际上是所有电子产品的价格正在上涨，因此现在可能不是升级的好时机。然而，这也意味着旧设备保留了更多价值，苹果已经认识到这一点，因为该公司刚刚更新了其美国网站上的以旧换新估值。许多旧款 iPhone 现在的价格比几...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/apple_increases_the_tradein_valuations_of_most_old_iphones_ipads_macs_and_watches-news-73016.php",
+      "summary": "据传苹果的可折叠 iPhone 被称为 iPhone Ultra，预计将于 9 月与 iPhone 18 Pro 系列一起推出。一些泄露的信息已经让我们得以一睹这款可折叠产品的设计。现在，一家外壳制造商似乎通过新出现的渲...",
+      "url": "https://www.gsmarena.com/iphone_ultra_foldable_case_leak_reveals_design_dual_camera_setup-news-73030.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/apple-new-trade-in-valuations/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/iphone-ultra-fold-case-renders-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "LG 表示有关电视业务退出的报道完全“毫无根据”（更新）",
-      "source": "Android Authority",
+      "title": "亚马逊收购苹果Globalstar 20%股份 iPhone卫星功能不受影响",
+      "source": "GSMArena",
       "date": "2026-05-28",
-      "summary": "LG 已向 Android Authority 发表声明，否认有关出售或关闭其电视业务的传言。",
-      "url": "https://www.androidauthority.com/lg-tv-business-shutdown-3671902/",
+      "summary": "亚马逊和 Globalstar 敲定了价值 110 亿美元的收购交易。但通过收购 Globalstar，亚马逊还必须买断苹果所持有的该公司 20 的股份。苹果和 Globalstar 早在 2024 年就签署了 11 亿...",
+      "url": "https://www.gsmarena.com/amazon_to_acquire_apples_20_stake_in_globalstar_iphones_satellite_feature_wont_be_affected-news-73033.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/25/11/apple-satellite-maps-report/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Valve 退出游戏转而追求单口喜剧，Steam Deck 价格上涨 300...",
+      "source": "GSMArena",
+      "date": "2026-05-28",
+      "summary": "Valve 今天宣布涨价，这是我们很少见到的。该公司广受欢迎的手持游戏设备Steam Deck现在在美国的售价将上涨 46。从今天开始，512GB OLED 型号的售价从 549 美元涨至 789 美元，涨幅近 44。与...",
+      "url": "https://www.gsmarena.com/valve_quits_gaming_to_pursue_standup_comedy_with_300_steam_deck_price_hike-news-73028.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/steam-deck-price-hike/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus 16 再次有望配备 185Hz 显示屏、200MP 3 倍长...",
+      "source": "GSMArena",
+      "date": "2026-05-28",
+      "summary": "去年推出的 OnePlus 15 配备了 165Hz 显示屏，但上个月，一位中国爆料者声称 OnePlus 16 将配备更高刷新率的显示屏。该爆料者声称该面板的最低刷新率为 185Hz，OnePlus 的目标是最高 24...",
+      "url": "https://www.gsmarena.com/oneplus_16_screen_refresh_rate_main_telephoto_camera_details_tipped-news-73026.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oneplus-16-display-detailed/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米17T Pro评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-05-28",
+      "summary": "小米17T Pro评测",
+      "url": "https://www.gsmarena.com/xiaomi_17t_pro-review-2965.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/xiaomi-17t-pro/-347x151/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米推出智能手环 10 Pro、Watch S5、Buds 6、Sound ...",
+      "source": "GSMArena",
+      "date": "2026-05-28",
+      "summary": "小米今天发布了一些新品，即新的 17T 系列，现在我们可以添加一些智能可穿戴设备。了解小米智能手环 10 Pro、Watch S5、小米 Buds 6 和小米 Sound Play。智能手环 10 Pro 以Mi Ban...，带来多项升级",
+      "url": "https://www.gsmarena.com/xiaomi_unveils_smart_band_10_pro_buds_6_sound_play_speaker-news-73032.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/xiaomi-buds-6-smart-band-10-pro-sound-play/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Roborock 的 Qrevo Curv 2 Flow 已准备好扫除竞争对...",
+      "source": "Android Authority",
+      "date": "2026-05-29",
+      "summary": "不要犯我犯过的同样的错误，并且在您的生活中不再有这么好的扫地机器人！",
+      "url": "https://www.androidauthority.com/roborock-qrevo-curv-2-flow-review-3655960/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Razr Fold 证明跳过 Elite 芯片是明智之举",
+      "title": "谷歌 让您可以更轻松地与团队共享 Gemini 聊天内容、媒体等",
       "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "Razr Fold 表明，凉爽、持续的性能比峰值基准分数更重要。",
-      "url": "https://www.androidauthority.com/motorola-razr-fold-benchmarks-3670168/",
+      "date": "2026-05-29",
+      "summary": "它也比通过链接共享聊天更安全。",
+      "url": "https://www.androidauthority.com/gemini-sharing-google-drive-3672575/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,23 @@
       "type": "news"
     },
     {
-      "title": "Spotify 现在允许您分享播客中您最喜欢的部分",
+      "title": "One UI 9 借用了 iPhone 最有用的通话功能之一",
       "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "遗憾的是，并非所有播客都支持它。",
-      "url": "https://www.androidauthority.com/spotify-podcast-clips-3672035/",
+      "date": "2026-05-29",
+      "summary": "One UI 9 只是以一种很好的方式让三星的手机应用程序更像 iPhone。",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-iphone-call-feature-3672552/",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "这是Oura在Oura Ring 5上犯的最大错误",
+      "source": "Android Authority",
+      "date": "2026-05-29",
+      "summary": "充电盒收费99美元是Oura做出的最反消费者的举动。",
+      "url": "https://www.androidauthority.com/biggest-mistake-oura-making-oura-ring-5-charging-case-3671189/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "ANBERNIC又悄悄降级其GBA SP类掌机了吗？没那么快。",
+      "title": "这位 Verizon 用户欠了 400 美元，但运营商却做出了意想不到的举动",
       "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "您可以松一口气了。",
-      "url": "https://www.androidauthority.com/anbernic-rg34xxsp-ram-downgrade-again-3672016/",
+      "date": "2026-05-29",
+      "summary": "Verizon 这样做可能并不是出于好意，但看到这个结果仍然很酷。",
+      "url": "https://www.androidauthority.com/verizon-user-owed-400-surprise-3672492/",
       "tags": [
         "安卓"
       ],
@@ -170,23 +182,11 @@
       "type": "news"
     },
     {
-      "title": "三星正在使用 Galaxy Watch 8 研究 Ozempic 和其他 G...",
+      "title": "谷歌的 Fitbit Air 为极简主义和抛弃智能手表提供了强有力的理由",
       "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "三星希望帮助患者在 GLP1 治疗期间跟踪快速的身体变化。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-8-ozempic-side-effects-3672020/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉 Razr Fold 应该不重要，但我爱不释手",
-      "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "摩托罗拉 Razr Fold 花了很长时间才到达这里，但等待是 100 值得的。",
-      "url": "https://www.androidauthority.com/motorola-razr-fold-review-3669371/",
+      "date": "2026-05-29",
+      "summary": "舒适度是这种被动追踪体验的关键。",
+      "url": "https://www.androidauthority.com/google-fitbit-air-review-3671325/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "您的 15GB 存储空间的电话号码是多少？新调查显示人们对 Gmail 最新...",
+      "title": "调查显示，Windows 驱动的流媒体设备可能会受到许多人的意外欢迎",
       "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "公平贸易还是强行销售？读者们不能完全同意。",
-      "url": "https://www.androidauthority.com/gmail-5gb-storage-limit-poll-results-3671959/",
+      "date": "2026-05-29",
+      "summary": "谁知道？微软制作的流媒体有可能非常受欢迎。",
+      "url": "https://www.androidauthority.com/windows-powered-streaming-device-poll-results-3672534/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "一名谷歌员工涉嫌利用内幕信息操纵 Polymarket 投注",
+      "title": "我用 Gemini 修复了我无聊的 Spotify 播放列表封面",
       "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "据称，一名谷歌软件工程师利用未发布的搜索年数数据来操纵 Polymarket 的赌注。，带来多项升级",
-      "url": "https://www.androidauthority.com/google-employee-accused-of-insider-trading-3672044/",
+      "date": "2026-05-29",
+      "summary": "我喜欢生成完全适合我不同的 Spotify 播放列表的封面艺术。",
+      "url": "https://www.androidauthority.com/i-fixed-my-boring-spotify-playlist-covers-with-gemini-3670960/",
       "tags": [
         "安卓"
       ],
@@ -218,25 +218,25 @@
       "type": "news"
     },
     {
-      "title": "这是我今年切换到的 5 个热门应用程序",
+      "title": "我是 iPhone 的长期用户，但 Android 17 的这些功能诱惑我换...",
       "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "我不后悔。至少现在是这样。",
-      "url": "https://www.androidauthority.com/android-apps-i-switched-to-3670550/",
+      "date": "2026-05-29",
+      "summary": "Android 17 让我重新考虑一切。",
+      "url": "https://www.androidauthority.com/android-17-features-tempting-me-to-switch-3669317/",
       "tags": [
-        "安卓"
+        "苹果"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Galaxy Z Fold 8 Wide 假人​​展示了一款极其纤薄而紧凑的...",
+      "title": "这家公司想免费打扫你的房子，训练人工智能和机器人",
       "source": "Android Authority",
-      "date": "2026-05-28",
-      "summary": "如果这个假模型可信的话，Z Fold 8 Wide 看起来非常薄且紧凑。",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-wide-dummy-3672005/",
+      "date": "2026-05-29",
+      "summary": "如果它是免费的，那么你就是产品但至少 Shift 告诉你这一点。",
+      "url": "https://www.androidauthority.com/shift-clean-house-free-record-video-ai-training-3672527/",
       "tags": [
-        "三星"
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
