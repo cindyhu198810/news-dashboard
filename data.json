@@ -1,6 +1,102 @@
 {
-  "updated": "2026-05-30 10:20",
+  "updated": "2026-05-31 10:28",
   "news": [
+    {
+      "title": "每周特惠：小米17T双核降价促销，Galaxy S26 Ultra、iPho...",
+      "source": "GSMArena",
+      "date": "2026-05-31",
+      "summary": "小米本周早些时候推出了 17T 和 17T Pro，这两款手机现已在英国亚马逊上销售。更好的是，这两款智能手机还获得了上市折扣。同时，部分三星 Galaxy 机型、谷歌 Pixel 10 和 Pixel 10a 以及 N...",
+      "url": "https://www.gsmarena.com/weekly_deals_xiaomi_17t_duo_go_on_sale_with_price_cuts_plus_discounts_on_galaxy_s26_ultra_iphone_air-news-73054.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-deals-29/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Reno16、小米 17T、RedMagic 11S Pro 亮相...",
+      "source": "GSMArena",
+      "date": "2026-05-31",
+      "summary": "Oppo 在中国推出了 Reno16 系列。 Reno16 和 Reno16 Pro 均共享 200MP 24mm、50MP 80mm 和 50MP 16mm 相机设置，前置 50MP 18mm 自拍相机。它们的不同之处...",
+      "url": "https://www.gsmarena.com/oppo_reno16_xiaomi_17t_redmagic_11s_pro_unveiled_week_22_in_review-news-73048.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/week-22-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周投票：你会买小米17T还是小米17T Pro？",
+      "source": "GSMArena",
+      "date": "2026-05-31",
+      "summary": "去年，在我们的调查中，小米 15T Pro 轻松击败了普通版 15T。如今17T一代已经到来，历史会重演吗？很有可能事实并非如此新的香草模型带来了一些关键改进，可以改善其命运，但也存在一些问题。最大的问题可能是价格小米 ...",
+      "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_xiaomi_17t_or_the_xiaomi_17t_pro-news-73029.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-poll-xiaomi-17t-17tpro/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周投票结果：Android 17 具有更好的安全性和 AirDrop 支持...",
+      "source": "GSMArena",
+      "date": "2026-05-31",
+      "summary": "上周，我们询问了 Google IO 大会上发布的哪些公告让您兴奋不已总体来说，但也特别是针对即将推出的 Android 17 更新。从顶级问题开始，Android 17 是迄今为止在 IO 2026 上演示的最好的东西...，带来多项升级",
+      "url": "https://www.gsmarena.com/weekly_poll_results_android_17_with_better_security_and_airdrop_support_has_people_excited-news-73031.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-poll-results-android-17/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周优惠：Galaxy A57首次真正折扣，Galaxy A37和S25 F...",
+      "source": "GSMArena",
+      "date": "2026-05-30",
+      "summary": "花了一段时间，三星 Galaxy A57 终于在亚马逊上架了，并以 60 美元的折扣拉开了序幕。这比 A37 的折扣要少一些，但足以改变两者之间的力量平衡。A37 是更便宜的型号，如果您可以接受 6GB RAM 和 12...",
+      "url": "https://www.gsmarena.com/weekly_deals_the_galaxy_a57_gets_its_first_real_discount_galaxy_a37_and_s25_fe_also_on_sale-news-73037.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/weekly-deals-29/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy Watch9 代号浮出水面，可能会推出经典型号",
+      "source": "GSMArena",
+      "date": "2026-05-30",
+      "summary": "三星在 2021 年推出了首款Classic智能手表 Galaxy Watch4，但它并不是后来推出的所有 Galaxy Watch 系列的一部分，因为三星交替推出了 Classic 型号，这意味着 Watch5 和 W...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_watch9_series_watch_ultra_2_codenames-news-73056.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-galaxy-watch9-classic-raise-to-talk-feature/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo 推出 ColorOS 2026 年 5 月 16 日更新，配备 A...",
+      "source": "GSMArena",
+      "date": "2026-05-30",
+      "summary": "Oppo 宣布为 Find 和 Reno 系列智能手机推出 ColorOS 2026 年 5 月 16 日更新。此次更新的主角是 Live Space，它现在可以流畅、智能地交互，通过流畅的动画提供身临其境、响应灵敏且精...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/oppo_coloros_16_may_2026_update-news-73057.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oppo-coloros-16-may-2026-update/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy M55、A16 5G 和 A17 5G 获得 One U...",
+      "source": "GSMArena",
+      "date": "2026-05-30",
+      "summary": "三星已经为另外三款智能手机发布了 One UI 85 稳定更新  Galaxy M55、Galaxy A16 5G 和 Galaxy A17 5G。InlinePriceWidget128961Galaxy M55 的 ...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_m55_galaxy_a16_5g_galaxy_a17_5g_one_ui_8_5_stable_update-news-73055.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/25/10/samsung-galaxy-m55-m55s-one-ui-8-stable-update/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
     {
       "title": "每周优惠：小米 17T 和 17T Pro 推出，可选平板电脑捆绑包",
       "source": "GSMArena",
@@ -26,107 +122,11 @@
       "type": "news"
     },
     {
-      "title": "荣耀Win Turbo亮相，配备10,000mAh电池和耐用的底盘",
-      "source": "GSMArena",
-      "date": "2026-05-30",
-      "summary": "荣耀已经发布了 Win 系列的前两款手机普通版 Win 和 Win RT，均配备主动散热风扇和 10000 mAh 电池。然而，今天刚刚在中国推出的Win Turbo更注重于充分利用那块巨大的电池。没有冷却风扇，芯片组的...，带来多项升级",
-      "url": "https://www.gsmarena.com/honor_win_turbo_is_now_live_with_10000_mah_battery_and_durable_chassis-news-73046.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-win-turbo-offic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Find X10、Honor Magic9系列据称正在测试100M...",
-      "source": "GSMArena",
-      "date": "2026-05-30",
-      "summary": "今年早些时候，有传言称 Oppo 和华为可能会在其即将推出的旗舰产品上提供方形自拍传感器。与此同时，最近的另一则泄密称 Oppo 将使用 100MP 传感器。现在，新的泄露表明荣耀Magic9也可能配备方形自拍相机。据爆...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_honor_magic9_series_said_to_be_testing_a_100mp_square_selfie_sensor-news-73053.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oppo-find-x10-honor-magic9-square-selfie-cam-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus US 提供 OnePlus 15 和 15R 优惠 100 ...",
-      "source": "GSMArena",
-      "date": "2026-05-29",
-      "summary": "OnePlus US 的两款 15 系列型号有 100 美元折扣，甚至还会赠送一些免费物品  旗舰版的 TWS 耳机或 15R 的耳机  保护壳。OnePlus 15 优惠专门针对 12256GB 型号  使用代码 EX...",
-      "url": "https://www.gsmarena.com/oneplus_us_offers_100_off_the_oneplus_15_and_15r_with_these_codes_free_tws_buds_too-news-73051.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/oneplus-us-15-15r-deal/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iPhone 18 Pro colors reiterated in new...",
-      "source": "GSMArena",
-      "date": "2026-05-29",
-      "summary": "可以肯定地说，iPhone 17 Pro 系列的宇宙橙配色大受欢迎，以至于大多数 Android 制造商都在自己的设备上多次推出类似的色调。但尽管如此受欢迎，明亮的橙色似乎不会出现在 iPhone 18 Pro 系列中。...",
-      "url": "https://www.gsmarena.com/iphone_18_pro_colors_reiterated_in_new_leak-news-73041.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/iphone-18-pro-colors-reiterated-new-leak/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Z Fold8 系列有望拥有与 Oppo Find N6...",
-      "source": "GSMArena",
-      "date": "2026-05-29",
-      "summary": "去年 7 月，我们听说三星 Galaxy Z Fold8 将在苹果折叠 iPhone 之前配备无折痕折叠显示屏。今年早些时候，有报道称三星将在 Galaxy Z Fold8 中使用新的显示技术，将折痕可见度降低约 20。...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_fold8_ultra_crease_free_display_tipped-news-73038.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/03/samsung-galaxy-z-fold8-wide-cad-renders/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Vertu 推出 AlphaFold，首款书本式可折叠手机，并夸耀其 Her...",
-      "source": "GSMArena",
-      "date": "2026-05-29",
-      "summary": "Vertu 正在大力发展可折叠手机继 Quantum Flip 之后，该奢侈品牌现已在全球推出其首款书本式可折叠手机 AlphaFold。虽然它拥有必要的优质材料，但这款手机的唯一重点是通过人工智能提高您的生产力。好吧，...",
-      "url": "https://www.gsmarena.com/vertu_unveils_alphafold_its_first_bookstyle_foldable_and_boasts_about_its_hermes_ai_agent-news-73049.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/vertu-alphafold-available/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo S60 和 S60 活力版配备 6.59 英寸 AMOLED 显示...",
-      "source": "GSMArena",
-      "date": "2026-05-29",
-      "summary": "vivo S60系列现已正式登陆中国，拥有两款成员vivo S60和S60活力版。它们具有相似的规格，但 S60 配备了功能更强大的芯片组和 3 倍长焦相机。vivo S60左和S60活力版右这两款手机均采用 659 英...",
-      "url": "https://www.gsmarena.com/vivo_s60_and_s60_vitality_edition_arrive_with_659_amoleds_and_7200mah_batteries-news-73052.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/vivo-s60-s60-vitality-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀 X80 的发布日期和主要规格泄露，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-05-29",
-      "summary": "据最新消息称，继上个月在中国发布荣耀 X80i后，该公司正准备推出另一款 X 系列手机。即将推出的手机预计是荣耀X80。Tipster数码闲聊站透露，荣耀正准备于今年6月在中国推出新款X系列智能手机。虽然爆料者没有明确命...，带来多项升级",
-      "url": "https://www.gsmarena.com/honor_x80s_launch_date_and_key_specs_leak-news-73044.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/honor-x80-specs-launch-date-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "我知道 YouTube Music 有缺陷，但我更喜欢它而不是 Spotif...",
+      "title": "随着 Kindle 的限制越来越多，这款 Android 电子墨水平板电脑给...",
       "source": "Android Authority",
-      "date": "2026-05-30",
-      "summary": "我尝试过 Spotify、Apple Music 等，但我仍然离不开 YouTube Music。",
-      "url": "https://www.androidauthority.com/why-i-prefer-youtube-music-over-spotify-3671014/",
+      "date": "2026-05-31",
+      "summary": "Android 的灵活性，没有太多的干扰。",
+      "url": "https://www.androidauthority.com/boox-go-10-3-gen-ii-review-3669990/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "调查显示 50% 的用户不喜欢新的 谷歌 Health 应用",
+      "title": "我使用 Gemini 和 Claude 作为食谱应用程序，只有其中一个真正有...",
       "source": "Android Authority",
-      "date": "2026-05-30",
-      "summary": "谷歌确实搞砸了向谷歌健康的过渡，并给每个人带来了糟糕的用户体验。",
-      "url": "https://www.androidauthority.com/survey-reveals-50-percent-users-dont-like-new-google-health-app-3672201/",
+      "date": "2026-05-31",
+      "summary": "克劳德的交互式视觉效果增强了其作为食谱应用程序的功能。",
+      "url": "https://www.androidauthority.com/using-gemini-claude-for-recipes-3670512/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,23 @@
       "type": "news"
     },
     {
-      "title": "三星 S Pen 是时候进化或消亡了",
+      "title": "对于谷歌智能家居产品线来说，今年是决定成败的一年",
       "source": "Android Authority",
-      "date": "2026-05-30",
-      "summary": "我喜欢 S Pen，但它阻碍了三星手机的发展。",
-      "url": "https://www.androidauthority.com/samsung-s-pen-evolve-or-die-3670824/",
+      "date": "2026-05-31",
+      "summary": "谷歌在智能家居领域失去了很多商誉和支持，必须予以弥补。",
+      "url": "https://www.androidauthority.com/this-is-make-break-year-for-google-smart-home-line-up-3669822/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我不相信 Galaxy S27 Pro 的传言，你也不应该相信",
+      "source": "Android Authority",
+      "date": "2026-05-31",
+      "summary": "一旦我能真正订购一台 Galaxy S27 Pro，我就会相信它。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-rumors-dont-trust-why-3670733/",
       "tags": [
         "三星"
       ],
@@ -158,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Moto G Stylus (2026) 是我们不需要的续作",
+      "title": "排名：我在智能手机中寻找的 4 个东西",
       "source": "Android Authority",
       "date": "2026-05-30",
-      "summary": "不错，但感觉不像一款 500 美元的手机。",
-      "url": "https://www.androidauthority.com/motorola-moto-g-stylus-2026-review-3667680/",
+      "summary": "这一切都始于手机的外观和感觉。",
+      "url": "https://www.androidauthority.com/smartphone-fetaures-ranked-3672874/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "NotebookLM 正在迅速成为我不知道自己需要的播客应用程序",
+      "title": "PSA：微软明天将取消 SwiftKey 的 谷歌 帐户备份。执行此操作以保...",
       "source": "Android Authority",
       "date": "2026-05-30",
-      "summary": "人工智能播客在纸面上听起来可能是一个可怕的想法，但谷歌的应用程序正在启用一个我真正兴奋的版本。",
-      "url": "https://www.androidauthority.com/notebooklm-podcast-app-didnt-know-i-needed-3669559/",
+      "summary": "Microsoft 删除 SwiftKey 备份的截止日期是 5 月 31 日，但您仍然可以保存它。",
+      "url": "https://www.androidauthority.com/swiftkey-google-login-ending-3672862/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "三星的下一个 Galaxy Watch 更新终于可以让你的健康数据变得有用",
+      "title": "我用 Galaxy S26 和 DeX 更换了电脑一周。这不是一场灾难",
       "source": "Android Authority",
       "date": "2026-05-30",
-      "summary": "一项 UI 9 Watch 泄露事件表明，您的 Galaxy Watch 将获得更智能的人工智能健康报告。",
-      "url": "https://www.androidauthority.com/one-ui-9-watch-beta-reportedly-being-prepared-3672809/",
+      "summary": "DeX 几乎说服我放弃我的笔记本电脑。",
+      "url": "https://www.androidauthority.com/replacing-computer-with-galaxy-26-samsung-dex-3669138/",
       "tags": [
         "三星"
       ],
@@ -194,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 的 Gemini Spark 已准备好在您手机关闭时处理您的数字事务",
+      "title": "Gemini 与 ChatGPT 之间差距大幅缩小的 4 个原因",
       "source": "Android Authority",
-      "date": "2026-05-29",
-      "summary": "现在，您可以给 Gemini Spark 一个任务，关闭所有内容，它仍然可以完成工作。",
-      "url": "https://www.androidauthority.com/google-rolls-out-gemini-spark-3672796/",
+      "date": "2026-05-30",
+      "summary": "缓慢但肯定的是，Gemini 正在追赶 ChatGPT。",
+      "url": "https://www.androidauthority.com/gemini-chatgpt-gap-closing-reasons-3669341/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Telegram 终于再次获得官方 Wear OS 应用",
+      "title": "您最喜欢的 Android 应用程序可能隐藏了数十个跟踪器 - 以下是找到它...",
       "source": "Android Authority",
-      "date": "2026-05-29",
-      "summary": "Beta 测试者现在可以下载新的可穿戴应用程序。",
-      "url": "https://www.androidauthority.com/telegram-wear-os-beta-3672776/",
+      "date": "2026-05-30",
+      "summary": "嗅出那些嗅出你气味的应用程序。",
+      "url": "https://www.androidauthority.com/exodus-privacy-app-android-hands-on-3668069/",
       "tags": [
         "安卓"
       ],
@@ -218,23 +230,11 @@
       "type": "news"
     },
     {
-      "title": "任天堂重返移动领域，它希望将你的自拍照变成迷你游戏",
+      "title": "还在考虑购买特朗普手机吗？这里有 5 个你不应该这样做的理由",
       "source": "Android Authority",
-      "date": "2026-05-29",
-      "summary": "这是一款你不知道自己需要的类似 WarioWare 的游戏。",
-      "url": "https://www.androidauthority.com/nintendo-launches-pictonico-3672746/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Drive 的大型文档扫描仪大修终于来了——不要忽视它的强大功能",
-      "source": "Android Authority",
-      "date": "2026-05-29",
-      "summary": "Google Drive 终于获得了大规模的文档扫描仪升级，但您的手机需要 8GB RAM 才能运行它。",
-      "url": "https://www.androidauthority.com/google-drive-scanner-ui-upgrade-3672777/",
+      "date": "2026-05-30",
+      "summary": "特朗普的 T1 手机终于发货了，但你仍然不应该购买它。",
+      "url": "https://www.androidauthority.com/trump-mobile-t1-phone-dont-buy-reasons-3670777/",
       "tags": [
         "安卓"
       ],
