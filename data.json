@@ -1,228 +1,132 @@
 {
-  "updated": "2026-06-04 11:28",
+  "updated": "2026-06-05 11:39",
   "news": [
     {
-      "title": "摩托罗拉 Edge 70 Pro+ 具有熟悉的规格",
+      "title": "小米17T系列将于下周在中国上市，标志着T系列在国内的首次亮相",
       "source": "GSMArena",
-      "date": "2026-06-04",
-      "summary": "新款摩托罗拉 Edge 70 Pro 现已在印度正式上市，它带来了一系列熟悉的规格和外观。 70 Pro 实际上是全球 Edge 70 Pro 的改版，配备 50MP 长焦摄像头和 35 倍光学变焦。它有三种颜色可供选择...",
-      "url": "https://www.gsmarena.com/motorola_edge_70_pro_arrives_with_familiar_specs-news-73121.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/moto-edge-70-pro-plus-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米 17T 在印度推出，观看我们的视频评测以了解更多信息，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-06-04",
-      "summary": "上周发布的小米 17T 已在印度推出。这款智能手机在印度有紫罗兰色、蓝色和黑色两种颜色，有两种内存选项  12GB256GB 和 12GB512GB，售价分别为 59999 印度卢比625 美元540 欧元和 64999...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_17t_india_price_sale_date-news-73123.php",
+      "date": "2026-06-05",
+      "summary": "小米上周推出了 17T 和 17T Pro，并于昨天在印度推出了前者。现在我们获悉，这两款17T系列智能手机将于6月8日在中国上市，这标志着小米T系列在国内的首次亮相。小米 17T 和 17T Pro 均开箱即用基于 A...",
+      "url": "https://www.gsmarena.com/xiaomi_17t_17t_pro_china_launch_date-news-73145.php",
       "tags": [
         "小米"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-17t-india-price-sale-date/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-17t-17t-pro-china-launch-date/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "vivo X500 Pro Max的相机细节泄露，核心配置曝光",
+      "title": "iPhone 18 Pro Max 尺寸曝光，核心配置曝光",
       "source": "GSMArena",
-      "date": "2026-06-04",
-      "summary": "有关传闻中的 vivo X500 Pro Max 的更多细节已经在网上浮出水面。就在消息人士透露该设备的显示细节的一天后，同一消息来源现在分享了有关其后置摄像头系统的信息。根据新的泄漏信息，Pro Max 变体将配备三重...",
-      "url": "https://www.gsmarena.com/vivo_x500_pro_maxs_camera_details_leaked-news-73120.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/vivo-x500-pro-max-camera-specs-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Noble Mobile 收购 Helium Mobile，将继续运营其“以...",
-      "source": "GSMArena",
-      "date": "2026-06-04",
-      "summary": "今天，Helium Mobile 宣布被 Noble Mobile 收购。 Helium Mobile 于 2023 年推出，采用混合网络。它像任何其他 MVNO 一样依赖 TMobile，但它也拥有自己的去中心化以人为...",
-      "url": "https://www.gsmarena.com/noble_mobile_buys_helium_mobile_will_continue_to_operate_its_peoplepowered_network-news-73100.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/noble-mobile-buys-helium-mobile/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "蓝牙 SIG 确认三星 Galaxy Z Fold8 Ultra 名称",
-      "source": "GSMArena",
-      "date": "2026-06-04",
-      "summary": "据传三星今年将推出两款书本式折叠智能手机Galaxy Z Fold8和Galaxy Z Fold8 Ultra。 Fold8 以前称为 Fold8 Wide，而 Fold8 Ultra 称为 Fold8。上个月发生了更名...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_moniker_confirmed-news-73119.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-z-fold8-ultra-moniker-confirmed/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo X500 Pro Max显示细节泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-06-04",
-      "summary": "早在四月份，我们就首次听说vivo即将推出的X500系列还将包括X500 Pro Max，该品牌似乎在追随小米的脚步，这当然是受到苹果长期运行的智能手机命名方案的启发。今天微博数码闲聊站分享了vivo X500 Pro ...",
-      "url": "https://www.gsmarena.com/vivo_x500_pro_max_display_details_leak-news-73115.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/vivo-x500-pro-max-display-details-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo和vivo都将DJI Osmo Pocket 4作为竞争对手，相机信...",
-      "source": "GSMArena",
-      "date": "2026-06-04",
-      "summary": "早在二月份，我们就第一次听说 vivo 正在开发自己的视频博客相机，以与 DJI 的 Osmo Pocket 系列竞争，现在来自中国的新传言称 Oppo 也在做同样的事情。据微博数码闲聊站报道，Oppo 和 vivo 设...",
-      "url": "https://www.gsmarena.com/oppo_and_vivo_are_both_making_dji_osmo_pocket_4_competitors_camera_info_leaks-news-73117.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oppo-vivo-vlogging-cameras/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米18显示屏和电池细节泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-06-03",
-      "summary": "有传言称，小米 18 将于 9 月推出，根据来自中国的最新消息，它将配备 64 英寸平面屏幕。这比其前身的 63 英寸面板稍大，并且将保持相同的 195:9 长宽比。据称，小米 18 的面板将具有2K分辨率，这比小米 1...",
-      "url": "https://www.gsmarena.com/xiaomi_18_display_and_battery_details_leak-news-73116.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-18-display-battery-details-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果在欧洲的首个开发者中心将于今年晚些时候在柏林开业",
-      "source": "GSMArena",
-      "date": "2026-06-03",
-      "summary": "苹果公司宣布计划在欧洲开设首个苹果开发者中心，希望改善与欧洲应用程序开发者的关系并为其提供帮助。它将位于德国柏林米特区，并将于今年晚些时候开业。苹果已经在班加罗尔、库比蒂诺、上海和新加坡设有开发者中心。该中心将成为开发者...",
-      "url": "https://www.gsmarena.com/apples_first_developer_center_in_europe_will_open_its_doors_in_berlin_later_this_year-news-73113.php",
+      "date": "2026-06-05",
+      "summary": "iPhone 18 Pro系列预计将采用与其前代产品相同的基本设计，并且自然会延伸到它的尺寸。根据爆料者 Ice Universe 的新帖子，18 Pro Max我们假设 18 Pro的尺寸为 875 毫米。这与 17 ...",
+      "url": "https://www.gsmarena.com/iphone_18_pro_max_dimensions_tipped_-news-73143.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/apple-developer-center-berlin/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/iphone-18-pro-max-thickness-tipped/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "宏碁推出三款全新 Iconia Duo 平板电脑，在创造力和生产力方面表现出...",
+      "title": "三星开始为 Galaxy S25 系列测试 One UI 9",
       "source": "GSMArena",
-      "date": "2026-06-03",
-      "summary": "对于宏碁来说，今年的 Computex 2026 相当繁忙。除其他设备外，宏碁还发布了三款运行 Android 系统的全新 Iconia Duo 平板电脑，专为寻求移动创造力和生产力设备的专业人士而设计。宏碁 Iconi...，带来多项升级",
-      "url": "https://www.gsmarena.com/acer_unveils_three_new_iconia_duo_tablets_excelling_in_creativity_and_productivity-news-73118.php",
+      "date": "2026-06-05",
+      "summary": "三星已经为 Galaxy S26 系列发布了两个基于 Android 17 的 One UI 9 beta 更新，甚至正在为未发布的 Galaxy S26 FE 测试 One UI 9。现在我们听说该品牌也开始了 Gal...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s25_series_one_ui_9_testing-news-73142.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/acer-iconia-duo-offic/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-prepares-one-ui-9-beta-rollout/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Uber揭示了乘客留在后座的最疯狂的东西",
-      "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "除了厨房水槽之外的所有东西实际上，几乎也是。",
-      "url": "https://www.androidauthority.com/uber-lost-and-found-index-2026-3674500/",
+      "title": "OnePlus Turbo 6X、Turbo 6X Pro设计和关键规格正式...",
+      "source": "GSMArena",
+      "date": "2026-06-05",
+      "summary": "在确认 OnePlus Turbo 6X 和 OnePlus Turbo 6X Pro 即将在中国推出后，该公司现已公布了手机的设计、颜色选项、主要规格和 RAM存储版本。这两款设备均已在 OnePlus 中国官方在线商...",
+      "url": "https://www.gsmarena.com/oneplus_turbo_6x_turbo_6x_pro_design_and_key_specs_officially_revealed-news-73141.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-turbo-6x-pro-design-specs-official/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Nintendo Switch 2 终于有了可拆卸电池，但并不适合所有人",
-      "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "欧盟的法规基本上是在迫使任天堂制造更好的游戏机。",
-      "url": "https://www.androidauthority.com/nintendo-switch-2-user-replaceable-batteries-3674428/",
+      "title": "谷歌将 Gemini 引入 Android Go 设备",
+      "source": "GSMArena",
+      "date": "2026-06-05",
+      "summary": "AndroidGo 版专为低端设备而设计，针对低存储、低 RAM 和低处理能力进行了优化。现在，谷歌宣布将 Gemini 引入具有至少 2GB RAM 的 AndroidGo 版手机。它的名字叫双子座围棋。自 Andro...",
+      "url": "https://www.gsmarena.com/google_brings_gemini_to_android_go_devices-news-73139.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/gemini-go-edition/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "One UI 9 跳过了我最喜欢的 Android 17 功能",
-      "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "One UI 9 中的智能回复并没有变得更加智能。",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-skipping-favorite-android-17-feature-3672720/",
+      "title": "据传 OnePlus 16 和 iQOO 16 将于此时发布，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-06-05",
+      "summary": "昨天我们听说小米、Oppo 和 vivo 都将在 9 月份推出即将推出的旗舰智能手机系列。但子品牌呢？现在，微博上多产的数字聊天站告诉我们对 OnePlus 和 iQOO 有何期待，特别是 OnePlus 16 和 iQ...",
+      "url": "https://www.gsmarena.com/this_is_when_the_oneplus_16_and_iqoo_16_are_rumored_to_be_launching-news-73140.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-16-iqoo-16-launch-month/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Morphe 用户很快将获得备受期待的 YouTube Premium 功能",
-      "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "您很快就可以将视频添加到播放队列中。",
-      "url": "https://www.androidauthority.com/morphe-youtube-playing-queue-feature-3674456/",
+      "title": "小米18 Pro后置屏幕更大",
+      "source": "GSMArena",
+      "date": "2026-06-05",
+      "summary": "早在去年9月，小米就推出了后置屏幕的17 Pro和17 Pro Max。小米17 Pro的后置显示屏为27英寸面板。然而，现在有传言称，这一点将在其继任者小米 18 Pro 中得到增强。据微博爆料者称，该设备的后屏幕对角...",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_is_getting_a_bigger_rear_screen-news-73137.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-18-pro-bigger-rear-screen/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "RedMagic Astra 2 在本月发布前获得认证，以下是主要规格，新机...",
+      "source": "GSMArena",
+      "date": "2026-06-05",
+      "summary": "下一款 RedMagic 平板电脑将于本月在中国推出，名为 RedMagic Tablet 5 Pro，该品牌已经证实了这一点。我们预计这款产品将在国际上被命名为 Astra 2，因为最初的 Astra 是针对全球市场重...",
+      "url": "https://www.gsmarena.com/redmagic_astra_2_gets_certified_ahead_of_release_this_month_here_are_the_main_specs-news-73136.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/redmagic-astra-2-specs/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "我刚刚用 Gemini Avatar 制作了一个我自己的人工智能克隆体。您也...",
-      "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "我刚刚用 Gemini Avatar 制作了一个我自己的人工智能克隆体。您也可以这样做",
-      "url": "https://www.androidauthority.com/gemini-avatar-hands-on-how-to-use-3673898/",
+      "title": "小米18 Pro Max相机细节泄露，有两个200MP传感器，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-06-05",
+      "summary": "今天来自中国的新传言称，即将推出的小米 18 Pro Max 将配备 200MP 主摄像头，使用 1128 型新一代LOFIC 传感器。据称，该手机还配备 200MP 潜望式长焦摄像头，具有 3 倍光学变焦和 f24 光...",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_max_camera_details_leak_two_200mp_sensors_are_in-news-73135.php",
       "tags": [
-        "安卓"
+        "小米"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-18-pro-max-camera-details/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌 Pay 直接结账让网站购物变得更加轻松",
-      "source": "Android Authority",
+      "title": "三星 Galaxy Z Flip8 将同时配备 Exynos 和 Snapd...",
+      "source": "GSMArena",
       "date": "2026-06-04",
-      "summary": "这样您就可以在商家的网站上轻松查看 Google 电子钱包付款选项。",
-      "url": "https://www.androidauthority.com/google-pay-direct-checkout-3674411/",
+      "summary": "我们已经听说三星将在即将推出的 Galaxy Z Flip8 中使用 Exynos 2600 SoC，但今天来自韩国爆料者的新报告带来了一些额外的背景信息。显然，该公司将同时使用 Exynos 2600 和高通芯片可能是...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8_to_have_both_exynos_and_snapdragon_chips-news-73138.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/galaxy-z-flip8-soc-rumor/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "在对我的第一个应用程序进行 Vibe 编码后我学到的 5 件事",
+      "title": "这些新款智能手表专为您的下一场残酷的 HYROX 比赛量身定制",
       "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "一切比我想象的要容易得多，但这也引发了担忧。",
-      "url": "https://www.androidauthority.com/lessons-learned-from-vibe-coding-app-3668652/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "快速共享可能很快就会为您的家人提供一种更轻松的方式与您共享文件",
-      "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "准备好迎接你烦人的兄弟姐妹无休止地向你发送垃圾邮件吧。",
-      "url": "https://www.androidauthority.com/quick-share-receive-family-visibility-3674392/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我终于弄清楚这款 谷歌 Pixel 的用途了",
-      "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "平易近人，足以吸引三代人。",
-      "url": "https://www.androidauthority.com/google-pixel-10a-experience-3672890/",
+      "date": "2026-06-05",
+      "summary": "Amazfit 的新款 Balance 3 和 Balance Ultra 想要做的不仅仅是计算锻炼次数。",
+      "url": "https://www.androidauthority.com/amazfit-balance-3-and-ultra-debut-3674986/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +134,107 @@
       "type": "news"
     },
     {
-      "title": "谷歌最新的设备端人工智能模型是为你的笔记本电脑定制的",
+      "title": "以下是在 Android 上玩 Mina the Hollower 的方法，...",
       "source": "Android Authority",
-      "date": "2026-06-04",
-      "summary": "它弥补了 E4B 和 26B MoE 型号之间的差距。",
-      "url": "https://www.androidauthority.com/google-gemma-4-12b-multimodal-ai-model-3674379/",
+      "date": "2026-06-05",
+      "summary": "这款广受好评的游戏尚未获得 Android 端口，但您仍然可以在手机上运行它。",
+      "url": "https://www.androidauthority.com/run-mina-the-hollower-android-3674796/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我明白为什么 Android 手机上有电池保护，但我永远不会使用它",
+      "source": "Android Authority",
+      "date": "2026-06-05",
+      "summary": "如果我想要 80 的电池寿命，我会保留一部旧手机。",
+      "url": "https://www.androidauthority.com/reasons-to-avoid-android-battery-protection-3667430/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "为什么漫游套餐在数字时代已不合时宜",
+      "source": "Android Authority",
+      "date": "2026-06-05",
+      "summary": "是时候停止为基本数据支付高昂的国际费用了。",
+      "url": "https://www.androidauthority.com/why-roaming-packages-are-anachronism-3672124/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Plex 刚刚证明它不知道用户想要什么",
+      "source": "Android Authority",
+      "date": "2026-06-05",
+      "summary": "Plex 的社交网络推广凸显了该公司与其用户之间日益脱节。",
+      "url": "https://www.androidauthority.com/plex-social-media-pivot-not-what-users-want-3674315/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我厌倦了看到像 S26 Ultra 这样售价 1,300 美元的手机一年比一...",
+      "source": "Android Authority",
+      "date": "2026-06-05",
+      "summary": "许多旗舰品牌的创新已经放缓，但价格并没有反映出这一点。",
+      "url": "https://www.androidauthority.com/flagships-like-s26-ultra-are-stagnating-3670981/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌无意中启用了一项新的 Gemini 功能，它可能非常有用",
+      "source": "Android Authority",
+      "date": "2026-06-05",
+      "summary": "双子座来救援可能。",
+      "url": "https://www.androidauthority.com/gemini-troubleshooting-mode-3674910/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "继去年让我们失望之后，三星无法停止发送新的 Play 系统更新",
+      "source": "Android Authority",
+      "date": "2026-06-05",
+      "summary": "在过去的六个月里，三星的 Play 系统更新从零更新到了七次。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/samsung-galaxy-play-system-update-may-3674853/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我拥有 Oura Ring 5 72 小时，它已经是我最喜欢的智能戒指之一",
+      "source": "Android Authority",
+      "date": "2026-06-05",
+      "summary": "更纤细的外形给人留下更深刻的第一印象。",
+      "url": "https://www.androidauthority.com/oura-ring-5-hands-on-3674208/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌希望你的手机只需看着你就能追踪你的心率",
+      "source": "Android Authority",
+      "date": "2026-06-05",
+      "summary": "您的智能手机可能很快就会感受到您的节奏。",
+      "url": "https://www.androidauthority.com/google-phone-heart-rate-tracking-test-3674854/",
       "tags": [
         "安卓"
       ],
