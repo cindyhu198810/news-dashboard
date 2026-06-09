@@ -1,132 +1,144 @@
 {
-  "updated": "2026-06-08 12:44",
+  "updated": "2026-06-09 11:35",
   "news": [
     {
-      "title": "新的泄漏信息显示 红米 K100 Pro 电池容量为 8,000mAh（或更...",
+      "title": "iOS 27 源代码揭示了 iPhone Ultra 的一些功能，9 月发布...",
       "source": "GSMArena",
-      "date": "2026-06-08",
-      "summary": "上周，数字聊天站发布了 Redmi K100 Pro 的相当详细的规格列表。现在泄密者已经对细节进行了一些改进。最大的变化是声称的电池统计数据最初报道为 9000mAh 或更大，DCS 的最新帖子称电池容量将从 8 开始...，带来多项升级",
-      "url": "https://www.gsmarena.com/new_leak_puts_the_redmi_k100_pro_battery_at_8000mah_or_higher-news-73171.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/redmi-k100-pro-dcs-new-specs/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "在此观看 苹果 WWDC 26 主题演讲直播",
-      "source": "GSMArena",
-      "date": "2026-06-08",
-      "summary": "Apple 的 WWDC 将于几个小时后以主题演讲拉开帷幕。首席执行官蒂姆库克 Tim Cook 可能会宣布此次活动开幕，这可能是他执掌苹果公司的最后一次 WWDC 主题演讲。今年晚些时候，苹果硬件工程高级副总裁 Joh...",
-      "url": "https://www.gsmarena.com/watch_apples_wwdc_26_keynote_livestream_here-news-73172.php",
+      "date": "2026-06-09",
+      "summary": "两名软件工程师 M1Astra 和 Sam Henri Gold 在已发布的 iOS 27 Beta 源代码中发现了 iPhone Ultra 的踪迹。当然，字符串中不包含iPhone Ultra这个名称，但可折叠智能手...，带来多项升级",
+      "url": "https://www.gsmarena.com/ios_27_source_code_reveals_some_iphone_ultra_features_september_launch_confirmed-news-73188.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/apple-wwdc-2026-how-to-watch/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/apple-iphone-ultra-fold-dimensions-autumn-2026-launch-tipped/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "vivo X Fold6将运行OriginOS 6 Fold，真实图像泄露，...",
+      "title": "苹果 最先进的设备端 AI 功能仅适用于部分设备",
       "source": "GSMArena",
-      "date": "2026-06-08",
-      "summary": "vivo已正式开始预告其下一代可折叠智能手机vivo X Fold6。 vivo 高级管理人员已开始在微博上透露有关该设备的关键细节，让我们提前了解该设备的预期。与此同时，据称在野外发现了该设备后，vivo X Fold...",
-      "url": "https://www.gsmarena.com/vivo_x_fold6_will_run_on_originos_6_fold_reallife_images_leak-news-73169.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/vivo-x-fold6-design-features/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米17T系列登陆中国，17T电池大获提升",
-      "source": "GSMArena",
-      "date": "2026-06-08",
-      "summary": "继上个月在全球发布后，小米 17T 和 17T Pro 现已进军中国市场，并对普通 17T 进行了重大升级。它配备与 Pro 型号相同的 7000mAh SiC 电池。对于那些在家跟踪数据的人来说，与全球版本相比，这增加...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_17t_series_lands_in_china_17t_gets_battery_boost-news-73170.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-17t-series-china-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus Turbo 6X 和 Turbo 6X Pro 将于 6 月...",
-      "source": "GSMArena",
-      "date": "2026-06-08",
-      "summary": "上周，OnePlus 公布了即将推出的 Turbo 6X 系列的设计和主要功能。该公司现已确定 Turbo 6X 和 Turbo 6X Pro 在中国的上市日期。据一加官方微博宣布，Turbo 6X系列将于6月10日在中...",
-      "url": "https://www.gsmarena.com/oneplus_turbo_6x_and_turbo_6x_pro_to_debut_on_june_10-news-73168.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-turbo-6x-pro-launch-date/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周优惠：三星 Galaxy S26 Ultra 降价，谷歌 Pixel 1...",
-      "source": "GSMArena",
-      "date": "2026-06-07",
-      "summary": "提醒一下，亚马逊将今年的 Prime Day 提前，现在定于 6 月 23 日至 26 日。该零售商已经提前推出了 Prime Day 优惠，您可能想看看。与此同时，以下是标准交易  无需订阅。三星 Galaxy S26...",
-      "url": "https://www.gsmarena.com/weekly_deals_samsung_galaxy_s26_ultra_price_drops_the_google_pixel_10_pro_xl_is_still_cheaper-news-73144.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-5/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "索尼 1000X The Collection 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-06-07",
-      "summary": "10 年前，索尼发布了 MDR1000X 降噪耳机，以挑战 Bose 及其 QuietComfort 系列。他们做到了这一点，1000X 系列逐渐成为同类领先的降噪和音频质量的代名词。经过十年的努力，索尼决定推出一款名为...，带来多项升级",
-      "url": "https://www.gsmarena.com/sony_1000x_the_collexion_review_-news-73152.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/sony-1000x-the-collexion-review/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iPhone Fold 照片泄露，Nvidia RTX Spark 正式发布...",
-      "source": "GSMArena",
-      "date": "2026-06-07",
-      "summary": "又一周，又有几个可折叠 iPhone 的故事。第一个是一个大的，直接来自冰宇宙这是该设备在野外的照片。照片显示了首款可折叠产品的白色银色饰面，并证实了其粗壮的形状。另一个传言称可折叠 iPhone 将配备均热板用于冷却。...",
-      "url": "https://www.gsmarena.com/iphone_fold_photo_leak_nvidia_rtx_spark_is_official_week_23_in_review-news-73151.php",
+      "date": "2026-06-09",
+      "summary": "Apple 在 WWDC 2026 期间推出了多项新的 Apple Intelligence 功能以及先进的 Siri AI。然而，该公司最强大的设备端人工智能模型及其支持的多项功能仅在选定的设备上可用。苹果在新闻稿中确...",
+      "url": "https://www.gsmarena.com/apples_most_advanced_ondevice_ai_features_will_only_work_on_select_devices-news-73187.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/week-23-in-review/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/apple-intelligence-select-devices-support/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "每周优惠：小米 17T 系列、17 Ultra 和 谷歌 Pixel 10 ...",
+      "title": "苹果 Photos 可让您以幻灯片形式播放照片和视频",
       "source": "GSMArena",
-      "date": "2026-06-07",
-      "summary": "上个月发布、上周上市的小米17T和小米17T Pro继续发售，首发优惠完好无损。旗舰产品小米17和小米17 Ultra目前也有折扣。此外，部分 Google Pixel 型号和其他几款智能手机还可享受优惠。小米 17T ...，带来多项升级",
-      "url": "https://www.gsmarena.com/weekly_deals_xiaomi_17t_series_17_ultra_and_googles_pixel_10_phones_on_discount-news-73163.php",
+      "date": "2026-06-09",
+      "summary": "Apple Photos 用户将能够以幻灯片形式播放照片和视频，因为 Apple 宣布 Apple Photos 应用程序即将推出新的幻灯片功能。照片用户将可以选择设置幻灯片的过渡样式、幻灯片持续时间和音乐。在 iOS ...",
+      "url": "https://www.gsmarena.com/apple_photos_app_slideshow_feature-news-73186.php",
       "tags": [
-        "小米"
+        "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-5/-184x111/gsmarena_uk.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/apple-photos-app-slideshow-feature/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "每周调查：你会购买摩托罗拉 Razr Fold 吗？",
+      "title": "泄露消息称荣耀X80 Pro Max将配备11,000mAh电池，核心配置曝...",
       "source": "GSMArena",
-      "date": "2026-06-07",
-      "summary": "摩托罗拉很早就通过 Razr 2019 加入了翻盖折叠市场，比三星推出 Galaxy Z Flip 早几个月延迟发布意味着这两款产品的上市时间非常接近。然而，三星在前一年就推出了书本式可折叠手机，而摩托罗拉则花了很长时间...，带来多项升级",
-      "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_motorola_razr_fold-news-73114.php",
+      "date": "2026-06-09",
+      "summary": "新的泄漏表明荣耀可能会在其 X80 系列中添加 Pro Max 变体。虽然泄密事件并未透露荣耀 X80 Pro Max 的发布时间表，但它确实分享了一些关键规格。值得注意的是，有传言称标准版荣耀 X80 将于本月晚些时候...，带来多项升级",
+      "url": "https://www.gsmarena.com/honor_x80_pro_max_to_launch_with_an_11000mah_battery_leak_suggests-news-73185.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-poll-motorola-razr-fold/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-x80-pro-max-specs-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "这款 Galaxy Z Fold 8 Ultra 竞争对手刚刚在野外被发现",
-      "source": "Android Authority",
+      "title": "苹果 的 iOS 27、iPadOS 27、macOS 27 和 watch...",
+      "source": "GSMArena",
+      "date": "2026-06-09",
+      "summary": "苹果在 WWDC 2026 上发布了 iOS 27、macOS 27 Golden Gate、iPadOS 27 和 watchOS 27，现已确认支持的设备列表。该公司还发布了新软件的第一个开发者测试版，稳定版本预计将...，带来多项升级",
+      "url": "https://www.gsmarena.com/apples_ios_27_ipados_27_macos_27_and_watchos_27_support_list_is_here-news-73184.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/ios-27-eligible-devices-list/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy M15 和 Galaxy Xcover7 现已获得 On...",
+      "source": "GSMArena",
+      "date": "2026-06-09",
+      "summary": "三星将继续向其旧设备推出 One UI 85 更新，几周以来一直如此。今天，配备 One UI 85 的最新三星智能手机是 Galaxy M15 和 Galaxy Xcover7。InlinePriceWidget128...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/samsung_galaxy_m15_and_galaxy_xcover7_are_now_getting_the_one_ui_85_update-news-73180.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-m15-xcover7-one-ui-8-5/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "据称 OnePlus 正在开发新的入门级智能手机系列",
+      "source": "GSMArena",
+      "date": "2026-06-09",
+      "summary": "据 X 上的消息人士透露，OnePlus 目前正在为印度开发一条全新的智能手机产品线。这将是 N 系列，该系列中的设备售价将低于 20000 印度卢比209 美元。因此，这将是 OnePlus 的入门级产品线，位于中端 ...",
+      "url": "https://www.gsmarena.com/oneplus_said_to_be_working_on_a_new_line_of_entrylevel_smartphones-news-73177.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-n-series/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy Tab S12 Ultra 的电池容量可能会让你失望",
+      "source": "GSMArena",
       "date": "2026-06-08",
-      "summary": "它将于本月推出，看起来非常有希望。",
-      "url": "https://www.androidauthority.com/vivo-x-fold-6-real-world-images-ai-features-3675438/",
+      "summary": "三星预计将在今年晚些时候可能是 9 月，即其前身于 2025 年正式发布同时推出 Galaxy Tab S12 Ultra 和 Galaxy Tab S12。据一份新报告称，该设备据称将拥有与 Tab S11 Ultra...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultras_battery_capacity_could_disappoint_you-news-73179.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-tab-s12-ultra-details/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果推出下一代苹果 Intelligence，功能如下",
+      "source": "GSMArena",
+      "date": "2026-06-08",
+      "summary": "苹果今天在全球开发者大会上推出的头条功能无疑是 Siri AI，但该公司还透露了 iOS 27、iPadOS 27、macOS 27、watchOS 27 和 VisionOS 27 中即将推出的其他一些 Apple I...",
+      "url": "https://www.gsmarena.com/apple_unveils_nextgeneration_apple_intelligence_here_are_the_features-news-73183.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/apple-intelligence-new-features/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "以下是 iOS 27 和 iPadOS 27 中的新增功能",
+      "source": "GSMArena",
+      "date": "2026-06-08",
+      "summary": "在其全球开发者大会上，苹果谈到了即将推出的 iOS 27 和 iPadOS 27。这两个版本今天都已向开发者提供预览版，并且从下个月开始将进行公开测试，供任何人尝试。它们将于今年秋天向公众发布。iOS 27 和 iPad...，带来多项升级",
+      "url": "https://www.gsmarena.com/heres_whats_new_in_ios_27_and_ipados_27-news-73182.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/ios-27-ipados-27/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "仍然受到 Android Auto 问题的困扰吗？ 谷歌 为您提供了更多修复...",
+      "source": "Android Authority",
+      "date": "2026-06-09",
+      "summary": "我们希望最新的修复能够彻底解决这些长期存在的连接问题。",
+      "url": "https://www.androidauthority.com/android-auto-bug-fixes-connectivity-3675800/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "第一眼：三星在 Galaxy 手机的锁屏上添加了新的 FIFA 世界杯进球庆...",
+      "source": "Android Authority",
+      "date": "2026-06-09",
+      "summary": "三星正在将 Galaxy 手机变成世界上最热情的足球迷。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-aod-fifa-world-cup-animations-3675836/",
       "tags": [
         "三星"
       ],
@@ -134,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "ChatGPT 和 Gemini 正在将空白图像“恢复”成令人毛骨悚然、令人...",
+      "title": "半固态电池将如何永远改变移动电源",
       "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "接受我的建议：不要尝试这个。将自己从噩梦中拯救出来。",
-      "url": "https://www.androidauthority.com/chatgpt-gemini-restore-blank-images-unsettling-results-3675372/",
+      "date": "2026-06-09",
+      "summary": "半固态电池带来了更薄、更安全的电子产品而且它们已经上市了。",
+      "url": "https://www.androidauthority.com/semi-solid-state-batteries-explained-3675333/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "讨厌 谷歌 Home 上的 Gemini？返回 谷歌 助理的方法如下",
+      "title": "我花了几个小时测试 Claude Opus 4.8——以下是 5 个最大的升...",
       "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "摆脱缓慢、不可预测的人工智能预览需要一些工作，但回滚到 Google Assistant 是可能的目前。",
-      "url": "https://www.androidauthority.com/google-home-remove-gemini-3675348/",
+      "date": "2026-06-09",
+      "summary": "如果您不喜欢 Opus 47，那么新的 48 型号值得一看。",
+      "url": "https://www.androidauthority.com/claude-opus-4-8-vs-4-7-hands-on-3673511/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "这款流行的模拟器现在可以让您在手机上播放物理卡带",
+      "title": "双子座很快就会变得更加适合多任务处理者",
       "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "曾经想在手机上玩 SNES 或 Game Boy 卡带吗？这个模拟器可以在附加组件的帮助下做到这一点。",
-      "url": "https://www.androidauthority.com/smartphone-emulator-supports-physical-cartridges-3675388/",
+      "date": "2026-06-09",
+      "summary": "谷歌可以让 Gemini 变得更加有用和用户友好。",
+      "url": "https://www.androidauthority.com/google-minimize-gemini-overlay-button-3675805/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "我总是在每部 Android 手机的主屏幕上添加 7 个小部件",
+      "title": "达到 谷歌 AI Pro 限制的最快方法（以及如何避免它）",
       "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "我总是在每部 Android 手机的主屏幕上添加 7 个小部件",
-      "url": "https://www.androidauthority.com/my-favorite-android-widgets-3674410/",
+      "date": "2026-06-09",
+      "summary": "我花了几个小时来突破双子座的极限，而最大的配额杀手却出乎我的意料。",
+      "url": "https://www.androidauthority.com/google-ai-pro-limits-tested-3674942/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "您应该使用 5 个应用程序来代替 NotebookLM",
+      "title": "iOS 27 终于获得了 Android 多年来拥有的基本音量功能",
       "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "NotebookLM 很棒，但这些替代品也很棒。",
-      "url": "https://www.androidauthority.com/notebooklm-alternatives-3672278/",
+      "date": "2026-06-09",
+      "summary": "令人惊讶的是苹果花了多长时间才在这方面赶上Android。",
+      "url": "https://www.androidauthority.com/ios-27-independent-volume-controls-3675772/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "下面详细介绍了 Pixel 10 的 Magic Cue 在第三方应用程序中...",
+      "title": "我放弃了 Kindle，但亚马逊只要推出一次就能把我赢回来",
       "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "Pixel 10 的 Magic Cue 即将派上用场。",
-      "url": "https://www.androidauthority.com/google-pixel-10-magic-cue-third-party-apps-preview-3675330/",
+      "date": "2026-06-09",
+      "summary": "我以前说过，现在我再说一遍，我想要一个抄写员在我的口袋里。",
+      "url": "https://www.androidauthority.com/amazon-needs-a-pocket-sized-kindle-scribe-3674745/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌消息终于推出了一种更好的方式来使用智能回复",
+      "title": "Gemini 家庭版更新带来更好的天气预报、新闻简报等",
       "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "Google Messages 推出点击草稿功能，解决了智能回复最大的烦恼之一。",
-      "url": "https://www.androidauthority.com/google-messages-rolls-out-tap-to-draft-3675389/",
+      "date": "2026-06-09",
+      "summary": "您的智能家居将更好地了解您。",
+      "url": "https://www.androidauthority.com/google-gemini-for-home-upgrade-3675769/",
       "tags": [
         "安卓"
       ],
@@ -218,25 +230,13 @@
       "type": "news"
     },
     {
-      "title": "忘记 Niagara 和 Nova，这个简约的启动器是我对旧 Android...",
+      "title": "苹果可能通过泄露 iPhone Ultra 细节来拉拢三星，核心配置曝光",
       "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "Mako 可以在不牺牲速度或风格的情况下去除绒毛。",
-      "url": "https://www.androidauthority.com/mako-minimalist-android-launcher-hands-on-3674437/",
+      "date": "2026-06-09",
+      "summary": "就连苹果自己的操作系统也在泄露有关 iPhone Ultra 的潜在细节。",
+      "url": "https://www.androidauthority.com/apple-ios-27-iphone-ultra-foldable-references-3675768/",
       "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy S27 Pro 电池尺寸可能刚刚泄露，现在我们很兴奋，核...",
-      "source": "Android Authority",
-      "date": "2026-06-08",
-      "summary": "每个人都可以欣赏的电池升级。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-battery-leak-3675317/",
-      "tags": [
-        "三星"
+        "苹果"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
