@@ -1,204 +1,132 @@
 {
-  "updated": "2026-06-11 12:25",
+  "updated": "2026-06-12 11:56",
   "news": [
     {
-      "title": "YouTube 的直接消息传递功能扩展到更多国家/地区，包括美国",
+      "title": "OnePlus Nord Buds 4 即将推出，设计正式曝光，核心配置曝光",
       "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "去年 11 月，YouTube 开始尝试一项功能，允许用户在其移动应用程序中与其他人进行对话，但该功能仅在爱尔兰和波兰可用。该功能于三月份在一些欧洲国家推出，目前正在扩展到更多的全球市场，包括美国、英国、巴西和新加坡。您...",
-      "url": "https://www.gsmarena.com/youtube_direct_messaging_feature_global_rollout-news-73227.php",
+      "date": "2026-06-12",
+      "summary": "OnePlus 于 3 月份在印度推出了 Nord Buds 4 Pro，具有 ANC 等功能，充电盒的总电池续航时间长达 54 小时。该公司现已确认 Nord Buds 4 抵达该国。在社交媒体上的一篇帖子中，OneP...",
+      "url": "https://www.gsmarena.com/oneplus_nord_buds_4_set_to_launch_soon_design_officially_teased-news-73250.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/youtube-direct-messaging-feature-usa-rollout/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-nord-buds-4-teased/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "荣耀Magic9系列有望支持AI手写笔",
+      "title": "泄露的屏幕保护膜揭示了三星即将推出的可折叠手机之间的尺寸差异，核心配置曝光",
       "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "有关荣耀下一代Magic9系列的最新细节已经在网上浮出水面。该产品线预计将于今年晚些时候十月左右推出，并可能包括三款智能手机。据爆料人士透露，即将推出的荣耀Magic9系列将支持官方手写笔配件。据称，这款手写笔融入了旨在...",
-      "url": "https://www.gsmarena.com/honor_magic9_series_tipped_to_support_aipowered_stylus-news-73229.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-magic9-series-stylus-support-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus N 系列即将登陆印度，并将在亚马逊上发布，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "有传言称，OnePlus 正在印度推出新的入门级系列  它将被称为OnePlus N系列，并将在 20000 卢比以下的价格范围内与 Redmi、Realme 和 Poco 手机竞争。现在，OnePlus 印度和亚马逊印...",
-      "url": "https://www.gsmarena.com/the_oneplus_nseries_is_coming_soon_to_india_will_launch_on_amazon-news-73228.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-n-series-india-teaser/-184x111/gsmarena_0000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 发布 Android 17 QPR1 Beta 4，修复了多项错误，新...",
-      "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "Google 已开始向符合条件的 Pixel 设备推出 Android 17 QPR1 Beta 4。最新的 Beta 版本比 Beta 3 晚了近三周，而 Beta 3 在 Android Show：IO Editio...",
-      "url": "https://www.gsmarena.com/google_seeds_android_17_qpr1_beta_4_with_several_bug_fixes-news-73225.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/android-17-qpr1-beta-4/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米Mix Fold 5的主要规格和价格泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "小米预计将在今年晚些时候推出 Mix Fold 4 的继任者。即将推出的可折叠手机可能被称为 Mix Fold 5 或小米 17 Fold，最近在 Mi Code 数据库中被发现。现在，新的泄密事件披露了小米下一代可折叠...",
-      "url": "https://www.gsmarena.com/xiaomi_mix_fold_5s_key_specifications_and_pricing_leak-news-73226.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-mix-fold-5-specs-price-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新款 Tecno Pova 8 拥有 8,000mAh 电池，背面有 Ali...",
-      "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "在 Pova 7 中，Tecno 借鉴了 Nothing 的设计，采用了 Delta Light Interface带有 104 个 LED 的三角形光带。现在，该公司正凭借 Alive Matrix Display 迈...",
-      "url": "https://www.gsmarena.com/the_new_tecno_pova_8_boasts_an_8000mah_battery_alive_matrix_display_on_its_back-news-73218.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/tecno-pova-8-announcement/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo X500e主要规格泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "据称，vivo 将于今年秋季推出 X500e，作为 X500 系列的一部分。该设备将配备天玑 9500 SoC 掌舵，659 英寸屏幕，使用 1128 英寸传感器的 50MP 主摄像头，后置潜望式长焦摄像头，以及 750...",
-      "url": "https://www.gsmarena.com/vivo_x500es_main_specs_leak-news-73224.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/vivo-x500e-specs-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Honor Win 2的一些规格再次泄露，Honor Win Pad Min...",
-      "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "我们已经看到即将推出的 Honor Win 2 的规格被泄露了不止一次，而是两次，今天，微博上的数字闲聊站的多产泄密者再次回来，带来了有关该设备的详细信息。据他介绍，Win 2 由 Snapdragon 8 Elite ...",
-      "url": "https://www.gsmarena.com/some_honor_win_2_specs_leak_again_honor_win_pad_mini_could_be_on_the_way_too-news-73214.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-win-2-win-pad-mini-details/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "宽屏三星 Galaxy Z Fold8 和 Galaxy Watch Ult...",
-      "source": "GSMArena",
-      "date": "2026-06-11",
-      "summary": "三星即将推出的宽幅 Galaxy Z Fold，最近被认为被称为 Galaxy Z Fold8而 Galaxy Z Fold7 的后继者将是 Galaxy Z Fold8 Ultra，现已获得 BIS 在印度的销售认证。...",
-      "url": "https://www.gsmarena.com/the_wide_samsung_galaxy_z_fold8_and_the_galaxy_watch_ultra_2_receive_new_certifications-news-73219.php",
+      "date": "2026-06-12",
+      "summary": "又一天，有关三星即将推出的可折叠手机的消息再次被泄露。这次，据称适用于 Galaxy Z Flip8、Galaxy Z Fold8宽屏和 Galaxy Z Fold8 Ultra 的屏幕保护膜已在网上浮出水面。Tipst...",
+      "url": "https://www.gsmarena.com/leaked_screen_protectors_reveal_size_differences_between_samsungs_upcoming_foldables-news-73247.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-z-fold8-wide-galaxy-watch-ultra-2-bis/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/galaxy-z-fold8-flip8-ultra-screen-protectors-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌 将 Chrome 中的 Gemini 扩展到更多国家",
+      "title": "三星 Galaxy Z Fold7 还通过 6 月安全更新获得了新的 Gal...",
       "source": "GSMArena",
-      "date": "2026-06-10",
-      "summary": "Chrome 中的 Google Gemini 现在可以在比以前更多的国家地区使用。 AI 聊天机器人现已内置于拉丁美洲、非洲和中东的桌面和 iOS 浏览器中。完整的国家地区列表可在此处找到。不幸的是，欧盟仍然没有明白这...",
-      "url": "https://www.gsmarena.com/google_expands_gemini_in_chrome_to_many_more_countries-news-73221.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/gemini-in-chrome-international-expansion/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OpenAI 可能会降低 ChatGPT 的价格来赢得 Claude 的青睐",
-      "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "OpenAI 的下一步举措可能会让人工智能变得更加便宜。",
-      "url": "https://www.androidauthority.com/openai-could-cut-prices-for-chatgpt-3676727/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android 17 QPR1 Beta 4 让录制反应视频变得非常简单",
-      "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "谷歌的新屏幕反应功能可以原生处理相机叠加和背景隔离，您可以尝试一下！",
-      "url": "https://www.androidauthority.com/android-17-qpr1-beta-4-screen-reactions-3676716/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Babbel 还是 Duolingo？这是我们调查的读者最喜欢的语言学习应用...",
-      "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "超过五分之二的受访者选择此应用程序。",
-      "url": "https://www.androidauthority.com/favorite-language-learning-app-poll-results-3676641/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "在最新的 NotebookLM 更新之后，我正在重新思考我对 AI 的信任程...",
-      "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "我的信任问题让我开始信任人工智能。",
-      "url": "https://www.androidauthority.com/notebooklm-may-2026-update-hands-on-ai-trust-3674146/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "双子座不适合你吗？你并不孤单（更新：已修复）",
-      "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "更新：双子座应该又可以正常工作了。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/gemini-down-issues-june-2026-3676272/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星终于将缺失的 Galaxy AI 功能引入 Galaxy S25 系列",
-      "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "异常大规模的 6 月更新现已推出，其中包括随 Galaxy S26 一起推出的三款 Galaxy AI 工具。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s25-one-ui-8-5-june-update-3676655/",
+      "date": "2026-06-12",
+      "summary": "三星 Galaxy S25 系列最近收到了 2026 年 6 月的 Android 安全更新，其中包括 Galaxy S26 系列引入的三项 Galaxy AI 功能，这些功能之前被排除在 S25 系列的 One UI ...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_galaxy_ai_features_june_2026_android_security_update-news-73244.php",
       "tags": [
         "三星"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-price-hike-sk-rumor/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "亚马逊希望通过 Echo Sleep Studio 解决孩子混乱的就寝习惯",
-      "source": "Android Authority",
+      "title": "vivo X Fold6确认搭载天玑9500特别版",
+      "source": "GSMArena",
+      "date": "2026-06-12",
+      "summary": "在 X Fold6 预计于本月晚些时候发布之前，vivo 继续对其进行了预告。在确认 OriginOS 6 Fold 及其以生产力为中心的功能之后，该公司现已披露了为可折叠设备提供支持的芯片组。vivo 高管在微博上透露...，带来多项升级",
+      "url": "https://www.gsmarena.com/vivo_x_fold6_confirmed_to_feature_a_special_edition_dimensity_9500_soc-news-73245.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/vivo-x-fold6-chipset-confirmed/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Reno16、Reno16 Pro 和 Reno16 FS 欧洲价...",
+      "source": "GSMArena",
+      "date": "2026-06-12",
+      "summary": "Oppo 上个月在中国推出了 Reno16 和 Reno16 Pro，目前 Reno16 系列预计即将在欧洲推出。那里显然会有三个成员：Reno16、Reno16 Pro 和 Reno16 FS。意大利一家零售商的清单透...",
+      "url": "https://www.gsmarena.com/oppo_reno16_reno16_pro_and_reno16_fs_prices_for_europe_leak-news-73243.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oppo-reno16-series-eu-pricing/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Nothing Ear (3a) 价格与颜色一起泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-06-12",
+      "summary": "Nothing于去年 9 月推出了 Ear 3 耳塞，但就像 Nothing Headphone 1 在 Nothing Headphone a 中拥有更便宜的版本一样，该公司也将很快推出 Ear 3a，作为 Ear 3...",
+      "url": "https://www.gsmarena.com/nothing_ear_3a_price_leaks_alongside_colors-news-73242.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/nothing-ear-3a-colors-pricing/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Tecno Pova 8 拆箱和上手",
+      "source": "GSMArena",
+      "date": "2026-06-12",
+      "summary": "这是全新的 Tecno Pova 8，它为中低端市场带来了设计优先的方法。但首先，你会在盒子里得到什么？Pova 8 配有透明硅胶套、45W 充电器和 USBC 数据线。现在我们已经了解了这一点，我们可以回顾一下手机的关...",
+      "url": "https://www.gsmarena.com/tecno_pova_8_unboxing_and_handson-news-73230.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/tecno-pova-8-unboxing/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀X80 Pro Max泄露的上手图片证实了其巨大的电池，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-06-12",
+      "summary": "荣耀 X80 Pro Max 将于本月晚些时候推出，据称配备 11000 mAh 电池，并支持 90W 快速有线充电。现在，该设备似乎已在中国某地公开露面，随后出现了以下实际操作图像。后部似乎有人造皮革饰面，正如你所看到...",
+      "url": "https://www.gsmarena.com/honor_x80_pro_max_leaked_handson_images_confirm_its_gigantic_battery-news-73238.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-x80-pro-max-hands-on-images/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Moto G Max 悄然推出，更名为 Moto G87",
+      "source": "GSMArena",
       "date": "2026-06-11",
-      "summary": "亚马逊的新款 Sleep Studio 将 Echo 扬声器变成了一台放松机，而不仅仅是一个音乐盒。",
-      "url": "https://www.androidauthority.com/amazon-unveils-echo-kids-sleep-studio-3676679/",
+      "summary": "摩托罗拉早在 4 月底就推出了 Moto G87，并于 5 月份发布，现在又在巴西推出了。但不管出于什么原因，它在那里被称为 Moto G Max。 Moto G Max 可以从摩托罗拉巴西在线商店购买，价格为 2519...，带来多项升级",
+      "url": "https://www.gsmarena.com/moto_g_max_silently_launches_as_a_rebranded_moto_g87-news-73239.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/moto-g-max-silently-launched/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "台积电新封装技术将降低芯片成本并提高性能",
+      "source": "GSMArena",
+      "date": "2026-06-11",
+      "summary": "据知情人士透露，台积电正在研究一种名为 CoPoS 的尖端芯片封装技术。 CoPoS的意思是ChiponPanelonStructure，它使用玻璃材料作为临时载体，并以三层夹层结构进入最终的基板。据报道，台积电将于 2...",
+      "url": "https://www.gsmarena.com/tsmcs_new_packaging_technology_will_bring_down_cost_and_improve_performance_of_chips_by_2028-news-73241.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/25/01/tsmc-made-in-america-chips-almost-ready/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "ANBERNIC RG557 用户正在获得他们一直在等待的软件检修",
+      "source": "Android Authority",
+      "date": "2026-06-12",
+      "summary": "新的 V128 系统更新引入了专用的物理按钮图来启动自定义的双拨应用程序和游戏前端。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/anbernic-rg557-v128-software-update-3677129/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "您应该购买 4 款智能戒指，而不是 Oura Ring 5",
+      "title": "有人制作了一款便携式 60Hz 电子墨水显示器，您可以在上面玩游戏",
       "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "大浦并不是游戏中唯一的名字。",
-      "url": "https://www.androidauthority.com/oura-ring-5-alternatives-3675715/",
+      "date": "2026-06-12",
+      "summary": "最后，像这样滚动的电子墨水显示屏意味着它！",
+      "url": "https://www.androidauthority.com/modos-flow-e-ink-paper-60hz-display-3677057/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "虚拟相机镜头毫无用处，但这款手机给了它们一个很酷的用途",
+      "title": "屏幕亮度为 10,000 尼特的手机即将面世，但不要被这些说法所迷惑",
       "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "然而，我们没有回答这个问题：为什么要让它看起来像有三个摄像头？",
-      "url": "https://www.androidauthority.com/tecno-pova-8-3676643/",
+      "date": "2026-06-12",
+      "summary": "10000 尼特的屏幕听起来很神奇，但不要被这些说法所蒙蔽。",
+      "url": "https://www.androidauthority.com/upcoming-phone-10000-nit-screen-3677084/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +158,83 @@
       "type": "news"
     },
     {
-      "title": "想要无折痕的宽折叠吗？ Android 旗舰选项可能即将推出",
+      "title": "为什么 ChatGPT 的新广告策略是 苹果 Intelligence 有史...",
       "source": "Android Authority",
-      "date": "2026-06-11",
-      "summary": "OPPO Find N7 可能是您正在寻找的宽折叠 Android 旗舰产品。",
-      "url": "https://www.androidauthority.com/oppo-find-n7-leak-3676651/",
+      "date": "2026-06-12",
+      "summary": "Apple Intelligence 可能仍处于成熟阶段，但它已经制定了盈利计划。",
+      "url": "https://www.androidauthority.com/chatgpt-ads-good-for-apple-intelligence-why-3676436/",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "苹果升级版 Siri 专为商业打造，不会成为你的 AI 女友",
+      "source": "Android Authority",
+      "date": "2026-06-12",
+      "summary": "如果您越界，新的 Siri 现在可以结束对话。",
+      "url": "https://www.androidauthority.com/siri-ai-wont-be-your-ai-girlfriend-3677110/",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我尝试返回 Pixel 10 Pro XL，但缺少一项功能导致无法使用",
+      "source": "Android Authority",
+      "date": "2026-06-12",
+      "summary": "我对 Pixel 11 Pro XL 的一个愿望：充电更快",
+      "url": "https://www.androidauthority.com/pixel-11-needs-faster-charging-3674534/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "双子座正在模仿克劳德最糟糕的事情，我讨厌它",
+      "source": "Android Authority",
+      "date": "2026-06-12",
+      "summary": "我希望 Gemini 能向 Claude 学习很多东西，但 Google 却记下了错误的教训。",
+      "url": "https://www.androidauthority.com/gemini-copies-claude-limits-bad-3674550/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "如果您有朋友，您现在可以突破 ChatGPT Codex 速率限制",
+      "source": "Android Authority",
+      "date": "2026-06-12",
+      "summary": "OpenAI 推出了一个新的临时推荐系统，通过重置可银行利率限制来奖励您和朋友。",
+      "url": "https://www.androidauthority.com/openai-chatgpt-codex-rate-limit-resets-referral-program-3677035/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "计划升级您的手机？联合创始人没有表示等待会付出高昂的代价",
+      "source": "Android Authority",
+      "date": "2026-06-12",
+      "summary": "下一部昂贵手机的罪魁祸首就是内存。",
+      "url": "https://www.androidauthority.com/carl-pei-smartphone-price-warning-3677030/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "这个即将推出的 Z Fold 8 竞争对手带来了很酷的文件管理器技巧，我希望...",
+      "source": "Android Authority",
+      "date": "2026-06-12",
+      "summary": "从智能文件重命名到按需分类，这里有很多值得喜欢的地方。",
+      "url": "https://www.androidauthority.com/smartphone-brand-foldable-file-manager-features-3677010/",
       "tags": [
         "安卓"
       ],
