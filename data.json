@@ -1,6 +1,90 @@
 {
-  "updated": "2026-06-13 10:42",
+  "updated": "2026-06-14 11:11",
   "news": [
+    {
+      "title": "优惠：Pixel 10 手机降价并免费获得 谷歌 TV Streamer、G...",
+      "source": "GSMArena",
+      "date": "2026-06-14",
+      "summary": "墨西哥和南非世界杯于周五拉开帷幕。德国队的首场比赛将于本周日对阵库拉索岛。我们为什么要提到这个？好吧，Google 有一项特别促销活动  您可以使用 Pixel 10、10 Pro 或 10 Pro XL 获得免费的 G...",
+      "url": "https://www.gsmarena.com/deals_pixel_10_phones_come_with_price_cuts_and_a_free_google_tv_streamer_galaxy_s26_discounted-news-73255.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-12/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周投票：你对 iOS 27 有何看法？",
+      "source": "GSMArena",
+      "date": "2026-06-14",
+      "summary": "加州库比蒂诺度过了忙碌的一周一年一度的 WWDC 推出了苹果关键操作系统的最新版本。让我们关注 iOS您对它的新功能和改进有何看法？如果您需要回顾一下或者完全错过了这一消息，请阅读 iOS 27 的新增功能。本周的头条新...",
+      "url": "https://www.gsmarena.com/weekly_poll_what_do_you_think_about_ios_27-news-73232.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-poll-ios-27/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周民意调查结果：摩托罗拉 Razr Fold 价格昂贵，但尽管存在缺陷，但...",
+      "source": "GSMArena",
+      "date": "2026-06-14",
+      "summary": "与其他书本式可折叠设备一样，摩托罗拉 Razr Fold 最大的缺陷是它的价格事实上，在上周的民意调查中，最大的选民群体是对价格标签持反对态度的人。具体来说，Fold 的建议零售价为 2000 欧元1800 英镑1500...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_the_motorola_razr_fold_is_pricey_but_may_have_a_future_despite_its_flaws-news-73234.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-poll-results-motorola-razr-fold/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：Galaxy S26+ 512GB 型号享受更大折扣，Galaxy S...",
+      "source": "GSMArena",
+      "date": "2026-06-13",
+      "summary": "本周，苹果举办了一年一度的 WWDC。前一周是 Google IO两者都是以软件为中心的活动，因此没有任何新硬件。因此，我们转向旧型号。三星 Galaxy S26 不会赢得任何人气竞赛，但它是一款可靠的中端智能手机，在功...",
+      "url": "https://www.gsmarena.com/deals_galaxy_s26_gets_a_deeper_discount_on_its_512gb_model_galaxy_s26_ultra_also_on_sale-news-73249.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-12/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S26 系列获得了许多其他 Android 手机多年来所...",
+      "source": "GSMArena",
+      "date": "2026-06-13",
+      "summary": "多年来，三星 Galaxy 品牌的智能手机和平板电脑一直缺乏许多其他 Android 设备尤其是中国品牌的设备所具备的功能。我们正在谈论的是状态栏中显示的实时网络速度指示器，现在 Galaxy 用户可以通过三星 Good...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_good_lock_quickstar_network_speed_indicator-news-73264.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-s26-good-lock-quickstar-network-speed-indicator/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Insta360在美国对大疆创新提起反诉，指控其侵犯其与云台和360°相机技...",
+      "source": "GSMArena",
+      "date": "2026-06-13",
+      "summary": "相机公司 Insta360 三天前推出了 Luna Ultra。同一天，大疆在美国起诉 Insta360，理由是 Luna Ultra 与即将推出的 Osmo Pocket 4P 非常相似。目前，Insta360已在美国...",
+      "url": "https://www.gsmarena.com/insta360_dji_countersuit_usa-news-73263.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/insta360-dji-countersuit-usa/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：小米17、17T系列打折，Galaxy Z Fold7也降价",
+      "source": "GSMArena",
+      "date": "2026-06-13",
+      "summary": "小米17T和小米17T Pro连续第三周以折扣价出售。小米的旗舰产品小米17和小米17至尊纪念版也进行了降价。在其他地方，三星 Galaxy Z Fold7、部分 Google Pixel 10 系列智能手机以及一些 N...",
+      "url": "https://www.gsmarena.com/deals_xiaomi_17_and_17t_series_discounted_galaxy_z_fold7_also_gets_a_price_cut-news-73257.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-12/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
     {
       "title": "三星 Galaxy F15 获得 One UI 8.5 稳定更新",
       "source": "GSMArena",
@@ -38,95 +122,11 @@
       "type": "news"
     },
     {
-      "title": "Strava 改进了地图样式、路线保存和偏离路线警报",
-      "source": "GSMArena",
-      "date": "2026-06-12",
-      "summary": "Strava 今天增加了一些新功能，该公司表示，旨在满足运动员的需求。 今年夏天晚些时候将推出地图样式改进，为您提供更丰富的步道表面数据和更清晰的兴趣点，如步道起点、野餐区和露营地。仅适用于订阅者，还有路线保存，可让您保...",
-      "url": "https://www.gsmarena.com/strava_gets_improved_map_styles_route_saving_and_offroute_alerts-news-73254.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/strava-update/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Motorola Edge (2026) 现已在美国和加拿大上市",
-      "source": "GSMArena",
-      "date": "2026-06-12",
-      "summary": "继上周发布后，摩托罗拉 Edge 2026 现已在美国和加拿大公开发售。在美国，这款配备天玑 7450 的 63 英寸 OLED 设备可以通过 Motorolacom 以及 BestBuy 等合作零售商以 600 美元的...，带来多项升级",
-      "url": "https://www.gsmarena.com/motorola_edge_2026_now_available_in_the_us_and_canada-news-73248.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/moto-edge-2026-us-canada-available/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Telegram 的 Wear OS 应用程序也在这里，支持完整聊天、语音消...",
-      "source": "GSMArena",
-      "date": "2026-06-12",
-      "summary": "继本周早些时候推出适用于 Apple Watch 的完全原生应用程序后，Telegram 现在也宣布推出适用于 Wear OS 智能手表的专用应用程序。此举标志着 Telegram 在 2021 年从 Play 商店下架...",
-      "url": "https://www.gsmarena.com/telegrams_wear_os_app_is_also_here_with_support_for_full_chats_voice_messages_and_more-news-73253.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/telegram-wear-os-app/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为推出HarmonyOS 7 大量玻璃效果，性能更好",
-      "source": "GSMArena",
-      "date": "2026-06-12",
-      "summary": "今天在中国的开发者大会上，华为揭开了 HarmonyOS 7 的面纱。它配备了受苹果启发的类似液态玻璃的 UI，并且有很多关于人工智能的讨论，因为现在是 2026 年，这显然是不可避免的。HarmonyOS 7即将登陆华...",
-      "url": "https://www.gsmarena.com/huawei_unveils_harmonyos_7_with_a_lot_of_glasslike_effects_better_performance-news-73259.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/huawei-harmonyos-7-official/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Waze 的交通灯功能继续向更多用户推出",
-      "source": "GSMArena",
-      "date": "2026-06-12",
-      "summary": "去年 12 月，我们听说 Waze一款众包 GPS 导航应用程序开始测试一项向用户显示交通信号灯的功能。谷歌旗下的 Waze 在过去几个月中继续向多个国家的更多用户推出此功能，新的 Reddit 帖子显示，该公司仍在逐步...",
-      "url": "https://www.gsmarena.com/waze_traffic_lights_feature_gradual_rollout-news-73251.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/waze-traffic-lights-gradual-rollout/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀X80 Pro Max峰值亮度提升至五位数",
-      "source": "GSMArena",
-      "date": "2026-06-12",
-      "summary": "即将推出的荣耀X80 Pro Max不仅将拥有该品牌迄今为止最大的电池11000mAh，而且根据微博数码闲聊站的最新传闻，该设备还有可能打破峰值亮度记录。根据 DCS 的说法，它的峰值亮度将达到 10000 尼特，这是另...",
-      "url": "https://www.gsmarena.com/honor_x80_pro_max_to_take_peak_brightness_to_five_digit_territory-news-73256.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-x80-pro-max-screen-brightness/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy A27 已在官方网站上市",
-      "source": "GSMArena",
-      "date": "2026-06-12",
-      "summary": "过去几周，三星 Galaxy A27 多次被泄露，三星捷克公司决定是时候停止谣言，并在其官方网站上列出了该设备。这款新设备搭载高通 Snapdragon 6 Gen 3 芯片组，取代了前代产品中的 Exynos 1280...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a27_listed_on_official_site_-news-73252.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-a27-listed/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "我从未使用过机器人割草机。使用 Mammotion 最新型号 30 天后，我...",
+      "title": "我让克劳德审核我凌乱的家庭助理设置，这是一个巨大的警钟",
       "source": "Android Authority",
-      "date": "2026-06-13",
-      "summary": "过着并且热爱机器人割草机的生活。",
-      "url": "https://www.androidauthority.com/mammotion-luba-3-awd-review-3673597/",
+      "date": "2026-06-14",
+      "summary": "当克劳德访问您的智能家居时会发生什么？更干净、更智能的家庭助理设置。",
+      "url": "https://www.androidauthority.com/using-claude-fix-home-assistant-smart-home-3674998/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "作为一名长期的 Android 隐私迷，这里有 6 个我后悔安装的隐私应用程...",
+      "title": "reMarkable Paper Pure 让我想再次开始写下来",
       "source": "Android Authority",
-      "date": "2026-06-13",
-      "summary": "这些应用程序中的大多数不一定是坏的，它们只是不符合我正在寻找的东西。",
-      "url": "https://www.androidauthority.com/android-privacy-apps-i-regret-3671250/",
+      "date": "2026-06-14",
+      "summary": "令人耳目一新的简单数字笔记记录方式。",
+      "url": "https://www.androidauthority.com/remarkable-paper-pure-review-2-3672921/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,35 @@
       "type": "news"
     },
     {
-      "title": "Moto G Stylus 2026 最好的一点是什么？它做了谷歌和三星不会...",
+      "title": "Fitbit 的新健康教练比我妈妈还糟糕",
       "source": "Android Authority",
-      "date": "2026-06-13",
-      "summary": "并非所有旧功能都已过时。",
-      "url": "https://www.androidauthority.com/moto-g-stylus-2026-beats-google-samsung-how-3675524/",
+      "date": "2026-06-14",
+      "summary": "我不需要不断提醒我在晚上关掉手机或在忙碌的日子里放松一下。",
+      "url": "https://www.androidauthority.com/fitbit-new-health-coach-worse-than-my-mom-3668153/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我必须把它交给 SwitchBot Lock Vision Pro 及其手掌...",
+      "source": "Android Authority",
+      "date": "2026-06-14",
+      "summary": "假设您正在使用原力打开前门。",
+      "url": "https://www.androidauthority.com/switchbot-lock-vision-pro-review-3670529/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我不知道我的三星手机有 5 个隐藏功能",
+      "source": "Android Authority",
+      "date": "2026-06-14",
+      "summary": "我不知道我的三星手机有 5 个隐藏功能",
+      "url": "https://www.androidauthority.com/hidden-features-samsung-phone-3672514/",
       "tags": [
         "三星"
       ],
@@ -158,11 +182,35 @@
       "type": "news"
     },
     {
-      "title": "对于糟糕的 Pixel 更新，我们已经让 谷歌 足够放松了。现在是追究其责任...",
+      "title": "我把我用了 7 年的 Android 平板电脑变成了终极 Kindle 杀手...",
+      "source": "Android Authority",
+      "date": "2026-06-14",
+      "summary": "这个简单的 Android 设置让我可以做 Kindle 能做的一切，甚至更多。",
+      "url": "https://www.androidauthority.com/kindle-vs-old-android-tablet-3675935/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌让我离放弃 谷歌 Home 而转向 Amazon Alexa 又近了一步",
+      "source": "Android Authority",
+      "date": "2026-06-14",
+      "summary": "选择的减少、硬件的老化和体验的恶化正在考验我的忠诚度。",
+      "url": "https://www.androidauthority.com/google-home-vs-alexa-switching-2026-3675758/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "用这些顶级科技小玩意升级你的夏季足球观看派对",
       "source": "Android Authority",
       "date": "2026-06-13",
-      "summary": "Pixel 更新一团糟，需要停止！，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/google-poor-pixel-updates-accountability-3661496/",
+      "summary": "以下是一些用于终极足球观看派对设置的尖端科技小工具。",
+      "url": "https://www.androidauthority.com/summer-soccer-watch-party-gadgets-3677234/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "美国政府刚刚迫使 Anthropic 撤回其最先进的人工智能模型",
+      "title": "亚马逊 Fire TV Stick 4K Select 在 Prime Da...",
       "source": "Android Authority",
       "date": "2026-06-13",
-      "summary": "前所未有的紧急国家安全指令突然切断了全球对神鬼寓言 5和神话 5的访问。",
-      "url": "https://www.androidauthority.com/us-government-anthropic-fable-5-mythos-5-suspension-3677315/",
+      "summary": "由于亚马逊在主要活动之前加大了早期促销力度，预算 4K 棒可享受 55 的折扣。",
+      "url": "https://www.androidauthority.com/fire-tv-stick-4k-select-deal-3676462/",
       "tags": [
         "安卓"
       ],
@@ -182,59 +230,11 @@
       "type": "news"
     },
     {
-      "title": "亚马逊将 Ring 的 Indoor Cam Plus 和接触式传感器捆绑包...",
+      "title": "我总是在每部新 Android 手机上设置 4 项安全功能，您也应该这样做",
       "source": "Android Authority",
-      "date": "2026-06-12",
-      "summary": "Ring 的 2K 摄像头和入口传感器捆绑包价格下降了 44。",
-      "url": "https://www.androidauthority.com/ring-indoor-cam-plus-bundle-deal-3676001/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "准备好探索小径了吗？ Strava 刚刚发布了大规模徒步旅行更新，新机正式登...",
-      "source": "Android Authority",
-      "date": "2026-06-12",
-      "summary": "Strava 的新更新重点是升级您的下一次徒步旅行。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/strava-new-hiking-features-3677280/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Analogue Pocket 和 EverDrive 兼容性问题让复古游戏...",
-      "source": "Android Authority",
-      "date": "2026-06-12",
-      "summary": "Analogue Pocket 和 EverDrive 磁带无法一起工作，目前还不清楚是谁的错。",
-      "url": "https://www.androidauthority.com/everdrive-carts-malfunction-with-analogue-pocket-3677246/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 TV 的世界杯中心将现场比赛、精彩片段和分析结合在一起",
-      "source": "Android Authority",
-      "date": "2026-06-12",
-      "summary": "谷歌电视刚刚将其体育页面变成了世界杯指挥中心。",
-      "url": "https://www.androidauthority.com/google-tv-world-cup-3677238/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "每个人都说他们想与医生分享可穿戴数据——但几乎没有人这样做",
-      "source": "Android Authority",
-      "date": "2026-06-12",
-      "summary": "我们都在追踪自己的健康数据并完全保密。",
-      "url": "https://www.androidauthority.com/wearable-data-not-shared-with-doctors-3677183/",
+      "date": "2026-06-13",
+      "summary": "我总是在每部新 Android 手机上设置 4 项安全功能，您也应该这样做",
+      "url": "https://www.androidauthority.com/android-security-features-always-set-up-3676190/",
       "tags": [
         "安卓"
       ],
