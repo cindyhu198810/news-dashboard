@@ -1,132 +1,132 @@
 {
-  "updated": "2026-06-14 11:11",
+  "updated": "2026-06-15 14:40",
   "news": [
     {
-      "title": "优惠：Pixel 10 手机降价并免费获得 谷歌 TV Streamer、G...",
+      "title": "Oppo Find X10 Pro的主要规格泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-06-15",
+      "summary": "Oppo Find X10 系列预计将于 9 月推出，Find X10 Pro 将是届时推出的成员之一。根据新的传闻，该设备将搭载即将推出的联发科天玑 9600 SoC，该芯片将采用先进的 2nm 工艺制造。该手机将采用...",
+      "url": "https://www.gsmarena.com/oppo_find_x10_pros_main_specs_leak-news-73273.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oppo-find-x10-pro-specs/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "RugOne Xever 8 上手评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-06-15",
+      "summary": "如果 RugOne 品牌没有给您带来任何启发，我们不会责怪您。这是坚固耐用手机老牌 Ulefone 推出的全新探索品牌，他们在去年的 IFA 2025 上首次亮相，推出了他们的第一款设备 Xever 7。六个月后的今天，...",
+      "url": "https://www.gsmarena.com/rugone_xever_8_handson_review-news-73246.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/rugone-xever-8-handson/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus首款N系列手机将于6月30日发布，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-06-15",
+      "summary": "OnePlus 公布了其首款 N 系列智能手机在印度的上市日期，即 OnePlus N6。它将通过亚马逊印度、OnePlus 在线商店和线下零售商销售。该公司在 X 上的一篇帖子中证实，OnePlus N6 将于 6 月...",
+      "url": "https://www.gsmarena.com/oneplus_first_n_series_phone_will_be_unveiled_on_june_30-news-73272.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-n6-launch-date-india/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Tecno Pova 8 Pro 5G 出现在 谷歌 Play 控制台中，如...",
+      "source": "GSMArena",
+      "date": "2026-06-15",
+      "summary": "Tecno 上周推出了 Pova 8，但根据上个月的认证显示，Pova 8 Pro 也即将推出。现在，Pova 8 Pro 5G 已出现在 Google Play 控制台中。此过程已经显示了设备的正面图像，您可以在下面看...",
+      "url": "https://www.gsmarena.com/tecno_pova_8_pro_5g_shows_up_in_the_google_play_console_heres_what_it_looks_like-news-73270.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/tecno-pova-8-google-play-console/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "HMD Vibe 2 5G 将于明天在印度推出 6/128GB 版本",
+      "source": "GSMArena",
+      "date": "2026-06-15",
+      "summary": "HMD Vibe 2 5G 于 5 月底在印度推出，预计配备高达 6GB 的 RAM 和高达 128GB 的存储空间，但只有 464GB 和 4128GB 版本可用。一个月后，该公司也几乎准备好提供顶级规格的型号。该产品...",
+      "url": "https://www.gsmarena.com/the_hmd_vibe_2_5g_is_getting_a_6_128gb_variant_in_india_tomorrow-news-73271.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/hmd-vibe-2-5g-6-128gb-india/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀X70 Pro Max悄然上市，8560mAh电池",
+      "source": "GSMArena",
+      "date": "2026-06-15",
+      "summary": "在下周 X80 Pro Max 发布之前，荣耀悄然在中国推出了新款 X70 Pro Max。荣耀X70 Pro Max配备679英寸AMOLED显示屏，分辨率为26401200像素，刷新率为120Hz，峰值亮度高达600...，带来多项升级",
+      "url": "https://www.gsmarena.com/honor_x70_pro_max_silently_launched_with_an_8560mah_battery-news-73268.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-x70-pro-max-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X Fold6相机和显示屏规格正式曝光，支持增距镜，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-06-15",
+      "summary": "上周，vivo 确认其即将推出的可折叠手机 vivo X Fold6 将搭载联发科天玑 9500 超级版芯片组。该公司现已公布有关其相机和显示器的关键细节。虽然vivo尚未公布上市日期，但它已经透露了有关X Fold6的...",
+      "url": "https://www.gsmarena.com/vivo_x_fold6_camera_and_display_specs_officially_revealed_to_support_teleconverter-news-73267.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/vivo-x-fold6-camera-display-revealed/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀X80 Pro Max将于6月22日首发，确认配备11000mAh电池",
+      "source": "GSMArena",
+      "date": "2026-06-15",
+      "summary": "荣耀宣布了 X80 Pro Max 的上市日期。除了确认之外，该公司还公布了这款手机的设计和颜色选项。该公司在官方微博中证实，荣耀 X80 Pro Max 将于 6 月 22 日在中国推出。荣耀还通过其官方在线商店开放了...",
+      "url": "https://www.gsmarena.com/honor_x80_pro_max_to_debut_on_june_22_confirmed_to_pack_a_11000mah_battery-news-73266.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-x80-pro-max-launch-date/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "第 24 周十大热门手机",
       "source": "GSMArena",
       "date": "2026-06-14",
-      "summary": "墨西哥和南非世界杯于周五拉开帷幕。德国队的首场比赛将于本周日对阵库拉索岛。我们为什么要提到这个？好吧，Google 有一项特别促销活动  您可以使用 Pixel 10、10 Pro 或 10 Pro XL 获得免费的 G...",
-      "url": "https://www.gsmarena.com/deals_pixel_10_phones_come_with_price_cuts_and_a_free_google_tv_streamer_galaxy_s26_discounted-news-73255.php",
+      "summary": "随着围绕小米 17T 的炒作逐渐平息，三星 Galaxy A57 重新回到了我们的趋势榜榜首。 17T Pro 获得银牌，而 Galaxy S26 Ultra 登上领奖台。InlinePriceWidget 14379 ...",
+      "url": "https://www.gsmarena.com/top_10_trending_phones_of_week_24-news-73265.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/19/04/top10-trending-phones/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iOS 27 公布，Galaxy S27 泄露，第 24 周回顾，核心配置曝...",
+      "source": "GSMArena",
+      "date": "2026-06-14",
+      "summary": "这是忙碌的一周，苹果在年度全球开发者大会上推出了一系列新的更新。 iOS 27、iPadOS 27、macOS 27、watchOS 27 和 VisionOS 27 的新增重要功能是全新的 Siri AI，它带来了一系...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/ios_27_announced_galaxy_s27_leaks_week_24_in_review-news-73261.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-12/-184x111/gsmarena_de.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/week-24-in-review/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "每周投票：你对 iOS 27 有何看法？",
-      "source": "GSMArena",
-      "date": "2026-06-14",
-      "summary": "加州库比蒂诺度过了忙碌的一周一年一度的 WWDC 推出了苹果关键操作系统的最新版本。让我们关注 iOS您对它的新功能和改进有何看法？如果您需要回顾一下或者完全错过了这一消息，请阅读 iOS 27 的新增功能。本周的头条新...",
-      "url": "https://www.gsmarena.com/weekly_poll_what_do_you_think_about_ios_27-news-73232.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-poll-ios-27/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周民意调查结果：摩托罗拉 Razr Fold 价格昂贵，但尽管存在缺陷，但...",
-      "source": "GSMArena",
-      "date": "2026-06-14",
-      "summary": "与其他书本式可折叠设备一样，摩托罗拉 Razr Fold 最大的缺陷是它的价格事实上，在上周的民意调查中，最大的选民群体是对价格标签持反对态度的人。具体来说，Fold 的建议零售价为 2000 欧元1800 英镑1500...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_the_motorola_razr_fold_is_pricey_but_may_have_a_future_despite_its_flaws-news-73234.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-poll-results-motorola-razr-fold/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "优惠：Galaxy S26+ 512GB 型号享受更大折扣，Galaxy S...",
-      "source": "GSMArena",
-      "date": "2026-06-13",
-      "summary": "本周，苹果举办了一年一度的 WWDC。前一周是 Google IO两者都是以软件为中心的活动，因此没有任何新硬件。因此，我们转向旧型号。三星 Galaxy S26 不会赢得任何人气竞赛，但它是一款可靠的中端智能手机，在功...",
-      "url": "https://www.gsmarena.com/deals_galaxy_s26_gets_a_deeper_discount_on_its_512gb_model_galaxy_s26_ultra_also_on_sale-news-73249.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-12/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy S26 系列获得了许多其他 Android 手机多年来所...",
-      "source": "GSMArena",
-      "date": "2026-06-13",
-      "summary": "多年来，三星 Galaxy 品牌的智能手机和平板电脑一直缺乏许多其他 Android 设备尤其是中国品牌的设备所具备的功能。我们正在谈论的是状态栏中显示的实时网络速度指示器，现在 Galaxy 用户可以通过三星 Good...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_good_lock_quickstar_network_speed_indicator-news-73264.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-s26-good-lock-quickstar-network-speed-indicator/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Insta360在美国对大疆创新提起反诉，指控其侵犯其与云台和360°相机技...",
-      "source": "GSMArena",
-      "date": "2026-06-13",
-      "summary": "相机公司 Insta360 三天前推出了 Luna Ultra。同一天，大疆在美国起诉 Insta360，理由是 Luna Ultra 与即将推出的 Osmo Pocket 4P 非常相似。目前，Insta360已在美国...",
-      "url": "https://www.gsmarena.com/insta360_dji_countersuit_usa-news-73263.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/insta360-dji-countersuit-usa/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "优惠：小米17、17T系列打折，Galaxy Z Fold7也降价",
-      "source": "GSMArena",
-      "date": "2026-06-13",
-      "summary": "小米17T和小米17T Pro连续第三周以折扣价出售。小米的旗舰产品小米17和小米17至尊纪念版也进行了降价。在其他地方，三星 Galaxy Z Fold7、部分 Google Pixel 10 系列智能手机以及一些 N...",
-      "url": "https://www.gsmarena.com/deals_xiaomi_17_and_17t_series_discounted_galaxy_z_fold7_also_gets_a_price_cut-news-73257.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-12/-184x111/gsmarena_uk.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy F15 获得 One UI 8.5 稳定更新",
-      "source": "GSMArena",
-      "date": "2026-06-13",
-      "summary": "三星发布了 Galaxy F15 的稳定 One UI 85 更新，该更新于 2024 年随 One UI 6 一起推出。该更新的固件版本为 E156BXXUADZE7，需要下载约 25GB，并将 Galaxy F15 ...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_f15_one_ui_8_5_stable_update-news-73262.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-f15-one-ui-8-5-stable-update/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀X7e Plus 5G即将加入X7e行列",
-      "source": "GSMArena",
-      "date": "2026-06-13",
-      "summary": "荣耀本月早些时候推出了 X7e 4G，如果你想知道这款手机是否会提供 5G 选项，答案似乎是是的，有点。荣耀X7e Plus 5G现已获得TDRA在阿联酋的销售认证，并且也已出现在SGS数据库中。除了 5G 连接之外，我...",
-      "url": "https://www.gsmarena.com/honor_x7e_plus_5g_is_coming_to_join_the_x7e-news-73260.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-x7e-plus-5g-certified/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "DJI 起诉 Insta360，理由是 Luna Ultra 与 Osmo ...",
-      "source": "GSMArena",
-      "date": "2026-06-12",
-      "summary": "几天前，Insta360 在 Luna Ultra 上正式推出了 DJI Osmo Pocket 4P 竞争对手，现在 DJI 正在对 Insta360 发起不止一项而是两起专利侵权诉讼。这些诉讼是在美国提起的，大概是因...",
-      "url": "https://www.gsmarena.com/dji_sues_insta360_for_how_similar_the_luna_ultra_is_to_the_osmo_pocket_4p-news-73258.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/dji-sues-insta360/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "我让克劳德审核我凌乱的家庭助理设置，这是一个巨大的警钟",
+      "title": "谷歌的 Android 编码测试揭示了 Gemini 3.5 Flash 的...",
       "source": "Android Authority",
-      "date": "2026-06-14",
-      "summary": "当克劳德访问您的智能家居时会发生什么？更干净、更智能的家庭助理设置。",
-      "url": "https://www.androidauthority.com/using-claude-fix-home-assistant-smart-home-3674998/",
+      "date": "2026-06-15",
+      "summary": "对于 Android 开发者来说，谷歌新推出的 Gemini 35 Flash 是一次昂贵的降级。",
+      "url": "https://www.androidauthority.com/gemini-3-5-flash-android-benchmark-3677527/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "reMarkable Paper Pure 让我想再次开始写下来",
+      "title": "AYANEO 向 Game Boy Micro 致敬的手掌大小将在第二轮回归",
       "source": "Android Authority",
-      "date": "2026-06-14",
-      "summary": "令人耳目一新的简单数字笔记记录方式。",
-      "url": "https://www.androidauthority.com/remarkable-paper-pure-review-2-3672921/",
+      "date": "2026-06-15",
+      "summary": "AYANEO 已经将其誉为新的复古游戏偶像。",
+      "url": "https://www.androidauthority.com/ayaneo-pocket-game-boy-micro-2-3677482/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "Fitbit 的新健康教练比我妈妈还糟糕",
+      "title": "Roku 室内摄像机促销：1080p Wi-Fi 6 家用摄像机现价 14....",
       "source": "Android Authority",
-      "date": "2026-06-14",
-      "summary": "我不需要不断提醒我在晚上关掉手机或在忙碌的日子里放松一下。",
-      "url": "https://www.androidauthority.com/fitbit-new-health-coach-worse-than-my-mom-3668153/",
+      "date": "2026-06-15",
+      "summary": "Roku 的室内摄像头在 2026 年 Prime Day 之前有 50 的折扣，有 WiFi 6、彩色夜视、年内新低。",
+      "url": "https://www.androidauthority.com/roku-indoor-camera-prime-deal-3676586/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "我必须把它交给 SwitchBot Lock Vision Pro 及其手掌...",
+      "title": "Marshall Emberton II 在 Prime Day 早期交易中...",
       "source": "Android Authority",
-      "date": "2026-06-14",
-      "summary": "假设您正在使用原力打开前门。",
-      "url": "https://www.androidauthority.com/switchbot-lock-vision-pro-review-3670529/",
+      "date": "2026-06-15",
+      "summary": "在 Prime 会员日期间，30 多个小时的 Marshall 音乐现在价格不到 100 美元。",
+      "url": "https://www.androidauthority.com/marshall-emberton-ii-deal-3676569/",
       "tags": [
         "安卓"
       ],
@@ -170,23 +170,11 @@
       "type": "news"
     },
     {
-      "title": "我不知道我的三星手机有 5 个隐藏功能",
+      "title": "福克斯刚刚通过收购 Roku，在电视屏幕上投入了 220 亿美元的资金",
       "source": "Android Authority",
-      "date": "2026-06-14",
-      "summary": "我不知道我的三星手机有 5 个隐藏功能",
-      "url": "https://www.androidauthority.com/hidden-features-samsung-phone-3672514/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我把我用了 7 年的 Android 平板电脑变成了终极 Kindle 杀手...",
-      "source": "Android Authority",
-      "date": "2026-06-14",
-      "summary": "这个简单的 Android 设置让我可以做 Kindle 能做的一切，甚至更多。",
-      "url": "https://www.androidauthority.com/kindle-vs-old-android-tablet-3675935/",
+      "date": "2026-06-15",
+      "summary": "此次重磅收购将 Tubi 和 Roku Channel 合并为仅次于 YouTube 和 Netflix 的免费流媒体巨头。",
+      "url": "https://www.androidauthority.com/fox-roku-acquisition-3677483/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌让我离放弃 谷歌 Home 而转向 Amazon Alexa 又近了一步",
+      "title": "带有 谷歌 TV 的新型极米激光和 4K 投影仪即将出现在您的客厅墙上",
       "source": "Android Authority",
-      "date": "2026-06-14",
-      "summary": "选择的减少、硬件的老化和体验的恶化正在考验我的忠诚度。",
-      "url": "https://www.androidauthority.com/google-home-vs-alexa-switching-2026-3675758/",
+      "date": "2026-06-15",
+      "summary": "Elfin Flip 系列还可以适应您的卧室天花板。",
+      "url": "https://www.androidauthority.com/xgimi-4k-laser-ust-projectors-3677436/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "用这些顶级科技小玩意升级你的夏季足球观看派对",
+      "title": "需要广泛的室外覆盖范围？ Arlo Pro 3 Floodlight 摄像头...",
       "source": "Android Authority",
-      "date": "2026-06-13",
-      "summary": "以下是一些用于终极足球观看派对设置的尖端科技小工具。",
-      "url": "https://www.androidauthority.com/summer-soccer-watch-party-gadgets-3677234/",
+      "date": "2026-06-15",
+      "summary": "Arlo 的无线泛光灯摄像头对于 Prime 会员的价格降至 10924 美元，具有 2K HDR 视频和广泛的户外覆盖范围。",
+      "url": "https://www.androidauthority.com/arlo-pro-3-floodlight-camera-deal-3676559/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "亚马逊 Fire TV Stick 4K Select 在 Prime Da...",
+      "title": "谷歌的人工智能模式现在可以为你跟踪信息",
       "source": "Android Authority",
-      "date": "2026-06-13",
-      "summary": "由于亚马逊在主要活动之前加大了早期促销力度，预算 4K 棒可享受 55 的折扣。",
-      "url": "https://www.androidauthority.com/fire-tv-stick-4k-select-deal-3676462/",
+      "date": "2026-06-15",
+      "summary": "人工智能模式现在可以让您了解最新的运动鞋、电影票等信息。",
+      "url": "https://www.androidauthority.com/google-search-information-agents-ai-ultra-subscribers-3677456/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +218,23 @@
       "type": "news"
     },
     {
-      "title": "我总是在每部新 Android 手机上设置 4 项安全功能，您也应该这样做",
+      "title": "亚马逊 Marshall Major V 可折叠耳机降至 89.99 美元，...",
       "source": "Android Authority",
-      "date": "2026-06-13",
-      "summary": "我总是在每部新 Android 手机上设置 4 项安全功能，您也应该这样做",
-      "url": "https://www.androidauthority.com/android-security-features-always-set-up-3676190/",
+      "date": "2026-06-15",
+      "summary": "在 Prime Day 之前，Marshall 的 100 小时耳机价格刚刚跌破 90 美元。",
+      "url": "https://www.androidauthority.com/marshall-major-v-deal-3676573/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "DJI 正在起诉 Insta360，你可能猜到原因（更新：Insta360 ...",
+      "source": "Android Authority",
+      "date": "2026-06-15",
+      "summary": "大疆创新已提起两起单独诉讼，指控 Insta360 总共侵犯六项专利。",
+      "url": "https://www.androidauthority.com/dji-suing-insta360-luna-ultra-3677153/",
       "tags": [
         "安卓"
       ],
