@@ -1,6 +1,114 @@
 {
-  "updated": "2026-06-20 10:44",
+  "updated": "2026-06-21 11:27",
   "news": [
+    {
+      "title": "摩托罗拉 Edge 70 Pro 接受审查",
+      "source": "GSMArena",
+      "date": "2026-06-21",
+      "summary": "这是摩托罗拉 Edge 70 Pro。它于 4 月份推出，售价 540 欧元，配备 8GB 内存和 256GB 存储空间。根据地点的不同，有几种彩通颜色可供选择：泰坦色、仙粉黛色、百合白色和茶色。在盒子里，你会发现手机、...",
+      "url": "https://www.gsmarena.com/motorola_edge_70_pro_in_for_review-news-73363.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/motorola-edge-70-pro-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周调查：您使用什么设备玩游戏？智能手机、平板电脑、个人电脑还是游戏机？",
+      "source": "GSMArena",
+      "date": "2026-06-21",
+      "summary": "这十年来，游戏市场经历了一段艰难的时期首先是新冠疫情放慢了 PlayStation 5 和 Xbox Series X 的推出速度，然后加密货币热潮吸走了可用的 GPU，现在 AI 使 RAM 芯片成为新的黄金。这导致智...",
+      "url": "https://www.gsmarena.com/weekly_poll_what_device_do_you_use_for_gaming_a_smartphone_tablet_pc_or_console-news-73339.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-poll-gaming-device/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周投票结果：iOS 27 还行，还行",
+      "source": "GSMArena",
+      "date": "2026-06-21",
+      "summary": "在上周的民意调查中，iOS 27 得到了响亮的还可以。好吧，iPhone 用户的情绪实际上倾向于积极，但大多数选民没有足够的热情来选择喜欢它选项。公平地说，这次发布的重点是打磨主要液体玻璃重新设计的粗糙边缘，并最终兑现苹...，带来多项升级",
+      "url": "https://www.gsmarena.com/weekly_poll_results_ios_27_is_okay_just_okay-news-73340.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-poll-results-ios-27/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：三星Galaxy S25 FE再次降价，一加15和15R，无手机打折",
+      "source": "GSMArena",
+      "date": "2026-06-20",
+      "summary": "提醒：黄金日是下周。您需要有效的 Prime 订阅才能获得较低的价格，尽管免费试用通常有效  除非您最近已经使用过它。本周，您不需要 Prime 即可获得这些优惠。Galaxy A57 推出后几周，三星 Galaxy S...",
+      "url": "https://www.gsmarena.com/deals_samsung_galaxy_s25_fe_price_drops_again_oneplus_15_and_15r_nothing_phones_are_on_sale-news-73353.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-19/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星现正在为 Galaxy Z Fold7、A56、S23 和 S24 系列...",
+      "source": "GSMArena",
+      "date": "2026-06-20",
+      "summary": "三星最近为 Galaxy S26 系列智能手机发布了第三个 One UI 9 Beta 版，这也是目前唯一符合 One UI 9 Beta 计划的智能手机。不过，该韩国品牌已经在为 Galaxy S25 系列、Galax...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_a56_s23_s24_one_ui_9_development-news-73372.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-price-hike-sk-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉提高了 Edge 70 Fusion 的存储容量",
+      "source": "GSMArena",
+      "date": "2026-06-20",
+      "summary": "摩托罗拉于 3 月份推出了 Edge 70 Fusion，目前已在印度上市，存储容量高达 256GB。然而现在，该公司宣布了一款新版本，配备 12GB RAM 和 512GB 存储空间。InlinePriceWidget...",
+      "url": "https://www.gsmarena.com/motorola_bumps_up_the_storage_on_the_edge_70_fusion-news-73367.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/motorola-edge-70-fusion-new-version/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "早期 Prime Day 优惠：Galaxy S26 Ultra、S25 U...",
+      "source": "GSMArena",
+      "date": "2026-06-20",
+      "summary": "Prime Day 将于下周举行，时间为 6 月 23 日至 26 日。然而，亚马逊德国已经开始提供提前的 Prime Day 优惠。您需要订阅这些内容，但免费试用就可以了。下面混合了新旧模型，但通常情况下，较新的模型更...",
+      "url": "https://www.gsmarena.com/early_prime_day_deals_galaxy_s26_ultra_s25_ultra_poco_f8_ultra_and_x8_pro_max_price_cuts-news-73359.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-19/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
+    {
+      "title": "RugOne Xlink 7 实践回顾",
+      "source": "GSMArena",
+      "date": "2026-06-20",
+      "summary": "我们热爱户外活动，还有什么更好的时间重新开始徒步旅行呢？当然，我们不能没有一些技术，Ulefone 家族的一部分 RugOne 向我们发送了他们的 Xlink 7。好吧，他们实际上给我们发送了两个，我们必须按预期测试它们...",
+      "url": "https://www.gsmarena.com/rugone_xlink_7_handson_review-news-73352.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/rugone-xlink7-hands-on-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "红米 Turbo 5 现已在印度开售",
+      "source": "GSMArena",
+      "date": "2026-06-20",
+      "summary": "Redmi Turbo 5 于本周早些时候在印度推出，现已通过小米印度网站、Amazonin 以及全国各地的小米零售店发售。Redmi Turbo 5在印度有Turbo White、Nitro Blue和Asphalt ...",
+      "url": "https://www.gsmarena.com/xiaomi_redmi_turbo_5_india_price_sale_date-news-73371.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/xiaomi-redmi-turbo-5-india-price-sale-date/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
     {
       "title": "OnePlus N6 充电速度正式确认，芯片组由 Geekbench 曝光，...",
       "source": "GSMArena",
@@ -14,111 +122,99 @@
       "type": "news"
     },
     {
-      "title": "Infinix 在印度推出 Note 60 Pro 5G Pininfari...",
-      "source": "GSMArena",
+      "title": "我希望 5 个废弃的 Android 启动器今天仍然存在",
+      "source": "Android Authority",
+      "date": "2026-06-21",
+      "summary": "从涂鸦搜索到智能屏幕，2010 年代的启动器进行了前所未有的创新。",
+      "url": "https://www.androidauthority.com/abandoned-android-launchers-3678128/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "侧载 Android 应用程序很棒 - 直到您必须更新它们。这是我的修复方法",
+      "source": "Android Authority",
+      "date": "2026-06-21",
+      "summary": "一旦尝试就无法回头。",
+      "url": "https://www.androidauthority.com/obtainium-how-to-add-update-android-apps-3677522/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "联想 Idea Tab Plus 是三星应该担心的廉价 Android 平板...",
+      "source": "Android Authority",
+      "date": "2026-06-21",
+      "summary": "这不是更安全的选择，但如果你能忽略一个重大缺陷，它可能是更有用的选择。",
+      "url": "https://www.androidauthority.com/lenovo-idea-tab-plus-review-3674214/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我使用 Pixel 10 已有 10 个月了，但我仍然对其最佳的相机功能感到...",
+      "source": "Android Authority",
+      "date": "2026-06-21",
+      "summary": "汽车最佳选择？你在吗？",
+      "url": "https://www.androidauthority.com/10-months-later-pixel-10-best-camera-feature-missing-3673818/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "您应该使用 5 个应用来代替 谷歌 密码管理器",
+      "source": "Android Authority",
+      "date": "2026-06-21",
+      "summary": "也许是时候放弃 Google 密码管理器了。",
+      "url": "https://www.androidauthority.com/best-google-password-manager-alternatives-3676990/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我喜欢 Duolingo，但它的 XP Boosts 让我抓狂",
+      "source": "Android Authority",
+      "date": "2026-06-21",
+      "summary": "该应用程序的即时激活乘数将安静的自我提升时刻变成了充满压力的倒计时。",
+      "url": "https://www.androidauthority.com/duolingo-xp-boost-ux-trap-3674572/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "喜欢 NotebookLM 但讨厌向 谷歌 提供您的数据？我找到了一个很棒的...",
+      "source": "Android Authority",
       "date": "2026-06-20",
-      "summary": "Infinix 的 Note 60 Ultra 由意大利著名设计公司 Pininfarina 设计，已于上个月上市。 Infinix 还推出了 Note 60 Pro，并于 4 月份将其带到印度。现在，该品牌为印度市场带...",
-      "url": "https://www.gsmarena.com/heres_when_infinix_is_launching_the_note_60_pro_5g_pininfarina_limited_edition_in_india-news-73365.php",
+      "summary": "Open Notebook 的工作原理很像 NotebookLM，但它可以连接到云和本地 AI 模型。",
+      "url": "https://www.androidauthority.com/notebooklm-alternative-open-notebook-hands-on-3677932/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/infinix-note-60-pro-5g-pininfarina-limited-edition-launch-date/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "爆料者称 OnePlus 15s 不会上市",
-      "source": "GSMArena",
+      "title": "作为一名 Android 专家，这里有 5 个我不建议下载的热门应用",
+      "source": "Android Authority",
       "date": "2026-06-20",
-      "summary": "去年4月，一加在中国推出了13T。然后，6月份，它在印度发布了与 OnePlus 13s 基本相同的手机。早在今年 3 月，该公司就在中国推出了 15T，因此您可能预计它很快就会在印度推出 15s。一加 15T然而，据 ...，带来多项升级",
-      "url": "https://www.gsmarena.com/oneplus_15s_isnt_happening_tipster_claims-news-73366.php",
+      "summary": "作为一名 Android 专家，这里有 5 个我不建议下载的热门应用",
+      "url": "https://www.androidauthority.com/popular-android-apps-dont-download-2026-3678392/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-15s-not-happening/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Ultrahuman 推出 M2 Live 代谢健康平台，用于连续血糖监测",
-      "source": "GSMArena",
-      "date": "2026-06-19",
-      "summary": "Ultra human 以其智能戒指而闻名，但该公司最近又推出了红光治疗设备。今天，该公司推出了 Ultra human M2 Live，这是一个连续血糖监测平台。这实际上是基于 Abbott 的 Lingo 葡萄糖生物...",
-      "url": "https://www.gsmarena.com/ultrahuman_launches_m2_livemetabolic_health_platform_for_continuous_glucose_monitoring-news-73360.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/ultrahuman-m2-live/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "这就是苹果在 watchOS 27 中放弃对如此多手表的支持的原因",
-      "source": "GSMArena",
-      "date": "2026-06-19",
-      "summary": "在本月早些时候的全球开发者大会上，苹果推出了 watchOS 27。该系统将于秋季推出。也许令人惊讶的是，watchOS 27 将放弃对许多旧款 Apple Watch 的支持，包括 2022 年发布的初代 Apple ...，带来多项升级",
-      "url": "https://www.gsmarena.com/heres_why_apple_is_already_dropping_support_for_so_many_watches_in_watchos_27-news-73362.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/watch-os-27-support-cutoff-explained/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "全球OPPO Reno16系列终于有了正式上市日期",
-      "source": "GSMArena",
-      "date": "2026-06-19",
-      "summary": "昨天，Oppo 开始预告与韩国流行女子乐队 BABYMONSTER 合作在全球推出 Reno16 系列。这些手机显然应该很快就会推出，但实际发布日期却不见了。现在，该公司已对此进行了纠正，透露Reno16系列将于6月25...，带来多项升级",
-      "url": "https://www.gsmarena.com/global_oppo_reno16_series_finally_has_an_official_launch_date-news-73368.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/global-oppo-reno16-series-launch-date/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉 Razr 70/Razr 2026 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-06-19",
-      "summary": "摩托罗拉 Razr 70Razr 2026 评测",
-      "url": "https://www.gsmarena.com/motorola_razr_70-review-2971.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-razr-70/-347x151/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "没有任何神秘的新预告片可以暗示新手机",
-      "source": "GSMArena",
-      "date": "2026-06-19",
-      "summary": "就在几个小时前，Nothing 联合创始人 Akis Evangelidis 透露，该公司今年不会推出新的 CMF 手机。现在，Nothing X 官方帐户分享了一个神秘的预告片，可能暗示即将推出一款新的 Nothing...",
-      "url": "https://www.gsmarena.com/nothings_cryptic_new_teaser_could_hint_at_a_new_phone-news-73361.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/nothing-b-teaser/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Reno16家族在印度将有四名成员",
-      "source": "GSMArena",
-      "date": "2026-06-19",
-      "summary": "Oppo 最近开始在全球范围内预告 Oppo Reno16 系列。今天有一些有关即将在印度推出的设备的消息。根据一份新报告，Oppo Reno16 系列将在印度包括四款设备。除了 Oppo Reno16 和 Reno16...",
-      "url": "https://www.gsmarena.com/oppo_reno16_family_to_have_four_members_in_india-news-73358.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oppo-reno16-india/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "研究人员发现了一个影响多代 iPhone 的无法修补的安全漏洞",
-      "source": "GSMArena",
-      "date": "2026-06-19",
-      "summary": "Paradigm Shift 的研究人员发布了一份内容广泛的报告，详细介绍了苹果某些设备固有的安全缺陷。该安全问题涉及 USB 和多个苹果芯片，它被称为usbliter8。usbliter8 漏洞会影响在 A12、A13...，带来多项升级",
-      "url": "https://www.gsmarena.com/researchers_uncover_an_unpatchable_security_flaw_affecting_several_iphone_generations-news-73357.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/20/01/apple-iphone-sales-report-q4/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -139,102 +235,6 @@
       "date": "2026-06-20",
       "summary": "镇上出现了一位新的 Google TV 冠军。",
       "url": "https://www.androidauthority.com/onn-4k-pro-2026-review-3677202/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Assistant 毁了我的智能家居设置 - 但 Gemini 拯救了...",
-      "source": "Android Authority",
-      "date": "2026-06-20",
-      "summary": "Gemini 让我的旧显示器和相机变得更好了。",
-      "url": "https://www.androidauthority.com/google-assistant-ruined-my-smart-home-gemini-saved-3674394/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星仍未解决 Exynos 过热问题，它毁了我的 Galaxy S26",
-      "source": "Android Authority",
-      "date": "2026-06-20",
-      "summary": "Exynos 与 Snapdragon：Galaxy S26 游戏结果令人担忧。",
-      "url": "https://www.androidauthority.com/samsung-exynos-2600-overheating-3677429/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "随着公关团队放弃特朗普移动，T1手机传奇变得陌生",
-      "source": "Android Authority",
-      "date": "2026-06-19",
-      "summary": "就连 Trump Mobile 的公关团队也在与 T1 手机的混乱保持距离。",
-      "url": "https://www.androidauthority.com/trump-mobile-pr-firm-leaves-3679585/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星手机上的这些重要的 谷歌 服务可能正在等待您更新",
-      "source": "Android Authority",
-      "date": "2026-06-19",
-      "summary": "您的三星手机不会自动更新这三个关键的 Google 应用程序。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/samsung-phones-google-app-updates-3679566/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "美国另一个州可能需要年龄验证才能访问社交媒体",
-      "source": "Android Authority",
-      "date": "2026-06-19",
-      "summary": "法院裁定俄亥俄州可以执行一项有争议的法律，该法律要求孩子注册社交媒体需要父母的同意。",
-      "url": "https://www.androidauthority.com/ohio-social-media-ruling-3679551/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "ETOE 推出的这款新型 谷歌 TV 投影仪可以照亮您的墙壁并为您的手机充电",
-      "source": "Android Authority",
-      "date": "2026-06-19",
-      "summary": "Dolphin 2 配备了 Google TV、更明亮的视觉效果和内置充电宝。",
-      "url": "https://www.androidauthority.com/etot-dolphin-2-google-tv-projector-3679514/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android 17 似乎已经破坏了一些 Pixel 用户的 5G 网络",
-      "source": "Android Authority",
-      "date": "2026-06-19",
-      "summary": "Android 17 似乎已经破坏了一些 Pixel 用户的 5G 网络",
-      "url": "https://www.androidauthority.com/android-17-knocks-off-5g-3679536/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我们最喜欢的 2026 年 Prime Day 早期优惠以及迄今为止我们发现...",
-      "source": "Android Authority",
-      "date": "2026-06-19",
-      "summary": "我们在亚马逊上搜索了数以千计的优惠，以找到我们最喜欢的手机、可穿戴设备等 Prime Day 特价商品。",
-      "url": "https://www.androidauthority.com/best-prime-day-deals-2026-3676073/",
       "tags": [
         "安卓"
       ],
