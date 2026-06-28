@@ -1,6 +1,114 @@
 {
-  "updated": "2026-06-27 10:30",
+  "updated": "2026-06-28 10:38",
   "news": [
+    {
+      "title": "Oppo Enco Air5s 拆箱并聆听",
+      "source": "GSMArena",
+      "date": "2026-06-28",
+      "summary": "现在我们已经打开了 Oppo Enco Air5 的包装，是时候介绍新的 Enco Air5s 了。 Air5s 被称为 Oppo 首款半入耳式耳机，有月光白、午夜黑和星光紫三种颜色。因为耳机是开放式的，所以盒子里没有硅...",
+      "url": "https://www.gsmarena.com/oppo_enco_air5s_in_for_review-news-73469.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oppo-enco-air5s-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：Poco F8 Ultra 和 F8 Pro，以及 Poco X8 P...",
+      "source": "GSMArena",
+      "date": "2026-06-28",
+      "summary": "黄金日从周二持续到周五，但现在已经结束了。因此，我们将注意力转向常规交易无需订阅，这就是我们发现的  很多 Poco 手机。从 Poco F8 Ultra 和 Poco F8 Pro 开始这是对比文章，您可以获得今年Sn...",
+      "url": "https://www.gsmarena.com/deals_poco_f8_ultra_and_f8_pro_plus_poco_x8_pro_and_x8_pro_max_are_on_sale-news-73467.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-26/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy M47 主要规格，Tecno Camon Slim 官方，第 ...",
+      "source": "GSMArena",
+      "date": "2026-06-28",
+      "summary": "三星已确认 Galaxy M47 5G 将于 6 月 29 日在印度推出。该手机配备 67 英寸 120Hz AMOLED 显示屏、Snapdragon 芯片组、支持 45W 充电的 6000mAh 电池以及带 OIS ...",
+      "url": "https://www.gsmarena.com/galaxy_m47_key_specs_tecno_camon_slim_official_week_26_in_review-news-73472.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/week-26-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星在发布稳定的 One UI 8.5 更新后开始为 Galaxy A24 ...",
+      "source": "GSMArena",
+      "date": "2026-06-28",
+      "summary": "三星几天前为 Galaxy A24 4G 发布了基于 Android 16 的 One UI 85 稳定更新，现在我们了解到三星已经开始为这款智能手机测试基于 Android 17 的 One UI 9。三星服务器上发现...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a24_4g_one_ui_9_development-news-73480.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/23/05/samsung-galaxy-a24-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 电子钱包现在可以跟踪您的包裹",
+      "source": "GSMArena",
+      "date": "2026-06-28",
+      "summary": "虽然可能不是最明显或最合理的集成，但它听起来确实是一个非常漂亮的集成。此外，我们非常确定这不是谷歌第一次尝试包裹跟踪。如果没记错的话，现已退役的 Google Now或者更确切地说转变为 Google Discover ...",
+      "url": "https://www.gsmarena.com/google_wallet_can_now_track_your_packages-news-73476.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/package-tracking-inside-google-wallet/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Android 17 即将推出可折叠游戏模式",
+      "source": "GSMArena",
+      "date": "2026-06-27",
+      "summary": "坦率地说，我们并没有经常看到 Android 核心出现特定于游戏的功能。最近，前记者、现 Google 员工 Mishaal Rahman 提供了 Android 17 一项出色新功能的详细预览。它被称为可折叠游戏模式，...",
+      "url": "https://www.gsmarena.com/foldable_gaming_mode_is_coming_with_android_17-news-73482.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/foldable-gaming-mode-coming-to-android-17/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：Prime Day 购物已结束，这是 Galaxy S26 和 Pix...",
+      "source": "GSMArena",
+      "date": "2026-06-27",
+      "summary": "为期四天的亚马逊 Prime Day 购物已于本周五结束所以，让我们看看现在的价格如何。我们挑选了三星 Galaxy S26 旗舰手机、几款 Galaxy 中端手机以及 Google Pixel 10 系列的非折叠手机。...",
+      "url": "https://www.gsmarena.com/deals_prime_day_shopping_is_over_here_are_the_best_galaxy_s26_and_pixel_10_series_deals-news-73465.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/weekly-deals-26/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo 推出高端 TWS 5 Pro 耳机",
+      "source": "GSMArena",
+      "date": "2026-06-27",
+      "summary": "vivo 最近刚刚在中国推出了 X Fold6，同时还推出了一套新的优质无线耳机。 vivo TWS 5 Pro耳机表面上看起来很不起眼，但实际上提供了相当多的高级功能。该耳机采用双驱动器声学设置，由vivo和Knowl...",
+      "url": "https://www.gsmarena.com/vivo_unveils_premium_tws_5_pro_buds-news-73479.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/vivo-tws-5-pro/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Moto Pad 70 Pro 亮相：Snapdragon 8s ...",
+      "source": "GSMArena",
+      "date": "2026-06-27",
+      "summary": "摩托罗拉于去年 4 月推出了 Moto Pad 60 Pro，一年多后，联想旗下品牌推出了其继任者 Moto Pad 70 Pro。摩托罗拉 Moto Pad 70 Pro 由 Snapdragon 8s Gen 4 S...",
+      "url": "https://www.gsmarena.com/motorola_moto_pad_70_pro_features_price_sale_date-news-73478.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/motorola-moto-pad-70-pro-official/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
     {
       "title": "OnePlus N6 包装盒泄露，揭示其全部内容，核心配置曝光",
       "source": "GSMArena",
@@ -14,111 +122,87 @@
       "type": "news"
     },
     {
-      "title": "Oppo Enco Air5 ​​拆箱并聆听",
-      "source": "GSMArena",
-      "date": "2026-06-27",
-      "summary": "我们在办公室有Oppo最新的Enco Air5和Air5s进行拆箱。让我们从 Air5 开始吧。这是一款具有主动降噪功能的入耳式耳机，似乎位于 Air5 Pro 的下方，尽管这两个耳机共享相同的 12 毫米动态驱动器和三...",
-      "url": "https://www.gsmarena.com/oppo_enco_air5_in_for_review-news-73468.php",
+      "title": "在尝试了 谷歌 TV 投影仪之后，我可能再也不会购买另一台电视了",
+      "source": "Android Authority",
+      "date": "2026-06-28",
+      "summary": "更高的便携性和更少的头痛意味着这是我家的完美设置。",
+      "url": "https://www.androidauthority.com/using-google-tv-projector-may-not-buy-another-tv-3680979/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oppo-enco-air5-ifr/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "荣耀Magic V6斩获两项GLOMO亚洲奖，vivo X Fold6也斩获...",
-      "source": "GSMArena",
-      "date": "2026-06-27",
-      "summary": "世界移动大会上海将于今年6月24日至26日举行，GLOMO亚洲奖的获奖者已于今日揭晓。荣耀Magic V6赢得了其中两项大奖最佳智能手机和颠覆性设备创新奖。 vivo X Fold6荣获最佳展示产品奖。荣耀Magic V...",
-      "url": "https://www.gsmarena.com/honor_magic_v6_wins_two_glomo_asia_awards_vivo_x_fold6_nabs_one_too-news-73466.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/glomo-asia-awards/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果开始销售翻新 MacBook Neo，将价格降至涨价前的水平",
-      "source": "GSMArena",
-      "date": "2026-06-27",
-      "summary": "昨天，苹果公司提高了除 iPhone 之外的所有产品的价格，MacBook Neo 也未能幸免，其在美国的价格上涨了 100 美元。今天，Apple 已开始在其翻新店出售 MacBook Neo，配备 256GB 存储空...",
-      "url": "https://www.gsmarena.com/apple_starts_selling_refurbished_macbook_neo_bringing_the_price_down_to_its_prehike_level-news-73474.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/refurbished-macbook-neo-now-available/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "据传 iPhone 18 和 iPhone 18e 拥有惊人的 RAM",
-      "source": "GSMArena",
-      "date": "2026-06-26",
-      "summary": "据传苹果将于明年春季推出 iPhone 18 和 iPhone 18e，今天分析师郭明池的一份新报告透露了有关它们的一些有趣的细节。让我们从郭今天分享的最奇怪的信息开始：据称 iPhone 18 和 iPhone 18e...",
-      "url": "https://www.gsmarena.com/iphone_18_and_iphone_18e_now_rumored_to_have_a_surprising_amount_of_ram-news-73475.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/iphone-18-iphone-18e-ram/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星被另一名试图快速赚钱的专利流氓起诉",
-      "source": "GSMArena",
-      "date": "2026-06-26",
-      "summary": "又一个专利流氓希望获得三星的报酬。 Tau Ceti Ventures LLC 已向美国德克萨斯州东区地方法院对三星提起诉讼，指控该公司侵犯了其十项专利，这些专利涉及提高显示屏亮度、防止屏幕烧屏、延长电池寿命和降低制造成...",
-      "url": "https://www.gsmarena.com/samsung_gets_sued_by_another_patent_troll_trying_to_make_a_quick_buck-news-73470.php",
+      "title": "我错了——Galaxy S26 Ultra 的电池续航时间太棒了",
+      "source": "Android Authority",
+      "date": "2026-06-28",
+      "summary": "Galaxy S26 Ultra 是电池续航冠军，从续航时间到充电。",
+      "url": "https://www.androidauthority.com/i-was-wrong-galaxy-s26-ultra-battery-3679891/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/patent-troll-sues-samsung/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Oppo Reno16 Pro 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-06-26",
-      "summary": "Oppo Reno16 Pro 评测",
-      "url": "https://www.gsmarena.com/oppo_reno16_pro-review-2973.php",
+      "title": "我尝试从 Gmail 切换到 Proton Mail 一周了，但我的收件箱简...",
+      "source": "Android Authority",
+      "date": "2026-06-28",
+      "summary": "持续的通知、杂乱的线程和令人沮丧的过滤器限制削弱了 Proton 的优势。",
+      "url": "https://www.androidauthority.com/switching-gmail-to-proton-mail-3680430/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-reno16-pro/-347x151/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "苹果将​​跳过 M6 Pro 和 Max 芯片，专注于增强 M7 一代的人工...",
-      "source": "GSMArena",
-      "date": "2026-06-26",
-      "summary": "据 Mark Gurman 报道，苹果正计划改变其芯片发布策略。即将推出的 M6 系列芯片将跳过 Pro 和 Max 变体，转而加快 M7 系列的速度。这意味着我们只会看到基础 M6 芯片在 iPad 和入门级 Mac ...，带来多项升级",
-      "url": "https://www.gsmarena.com/apple_to_skip_the_m6_pro_and_max_chips_and_transition_to_the_m7_generation-news-73459.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/apple-m7-silicon-coming-sooner/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy A27 在美国推出，价格比 Galaxy A37 更高",
-      "source": "GSMArena",
-      "date": "2026-06-26",
-      "summary": "昨天发布的三星 Galaxy A27 将于 7 月 14 日开始在美国上市，有 6GB128GB 配置，一种颜色选择黑色，价格为 34999 美元。这比 Galaxy A26 的首发价高出 50 美元，与 Galaxy ...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a27_usa_price_sale_date-news-73457.php",
+      "title": "我购买 Pixel 10a 而不是 Galaxy A57 的 5 个理由",
+      "source": "Android Authority",
+      "date": "2026-06-28",
+      "summary": "Pixel 软件仍然发挥着重要作用。",
+      "url": "https://www.androidauthority.com/buy-pixel-10a-instead-of-galaxy-a57-reasons-3679789/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-a27-usa-price-sale-date/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "高通 Snapdragon 8 系列路线图公布，揭示全新 3nm 芯片",
-      "source": "GSMArena",
-      "date": "2026-06-26",
-      "summary": "我们听说高通今年将在Snapdragon 8 Elite系列下推出两款2nm芯片，分别为Snapdragon 8 Elite Gen 6SM8950和Snapdragon 8 Elite Gen 6 ProSM8975。...",
-      "url": "https://www.gsmarena.com/qualcomm_snapdragon_8_elite_gen_5xx_snapdragon_8_gen_5_pro_surface-news-73464.php",
+      "title": "Kagi News 是 谷歌 News 的替代品，我希望我能早点开始使用",
+      "source": "Android Authority",
+      "date": "2026-06-27",
+      "summary": "Kagi News 对细节的关注和易用性使我成为我最喜欢的 Android 新闻平台。",
+      "url": "https://www.androidauthority.com/kagi-news-vs-google-news-3680440/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/qualcomm-snapdragon-8-series-roadmap-surfaces/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "科技领域的下一个高级功能可能是人工智能的缺失",
+      "source": "Android Authority",
+      "date": "2026-06-27",
+      "summary": "并不是每个人都希望人工智能渗透到其技术的每个角落。",
+      "url": "https://www.androidauthority.com/why-ai-free-tech-is-growing-3680269/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我使用电子邮件别名的五个原因，您也应该这样做",
+      "source": "Android Authority",
+      "date": "2026-06-27",
+      "summary": "电子邮件别名提供了一种将您的在线身份与日常互联网活动分开的简单方法。",
+      "url": "https://www.androidauthority.com/reasons-to-use-email-alias-3678273/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -151,90 +235,6 @@
       "date": "2026-06-27",
       "summary": "Play 商店之外还有一个完整的世界。",
       "url": "https://www.androidauthority.com/google-play-store-alternatives-3677532/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "3 款 Android 旗舰手机现在比 Prime Day 第一天便宜，但这...",
-      "source": "Android Authority",
-      "date": "2026-06-26",
-      "summary": "Prime Day 即将结束，但这三项旗舰促销活动自促销开始以来实际上有所改善。",
-      "url": "https://www.androidauthority.com/flagship-android-phones-deals-prime-day-3682004/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我们最喜欢的 2026 年 Prime Day 优惠以及其他最佳优惠仍在继续...",
-      "source": "Android Authority",
-      "date": "2026-06-26",
-      "summary": "亚马逊的大型促销活动即将结束，但手机、可穿戴设备等商品的 Prime Day 促销活动仍然很多。",
-      "url": "https://www.androidauthority.com/best-prime-day-deals-2026-3676073/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "预计首批 Snapdragon 8 Elite Gen 6 Pro 手机的价...",
-      "source": "Android Authority",
-      "date": "2026-06-26",
-      "summary": "小米的下一款旗舰可能会突破6000元大关。",
-      "url": "https://www.androidauthority.com/xiaomi-18-pro-price-rumor-3681992/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "OpenAI 在 GPT-5.6 预览中详细介绍了这三种新模型的预期",
-      "source": "Android Authority",
-      "date": "2026-06-26",
-      "summary": "来认识一下神圣的 Sol、Terra 和 Luna 三人组。",
-      "url": "https://www.androidauthority.com/gpt-5-6-models-3681960/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Gemini 能够在聊天中帮助查找和安装 谷歌 Play 应用",
-      "source": "Android Authority",
-      "date": "2026-06-26",
-      "summary": "停止滚动，只需让 Gemini 为您查找 Play 商店应用程序即可。",
-      "url": "https://www.androidauthority.com/google-play-connected-app-for-gemini-rollout-3681969/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "首选：Anker 的 13 合 1 扩展坞比以往任何时候都便宜，但仅限午夜",
-      "source": "Android Authority",
-      "date": "2026-06-26",
-      "summary": "Anker Nano 13 合 1 Dock 创下历史最低价 10449 美元，但你却没有时间在它上面睡觉。",
-      "url": "https://www.androidauthority.com/anker-docking-station-prime-deal-3681979/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "亚马逊 Prime Day 促销将透明 Nothing Ear (a) 价格...",
-      "source": "Android Authority",
-      "date": "2026-06-26",
-      "summary": "Nothing Ear a 在 Prime 会员日创下历史新低，下跌 49。",
-      "url": "https://www.androidauthority.com/nothing-ear-a-prime-deal-3681975/",
       "tags": [
         "安卓"
       ],
