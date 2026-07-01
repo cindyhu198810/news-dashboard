@@ -1,132 +1,132 @@
 {
-  "updated": "2026-06-30 11:24",
+  "updated": "2026-07-01 11:36",
   "news": [
     {
-      "title": "三星 Galaxy A27 在印度推出",
+      "title": "Galaxy Watch Ultra 2 和 Watch9 表带在发布前泄露...",
       "source": "GSMArena",
-      "date": "2026-06-30",
-      "summary": "上周发布的三星 Galaxy A27 今天在印度首次亮相。该智能手机在印度有浅绿色、浅粉色和黑色三种颜色，拥有 6GB128GB、8GB128GB 和 8GB256GB 三种内存配置，售价分别为 31999 印度卢比、3...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a27_india_price_sale_date-news-73503.php",
+      "date": "2026-07-01",
+      "summary": "三星预计将于本月晚些时候在 Galaxy Unpacked 活动中推出 Galaxy Watch Ultra 2 和 Galaxy Watch9。在最近的泄密事件让我们第一次看到智能手表本身之后，新的泄密事件现在也暴露了...",
+      "url": "https://www.gsmarena.com/galaxy_watch_ultra_2_and_watch9_bands_leak_ahead_of_expected_launch-news-73525.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-a27-official/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-watch9-ultra-2-bands-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "新的泄露细节详细介绍了三星即将推出的 Galaxy Z 可折叠手机的摄像头，...",
+      "title": "Honor Magic V6在欧洲上市，起价1,700欧元（含福利）",
       "source": "GSMArena",
-      "date": "2026-06-30",
-      "summary": "三星预计将于 7 月推出下一代 Galaxy Z 可折叠手机。据传该阵容包括 Galaxy Z Fold8 Wide、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8。在预计发布之前，新的泄密事...，带来多项升级",
-      "url": "https://www.gsmarena.com/new_leak_details_the_cameras_on_samsungs_upcoming_galaxy_z_foldables-news-73501.php",
+      "date": "2026-07-01",
+      "summary": "荣耀Magic V6终于登陆旧大陆了！即日起，Magic V6 在德国上市，单 16512GB 配置。截至本月底，这款手机的价格将为 1700 欧元，购买者将免费获得 Honor Pad 10 和 24 个月的屏幕保护。...",
+      "url": "https://www.gsmarena.com/the_honor_magic_v6_goes_on_sale_in_europe_starts_at_1700_with_perks-news-73511.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/honor-magic-v6-eu/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO悄然推出Pad 5c，配备12.1英寸显示屏和10000mAh电池",
+      "source": "GSMArena",
+      "date": "2026-07-01",
+      "summary": "iQOO 悄然在中国推出了一款新平板电脑，作为其 Pad 5 系列的一部分。新款 iQOO Pad 5c 加入了现有的 Pad 5、Pad 5 Pro 和 Pad 5e 型号。iQOO Pad 5c 搭载 Snapdra...",
+      "url": "https://www.gsmarena.com/iqoo_quietly_launches_the_pad_5c_with_a_121inch_display_and_10000mah_battery-news-73521.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-pad-5c-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy A25 的 UI 9 正在开发中",
+      "source": "GSMArena",
+      "date": "2026-07-01",
+      "summary": "三星上个月早些时候为 Galaxy A25 发布了基于 Android 16 的 One UI 85 稳定更新，现在已经开始测试该智能手机的 One UI 9。三星服务器上发现的针对 Galaxy A25 的基于 And...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a25_one_ui_9_development-news-73520.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/galaxy-z-fold8-ultra-wide-flip8-camera-specs-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/24/01/samsung-galaxy-a25-ifr/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "OnePlus N6 配备 8,000mAh 电池和天玑 6360 Max",
+      "title": "三星正式开始预告其宽屏 Galaxy Z Fold8",
+      "source": "GSMArena",
+      "date": "2026-07-01",
+      "summary": "经过几个月的泄密和谣言，三星终于开始预告其即将推出的宽屏可折叠手机，普遍预计将被称为 Galaxy Z Fold8。据传下一代 Galaxy Z 可折叠手机将于 7 月 22 日发布。该公司在其社交媒体渠道上分享了六个神...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_officially_starts_teasing_its_widescreen_galaxy_z_fold8-news-73519.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/galaxy-z-fold8-wide-official-teasers/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "欧洲制造的 Punkt。 MC03“主权智能手机”现已上市",
+      "source": "GSMArena",
+      "date": "2026-07-01",
+      "summary": "如果您对瑞士设计、德国制造、配备瑞士制造操作系统的智能手机感兴趣，那么 Punkt 就是您的最佳选择。 MC03 适合您。该设备现已在预订期结束后发货。您可以从 Punkt 中挑选一件。网站售价 745 欧元，仅限黑色。...",
+      "url": "https://www.gsmarena.com/europemade_punkt_mc3_sovereign_smartphone_is_now_available_-news-73516.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/punkt-mc03/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy Glasses Manager 应用程序中展示的三星 Gala...",
+      "source": "GSMArena",
+      "date": "2026-07-01",
+      "summary": "三星第一副运行 Android XR 且搭载 One UI XR 的智能眼镜将被称为三星 Galaxy Glasses，该公司已经确认。显然，它们将通过即将推出的三星 Galaxy Glasses Manager 应用程...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_glasses_and_their_case_showcased_inside_the_galaxy_glasses_manager_app-news-73518.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-glasses-manager-app-leaks/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Ear (3a) 正式发布日期尚未揭晓，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-07-01",
+      "summary": "本月早些时候，泄密事件显示，Ear 3a TWS 耳机没有任何功能。今天，该公司已经确认了它们的存在，并透露了它们的正式上线时间。毫不奇怪，Nothing Ear 3a 将于 7 月 7 日与 Nothing Phone...",
+      "url": "https://www.gsmarena.com/nothing_unveils_ear_3a_official_launch_date-news-73517.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/nothing-ear-3a-launch-date/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星强烈暗示 Galaxy Z Fold8、Z Fold8 Ultra 和 ...",
       "source": "GSMArena",
       "date": "2026-06-30",
-      "summary": "有一个全新的 OnePlus 智能手机系列，印度是第一个获得它的市场。 OnePlus N6 的突出特点是其巨大的 8000mAh 电池。它支持45W SuperVOOC有线充电以及5W反向有线充电，因此您可以将N6用作...",
-      "url": "https://www.gsmarena.com/oneplus_n6_arrives_with_8000mah_battery_and_dimensity_6360_max-news-73502.php",
+      "summary": "到目前为止，有一些传言称三星将于 7 月 22 日在伦敦举办下一次大型 Unpacked 活动，而现在该公司本身也强烈暗示这一日期是正确的。在马来西亚，三星为其忠实粉丝购买下一代 Galaxy Foldable提供 70...",
+      "url": "https://www.gsmarena.com/samsung_strongly_hints_at_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_unveiling_date-news-73515.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/oneplus-n6-ofic/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-hints-at-fold8-unveiling-date/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "高通宣布 Snapdragon 峰会 2026 日期",
+      "title": "Commodore Callback 8020 开始以更低的价格预订",
       "source": "GSMArena",
       "date": "2026-06-30",
-      "summary": "高通宣布将于 9 月 22 日至 24 日在夏威夷毛伊岛举办年度 Snapdragon 峰会。虽然高通尚未透露将在本次 Snapdragon 峰会上宣布的内容，但这家美国芯片制造商很可能会推出去年旗舰产品 Snapdra...",
-      "url": "https://www.gsmarena.com/qualcomm_snapdragon_summit_2026_date-news-73500.php",
+      "summary": "Commodore 几周前发布了售价 499 美元的 Callback 8020 翻盖手机，但显然人们并不喜欢这个价格。现在该设备已经按照承诺开始接受预订，但起价为 399 美元。这是一个魔术在产品推出之前就让其便宜 2...，带来多项升级",
+      "url": "https://www.gsmarena.com/commodore_callback_8020_goes_on_preorder_for_a_lower_price-news-73512.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/qualcomm-snapdragon-summit-2026-date/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/commodore-callback-8020-pre-orders/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "iQOO有望开发一款紧凑型游戏平板电脑",
-      "source": "GSMArena",
-      "date": "2026-06-30",
-      "summary": "据最新消息称，iQOO 可能准备在未来几个月推出一款紧凑型游戏平板电脑。据爆料者数字聊天站称，iQOO 即将推出的紧凑型游戏平板电脑将搭载高通下一代旗舰 Snapdragon 芯片组，但具体的 SoC 并未具体说明。iQ...",
-      "url": "https://www.gsmarena.com/iqoo_tipped_to_be_working_on_a_compact_gaming_tablet-news-73499.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/iqoo-compact-gaming-tablet-rumor/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Nothing Phone (4b) 实时图像显示所有三种颜色，确认关键规格",
-      "source": "GSMArena",
-      "date": "2026-06-30",
-      "summary": "就在几个小时前，Nothing 证实其即将推出的 Phone 4b 将采用 Snapdragon 芯片组，但没有透露是哪一款。与此同时，一位 X 用户似乎已经拿到了 Nothing Phone 4b 的所有三种颜色，并决...",
-      "url": "https://www.gsmarena.com/nothing_phone_4b_live_images_show_all_three_colors_confirm_key_specs-news-73498.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/nothing-phone-4b-live-images/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "WhatsApp 用户名预订将于本周上线",
-      "source": "GSMArena",
-      "date": "2026-06-30",
-      "summary": "经过多年的测试和期待，WhatsApp 终于引入了用户名。您将可以从本周开始预订。不过，用户名本身只会在今年晚些时候逐步推出。当它们在您所在的国家地区可用时，WhatsApp 会通知您。显然，拥有超过 30 亿的用户，很...",
-      "url": "https://www.gsmarena.com/whatsapp_username_reservations_go_live_this_week-news-73497.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/whatsapp-username-reservation-rolling-out/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "康卡斯特将分拆 NBCUniversal 和 Sky",
-      "source": "GSMArena",
-      "date": "2026-06-29",
-      "summary": "康卡斯特 Comcast 正在将 NBCUniversal 和 Sky 分拆为一家新公司。此次分拆后，康卡斯特将拥有有线、无线和商业服务，而新公司将负责环球主题公园、电影和电视工作室、NBC、Peacock 和 Sky。...",
-      "url": "https://www.gsmarena.com/comcast_is_spinning_off_nbcuniversal_and_sky-news-73496.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/comcast-nbcuniversal-split/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "英国电信 (BT) 和 Verizon 同意合并其国际企业业务",
-      "source": "GSMArena",
-      "date": "2026-06-29",
-      "summary": "Verizon 和英国电信集团 BT Group 宣布计划将其国际企业固定电话业务合并为一家新的合资企业。此举预计将于 2027 年完成，但需获得监管部门的批准。英国电信和威瑞森表示，无论这意味着什么，新公司将为人工智能...",
-      "url": "https://www.gsmarena.com/bt_and_verizon_agree_to_combine_their_international_enterprise_operations-news-73495.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/bt-verizon-international-deal/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉 Razr Fold 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-06-29",
-      "summary": "摩托罗拉 Razr Fold 评测",
-      "url": "https://www.gsmarena.com/motorola_razr_fold-review-2974.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-razr-fold/-347x151/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌（再次）发誓数据共享规则将帮助诈骗者，威胁您的搜索历史记录",
+      "title": "Meta 现在希望您为在设备上运行的智能眼镜功能付费",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "谷歌警告称，Android 和搜索上的强制数据共享基本上会将您的私人信息直接交给黑客。",
-      "url": "https://www.androidauthority.com/google-warns-cybercrime-incidents-amid-dma-proposals-3682866/",
+      "date": "2026-07-01",
+      "summary": "事实证明，即使你的智能眼镜也不能免于订阅。",
+      "url": "https://www.androidauthority.com/meta-smart-glasses-rate-limits-3683323/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "您的 Pixel 手机现在支持高分辨率蓝牙音频 - 以下是使用方法",
+      "title": "这些新型无线耳机也可以通过 Wi-Fi 工作，但无需高通的帮助",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "关于 LHDC 您需要了解的一切。",
-      "url": "https://www.androidauthority.com/pixel-lhdc-bluetooth-explained-3679869/",
+      "date": "2026-07-01",
+      "summary": "期待通过 WiFi 而不是蓝牙获得高品质音频。",
+      "url": "https://www.androidauthority.com/new-wireless-earbuds-wi-fi-not-qualcomm-xpan-3683275/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌的 Keep Live 和 Gmail Live 界面首次亮相",
+      "title": "Android 17 证明 Android 更新已经失去魔力",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "该功能预计将于今年夏天的某个时候上线。",
-      "url": "https://www.androidauthority.com/google-gmail-keep-gemini-live-chat-3682788/",
+      "date": "2026-07-01",
+      "summary": "这是该平台终于成熟的标志。",
+      "url": "https://www.androidauthority.com/android-17-proves-updates-lost-magic-3682444/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "OnePlus 刚刚推出了一款电池续航时间为 3 天的廉价手机，但有一个巨大...",
+      "title": "目前还没有任何消息证实 Ear 3a 将与 Phone 4b 一起推出 4 ...",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "即使使用虚拟相机镜头，它看起来也相当不错。",
-      "url": "https://www.androidauthority.com/oneplus-n6-specs-price-availability-3682794/",
+      "date": "2026-07-01",
+      "summary": "该公司将于同一天推出 Phone 4b 和 Ear 3a。",
+      "url": "https://www.androidauthority.com/nothing-ear-3a-launch-date-colors-3683301/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "我使用 ChatGPT 计划任务自动化了我的一天。这是很棒的东西，也是有问题...",
+      "title": "谷歌分享了有关 Android Halo 及其工作原理的更多细节",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "ChatGPT 的新自动化功能非常正确，但并不完美。",
-      "url": "https://www.androidauthority.com/chatgpt-scheduled-tasks-hands-on-3682039/",
+      "date": "2026-07-01",
+      "summary": "Google 的 Sameer Samat 最近谈到了 Android Halo 以及对该功能的期望。",
+      "url": "https://www.androidauthority.com/google-android-halo-details-3683294/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "新的 谷歌 Home 扬声器存在音质问题 - 但我通过一种设置修复了它",
+      "title": "我们曾经喜爱的 T-Mobile 已经死了——而且很可能再也不会回来了",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "有 Google Cast 配件吗？您可以修复家庭扬声器的音频。",
-      "url": "https://www.androidauthority.com/google-home-speaker-how-fix-sound-quality-problem-3681259/",
+      "date": "2026-07-01",
+      "summary": "剩下的只是另一家大型航母。",
+      "url": "https://www.androidauthority.com/old-t-mobile-dead-not-coming-back-3682930/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +194,23 @@
       "type": "news"
     },
     {
-      "title": "亚马逊对 Vega OS 的辩护仍然无法解释为什么用户应该感到兴奋，无论 F...",
+      "title": "三星可能无意中确认了下一次 Galaxy Unpacked 活动的日期",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "这对亚马逊来说是好事，但对于 Fire TV 粉丝来说仍然很难推销。",
-      "url": "https://www.androidauthority.com/amazon-fire-tv-stick-vega-os-3682755/",
+      "date": "2026-07-01",
+      "summary": "看起来越来越有可能下一届 Galaxy Unpacked 将于 7 月 22 日举行。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-unpacked-event-date-vouchers-3683262/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "对 Pixel 上的未接来电感到沮丧吗？这 3 个设置可能会修复它",
+      "source": "Android Authority",
+      "date": "2026-07-01",
+      "summary": "让我们让您的电话恢复正常。",
+      "url": "https://www.androidauthority.com/missed-phone-calls-pixel-how-to-fix-3683096/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "T-Mobile 取消您旧的遗留计划？您应该加入以下 5 家运营商",
+      "title": "Gemini 的最新更新使演示变得轻而易举",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "完成 TMO 了吗？您还有很多其他选择。",
-      "url": "https://www.androidauthority.com/t-mobile-legacy-plans-going-away-best-alternatives-3682370/",
+      "date": "2026-07-01",
+      "summary": "双子座想要在你获得功劳的同时做幻灯片。",
+      "url": "https://www.androidauthority.com/gemini-google-slides-presentation-3683217/",
       "tags": [
         "安卓"
       ],
@@ -218,23 +230,11 @@
       "type": "news"
     },
     {
-      "title": "工作点击通讯器原型终于展示了，配有可拆卸的背面",
+      "title": "WhatsApp 终于添加了用户名 - 以下是立即获取用户名的方法",
       "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "Clicks Communicator 于一月份推出，但这是我们第一次看到工作原型。",
-      "url": "https://www.androidauthority.com/clicks-communicator-first-look-prototype-3682758/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "从 Android 手机到汽车仪表板，谷歌 Play 商店的速度越来越快",
-      "source": "Android Authority",
-      "date": "2026-06-30",
-      "summary": "Google Play Store v521 为游戏玩家带来了更好的内存管理和新的内容发现功能。",
-      "url": "https://www.androidauthority.com/google-play-store-v52-update-3682739/",
+      "date": "2026-07-01",
+      "summary": "WhatsApp 终于添加了用户名  以下是立即获取用户名的方法",
+      "url": "https://www.androidauthority.com/whatsapp-username-how-to-get-3682541/",
       "tags": [
         "安卓"
       ],
