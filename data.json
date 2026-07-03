@@ -1,132 +1,180 @@
 {
-  "updated": "2026-07-02 11:04",
+  "updated": "2026-07-03 11:05",
   "news": [
     {
-      "title": "报告：所有四款三星 Galaxy S27 机型都将配备隐私显示功能",
+      "title": "Oppo Find X10 Ultra 的主长焦摄像头在新泄露中详细介绍，核...",
       "source": "GSMArena",
-      "date": "2026-07-02",
-      "summary": "三星 Galaxy S26 Ultra 引入了隐私显示功能  它允许部分或全部屏幕暂时切换到受限视角模式。这允许您阅读通知并查看其他私人信息，但会阻止附近的其他人偷看。与众多 Ultra 功能一样，在可预见的未来，这可能...",
-      "url": "https://www.gsmarena.com/report_all_four_samsung_galaxy_s27_models_will_have_the_privacy_display_feature-news-73540.php",
+      "date": "2026-07-03",
+      "summary": "有关 Oppo Find X9 Ultra 继任者的第一个细节于上个月浮出水面。现在，新的泄密事件透露了有关 Oppo Find X10 Ultra 的更多信息，尽管这款旗舰产品距离预期亮相至少还需要一年的时间。据爆料称...",
+      "url": "https://www.gsmarena.com/oppo_find_x10_ultras_main_telephoto_camera_detailed_in_new_leak-news-73559.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oppo-find-x10-ultra-telephoto-camera-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X500有望配备50MP后置主摄像头",
+      "source": "GSMArena",
+      "date": "2026-07-03",
+      "summary": "vivo 预计将于今年晚些时候可能在 9 月份左右在中国推出 vivo X500、X500 Pro 和 X500 Pro Max。在传闻发布之前，有关基本 X500 后置摄像头设置的新细节现已在网上浮出水面。据爆料者数字...，带来多项升级",
+      "url": "https://www.gsmarena.com/vivo_x500_tipped_to_feature_a_50mp_main_rear_camera-news-73558.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/vivo-x500-camera-specs-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S27 Pro 和 Galaxy S27 Ultra 将...",
+      "source": "GSMArena",
+      "date": "2026-07-03",
+      "summary": "今天早些时候，我们发现传闻整个 Galaxy S27 系列都配备了隐私显示功能，该功能首次在 Galaxy S26 Ultra 上亮相。现在，一个新的谣言带来了一些有关 Galaxy S27 Pro 和 Galaxy S...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_galaxy_s27_ultra_to_get_a_new_selfie_camera-news-73556.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-series-all-four-privacy-displays/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-pro-ultra-selfie-camera/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "红米 Note 17系列确认本月推出",
+      "title": "iQOO Z11i 首次亮相，配备 6,500mAh 电池、Snapdrag...",
       "source": "GSMArena",
-      "date": "2026-07-02",
-      "summary": "上个月底的泄露消息表明，红米 Note 17 系列将于 7 月在中国首发。 Redmi现已正式宣布，新的Note系列确实将于本月推出。这一消息是红米 Note 系列里程碑式庆祝活动的一部分。该公司在微博中透露，红米Not...",
-      "url": "https://www.gsmarena.com/redmi_note_17_series_confirmed_to_launch_this_month-news-73538.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-note-17-series-july-launch/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "WhatsApp 回应印度政府暂停计划推出用户名功能的命令",
-      "source": "GSMArena",
-      "date": "2026-07-02",
-      "summary": "本周早些时候，Meta 旗下的 WhatsApp 推出了用户名功能，允许用户在不共享电话号码的情况下相互交流。该功能将于今年晚些时候推出，但 WhatsApp 已经允许用户保留用户名。用户名功能引起了许多人的安全、隐私和...",
-      "url": "https://www.gsmarena.com/whatsapp_username_feature_safety_privacy_measures_official_statement-news-73537.php",
+      "date": "2026-07-03",
+      "summary": "随着新款iQOO Z11i的推出，iQOO在中国悄然扩展了Z11系列。该智能手机由 Snapdragon 芯片组供电，并配备 6500mAh 电池。它配备 674 英寸 LCD 显示屏，刷新率为 120Hz，分辨率为 H...",
+      "url": "https://www.gsmarena.com/iqoo_z11i_debuts_with_a_6500mah_battery_snapdragon_4_gen_2_soc-news-73557.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/whatsapp-username-feature-statement/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-z11i-ofic/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Galaxy Z Fold8 宽版出现在另一个假货泄露中，这次是黑色的，核心...",
+      "title": "摩托罗拉推出 Global Connect eSIM 应用程序",
+      "source": "GSMArena",
+      "date": "2026-07-03",
+      "summary": "摩托罗拉最近与 Gigs 合作发布了一款名为 Global Connect 的新 Android 应用程序。目前，它可以在巴西、墨西哥、阿根廷、秘鲁和智利的 Google Play 商店中使用，但计划于今年晚些时候扩展到...，带来多项升级",
+      "url": "https://www.gsmarena.com/motorola_launches_global_connect_esim_app-news-73554.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-global-connect-app/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "联想开始预告一款带有 5G 功能的新 Legion 游戏平板电脑，它即将上市",
+      "source": "GSMArena",
+      "date": "2026-07-03",
+      "summary": "联想于 3 月份推出了 Legion Y700第 5 代平板电脑，目前该公司正在开发新版本。目前被戏称为Y700 Unlimited中文机器翻译，它将在8月份正式发布，并将支持5G。在那之前，我们预计在接下来的几周内会看...，带来多项升级",
+      "url": "https://www.gsmarena.com/lenovo_starts_teasing_a_new_legion_tablet_heres_when_its_coming-news-73555.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/lenovo-teases-new-y700-tablet/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌在欧洲高等法院终审败诉，需支付 41 亿欧元罚款",
+      "source": "GSMArena",
+      "date": "2026-07-03",
+      "summary": "谷歌在对欧盟委员会 2018 年起 41 亿欧元罚款的最终上诉中败诉。此次上诉是谷歌最后的机会，并已向欧洲最高法院欧洲法院 ECJ 提出。早在 2018 年，欧盟执行机构欧盟委员会就对谷歌处以破纪录的 434 欧元后来降...",
+      "url": "https://www.gsmarena.com/google_loses_final_appeal_at_europes_high_court_to_pay_41_billion_fine-news-73552.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-eu-nooo/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Instagram Edits 增加了对双语字幕和新模板的支持",
+      "source": "GSMArena",
+      "date": "2026-07-03",
+      "summary": "Instagram 去年 1 月推出了 CapCut 竞争对手 Edits，现在该应用程序获得了一些新功能。其中包括对双语字幕的支持，它会自动将您的字幕翻译成第二语言。目前支持的语言包括英语、印度尼西亚语、俄语、葡萄牙语...",
+      "url": "https://www.gsmarena.com/instagram_edits_adds_support_for_bilingual_captions_new_templates-news-73546.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/instagram-edits-updates/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "亚马逊的 Starlink 竞争对手即将准备就绪",
       "source": "GSMArena",
       "date": "2026-07-02",
-      "summary": "两则新的泄密事件浮出水面，让我们重新审视三星即将推出的宽屏可折叠手机，传闻称其为 Galaxy Z Fold8。其中一篇提供了该设备的虚拟单元的另一种外观，而另一篇则将其尺寸和外形与 Galaxy S26 Ultra 进...",
-      "url": "https://www.gsmarena.com/galaxy_z_fold8_wide_appears_in_another_dummy_leak_this_time_in_black-news-73536.php",
+      "summary": "亚马逊已经建立自己的近地轨道卫星星座有一段时间了，甚至将其称为亚马逊狮子座低地球轨道，明白吗？。这不可避免地要与 SpaceX 的 Starlink 竞争，后者是目前最大的卫星星座。今天，亚马逊负责 Leo 的副总裁 C...",
+      "url": "https://www.gsmarena.com/amazons_starlink_competitor_is_almost_ready-news-73548.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/amazon-leo-almost-ready/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "AT&T 扩展 Build-A-Plan 以纳入家庭互联网",
+      "source": "GSMArena",
+      "date": "2026-07-02",
+      "summary": "早在 5 月份，ATT 就推出了 BuildAPlan，这是一种定制无线套餐福利和定价的新方式。这似乎是成功的，因为该公司现在正在扩展该计划，将家庭互联网也包括在内。扩展将于 7 月 7 日进行。从那天开始，如果您使用 ...",
+      "url": "https://www.gsmarena.com/at_t_expands_buildaplan_to_include_home_internet-news-73533.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/att-expands-built-a-plan-to-home-internet/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "如果您仍然拥有这 6 款热门 Android 手机中的一款，那么可能是时候升...",
+      "source": "Android Authority",
+      "date": "2026-07-03",
+      "summary": "是时候放弃旧的最爱了吗？",
+      "url": "https://www.androidauthority.com/old-android-phones-worth-upgrading-2026-3681922/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我等了六年的谷歌家庭音箱 - 但它不值得",
+      "source": "Android Authority",
+      "date": "2026-07-03",
+      "summary": "一款不错的智能音箱，但并不是一款出色的智能音箱。",
+      "url": "https://www.androidauthority.com/google-home-speaker-review-3681647/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我尝试了配备 35 毫米相机的 Android 手机 — 它彻底改变了我拍照...",
+      "source": "Android Authority",
+      "date": "2026-07-03",
+      "summary": "改变焦距是比添加更多人工智能功能更大的创新。",
+      "url": "https://www.androidauthority.com/vivo-x300-ultra-35mm-camera-hands-on-3670999/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "调查显示 Galaxy A37 的最佳替代品是中档 Moto，而不是翻新的三...",
+      "source": "Android Authority",
+      "date": "2026-07-03",
+      "summary": "淘汰旧的，引进新的？",
+      "url": "https://www.androidauthority.com/samsung-galaxy-a37-alternative-poll-results-3684009/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-z-fold8-black-dummy-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "iPhone 18 Pro Max 的确切电池容量泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-07-02",
-      "summary": "我们已经从过去的传言中听说 iPhone 18 Pro Max 将拥有非折叠 iPhone 中最大的电池。现在，新的泄密事件声称可以为我们提供确切的数字。我们说数字是因为会有两个。与去年一样，仅支持 eSIM 的手机版本...",
-      "url": "https://www.gsmarena.com/iphone_18_pro_maxs_exact_battery_capacity_leaks-news-73534.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-18-pro-max-battery-capacity/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "T-Mobile 终于关闭其 2G 网络了",
-      "source": "GSMArena",
-      "date": "2026-07-02",
-      "summary": "不管你信不信，TMobile 仍在运营其 2G 网络，但时间不会太长。这家洋红色运营商宣布最终将于 8 月 3 日关闭该网络。TMobile 是最后一家这样做的美国运营商  ATT 于 2017 年率先退役其 2G 网络...",
-      "url": "https://www.gsmarena.com/tmobile_is_finally_shutting_down_its_2g_network_heres_when-news-73535.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/t-mobile-2g-shutdown-date/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀Magic V6登陆英国",
-      "source": "GSMArena",
-      "date": "2026-07-02",
-      "summary": "荣耀Magic V6在MWC上亮相，一周后在中国推出，昨天在欧洲首次亮相。现在，它的销售范围也扩展到了英国，并于当地时间上午 10 点开始销售。荣耀Magic V6在英国有16GB512GB配置，但有金色、红色、白色和黑...",
-      "url": "https://www.gsmarena.com/honor_magic_v6_uk_price_sale_date-news-73526.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/honor-magic-v6-uk-price-sale-date/-184x111/gsmarena_002.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus 现已推出 Oppo 智能手机、平板电脑、手表和耳机",
-      "source": "GSMArena",
-      "date": "2026-07-02",
-      "summary": "OnePlus 从独立品牌向 Oppo 子品牌的缓慢转型仍在继续。最新的例子来自德国，一加官方网站现在正在为 Oppo 产品做广告。登陆该网站后，向下滚动一点，您会看到这个广告，指向您精选的 Oppo 配件和物联网产品。...",
-      "url": "https://www.gsmarena.com/oneplus_is_now_selling_oppo_smartphones_tablets_watches_and_earbuds-news-73532.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oneplus-website-sells-oppo-products/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "索尼将于 2028 年永久停止 PlayStation 实体光盘生产",
-      "source": "GSMArena",
-      "date": "2026-07-01",
-      "summary": "继 Rockstar 宣布侠盗猎车手 VI将仅以数字形式发行后，索尼提出了一项更加雄心勃勃的计划，以永远消灭物理媒体。该公司宣布，从 2028 年 1 月开始，PlayStation 平台上发布的所有游戏将停止新游戏的实...，带来多项升级",
-      "url": "https://www.gsmarena.com/sony_to_permanently_stop_physical_disc_production_for_playstation_in_2028-news-73531.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/playstation-physical-media/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "美国运通会员现在可以通过 苹果 Pay 使用奖励积分",
-      "source": "GSMArena",
-      "date": "2026-07-01",
-      "summary": "如果您是美国运通卡持卡人，现在您终于可以在使用 Apple Pay 进行网上购物时使用您的会员奖励积分了。您可以直接在 Apple Pay 安全在线结账体验中兑换积分，无需退出结账、打开其他应用程序或完成其他兑换步骤。您...",
-      "url": "https://www.gsmarena.com/american_express_members_can_now_use_rewards_points_with_apple_pay-news-73530.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redeem-amex-points-with-apple-pay/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Verizon 最新的 10 美元免费赠品的崩溃程度超出了所有人的预期",
+      "title": "我们对 Android Halo 了解得越多，我就越担心 Android 的...",
       "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "人们说获得 FIFA 世界杯门票比 Verizon 的免费礼品卡更容易。",
-      "url": "https://www.androidauthority.com/verizon-shine-rewards-gift-card-app-crash-3683722/",
+      "date": "2026-07-03",
+      "summary": "谷歌的人工智能计划是否只是安卓选择的又一个幻觉？",
+      "url": "https://www.androidauthority.com/android-halo-concerns-future-3683393/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "Android 17 QPR1 Beta 6 为终端应用程序带来了重大高级用...",
+      "title": "每当我使用其他 Android 手机时，我都会怀念 5 个 谷歌 Pixel...",
       "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "Linux 终端应用程序中提供了键盘快捷键，提供精细控制和自定义键映射。",
-      "url": "https://www.androidauthority.com/android-17-qpr1-beta-6-linux-terminal-keyboard-shortcuts-3683731/",
+      "date": "2026-07-03",
+      "summary": "我可以列出 15 个我喜欢的功能，但这些是我真正离不开的功能。",
+      "url": "https://www.androidauthority.com/google-pixel-features-i-miss-other-android-phones-3681080/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "佩戴 Pebble Time 2 两周后，我再也不会购买智能手表了",
+      "title": "这位Steam Machine用户只用了20分钟就遇到了死亡红线",
       "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "智能手表的本来面目是什么。",
-      "url": "https://www.androidauthority.com/pebble-time-2-smartwatch-hands-on-3680077/",
+      "date": "2026-07-03",
+      "summary": "该错误表明 GPU 出现故障，可能需要更换。",
+      "url": "https://www.androidauthority.com/steam-machine-red-line-of-death-rlod-error-3684032/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "极米最新的 谷歌 TV 投影仪已经有了更亮的 Pro 兄弟",
+      "title": "您认为智能手机电池很简单吗？这个 iFixit 工厂视频会改变你的想法",
       "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "极米即将推出的 MIRA Pro 据称亮度足以在日光下观看。",
-      "url": "https://www.androidauthority.com/xgimi-mira-pro-4k-ust-laser-projector-3683710/",
+      "date": "2026-07-03",
+      "summary": "一段新的幕后视频揭示了智能手机电源背后的细致工程和严格的安全测试。",
+      "url": "https://www.androidauthority.com/ifixit-smartphone-battery-factory-video-3684023/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "我放弃 Pixel 10 Pro 而选择你可能买不到的小型 Android ...",
+      "title": "Gemini 的错误 1099 将用户锁定在外，但这个非官方修复程序可能会有...",
       "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "vivo X300 FE把Pixel 10 Pro当早餐吃，连打嗝都不打。",
-      "url": "https://www.androidauthority.com/why-i-ditched-pixel-10-pro-for-vivo-x300-fe-3675745/",
+      "date": "2026-07-03",
+      "summary": "许多 Pixel 用户还抱怨每次唤醒 Gemini 时都会看到该错误。",
+      "url": "https://www.androidauthority.com/google-gemini-error-1099-fix-3684008/",
       "tags": [
         "安卓"
       ],
@@ -182,59 +230,11 @@
       "type": "news"
     },
     {
-      "title": "我在没有 谷歌 Play 商店的情况下度过了一周，我勉强活了下来",
+      "title": "Nothing Phone 1 已正式走到路的尽头",
       "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "我满怀信心地进去了。我谦虚地出来了。",
-      "url": "https://www.androidauthority.com/android-phone-using-without-google-play-store-3680822/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "调查显示，这个隐藏的 Android 功能对于知情人士来说是一个流行的工具",
-      "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "Android 充满了隐藏的功能，这是我们调查的读者最喜欢的。",
-      "url": "https://www.androidauthority.com/buried-android-feature-poll-results-3683620/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android Auto 上的 Gemini Live 非常出色，但也很糟糕",
-      "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "很多事情都按预期进行，但我遇到的问题让我想停止使用它。",
-      "url": "https://www.androidauthority.com/gemini-live-android-auto-hands-on-good-bad-3681466/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "WhatsApp 在重大欺诈担忧中为其即将推出的用户名辩护",
-      "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "WhatsApp 解释了它计划如何遏制用户名诈骗。",
-      "url": "https://www.androidauthority.com/whatsapp-username-clarification-amid-fraud-concerns-3683712/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "T-Mobile 最新的会员月福利是一件 60 美元的通用足球球衣",
-      "source": "Android Authority",
-      "date": "2026-07-02",
-      "summary": "TMobile 更希望美国队能够赢得 7 月 6 日对阵比利时队的比赛。",
-      "url": "https://www.androidauthority.com/t-mobile-member-month-perk-generic-soccer-jersey-3683686/",
+      "date": "2026-07-03",
+      "summary": "没有什么可以通过最后的更新来结束其第一款智能手机的篇章。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/nothing-phone-1-end-of-software-support-3684014/",
       "tags": [
         "安卓"
       ],
