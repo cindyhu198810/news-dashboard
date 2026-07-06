@@ -1,6 +1,114 @@
 {
-  "updated": "2026-07-05 10:32",
+  "updated": "2026-07-06 12:17",
   "news": [
+    {
+      "title": "以下是三星 Galaxy Z Fold8、Z Flip8 可折叠手机在韩国的...",
+      "source": "GSMArena",
+      "date": "2026-07-06",
+      "summary": "上周，三星即将推出的 Galaxy Z 可折叠手机的欧洲定价在网上浮出水面。现在，来自韩国的一份新报告透露了 Galaxy Z Fold8、Z Fold8 Ultra 和 Z Flip8 在该公司国内市场的预期价格。据报...",
+      "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_z_flip8_foldables_could_cost_this_much_in_south_korea-news-73583.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-ultra-flip8-korea-price-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo V80系列据称将于下个月推出，规格已公布",
+      "source": "GSMArena",
+      "date": "2026-07-06",
+      "summary": "vivo V70 今年早些时候首次亮相，现在有新消息表明，vivo V80 系列最早可能会在下个月上市。泄露的信息还透露了即将推出的一款型号的关键规格。据X爆料人士透露，vivo V80系列将于8月中旬亮相。标准版viv...",
+      "url": "https://www.gsmarena.com/vivo_v80_series_said_to_launch_next_month_specs_tipped-news-73584.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/vivo-v80-series-launch-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "新的 红米 Note 17 系列泄露了普通、Pro 和 Pro Max 规格...",
+      "source": "GSMArena",
+      "date": "2026-07-06",
+      "summary": "因此，Redmi决定跳过Note 16系列，直接推出将于本月晚些时候发布的17系列。据传言，将会有四种型号Redmi Note 17、17 Pro、17 Pro Max和17R我们已经看到了其中两到三种型号的泄露规格。是...，带来多项升级",
+      "url": "https://www.gsmarena.com/new_redmi_note_17_series_leak_details_vanilla_pro_and_pro_max_specs_includes_images-news-73585.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-note-17-series-poster-specs-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "华为Pura 90系列全球首发日期确定",
+      "source": "GSMArena",
+      "date": "2026-07-06",
+      "summary": "继4月在中国发布公告后，华为现已确认Pura 90系列将于7月14日在全球发布。主题活动将在马来西亚吉隆坡举行。这一进展与去年 7 月 10 日举行的 Pura 80 系列全球发布会类似。去年，华为将 Pura 80、P...，带来多项升级",
+      "url": "https://www.gsmarena.com/huawei_pura_90_series_gets_global_launch_date-news-73582.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/huawei-pura-90-global-launch-date/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米18 Pro Max电池规格表面",
+      "source": "GSMArena",
+      "date": "2026-07-06",
+      "summary": "小米18 Pro系列预计将于今年9月在中国首发。在传闻发布之前，新的泄密事件披露了旗舰产品小米 18 Pro Max 的电池细节。知名爆料者数码闲聊站在微博上分享了这一消息。据爆料者透露，小米18 Pro Max将配备一...，带来多项升级",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_max_battery_specifications_surface-news-73581.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/xiaomi-18-pro-max-battery-specs-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "郭明錤：iPhone Ultra 上市时供应可能有限，稍后发货",
+      "source": "GSMArena",
+      "date": "2026-07-06",
+      "summary": "据传苹果的可折叠手机 iPhone Ultra 将于 9 月与 iPhone 18 Pro 系列一起正式上市。然而，一份新报告显示，可折叠 iPhone 在发布后不会立即接受预订，发货可能会在晚些时候开始。分析师郭明池表...，带来多项升级",
+      "url": "https://www.gsmarena.com/kuo_iphone_ultra_may_have_limited_supply_at_launch_and_ship_later-news-73580.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-ultra-pre-order-report/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周投票：你会购买荣耀Magic V6吗？",
+      "source": "GSMArena",
+      "date": "2026-07-05",
+      "summary": "我们从三月份开始就一直在等待，但它终于来了荣耀 Magic V6 在欧洲上市了等等，多少钱？到本月底，这款旗舰可折叠手机将以 1700 欧元的折扣价出售。此外，您还可以获得免费的 Honor Pad 10 以及 24 个...",
+      "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_honor_magic_v6-news-73550.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-poll-honor-magic-v6/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：谷歌 Pixel 10 系列与小米 17 Ultra、Nothing ...",
+      "source": "GSMArena",
+      "date": "2026-07-05",
+      "summary": "尽管 Prime Day 促销已于上周结束，亚马逊仍继续对谷歌、小米和其他几个品牌的精选智能手机提供折扣。除 Pixel 10 Pro Fold 外，整个 Google Pixel 10 系列目前均以折扣价出售。最大的节...",
+      "url": "https://www.gsmarena.com/deals_googles_pixel_10_lineup_on_discount_alongside_xiaomi_17_ultra_nothing_phone_4a-news-73573.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-3/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周民意调查结果：Oppo Reno16 和 Reno16 Pro 价格过高",
+      "source": "GSMArena",
+      "date": "2026-07-05",
+      "summary": "智能手机市场正经历一段艰难时期聚焦 Oppo 的全新 Reno16 系列，让我们对未来有一个预演。这两款手机都是中档手机，但它们的旗舰级定价可能会给它们的销售带来厄运。Oppo Reno16 的处境比它的 Pro 兄弟更...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_the_oppo_reno16_and_reno16_pro_are_overpriced-news-73553.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-poll-results-oppo-reno16-reno16-pro/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "优惠：Galaxy S26和S26 Ultra价格进一步下降，小米17T和1...",
       "source": "GSMArena",
@@ -14,119 +122,107 @@
       "type": "news"
     },
     {
-      "title": "WhatsApp 开始在 iOS 上测试绿点在线联系人指示器",
-      "source": "GSMArena",
-      "date": "2026-07-05",
-      "summary": "上个月，我们了解到 WhatsApp 开始在 Android 上测试一个绿点，以指示联系人在线。 Meta 旗下的公司现在也开始在 iOS 上测试此功能。这一消息来自 WABetaInfo 的人员，他们发现了 Whats...",
-      "url": "https://www.gsmarena.com/whatsapp_green_dot_online_contact_indicator_ios_beta-news-73576.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/whatsapp-green-dot-online-contact-indicator-ios-beta/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy S26 Ultra 在印度获得限时折扣",
-      "source": "GSMArena",
-      "date": "2026-07-05",
-      "summary": "三星Galaxy S26 Ultra在印度推出，底价为139999印度卢比，可在三星官网以折扣价购买。三星在印度推出了 Galaxy S26 Ultra，提供三种内存选项12GB256GB、12GB512GB 和 16G...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_india_price_discount-news-73579.php",
+      "title": "泄密表明三星即将推出的 Galaxy S27 Pro 面临严重的硬件身份危机",
+      "source": "Android Authority",
+      "date": "2026-07-06",
+      "summary": "新型号可能会承诺在没有 S Pen 的情况下提供超水平的规格，但区域芯片分裂可能会破坏这种幻想。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s27-pro-exynos-snapdragon-split-leak-3684410/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s26-ultra-india-price-discount/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "iOS 27 源代码揭示了支持视觉智能的新款苹果可穿戴设备",
-      "source": "GSMArena",
-      "date": "2026-07-04",
-      "summary": "X 用户 samhenrigold 在 iOS 27 源代码中发现了一个参考，其中提到了一款型号为 B790 的新 Apple 可穿戴设备。该参考资料本身并没有透露多少信息，但它证实了该设备支持与视觉智能相关的功能。视觉...",
-      "url": "https://www.gsmarena.com/ios_27_source_code_reveals_a_new_apple_wearable_supporting_visual_intelligence-news-73578.php",
+      "title": "这一提议让 YouTube 对其推荐算法感到担忧",
+      "source": "Android Authority",
+      "date": "2026-07-06",
+      "summary": "YouTube 的推荐配方可能会加入一种相当意想不到的新成分。",
+      "url": "https://www.androidauthority.com/youtube-uk-algorithm-proposal-3684400/",
       "tags": [
-        "苹果"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/25/06/kuo-apple-glasses-vision-roadmap/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "优惠：Galaxy A57 和 A37 促销，Galaxy Z Flip7 ...",
-      "source": "GSMArena",
-      "date": "2026-07-04",
-      "summary": "生日快乐，美国！随着 7 月 4 日的庆祝活动和世界杯的如火如荼地进行，人们的注意力可能不再集中在购买新手机上，但我们仍然设法找到了一些划算的交易。三星 Galaxy A57 的 128GB 和 256GB 版本均优惠 ...",
-      "url": "https://www.gsmarena.com/deals_galaxy_a57_and_a37_on_sale_galaxy_z_flip7_fe_and_moto_razr_2026_get_discounts_too-news-73562.php",
+      "title": "这 5 个 Android 应用程序太棒了，我很惊讶它们是免费的",
+      "source": "Android Authority",
+      "date": "2026-07-06",
+      "summary": "好的免费应用程序确实仍然存在。",
+      "url": "https://www.androidauthority.com/best-free-android-apps-2026-3683259/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "据称，一加在没有人要求的情况下使用优惠券来履行保修，用户对此并不满意",
+      "source": "Android Authority",
+      "date": "2026-07-06",
+      "summary": "这些 100 欧元的优惠券无法兑换，因为几乎所有商品都缺货或已经打折。",
+      "url": "https://www.androidauthority.com/oneplus-eu-warranty-swapped-for-useless-voucher-3684328/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "调查显示这是最好的 Play 商店替代品，但谷歌可能不同意",
+      "source": "Android Authority",
+      "date": "2026-07-06",
+      "summary": "大多数读者相信开源应用程序的力量。",
+      "url": "https://www.androidauthority.com/best-google-play-store-alternative-poll-results-3684323/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我尝试用 Amazon Photos 替换 谷歌 Photos - 结果比预...",
+      "source": "Android Authority",
+      "date": "2026-07-06",
+      "summary": "我仍然更喜欢谷歌照片，但亚马逊在这方面非常接近。",
+      "url": "https://www.androidauthority.com/google-photos-vs-amazon-photos-switch-hands-on-3679448/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "继三星健康之后，可穿戴应用程序可能会进行迄今为止最大规模的重新设计",
+      "source": "Android Authority",
+      "date": "2026-07-06",
+      "summary": "您的手表值得更好，而这次重新设计似乎已经准备好实现这一目标。",
+      "url": "https://www.androidauthority.com/galaxy-wearable-app-redesign-leak-3684329/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-3/-184x111/gsmarena_us.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "vivo X300e关键规格浮出水面，预计配备SD8 Gen 5 SoC和大...",
-      "source": "GSMArena",
-      "date": "2026-07-04",
-      "summary": "Vivo 已经发布了多款 vivo X300 手机，并且似乎将推出 X300 系列的第六款手机，名为 X300e。由于 GSMA 数据库中泄露的 IMEI 号码，我们第一次听说 vivo X300e 是在 2 月份。现在...，带来多项升级",
-      "url": "https://www.gsmarena.com/vivo_x300e_key_specs_surface_expected_with_sd8_gen_5_soc_and_a_huge_battery-news-73577.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/vivo-x300-fe-india-price-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "看看我们用 Versus 进行的旗舰相机盲测",
-      "source": "GSMArena",
-      "date": "2026-07-04",
-      "summary": "我们邀请 Versus 的同事对 2026 年顶级旗舰之一三星 Galaxy S26 Ultra、Pixel 10 Pro XL 和 iPhone 17 Pro Max 进行盲视频测试。我们视频团队的 Will 和 Ve...",
-      "url": "https://www.gsmarena.com/check_out_our_blind_test_video_with_versus-news-73575.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/gsmarena-vs-versus-video/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "随着 One UI 9 正式亮相的脚步越来越近，三星开始在更多设备上测试 O...",
-      "source": "GSMArena",
-      "date": "2026-07-04",
-      "summary": "三星于 5 月份为 Galaxy A26 发布了基于 Android 16 的 One UI 85 稳定更新，现在我们了解到该韩国品牌已开始为这款智能手机开发基于 Android 17 的 One UI 9。不过，这并不...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_one_ui_9_galaxy_device_test_list-news-73574.php",
+      "title": "继智能手机之后，现在 Galaxy Watch 4 也出现了可怕的显示线问题",
+      "source": "Android Authority",
+      "date": "2026-07-06",
+      "summary": "一份新的用户报告显示，老化的智能手表上出现了一条垂直白线，这与智能手机 AMOLED 故障的猖獗现象相呼应。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-watch-4-white-line-issue-3684346/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-prepares-one-ui-9-beta-rollout/-184x111/gsmarena_00.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星可能生产 Anthropic 的定制 AI 芯片",
-      "source": "GSMArena",
-      "date": "2026-07-04",
-      "summary": "据 The Information 报道，Anthropic 和三星正处于一项交易谈判的早期阶段，韩国科技巨头将负责制造 Anthropic 的定制人工智能芯片。整个半导体的需求似乎主要由人工智能的兴起推动，迫使许多公司...",
-      "url": "https://www.gsmarena.com/samsung_may_manufacture_anthropics_custom_ai_chips-news-73565.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/05/samsung-strike-averted/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iPhone 18 Pro 泄露，红米 K90 Ultra 到货，第 27 ...",
-      "source": "GSMArena",
-      "date": "2026-07-04",
-      "summary": "我们正式进入 2026 年下半年，这意味着我们距离苹果秋季发布会越来越近，我们预计将推出可折叠 iPhone Ultra 以及 iPhone 18 Pro 和 18 Pro Max。本周，后者的电池容量更加清晰，据报道，...，带来多项升级",
-      "url": "https://www.gsmarena.com/iphone_18_pro_leaks_redmi_k90_ultra_arrives_week_27_in_review-news-73570.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/week-27-in-review/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "我改用开源笔记应用程序两周了，我希望我能早点这么做",
+      "title": "我们进行了测试：可折叠手机仍然存在过热问题",
       "source": "Android Authority",
-      "date": "2026-07-05",
-      "summary": "Notesnook 是我长期以来使用过的最好的免费笔记应用程序。",
-      "url": "https://www.androidauthority.com/notesnook-open-source-notes-app-hands-on-3682208/",
+      "date": "2026-07-06",
+      "summary": "时尚手机不需要超快的性能。",
+      "url": "https://www.androidauthority.com/foldable-phones-overheating-problems-benchmark-results-3682364/",
       "tags": [
         "安卓"
       ],
@@ -134,107 +230,11 @@
       "type": "news"
     },
     {
-      "title": "立即添加书签：这 2 个 Android 网站可以帮助您解锁 Pixel",
+      "title": "我从未如此担心 谷歌 Home 的未来",
       "source": "Android Authority",
-      "date": "2026-07-05",
-      "summary": "如果您的 Pixel 死机并且无法呼叫捉鬼敢死队，您该怎么办？",
-      "url": "https://www.androidauthority.com/android-sites-help-unbrick-google-pixel-how-3681441/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "忘掉 Pixel 10a吧——这是大多数人需要的价格实惠的 Android ...",
-      "source": "Android Authority",
-      "date": "2026-07-05",
-      "summary": "Pixel 10a 不错，但对于日常使用来说，Nord CE 6 更好。",
-      "url": "https://www.androidauthority.com/pixel-10a-vs-oneplus-nord-ce-6-hands-on-3682869/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "下一代 NVIDIA Shield TV 绝对需要的 5 项升级",
-      "source": "Android Authority",
-      "date": "2026-07-05",
-      "summary": "Shield TV 只需要一些细微的调整即可保持最好的性能。",
-      "url": "https://www.androidauthority.com/new-nvidia-shield-tv-wishlist-2026-3680701/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "计划将您的下一部手机保留 3 年或更长时间？购买前了解这7个技巧",
-      "source": "Android Authority",
-      "date": "2026-07-04",
-      "summary": "从充电周期到耐用性，以下是您在长期购买下一部手机之前应该了解的信息。",
-      "url": "https://www.androidauthority.com/buying-phone-long-term-tips-3680435/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "随着 T-Mobile 取消传统套餐，Verizon 成为我在 2026 年...",
-      "source": "Android Authority",
-      "date": "2026-07-04",
-      "summary": "Verizon 比以前更容易推荐。",
-      "url": "https://www.androidauthority.com/verizon-only-big-us-carrier-recommend-2026-3683420/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我花 5 美元把我的旧 Android 手机变成了 iPod Classic...",
-      "source": "Android Authority",
-      "date": "2026-07-04",
-      "summary": "NostalgicPod 几乎囊括了 iPod 的所有特色。",
-      "url": "https://www.androidauthority.com/turned-android-phone-into-ipod-nostalgicpod-hands-on-3682104/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "您应该购买 5 款 Android 手机，而不是 Moto G Power ...",
-      "source": "Android Authority",
-      "date": "2026-07-04",
-      "summary": "这并不是 400 美元的唯一选择。",
-      "url": "https://www.androidauthority.com/motorola-moto-g-power-2026-alternatives-3682487/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "这个华丽的 Android 启动器基本上已经死了——这都是谷歌的错",
-      "source": "Android Authority",
-      "date": "2026-07-04",
-      "summary": "谷歌僵化的应用政策已经让开发者感到绝望。",
-      "url": "https://www.androidauthority.com/stario-launcher-hands-on-dead-google-fault-3682817/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我自行托管了 PewDiePie 的 Odysseus AI 工作区，它非常...",
-      "source": "Android Authority",
-      "date": "2026-07-04",
-      "summary": "由 YouTuber 打造的真正强大、注重隐私的 AI 工作空间？离开这里。",
-      "url": "https://www.androidauthority.com/pewdiepie-odysseus-ai-hands-on-3682909/",
+      "date": "2026-07-06",
+      "summary": "谷歌的智能家居计划并不合理。",
+      "url": "https://www.androidauthority.com/google-home-future-never-more-worried-3683391/",
       "tags": [
         "安卓"
       ],
