@@ -1,6 +1,90 @@
 {
-  "updated": "2026-07-11 09:54",
+  "updated": "2026-07-12 10:04",
   "news": [
+    {
+      "title": "每周民意调查：您会购买 Nothing Phone (4b) 吗？",
+      "source": "GSMArena",
+      "date": "2026-07-12",
+      "summary": "没有什么可以缩小其范围1月份，它宣布不会在2026年发布旗舰产品，上个月又取消了CMF Phone 3 Pro。只剩下 4a 手机，现在还有 4b 型号，这是本周早些时候宣布的新中端手机。Nothing Phone 4b...，带来多项升级",
+      "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_nothing_phone_4b-news-73653.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-poll-nothing-phone-4b/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周投票结果：荣耀Magic V6粉丝众多，但价格却让人敬而远之",
+      "source": "GSMArena",
+      "date": "2026-07-12",
+      "summary": "Honor Magic V6 在欧洲以 1700 欧元1500 英镑的折扣价在本月底之前发售。 8 月份欧盟价格将上涨至 2300 欧元，英国价格则依赖 500 英镑的代金券，但这种情况可能不会持续太久。无论哪种情况，您...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_the_honor_magic_v6_has_many_fans_but_its_price_keeps_others_away-news-73654.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-poll-results-honor-magic-v6/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Edge 70 Max 的电池细节曝光，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-07-12",
+      "summary": "摩托罗拉将于 7 月 15 日推出 Edge 70 Max，目前该公司已经透露了这款智能手机的设计并确认了为其提供动力的芯片。现在，印度在线零售商 Flipkart 透露了有关摩托罗拉 Edge 70 Max 的更多细节...",
+      "url": "https://www.gsmarena.com/motorola_edge_70_max_battery_capacity_charging_speed-news-73681.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-edge-70-max-battery-details/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：三星 Galaxy S26 Ultra 低于 1,000 美元，Gal...",
+      "source": "GSMArena",
+      "date": "2026-07-11",
+      "summary": "本月底，三星的注意力将转向推出新款 Galaxy Z 可折叠手机您已经可以在这里预订一台。我们知道有些人不喜欢可折叠设备，所以让我们来看看三星的平板旗舰产品的情况如何。三星 Galaxy S26 Ultra 的价格再次低...",
+      "url": "https://www.gsmarena.com/deals_the_samsung_galaxy_s26_ultra_is_under_1000_the_galaxy_s26_and_s26_are_also_on_sale-news-73666.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-10/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星健康用户要求允许使用其健康数据进行人工智能训练，否则将被删除",
+      "source": "GSMArena",
+      "date": "2026-07-11",
+      "summary": "一些三星健康用户在打开应用程序时看到一条通知，要求他们同意将其健康数据用于人工智能训练和建模。如果用户不同意，他们不仅无法将健康数据与其三星帐户同步，而且还会丢失，因为它会被删除。如果用户同意，三星将收集健康和保健数据、...",
+      "url": "https://www.gsmarena.com/samsung_health_data_ai_training_consent-news-73683.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-health-data-ai-training-consent/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Lava Virat V1 的设计、颜色和发布日期揭晓，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-07-11",
+      "summary": "印度手机制造商 Lava 最近宣布与印度在线零售商 Flipkart 合作推出全新 Virat 智能手机系列。现在，Lava 宣布该系列的首款智能手机将被命名为 Virat V1，该机将于印度当地时间 7 月 21 日中...",
+      "url": "https://www.gsmarena.com/lava_virat_v1_launch_date-news-73682.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/lava-virat-v1-launch-date/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy A27 与 Galaxy A37",
+      "source": "GSMArena",
+      "date": "2026-07-11",
+      "summary": "我们最近才完成对 Galaxy A27 的评测。与 Galaxy A 系列的其他兄弟产品例如早在 4 月份就推出的 Galaxy A37相比，它的发布时间相当晚。这只是 Galaxy A27 定价失当的原因之一。在美国，...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a27_vs_galaxy_a37_review_battery_camera_price_compared-news-73673.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-a27-vs-samsung-galaxy-a37/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
     {
       "title": "优惠：Nothing Phone (4b) 开始预购，Galaxy A57 ...",
       "source": "GSMArena",
@@ -38,87 +122,99 @@
       "type": "news"
     },
     {
-      "title": "Tecno Camon 50 Ultra 在印度的上市日期公布",
-      "source": "GSMArena",
+      "title": "我对 Fitbit Air 的看法大错特错了——这件事改变了我的想法",
+      "source": "Android Authority",
+      "date": "2026-07-12",
+      "summary": "使用 Fitbit Air 三周后，我严重怀疑我是否还需要订阅 WHOOP。",
+      "url": "https://www.androidauthority.com/i-couldnt-have-been-more-wrong-about-the-fitbit-air-3685038/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "揭秘 Android 手机 2026 年电池续航时间背后的隐秘数学",
+      "source": "Android Authority",
+      "date": "2026-07-12",
+      "summary": "OnePlus 和 HONOR 等品牌正在尝试重新定义电池健康状况，但并不完全是为了更好。",
+      "url": "https://www.androidauthority.com/android-phone-battery-life-claims-sneaky-math-2026-3683394/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "您应该注册 5 家运营商，而不是 Helium Mobile",
+      "source": "Android Authority",
+      "date": "2026-07-12",
+      "summary": "对 Noble 最近收购 Helium Mobile 不感兴趣吗？让我们谈谈替代方案。",
+      "url": "https://www.androidauthority.com/helium-mobile-alternatives-3685358/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我尝试了 DuckDuckGo 的全新免费 YouTube 广告拦截器。这是...",
+      "source": "Android Authority",
       "date": "2026-07-11",
-      "summary": "Tecno Camon 50 Ultra 于 3 月份推出，将于 7 月 17 日在印度首次亮相。Tecno 在印度将 Camon 50 Ultra 宣传为一款专为创作者、故事讲述者和摄影爱好者设计的智能手机。该品牌还表...",
-      "url": "https://www.gsmarena.com/tecno_camon_50_ultra_india_launch_date-news-73675.php",
+      "summary": "没有高级版？没问题。 DuckDuckGot 你的背！",
+      "url": "https://www.androidauthority.com/duckduckgo-youtube-ad-blocker-how-use-3686151/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/tecno-camon-50-ultra-india-launch-date/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "欧盟委员会称 Instagram 和 Facebook 的令人上瘾的设计违反...",
-      "source": "GSMArena",
-      "date": "2026-07-10",
-      "summary": "今天，欧盟委员会 EC 宣布，初步认定 Meta 因Instagram 和 Facebook 的令人上瘾的设计而违反了欧盟数字服务法。具体来说，其调查重点是无限滚动、自动播放、推送通知和服务的高度个性化推荐系统等功能。欧...",
-      "url": "https://www.gsmarena.com/european_commission_says_instagram_and_facebooks_addictive_design_breaches_the_digital_services_act-news-73680.php",
+      "title": "Dreame X60 Max Ultra Complete 拥有成功的秘诀，...",
+      "source": "Android Authority",
+      "date": "2026-07-11",
+      "summary": "Dreame X60 Max Ultra Complete 是一款超高级地板清洁系统，需要过多的干预。",
+      "url": "https://www.androidauthority.com/dreame-x60-max-ultra-review-3684554/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/instagram-facebook-addictive-design-eu-dsa/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Verizon 将为美国的新款宝马汽车提供 5G 连接服务",
-      "source": "GSMArena",
-      "date": "2026-07-10",
-      "summary": "KDDI 是一家为其 OEM 合作伙伴提供物联网服务和互联体验的公司，与宝马集团建立了合作伙伴关系。另一方面，KDDI 也与 Verizon 建立了长期合作关系，后者提供 5G 和 LTE 连接。这就是 Verizon ...",
-      "url": "https://www.gsmarena.com/verizon_will_provide_5g_connectivity_services_for_new_bmw_vehicles_in_the_us-news-73670.php",
+      "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它",
+      "source": "Android Authority",
+      "date": "2026-07-11",
+      "summary": "这不是我曾经爱过的克劳德。",
+      "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/bmw-verizon-partnership/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "iPhone Ultra电池容量泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-07-10",
-      "summary": "据微博数码聊站报道，苹果的一家常用电池供应商刚刚获得了一对电池的认证，这意味着它们是为可折叠智能手机设计的因为由于外形因素，这些电池采用了分体式电池。这两款电池的额定容量分别为 1921 mAh 和 2962 mAh，总...",
-      "url": "https://www.gsmarena.com/iphone_ultra_battery_capacity_leaks-news-73674.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-ultra-battery-capacity/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Netflix 再次提供免费试用",
-      "source": "GSMArena",
-      "date": "2026-07-10",
-      "summary": "Netflix 再次提供免费试用。这些时间的长度从 7 到 30 天不等，具体取决于用户而不一定取决于位置。即便如此，如果您尝试在隐身浏览器窗口中访问或事先清除 cookie，您可能会获得完整的 30 天。奇怪的是，无论...",
-      "url": "https://www.gsmarena.com/netflix_is_once_again_offering_free_trials-news-73676.php",
+      "title": "我希望在我购买新车之前有人告诉我这 5 项 Android Auto 设置",
+      "source": "Android Authority",
+      "date": "2026-07-11",
+      "summary": "一些 Android Auto 设置大有帮助。",
+      "url": "https://www.androidauthority.com/first-car-android-auto-most-important-settings-3684583/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/netflix-free-trial/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy Z Fold8、Fold8 Ultra 和 Flip8 ...",
-      "source": "GSMArena",
-      "date": "2026-07-10",
-      "summary": "三星备受期待的三款可折叠手机在韩国本土市场推出之前就已亮相。一位 Reddit 用户发布了一张图片，展示了 Fold8 的正面和中心，左边是 Z Flip8，右边是 Z Fold8 Ultra。他声称这些设备排列在韩国的...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_fold8_ultra_and_flip8_emerge_ahead_of_launch-news-73667.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-zfold8-ultra-flip-emerge/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Nvidia 推出 GeForce 集换卡让游戏玩家重新爱上它",
-      "source": "GSMArena",
-      "date": "2026-07-10",
-      "summary": "如果你是一名游戏玩家，Nvidia 希望你知道它仍然关心你，尽管过去几年它在人工智能方面有点忙。为此，该公司现已推出 GeForce 集换卡系列 1，其中包含GeForce PC 游戏的一些精彩时刻。看？它并没有忘记游戏...",
-      "url": "https://www.gsmarena.com/nvidia_launches_geforce_trading_cards_to_get_gamers_to_love_it_again-news-73668.php",
+      "title": "我如何将 Pixel 变成终极 Home Assistant 智能家居伴侣",
+      "source": "Android Authority",
+      "date": "2026-07-11",
+      "summary": "我现在无法想象没有 Pixel 的智能家居生活。",
+      "url": "https://www.androidauthority.com/pixel-home-assistant-smart-home-companion-3684122/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/nvidia-geforce-trading-cards/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -139,102 +235,6 @@
       "date": "2026-07-11",
       "summary": "如果语言学习应用程序无法让您继续学习，它还有什么意义呢？",
       "url": "https://www.androidauthority.com/duolingo-broken-updated-courses-why-i-quit-3686405/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "NVIDIA 解释了为什么你在任何地方都找不到 Shield TV",
-      "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "它尚未停产，但可能永远不会再有库存。",
-      "url": "https://www.androidauthority.com/nvidia-clarifies-shield-tv-availability-3686597/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "苹果指责 OpenAI 窃取机密以快速实现其硬件野心",
-      "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "苹果爆炸性的 OpenAI 诉讼可能会扼杀 Jony Ive 的下一个大型产品。",
-      "url": "https://www.androidauthority.com/apple-sues-openai-over-trade-secret-theft-3686592/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Pixel 11 Pro Fold FCC 上市增加了对 Tensor G6...",
-      "source": "Android Authority",
-      "date": "2026-07-10",
-      "summary": "这可能是第一款不使用三星 Exynos 调制解调器的 Tensor 芯片。",
-      "url": "https://www.androidauthority.com/tensor-g6-mediatek-modem-2-3686559/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Bixby 用户听到了他们从未选择过的奇怪声音",
-      "source": "Android Authority",
-      "date": "2026-07-10",
-      "summary": "据报道，Bixby 更新后不断在不同声音之间切换，三星现已做出回应。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/bixby-strange-voices-since-update-3686574/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "最新的 Galaxy Z Fold 8 泄露事件让您对三星新款可折叠手机有了...",
-      "source": "Android Authority",
-      "date": "2026-07-10",
-      "summary": "三星的新款可折叠手机即将推出，但泄密事件不断出现。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-z-flip-8-renders-3686550/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "沃尔玛可能已经撤下了 Onn 全高清流媒体棒——但有一个很好的理由",
-      "source": "Android Authority",
-      "date": "2026-07-10",
-      "summary": "沃尔玛的入门级 Onn 流媒体棒已从网站上消失。",
-      "url": "https://www.androidauthority.com/onn-hd-streaming-stick-disappears-on-walmart-3686553/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Magic Pointer 应用列表让您可以提前了解 谷歌 图书上的 Gem...",
-      "source": "Android Authority",
-      "date": "2026-07-10",
-      "summary": "Google 的 Magic Pointer 可能会改变您在 Googlebooks 上与 Gemini 互动的方式。",
-      "url": "https://www.androidauthority.com/google-releases-magic-pointer-app-play-store-3686556/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "迪士尼+正在考虑添加免费套餐的想法",
-      "source": "Android Authority",
-      "date": "2026-07-10",
-      "summary": "您可能很快就可以不用花一毛钱就可以观看迪士尼。",
-      "url": "https://www.androidauthority.com/disney-plus-considers-free-tier-3686530/",
       "tags": [
         "安卓"
       ],
