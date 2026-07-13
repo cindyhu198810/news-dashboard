@@ -1,11 +1,95 @@
 {
-  "updated": "2026-07-12 10:04",
+  "updated": "2026-07-13 11:34",
   "news": [
+    {
+      "title": "其他 红米 Note 17 细节泄露，包括芯片组、充电速度和 IP 等级，核...",
+      "source": "GSMArena",
+      "date": "2026-07-13",
+      "summary": "小米最近透露，红米 Note 17 将配备 7 英寸屏幕，以前这应该是平板电脑，而不是手机。该公司还确认，这款手机将配备 8000mAh 电池，容量不小，但比红米 Note 17 Pro 的 9000mAh 电池要小。带...",
+      "url": "https://www.gsmarena.com/additional_redmi_note_17_details_leak_including_chipset_charging_speed_and_ip_rating-news-73688.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-note-17-display-card-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "泄漏表明 Galaxy Z Flip8 将比 Z Flip7 更轻",
+      "source": "GSMArena",
+      "date": "2026-07-13",
+      "summary": "Samsung is expected to unveil the Galaxy Z Fold8 series and the Galaxy Z Flip8 at its Galaxy Unpacked event on...",
+      "url": "https://www.gsmarena.com/leak_suggests_galaxy_z_flip8_will_be_lighter_than_the_z_flip7-news-73687.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-z-flip8-dimensions-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Edge 70 Max 上手视频在发布前曝光，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-07-13",
+      "summary": "就在正式发布前两天，摩托罗拉 Edge 70 Max 的上手视频在网上出现，从各个角度仔细观察其设计。与此同时，一组新的官方渲染图也被泄露，展示了这款手机的所有颜色选项。上手视频显示，摩托罗拉 Edge 70 Max 将...，带来多项升级",
+      "url": "https://www.gsmarena.com/motorola_edge_70_max_handson_video_surfaces_ahead_of_launch-news-73686.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-edge-70-max-hands-on-renders-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Insta360 X6泄露揭示更小的设计和定价，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-07-13",
+      "summary": "Insta360 X6 似乎即将正式亮相。在预计发布之前，WinFuture 的 Roland Quandt 分享了这款运动相机的营销图片、主要规格和预期的欧洲定价。泄露的营销图片表明，Insta360 X6 将采用明显...，带来多项升级",
+      "url": "https://www.gsmarena.com/insta360_x6_leak_reveals_smaller_design_pricing-news-73685.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/insta360-x6-design-price-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 Pixel 11 Pro Fold 泄露了新的 Pine 色调，核心配...",
+      "source": "GSMArena",
+      "date": "2026-07-13",
+      "summary": "谷歌预计将在 8 月 12 日的 Made by Google 活动上推出 Pixel 11 Pro Fold 以及 Pixel 11 系列的其他产品。在发布之前，新的泄密事件已经浮出水面，让我们看到了这款可折叠手机的新...，带来多项升级",
+      "url": "https://www.gsmarena.com/google_pixel_11_pro_fold_leaks_in_new_pine_shade-news-73684.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/pixel-11-pro-fold-pine-color-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：iPhone 17 Pro Max 降价，Nothing Phone ...",
+      "source": "GSMArena",
+      "date": "2026-07-12",
+      "summary": "苹果的 iPhone 17 Pro Max 和 iPhone 17e 将于本周开售。与此同时，Nothings 新推出的 Phone 4b 现已接受预订。本周的促销活动还包括几款谷歌 Pixel 手机、小米 17 系列和...",
+      "url": "https://www.gsmarena.com/deals_iphone_17_pro_max_gets_a_price_cut_nothing_phone_4b_up_for_preorder-news-73677.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-10/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Nothing Phone (4b) 官方，Pixel 11 系列价格泄露，...",
+      "source": "GSMArena",
+      "date": "2026-07-12",
+      "summary": "欢迎来到本周回顾。 Nothing 掉落了手机 4b  更便宜，但保留了 Nothing 的核心规格  Glyph Bar但经过简化、677 英寸 120Hz AMOLED 显示屏、5200mAh 电池和 50MP 稳定...",
+      "url": "https://www.gsmarena.com/nothing_phone_4b_official_pixel_11_series_prices_leak-news-73671.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/week-28-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "每周民意调查：您会购买 Nothing Phone (4b) 吗？",
       "source": "GSMArena",
       "date": "2026-07-12",
-      "summary": "没有什么可以缩小其范围1月份，它宣布不会在2026年发布旗舰产品，上个月又取消了CMF Phone 3 Pro。只剩下 4a 手机，现在还有 4b 型号，这是本周早些时候宣布的新中端手机。Nothing Phone 4b...，带来多项升级",
+      "summary": "Nothing is narrowing its scope  in January it announced that it wont release a flagship in 2026 and last month...",
       "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_nothing_phone_4b-news-73653.php",
       "tags": [
         "安卓"
@@ -38,95 +122,35 @@
       "type": "news"
     },
     {
-      "title": "优惠：三星 Galaxy S26 Ultra 低于 1,000 美元，Gal...",
-      "source": "GSMArena",
-      "date": "2026-07-11",
-      "summary": "本月底，三星的注意力将转向推出新款 Galaxy Z 可折叠手机您已经可以在这里预订一台。我们知道有些人不喜欢可折叠设备，所以让我们来看看三星的平板旗舰产品的情况如何。三星 Galaxy S26 Ultra 的价格再次低...",
-      "url": "https://www.gsmarena.com/deals_the_samsung_galaxy_s26_ultra_is_under_1000_the_galaxy_s26_and_s26_are_also_on_sale-news-73666.php",
+      "title": "OpenAI 正在从 Gemini 的使用限制问题中吸取教训，并放宽 GPT...",
+      "source": "Android Authority",
+      "date": "2026-07-13",
+      "summary": "它扩大了 GPT56 的使用限制，消除了 5 小时的窗口。",
+      "url": "https://www.androidauthority.com/openai-is-learning-from-geminis-trouble-with-usage-limits-and-easing-restrictions-on-gpt-5-6-3686805/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "新的泄密事件几乎透露了有关三星即将推出的智能手表的所有信息",
+      "source": "Android Authority",
+      "date": "2026-07-13",
+      "summary": "除了高通 SoC 之外，Galaxy Watch Ultra 2 上的 800mAh 电池可能是最值得关注的变化。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-specs-leak-3686797/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-10/-184x111/gsmarena_us.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星健康用户要求允许使用其健康数据进行人工智能训练，否则将被删除",
-      "source": "GSMArena",
-      "date": "2026-07-11",
-      "summary": "一些三星健康用户在打开应用程序时看到一条通知，要求他们同意将其健康数据用于人工智能训练和建模。如果用户不同意，他们不仅无法将健康数据与其三星帐户同步，而且还会丢失，因为它会被删除。如果用户同意，三星将收集健康和保健数据、...",
-      "url": "https://www.gsmarena.com/samsung_health_data_ai_training_consent-news-73683.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-health-data-ai-training-consent/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Lava Virat V1 的设计、颜色和发布日期揭晓，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-07-11",
-      "summary": "印度手机制造商 Lava 最近宣布与印度在线零售商 Flipkart 合作推出全新 Virat 智能手机系列。现在，Lava 宣布该系列的首款智能手机将被命名为 Virat V1，该机将于印度当地时间 7 月 21 日中...",
-      "url": "https://www.gsmarena.com/lava_virat_v1_launch_date-news-73682.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/lava-virat-v1-launch-date/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy A27 与 Galaxy A37",
-      "source": "GSMArena",
-      "date": "2026-07-11",
-      "summary": "我们最近才完成对 Galaxy A27 的评测。与 Galaxy A 系列的其他兄弟产品例如早在 4 月份就推出的 Galaxy A37相比，它的发布时间相当晚。这只是 Galaxy A27 定价失当的原因之一。在美国，...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a27_vs_galaxy_a37_review_battery_camera_price_compared-news-73673.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-a27-vs-samsung-galaxy-a37/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "优惠：Nothing Phone (4b) 开始预购，Galaxy A57 ...",
-      "source": "GSMArena",
-      "date": "2026-07-11",
-      "summary": "Nothing 于本周早些时候推出了 Nothing Phone 4b，这是第一款 b 系列手机，但它是一款中档手机，与 a 系列机型没有什么不同。事实上，4a 是更好的手机。Nothing Phone 4b 配备 67...",
-      "url": "https://www.gsmarena.com/deals_nothing_phone_4b_goes_on_preorder_galaxy_a57_and_realme_16_pro_stand_in_its_way-news-73672.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-10/-184x111/gsmarena_de.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy XR 耳机终于登陆英国",
-      "source": "GSMArena",
-      "date": "2026-07-11",
-      "summary": "三星 Galaxy XR 耳机最初在韩国和美国推出后，现在终于在英国的三星在线商店有售。从六月中旬开始，那里就开始接受预订了。您可以以 1699 英镑的建议零售价购买一件。在有限的时间内官方新闻稿中并未具体说明，购买它还...",
-      "url": "https://www.gsmarena.com/samsungs_galaxy_xr_headset_finally_lands_in_the_uk-news-73678.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-xr-uk-available/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "联想在视频中展示了 Legion Y700 Ultimate 游戏平板电脑",
-      "source": "GSMArena",
-      "date": "2026-07-11",
-      "summary": "本月早些时候，联想开始预告一款支持 5G 的新 Legion 游戏平板电脑，并透露其完整发布将于 8 月发布。今天，该品牌在下面的视频中展示了该设备。该平板电脑现在似乎被称为Legion Y700 Ultimate，但这...，带来多项升级",
-      "url": "https://www.gsmarena.com/lenovo_shows_the_legion_y700_ultimate_gaming_tablet_in_a_video-news-73679.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/lenovo-legion-y700-ultimate-video/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "我对 Fitbit Air 的看法大错特错了——这件事改变了我的想法",
+      "title": "您应该购买 5 种流媒体设备来代替 谷歌 TV Streamer",
       "source": "Android Authority",
-      "date": "2026-07-12",
-      "summary": "使用 Fitbit Air 三周后，我严重怀疑我是否还需要订阅 WHOOP。",
-      "url": "https://www.androidauthority.com/i-couldnt-have-been-more-wrong-about-the-fitbit-air-3685038/",
+      "date": "2026-07-13",
+      "summary": "Google TV Streamer 是一款很棒的设备，但其中一些替代品可能更适合您。",
+      "url": "https://www.androidauthority.com/google-tv-streamer-alternatives-3685496/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "揭秘 Android 手机 2026 年电池续航时间背后的隐秘数学",
+      "title": "这款售价 185 美元的带键盘袖珍电脑是个好主意，我们希望它能上市",
       "source": "Android Authority",
-      "date": "2026-07-12",
-      "summary": "OnePlus 和 HONOR 等品牌正在尝试重新定义电池健康状况，但并不完全是为了更好。",
-      "url": "https://www.androidauthority.com/android-phone-battery-life-claims-sneaky-math-2026-3683394/",
+      "date": "2026-07-13",
+      "summary": "最后，一个不会诱使您打开社交媒体的小工具。",
+      "url": "https://www.androidauthority.com/pocketmage-crowdfunded-computer-3686775/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "您应该注册 5 家运营商，而不是 Helium Mobile",
+      "title": "What’s the point of foldable Pixel pho...",
       "source": "Android Authority",
-      "date": "2026-07-12",
-      "summary": "对 Noble 最近收购 Helium Mobile 不感兴趣吗？让我们谈谈替代方案。",
-      "url": "https://www.androidauthority.com/helium-mobile-alternatives-3685358/",
+      "date": "2026-07-13",
+      "summary": "硬件赢得了可折叠战争，而谷歌却没有跟上。",
+      "url": "https://www.androidauthority.com/foldable-pixel-phones-whats-the-point-3684076/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "我尝试了 DuckDuckGo 的全新免费 YouTube 广告拦截器。这是...",
+      "title": "调查发现切换应用程序是大多数 Android 用户最不想做的事情",
       "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "没有高级版？没问题。 DuckDuckGot 你的背！",
-      "url": "https://www.androidauthority.com/duckduckgo-youtube-ad-blocker-how-use-3686151/",
+      "date": "2026-07-13",
+      "summary": "几乎十分之九的读者喜欢坚持他们所知道的内容。",
+      "url": "https://www.androidauthority.com/switch-android-apps-poll-results-3686761/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "Dreame X60 Max Ultra Complete 拥有成功的秘诀，...",
+      "title": "Insta360的下一代360°相机泄露，机身更小，8K视频更流畅，核心配置...",
       "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "Dreame X60 Max Ultra Complete 是一款超高级地板清洁系统，需要过多的干预。",
-      "url": "https://www.androidauthority.com/dreame-x60-max-ultra-review-3684554/",
+      "date": "2026-07-13",
+      "summary": "它还准备在美国推出。",
+      "url": "https://www.androidauthority.com/insta360-x6-leak-3686738/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +206,23 @@
       "type": "news"
     },
     {
-      "title": "我曾经很喜欢克劳德，但最新的款式正在慢慢毁掉它",
+      "title": "每次换用 iPhone 时我都会怀念的 5 个 Android 功能",
       "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "这不是我曾经爱过的克劳德。",
-      "url": "https://www.androidauthority.com/claude-latest-models-pushback-bad-3683521/",
+      "date": "2026-07-13",
+      "summary": "遗憾的是 iPhone 到了 2026 年仍然无法做到这些事情。",
+      "url": "https://www.androidauthority.com/5-android-features-i-miss-when-switching-iphone-3685743/",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌地图沉浸式导航似乎正在为 Android Auto 推出",
+      "source": "Android Authority",
+      "date": "2026-07-13",
+      "summary": "这似乎是服务器端推出，因此您可能需要等待一段时间。",
+      "url": "https://www.androidauthority.com/google-maps-immersive-navigation-android-auto-rollout-3686750/",
       "tags": [
         "安卓"
       ],
@@ -194,47 +230,11 @@
       "type": "news"
     },
     {
-      "title": "我希望在我购买新车之前有人告诉我这 5 项 Android Auto 设置",
+      "title": "OnePlus 最新手机因误导性营销主张而面临强烈反对",
       "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "一些 Android Auto 设置大有帮助。",
-      "url": "https://www.androidauthority.com/first-car-android-auto-most-important-settings-3684583/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我如何将 Pixel 变成终极 Home Assistant 智能家居伴侣",
-      "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "我现在无法想象没有 Pixel 的智能家居生活。",
-      "url": "https://www.androidauthority.com/pixel-home-assistant-smart-home-companion-3684122/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我尝试了重新设计的新 谷歌 Photos Android 应用程序，现在我希...",
-      "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "这是一个很小的变化，但却是值得欢迎的。",
-      "url": "https://www.androidauthority.com/google-photos-redesigned-navigation-bar-good-3686008/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Duolingo 正在打破用户的语言课程——这正是我退出的原因",
-      "source": "Android Authority",
-      "date": "2026-07-11",
-      "summary": "如果语言学习应用程序无法让您继续学习，它还有什么意义呢？",
-      "url": "https://www.androidauthority.com/duolingo-broken-updated-courses-why-i-quit-3686405/",
+      "date": "2026-07-13",
+      "summary": "OnePlus N6 的 4GB 版本缺少一些功能，但该公司在没有充分免责声明的情况下自由进行广告。",
+      "url": "https://www.androidauthority.com/oneplus-n6-misleading-marketing-claims-3686730/",
       "tags": [
         "安卓"
       ],
