@@ -1,132 +1,168 @@
 {
-  "updated": "2026-07-14 10:13",
+  "updated": "2026-07-15 10:18",
   "news": [
     {
-      "title": "Pixel 11 系列美国定价和主要规格通过泄露的清单透露，核心配置曝光",
+      "title": "摩托罗拉 Edge 70 Max 正式发布，配备 7,100mAh 电池和 ...",
+      "source": "GSMArena",
+      "date": "2026-07-15",
+      "summary": "摩托罗拉通过推出 Edge 70 Max 扩大了其在印度的 Edge 70 系列。这款新智能手机配备 68 英寸大显示屏、7100mAh 电池和 Snapdragon 8 Gen 5 芯片组。68 英寸 AMOLED 显...",
+      "url": "https://www.gsmarena.com/motorola_edge_70_max_is_official_with_a_7100mah_battery_and_68inch_display-news-73726.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-edge-70-max-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星就三星健康数据用于人工智能训练的情况进行了澄清",
+      "source": "GSMArena",
+      "date": "2026-07-15",
+      "summary": "上周，一些三星健康用户报告在打开应用程序时看到一条通知，要求他们同意将其健康数据用于人工智能训练和建模。虽然用户可以选择撤回同意，但通知指出，这样做将导致他们的健康数据被删除，并且他们将无法将其与三星帐户同步。三星因此受...",
+      "url": "https://www.gsmarena.com/samsung_health_data_ai_training_consent_clarification-news-73725.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-health-data-ai-training-consent-clarification/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星的整个 Galaxy Unpacked 系列出现在泄露的渲染图中，核心配...",
+      "source": "GSMArena",
+      "date": "2026-07-15",
+      "summary": "距离三星 Galaxy Unpacked 活动仅剩一个周末，预计该公司将在会上推出最新的 Galaxy Z 可折叠手机和 Galaxy 手表。在此之前，另一批展示整个阵容的官方渲染图已经浮出水面。泄露的信息还透露了宽屏 ...",
+      "url": "https://www.gsmarena.com/samsungs_entire_galaxy_unpacked_lineup_appears_in_leaked_renders-news-73724.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-z-fold8-ultra-flip8-watch9-ultra-2-family-renders-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Poco M8 Power 即将更名为 红米",
+      "source": "GSMArena",
+      "date": "2026-07-15",
+      "summary": "今天早些时候，Redmi 在中国推出了 Note 17 和 Note 17 Pro。前者的型号为26021RN18C。与此同时，在最新的 HyperOS 固件版本中，发现了对 Poco M8 Power 的引用，该型号的...",
+      "url": "https://www.gsmarena.com/poco_m8_power_is_on_its_way_as_a_rebranded_redmi-news-73721.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/poco-m8-power-surfaces/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO Z11 Lite 的电池在发布前详细介绍，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-07-15",
+      "summary": "iQOO将于7月24日推出Z11 Lite。该品牌此前确认Z11 Lite将支持44W充电，现在又透露该智能手机将配备6500mAh电池。此外，iQOO表示Z11 Lite将支持反向充电和旁路充电，电池五年后仍能保持80...",
+      "url": "https://www.gsmarena.com/iqoo_z11_lite_battery_capacity_revealed-news-73715.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-z11-lite-battery-capacity-revealed/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星预告 Flex Titanium 技术，这是其下一代可折叠产品的关键创新",
       "source": "GSMArena",
       "date": "2026-07-14",
-      "summary": "谷歌将于 8 月 12 日推出 Pixel 11 系列。在发布之前，泄露的渲染图已经揭示了 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL 和 Pixel 11 Pro Fold 的设计。新的...，带来多项升级",
-      "url": "https://www.gsmarena.com/pixel_11_series_us_pricing_and_key_specs_revealed_via_leaked_listing-news-73704.php",
+      "summary": "Galaxy Z Fold7 采用第三代 Armor FlexHinge，比 Z Fold6 内部的铰链薄 27、轻 43。现在，该公司正在推出下一项创新技术Flex Titanium，该创新技术将使可折叠显示器变得更加...",
+      "url": "https://www.gsmarena.com/samsung_introduces_flex_titanium_a_key_innovation_for_its_nextgen_foldables-news-73709.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/pixel-11-pro-xl-fold-us-price-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-flex-titanium-technology/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "华为 FreeClip 2 S 与 MatePad Air (2026) 一...",
+      "title": "华为 Pura 90s Pro 上手体验：看看这两款手机中更紧凑的选择",
       "source": "GSMArena",
       "date": "2026-07-14",
-      "summary": "在马来西亚举行的活动中，华为不仅发布了 Pura 90s 系列旗舰手机，还发布了 FreeClip 2 S Signature Edition 和 MatePad Air 2026。 FreeClips 和 MatePa...，带来多项升级",
-      "url": "https://www.gsmarena.com/huawei_freeclip_2_s_announced_alongside_the_matepad_air_2026-news-73698.php",
+      "summary": "华为刚刚发布了新款 Pura 90s 手机  Pura 90s Pro 和 Pura 90s Pro Max。两款非常相似的手机，但针对的人群略有不同。当然，Pro Max 为您提供所有高端功能，而 90s Pro 则占...，带来多项升级",
+      "url": "https://www.gsmarena.com/huawei_pura_90s_pro_handson-news-73723.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/huawei-freeclips-2-matepad-air-offic/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/huawei-pura-90s-pro-handson/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "华为Pura 90s Pro Max全球首发200MP远摄，Pura 90s...",
+      "title": "二季度中国智能手机市场萎缩，华为、苹果逆势上扬",
       "source": "GSMArena",
       "date": "2026-07-14",
-      "summary": "今年早些时候，华为针对中国市场推出了Pura 90 Pro和90 Pro Max。现在，该公司正在推出两款90 年代型号，它们的硬件基本相同，但将在全球市场上销售。两款 Pura 90s Pro 型号共享许多相同的硬件。...",
-      "url": "https://www.gsmarena.com/huawei_pura_90s_pro_max_goes_global_with_200mp_tele_cam_pura_90s_pro_also_unveiled-news-73694.php",
+      "summary": "Omdia昨天发布了今年第二季度46月全球智能手机市场份额报告，今天跟进中国大陆市场情况。与 2025 年第二季度相比，整体出货量下降了 2。尽管如此，华为和苹果都成功实现了出货量和市场份额的增长。如下图所示，华为设备出...，带来多项升级",
+      "url": "https://www.gsmarena.com/china_smartphone_market_shrank_in_q2_but_huawei_and_apple_bucked_the_trend-news-73712.php",
       "tags": [
-        "安卓"
+        "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/huawei-pura-90s-pro-announcement/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/chinese-smartphone-market-shipments-q2/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "华为Pura 90s Pro Max上手评测，真实体验如何？",
+      "title": "传闻中的三星 Galaxy S27 Ultra 最大变化可能不会发生",
       "source": "GSMArena",
       "date": "2026-07-14",
-      "summary": "华为Pura 90s Pro Max上手评测",
-      "url": "https://www.gsmarena.com/huawei_pura_90s_pro_max_hands_on-review-2979.php",
+      "summary": "早在 4 月份，就有来自韩国的传言称三星正在重新设计整个 Galaxy S27 系列的后部，相机岛被移动，以便该公司最终能够在其旗舰手机上安装用于无线充电的磁铁。几天后，下面看到的推测渲染图出现，据称展示了 Galaxy...",
+      "url": "https://www.gsmarena.com/the_biggest_change_rumored_for_the_samsung_galaxy_s27_ultra_may_not_be_happening-news-73722.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/huawei-pura-90s-pro-max-hands-on-review/-347x151/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/04/samsung-galaxy-s27-ultra-one-less-camera/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "WhatsApp 正在测试其 iOS 版加密云存储备份解决方案",
+      "title": "Pixel Watch 5 官方渲染图已泄露，核心配置曝光",
       "source": "GSMArena",
       "date": "2026-07-14",
-      "summary": "早在四月份，我们就了解到 WhatsApp 正在开发一项功能，允许其 Android 用户在自己的加密云存储上备份他们的 WhatsApp 聊天记录。现在我们听说 Meta 旗下的公司也在 iOS 上测试此功能。这一消息...",
-      "url": "https://www.gsmarena.com/whatsapp_encrypted_cloud_storage_feature_test_ios-news-73703.php",
+      "summary": "与 Pixel 11 系列不同，Pixel Watch 5 并没有成为很多泄密的主题。然而，有关其定价和颜色选择的详细信息最近被泄露，现在这款智能手表在预计于 8 月 12 日首次亮相之前已经出现在官方媒体渲染图中。Th...",
+      "url": "https://www.gsmarena.com/pixel_watch_5_official_press_renders_have_leaked-news-73720.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/whatsapp-encrypted-cloud-storage-feature-test-ios/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/pixel-watch-5-official-renders/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "HMD 可能取消了 Fusion 2 模块化智能手机",
-      "source": "GSMArena",
-      "date": "2026-07-14",
-      "summary": "HMD 早在 2024 年 9 月就推出了采用模块化设计的 Fusion 智能手机，去年 10 月就有传言称会推出 Fusion 2。然而，它还没有到来，现在来自通常可靠的 HMD 相关信息来源的新谣言旨在解释原因。In...",
-      "url": "https://www.gsmarena.com/hmd_may_have_canceled_the_fusion_2_modular_smartphone-news-73700.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/hmd-fusion-2-may-be-canceled/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Sony LinkBuds Clip 在印度推出",
-      "source": "GSMArena",
-      "date": "2026-07-14",
-      "summary": "索尼在印度市场推出了 LinkBuds Clip 型号。它们的售价为 18990 印度卢比，将于 7 月 13 日起在线上和线下零售商处发售。LinkBuds Clip 是一款开放式耳塞，采用当前流行的夹式设计。这种设计...",
-      "url": "https://www.gsmarena.com/sony_linkbuds_clip_launched_in_india-news-73702.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/linkbuds-clip-india/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "这可能是 OnePlus 的最后一周",
-      "source": "GSMArena",
-      "date": "2026-07-14",
-      "summary": "这个预兆已经存在了几个月，但本周可能最终会带来真相时刻。如果最新传言属实，一加可能即将关闭其全球业务，从而使 Android 最知名的品牌之一戛然而止。OnePlus 一开始是一个独立品牌。然后，在过去的几年里，OPPO...",
-      "url": "https://www.gsmarena.com/this_may_be_oneplus_final_week-news-73701.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oneplus-could-die-this-week/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新的 谷歌 Pixel 11 渲染图以三种颜色显示",
-      "source": "GSMArena",
-      "date": "2026-07-13",
-      "summary": "Google 将于 8 月 12 日发布 Pixel 11 系列，不久前我们已经在基于 CAD 的渲染中看到了 Pixel 11。现在，三个新的渲染图已经浮出水面，似乎用三种不同的颜色描绘了该设备。这些已在亚马逊上找到，...，带来多项升级",
-      "url": "https://www.gsmarena.com/new_google_pixel_11_renders_show_it_in_three_colors-news-73696.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-new-renders/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "欧盟委员会计划限制儿童使用社交媒体",
-      "source": "GSMArena",
-      "date": "2026-07-13",
-      "summary": "欧盟委员会主席乌苏拉冯德莱恩 Ursula von der Leyen 表示，欧盟委员会将在今年晚些时候提出新规则，限制整个欧盟儿童使用社交媒体。此举遵循了一个专家小组的建议，该小组的任务是寻找更好地保护未成年人免受网络...",
-      "url": "https://www.gsmarena.com/european_commission_plans_to_limit_childrens_access_to_social_media-news-73697.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/eu-social-media-ban-children/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "使用 Razr Fold 一个月后，我无法再使用 Galaxy Z Fold...",
+      "title": "谷歌地图的“询问地图”功能很快就能帮助你计划你的旅行",
       "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "Razr Fold 看起来更好、使用寿命更长、充电速度更快。",
-      "url": "https://www.androidauthority.com/motorola-razr-fold-one-month-later-ruined-z-fold-7-3686091/",
+      "date": "2026-07-15",
+      "summary": "询问地图很快就能帮助您找到下次公路旅行时风景最优美的路线。",
+      "url": "https://www.androidauthority.com/google-maps-ask-maps-trip-planning-3687686/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "VITURE Beast 是我每次旅行都想带的第一副 XR 眼镜",
+      "source": "Android Authority",
+      "date": "2026-07-15",
+      "summary": "基于硬件的 DoF 跟踪使 VITURE Beast 名副其实。",
+      "url": "https://www.androidauthority.com/viture-beast-review-3686604/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "为什么我拒绝在没有这款已停产的 Chromecast 的情况下旅行（以及为什...",
+      "source": "Android Authority",
+      "date": "2026-07-15",
+      "summary": "我无法想象没有我忠实的老媒体门户的公路旅行。",
+      "url": "https://www.androidauthority.com/old-chromecast-favorite-travel-gadget-3686317/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Exynos 2700 最终能否击败 Snapdragon？三星需要进行 4...",
+      "source": "Android Authority",
+      "date": "2026-07-15",
+      "summary": "三星能否最终平息 Exynos 与 Snapdragon 的争论？",
+      "url": "https://www.androidauthority.com/exynos-2700-wishlist-beat-snapdragon-3684805/",
       "tags": [
         "三星"
       ],
@@ -134,71 +170,11 @@
       "type": "news"
     },
     {
-      "title": "Android 上的 Chrome 正在重新设计导航栏，为 Gemini 腾...",
+      "title": "使用 Galaxy Z Fold 7 和 Razr Fold 后，Pixel...",
       "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "不管你喜欢与否，Gemini 在 Android 版 Chrome 中获得了更多功能。",
-      "url": "https://www.androidauthority.com/chrome-android-navigation-bar-gemini-3687175/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "AtomForm 如何让每个人都能使用 3D 打印",
-      "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "AtomForm 全球总裁 Jagger Shang 讨论了 Palette 300 背后的想法和奖项以及未来的前景。",
-      "url": "https://www.androidauthority.com/atomform-jagger-shang-interview-3685768/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "除非谷歌修复其糟糕的肖像模式，否则我不会购买 Pixel 11",
-      "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "Pixel 10 最大的相机弱点是无法正确拍摄人像。",
-      "url": "https://www.androidauthority.com/pixel-10-bad-portrait-photos-3685303/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "适用于 Linux 手持设备的最佳应用现已登陆 Android",
-      "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "借助这个新应用程序，您现在可以轻松地在 Android 上玩移植的 Linux 游戏。",
-      "url": "https://www.androidauthority.com/starboard-app-linux-games-android-3687131/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我每天都使用 NotebookLM，以下是我最喜欢的 5 个提示和技巧",
-      "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "窃取我最喜欢的 NotebookLM 工作流程。",
-      "url": "https://www.androidauthority.com/notebooklm-tips-tricks-2026-3684989/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "一些 Galaxy S26 Ultra 屏幕慢慢变红，三星目前还不知道原因",
-      "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "Galaxy S26 Ultra 的显示问题似乎还没有结束。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-display-issue-turning-red-3687135/",
+      "date": "2026-07-15",
+      "summary": "我想要喜欢 Pixel 可折叠手机，但谷歌需要大年才能赢回我的心。",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-needs-these-upgrades-3687183/",
       "tags": [
         "三星"
       ],
@@ -206,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 的 7 月 Play 系统为 Play 商店、Wear OS 和地图带...",
+      "title": "第一款万向节手机可能具有一些重要的规格",
       "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "这个最安静的 Android 升级可能是最有用的升级之一。",
-      "url": "https://www.androidauthority.com/google-system-update-july-2026-3687139/",
+      "date": "2026-07-15",
+      "summary": "荣耀的云台拍照手机有潜力成为一款优秀的拍照旗舰。",
+      "url": "https://www.androidauthority.com/honor-robot-phone-specs-leak-3687643/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "这款新旗舰凭借尖端的相机硬件甚至让 Ultra 手机相形见绌",
+      "title": "Android最大的店内店重组将于下周开始",
       "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "高端型号甚至配备了防眩光显示屏，就像三星的 Ultra 手机一样。",
-      "url": "https://www.androidauthority.com/huawei-pura-90s-pro-series-global-3686717/",
+      "date": "2026-07-15",
+      "summary": "谷歌和 Epic 联合撤回了之前的和解协议，美国的 Play 商店需要进行重大改变。",
+      "url": "https://www.androidauthority.com/epic-google-play-store-settlement-withdrawn-3687649/",
       "tags": [
         "安卓"
       ],
@@ -230,13 +206,37 @@
       "type": "news"
     },
     {
-      "title": "突发事件：Galaxy S26 系列获得第四个 One UI 9 Beta ...",
+      "title": "稳定版 Android 17 即将面向首批非 Pixel 手机推出",
       "source": "Android Authority",
-      "date": "2026-07-14",
-      "summary": "最新的 1250MB 更新针对了稳定版发布之前全球用户的多个 UI 和常规问题。，带来多项升级",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-one-ui-9-beta-4-3687144/",
+      "date": "2026-07-15",
+      "summary": "但没有最好的 Android 17 功能。",
+      "url": "https://www.androidauthority.com/stable-android-17-xiaomi-17-ultra-3687634/",
       "tags": [
-        "三星"
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌为 Pixel 9 和 Pixel 10 用户提供 Pixel Care...",
+      "source": "Android Authority",
+      "date": "2026-07-15",
+      "summary": "谷歌最新的 Pixel Care Plus 优惠允许您在通常的 60 天截止日期后注册，但如果您有可折叠手机则不行。",
+      "url": "https://www.androidauthority.com/google-pixel-care-plus-reopened-pixel-9-pixel-10-3687640/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Sonos 终于为其极其糟糕的应用程序推出了更新",
+      "source": "Android Authority",
+      "date": "2026-07-15",
+      "summary": "花了两年时间，Sonos 终于有了更新来修复其灾难性的应用程序重新设计。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/sonos-app-update-fix-broken-redesign-3687610/",
+      "tags": [
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
