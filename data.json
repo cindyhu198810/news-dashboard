@@ -1,6 +1,90 @@
 {
-  "updated": "2026-07-19 10:03",
+  "updated": "2026-07-20 11:18",
   "news": [
+    {
+      "title": "高通 Snapdragon 4 Gen 6 细节泄露，值得期待，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-07-20",
+      "summary": "高通正在开发一款型号为 SM4875 的新芯片组，其详细信息现已泄露。预计它将被称为 Snapdragon 4 Gen 6，因此显然将是 5 月份推出的 Snapdragon 4 Gen 5 的继任者。Snapdrago...",
+      "url": "https://www.gsmarena.com/qualcomm_snapdragon_4_gen_6_details_leak_heres_what_to_expect-news-73792.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/qualcomm-snapdragon-4-gen-6-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo A7 Pro Max 即将推出，配备 10,000mAh 电池",
+      "source": "GSMArena",
+      "date": "2026-07-20",
+      "summary": "最新消息显示 Oppo 正准备推出 A7 系列智能手机。泄密事件还揭示了该系列传闻机型之一 Oppo A7 Pro Max 的关键规格。Tipster Digital Chat Station 在微博上分享了 Oppo ...",
+      "url": "https://www.gsmarena.com/oppo_a7_pro_max_is_coming_soon_with_a_10000mah_battery-news-73790.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oppo-a7-pro-max-specs-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "据报道，三星 Galaxy Z Fold8（宽屏）产量将超过 Fold8 U...",
+      "source": "GSMArena",
+      "date": "2026-07-20",
+      "summary": "在三星 7 月 22 日举行 Galaxy Unpacked 活动之前，一份新的供应链报告披露了该公司即将推出的 Galaxy Z 可折叠智能手机的计划产量。报道援引行业消息称，三星为宽屏 Galaxy Z Fold8 ...",
+      "url": "https://www.gsmarena.com/samsung_to_reportedly_produce_more_galaxy_z_fold8_wide_units_than_fold8_ultra_and_flip8-news-73789.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-fold8-higher-production-report/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X300 E将于下周亮相，配备7200mAh电池、蔡司长焦镜头",
+      "source": "GSMArena",
+      "date": "2026-07-20",
+      "summary": "经过数周的传闻，vivo 正式确认了 X300 E。这款智能手机将于下周在中国上市。 vivo 还透露了其设计、颜色选项和一些关键规格。vivo X300 E 将于 7 月 27 日在中国上市，目前已经通过该公司的官方网...",
+      "url": "https://www.gsmarena.com/vivo_x300e_to_debut_next_week_with_a_7200mah_battery_zeiss_telephoto_lens-news-73788.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/vivo-x300e-confirmed-specs/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：iPhone Air 立减 200 英镑，Poco 和 Nothing...",
+      "source": "GSMArena",
+      "date": "2026-07-19",
+      "summary": "上周，我们了解了 iPhone 17e 和 17 Pro Max 的一些折扣，现在让我们来看看不同的型号 iPhone Air。该手机是目前最薄的手机之一，厚度为 56 毫米，重量仅为 165 克。尽管其身材纤细，但它采...",
+      "url": "https://www.gsmarena.com/deals_the_iphone_air_is_200_off_poco_and_nothing_phones_on_sale-news-73775.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-17/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "红米 Note 17/17 Pro 正式发布，OnePlus 退出欧洲和北美...",
+      "source": "GSMArena",
+      "date": "2026-07-19",
+      "summary": "小米在中国正式推出了 Redmi Note 17 和 Redmi Note 17 Pro，电池规格令人印象深刻。 Redmi Note 17 配备了 8000 mAh 的超大电池，而 Pro 则进一步提高了标准，配备了 ...",
+      "url": "https://www.gsmarena.com/redmi_note_17_17_pro_official_oneplus_exits_europe_and_north_america_week_29_in_review-news-73778.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/week-29-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周调查：你会购买摩托罗拉 Edge 70 Max吗？",
+      "source": "GSMArena",
+      "date": "2026-07-19",
+      "summary": "随着其软件更新政策的争议现已基本消除，摩托罗拉 Edge 70 Max 成为一款相当有趣的设备与其他手机中的 Snapdragon 7 和 Dimensity 8 系列芯片相比，它拥有 Edge 70 系列中最强大的芯片...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_motorola_edge_70_max-news-73755.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-poll-motorola-edge-70-max/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "每周民意调查结果：Nothing Phone 的形势看起来很严峻 (4b)",
       "source": "GSMArena",
@@ -38,95 +122,35 @@
       "type": "news"
     },
     {
-      "title": "Android 锁屏绕过允许 Gemini 无需验证即可发送短信",
-      "source": "GSMArena",
-      "date": "2026-07-18",
-      "summary": "这些事情时常发生，特别是在处理具有如此多边缘情况的复杂软件时，尤其是具有特殊权限的软件例如 Gemini 从锁定屏幕运行的能力。在传统的黑客圈子中，这被称为身份验证绕过漏洞或锁屏绕过漏洞。观察人们发现或经常偶然发现的东西...",
-      "url": "https://www.gsmarena.com/android_lockscreen_bypass_allows_gemini_to_send_sms_without_verification-news-73785.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/android-16-gemini-lockscreen-bypass-bug/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果 Music 和 苹果 One 订阅价格上涨",
-      "source": "GSMArena",
-      "date": "2026-07-18",
-      "summary": "苹果提高了美国和其他国家地区的 Apple Music 和 Apple One 订阅价格。在美国，个人 Apple Music 计划从 1099 美元上涨至 1199 美元，而学生和家庭计划现在的价格分别为 699 美元...",
-      "url": "https://www.gsmarena.com/apple_music_apple_one_subscription_price_hike-news-73783.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-music-apple-one-subscription-price-hike/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "优惠：Pixel 10、10 Pro 和 10 Pro XL 促销，Noth...",
-      "source": "GSMArena",
-      "date": "2026-07-18",
-      "summary": "谷歌已经在预告 Pixel 11 系列，该系列将于 8 月 12 日发布。这些可能是第一款采用台积电 2nm 晶圆厂芯片组的手机，预计会将三星调制解调器更换为联发科调制解调器。我们甚至看到美国市场的价格被泄露。有传言称，...，带来多项升级",
-      "url": "https://www.gsmarena.com/deals_pixel_10_10_pro_and_10_pro_xl_are_on_sale_nothing_phone_4a_pro_gets_discounted_too-news-73769.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-17/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米 Mix Fold 5 被发现在野外运行 HyperOS 4",
-      "source": "GSMArena",
-      "date": "2026-07-18",
-      "summary": "小米Mix Fold 5来了我们确实知道这一点。事实上，它可能会更早到来，许多传言猜测发布时间为 2026 年 8 月。该设备似乎先于小米 18 系列设备在中国获得认证，这是可能提前发布的好兆头。此外，与小米 18 系列...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_mix_fold_5_spotted_in_the_wild_running_hyperos_4-news-73787.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/xiaomi-mix-fold-5-live-photos-leak/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Pixel 11a 规格泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-07-18",
-      "summary": "一位颇有信誉的泄密者泄露了谷歌新a系列设备的一些所谓规格，如果属实，它可能是多年来发布的最好的一款。坦白说，其中至少有一个我们没有预料到的大惊喜芯片组。当谷歌于 2026 年 3 月推出 Pixel 10a 时，大多数潜...，带来多项升级",
-      "url": "https://www.gsmarena.com/google_pixel_11a_specs_leak-news-73781.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11a-specs-leak/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Evan Blass 泄露的新信息展示了 Z Fold8、Z Fold8 U...",
-      "source": "GSMArena",
-      "date": "2026-07-18",
-      "summary": "至此，我们已经看到并听到了这一切。到目前为止，我们所看到的 Galaxy Z Fold8、Z Fold8 Ultra 和 Galaxy Watch9 的泄露信息完全没有留下任何想象空间。我们已经看到了一些渲染图和大部分规...",
-      "url": "https://www.gsmarena.com/new_leak_by_evan_blass_shows_the_z_fold8_z_fold8_ultra_and_galaxy_watch9_confirms_some_specs-news-73784.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-z-fold8-new-renders/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌开始向印度发送 Pixel 11 系列发布会邀请函，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-07-18",
-      "summary": "谷歌上周向美国媒体发出了参加 Pixel 11 系列发布会的邀请，该发布会将于美国东部时间 8 月 12 日下午 6 点在纽约举行。现在，这家总部位于山景城的科技巨头也向印度发出了邀请。谷歌 Pixel 11 系列印度发...，带来多项升级",
-      "url": "https://www.gsmarena.com/google_pixel_11_series_india_launch_event_invite-news-73780.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-series-india-launch-invite/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy Watch 9 看起来很棒，但 Garmin 的这个功能可能会...",
+      "title": "发现了新的 Android Developer Verifier 应用程序吗...",
       "source": "Android Authority",
-      "date": "2026-07-19",
-      "summary": "当一个分数可以满足时，为什么要满足于多个分数呢？",
-      "url": "https://www.androidauthority.com/garmin-body-battery-vs-samsung-energy-score-3687737/",
+      "date": "2026-07-20",
+      "summary": "谷歌的新系统服务正在为更严格的侧面加载奠定基础，但现在卸载它还为时过早。",
+      "url": "https://www.androidauthority.com/android-developer-verifier-app-rollout-3689106/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "这款来自朝鲜的奇怪 Pixel 8 Pro 克隆机以令人惊讶的方式击败了谷歌...",
+      "source": "Android Authority",
+      "date": "2026-07-20",
+      "summary": "假冒的 Pixel 不知何故带来了比谷歌更多的内存。",
+      "url": "https://www.androidauthority.com/google-pixel-8-pro-north-korean-clone-3689117/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星即将证明它仍然是最令人兴奋的 Android 品牌之一",
+      "source": "Android Authority",
+      "date": "2026-07-20",
+      "summary": "这次 Unpacked 不仅仅只是谈论人工智能。",
+      "url": "https://www.androidauthority.com/samsung-unpacked-most-exciting-android-brand-fold-8-3688522/",
       "tags": [
         "三星"
       ],
@@ -134,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "厌倦了免费游戏的垃圾？ 2026 年这 6 款值得付费的 Android 游...",
+      "title": "LG 显示器正在您的 Windows PC 上悄悄安装广告软件",
       "source": "Android Authority",
-      "date": "2026-07-19",
-      "summary": "虽然大多数 Android 游戏都是跨平台独立游戏或旧移植游戏，但这里仍然有一些精华。",
-      "url": "https://www.androidauthority.com/best-paid-android-games-2026-3685950/",
+      "date": "2026-07-20",
+      "summary": "将 LG 显示器连接到 Windows PC，然后看到 McAfee 弹出窗口？你并不孤单。",
+      "url": "https://www.androidauthority.com/lg-monitors-adware-app-install-windows-pc-3689115/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +170,23 @@
       "type": "news"
     },
     {
-      "title": "使用三星安全文件夹的 5 种被忽视的方法彻底改变了我的 Galaxy 手机",
+      "title": "Pixel 11 Pro 的 LED 灯是 Android 的辉煌复古",
       "source": "Android Authority",
-      "date": "2026-07-19",
-      "summary": "这不仅仅是为了保守秘密。",
-      "url": "https://www.androidauthority.com/samsung-secure-folder-overlooked-features-3686133/",
+      "date": "2026-07-20",
+      "summary": "Pixel Glow 看起来像是久经考验的通知 LED 的现代化版本，我就是为了它而来的。",
+      "url": "https://www.androidauthority.com/pixel-11-pro-pixel-glow-throwback-3688717/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy Z Flip 7 使用一年后，三星为何应该退出",
+      "source": "Android Authority",
+      "date": "2026-07-20",
+      "summary": "Galaxy Z Flip 7 使用一年后，三星为何应该退出",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-7-one-year-later-samsung-should-quit-3688346/",
       "tags": [
         "三星"
       ],
@@ -158,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "我让人工智能接管我的 谷歌 TV 一周——它解决了流媒体的最大问题",
+      "title": "OnePlus离开美国对于Android的未来来说是一个可怕的迹象",
       "source": "Android Authority",
-      "date": "2026-07-18",
-      "summary": "Project Neo 用对话式人工智能取代了无休止的电视浏览。",
-      "url": "https://www.androidauthority.com/ai-took-over-google-tv-fixed-streaming-problem-3686072/",
+      "date": "2026-07-20",
+      "summary": "这不是 Android 世界所需要的。",
+      "url": "https://www.androidauthority.com/oneplus-leaving-us-terrifying-android-future-3688780/",
       "tags": [
         "安卓"
       ],
@@ -170,59 +206,11 @@
       "type": "news"
     },
     {
-      "title": "当谷歌袖手旁观时，糟糕的广告正在破坏 Android 的免费应用生态系统",
+      "title": "三星在宽屏折叠上下了大赌注",
       "source": "Android Authority",
-      "date": "2026-07-18",
-      "summary": "Play 商店的enshitification。",
-      "url": "https://www.androidauthority.com/terrible-ads-ruining-android-apps-google-doing-nothing-3687904/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "ChatGPT Atlas 关闭后可使用的 5 个人工智能网络浏览器",
-      "source": "Android Authority",
-      "date": "2026-07-18",
-      "summary": "ChatGPT Atlas 未能成功，但许多功能强大的人工智能浏览器已经成功。",
-      "url": "https://www.androidauthority.com/best-ai-browsers-2026-3687497/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Pixel Glow 是真实存在的，但它并不能解决 谷歌 Pixel 11 ...",
-      "source": "Android Authority",
-      "date": "2026-07-18",
-      "summary": "Pixel Glow 已经来了，但这就足够了吗？",
-      "url": "https://www.androidauthority.com/pixel-glow-doesnt-solve-pixel-11-biggest-problems-3688323/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我希望每部 Android 手机都有 5 个摩托罗拉软件功能",
-      "source": "Android Authority",
-      "date": "2026-07-18",
-      "summary": "用手机打空手道很酷。",
-      "url": "https://www.androidauthority.com/motorola-software-want-other-android-phones-3687286/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy 2026 年 7 月开箱：对三星可折叠手机等产品有何期待",
-      "source": "Android Authority",
-      "date": "2026-07-18",
-      "summary": "三星的 Unpacked 活动即将来临，以下是您需要了解的有关商店内容的所有信息。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-unpacked-july-2026-what-to-expect-3688548/",
+      "date": "2026-07-20",
+      "summary": "三星预计更多人会选择宽屏版 Galaxy Z Fold 8，而不是旗舰版 Z Fold 8 Ultra。",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-production-volume-increased-3689103/",
       "tags": [
         "三星"
       ],
@@ -230,13 +218,25 @@
       "type": "news"
     },
     {
-      "title": "我在隐私功能方面将三星与 Pixel 进行了比较，但胜者尚不清楚",
+      "title": "谷歌开始通知 Android 用户有关备份存储的重大更改",
       "source": "Android Authority",
-      "date": "2026-07-18",
-      "summary": "我在隐私功能方面将三星与 Pixel 进行了比较，但胜者尚不清楚",
-      "url": "https://www.androidauthority.com/samsung-galaxy-vs-google-pixel-privacy-3685221/",
+      "date": "2026-07-20",
+      "summary": "在新政策生效之前，用户将获得 45 天的提醒。",
+      "url": "https://www.androidauthority.com/google-android-backup-new-storage-policy-email-3689091/",
       "tags": [
-        "三星"
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "揭秘：这些有趣的 Game Boy 风格手持设备的动力来源如下",
+      "source": "Android Authority",
+      "date": "2026-07-20",
+      "summary": "普通版 Air Y 的马力不会让你大吃一惊，但合适的价格可能会使其大受欢迎。",
+      "url": "https://www.androidauthority.com/mangmi-air-y-series-chips-3689059/",
+      "tags": [
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
