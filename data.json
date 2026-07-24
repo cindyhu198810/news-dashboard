@@ -1,132 +1,132 @@
 {
-  "updated": "2026-07-23 10:37",
+  "updated": "2026-07-24 10:30",
   "news": [
     {
-      "title": "新泄露的渲染图揭示了 Pixel 11 系列的所有颜色选项，核心配置曝光",
+      "title": "Geekbench 7 带来更新的工作流程、重新设计的多核测试",
       "source": "GSMArena",
-      "date": "2026-07-23",
-      "summary": "距离 Google Pixel 11 系列发布仅剩几周时间，到目前为止，有关即将推出的产品线的几乎所有信息都已经泄露。现在，最新的泄漏信息揭示了 Pixel 11、Pixel 11 Pro 和 Pixel 11 Pro ...，带来多项升级",
-      "url": "https://www.gsmarena.com/new_leaked_renders_reveal_every_color_option_for_the_pixel_11_lineup-news-73839.php",
+      "date": "2026-07-24",
+      "summary": "Primate Labs 正式发布了最新的跨平台基准测试应用程序  Geekbench 7。新版本带来了更新的工作负载测试以及跨多核 CPU 和 GPU 部门重新设计的基准测试。在CPU方面，Geekbench 7具有用...，带来多项升级",
+      "url": "https://www.gsmarena.com/geekbench_7_arrives_with_updated_workflows_redesigned_multicore_tests-news-73862.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/pixel-11-pro-xl-all-colors-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/geekbench-7-ofic/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Android 17 的新 iOS 迁移工具现已在三星最新的可折叠设备上使用",
+      "title": "iQOO Z11 Lite 首发，配备 6,500mAh 电池和天玑 630...",
       "source": "GSMArena",
-      "date": "2026-07-23",
-      "summary": "谷歌在 Android Show IO Edition 2026 期间宣布推出适用于 Android 17 的升级版 Android Switch iOS 迁移工具。该公司现已提供有关该功能及其可用性的新详细信息。增强的...",
-      "url": "https://www.gsmarena.com/android_17s_new_ios_migration_tool_now_available_on_samsungs_latest_foldables-news-73838.php",
+      "date": "2026-07-24",
+      "summary": "iQOO 在印度正式推出 Z11 Lite，在发布前几乎透露了这款智能手机的所有方面，仅保留了定价。iQOO Z11 Lite 搭载联发科技天玑 6300 芯片组，配备高达 6GB 的 RAM 和高达 256GB 的板载...，带来多项升级",
+      "url": "https://www.gsmarena.com/iqoo_z11_lite_debuts_with_6500mah_battery_and_dimensity_6300_soc-news-73860.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-z11-lite-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Lava Virat V1 和 Virat V1 5G 售价低于 15,00...",
+      "source": "GSMArena",
+      "date": "2026-07-24",
+      "summary": "Lava 本月早些时候宣布与 Flipkart 合作推出专为年轻人和在线优先买家打造的全新 Virat 智能手机系列。正如承诺的那样，这家印度手机制造商今天推出了 Virat V1 和 Virat V1 5G，作为 Vi...",
+      "url": "https://www.gsmarena.com/lava_virat_v1_virat_v1_5g_features_price_sale_date-news-73861.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/lava-virat-v1-virat-v1-5g-official/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo A7 Pro Max 可能刚刚运行了 Geekbench，确认了其...",
+      "source": "GSMArena",
+      "date": "2026-07-24",
+      "summary": "几天前，我们听说即将推出的 Oppo A7 Pro Max 据称配备 10000 mAh 电池。现在，一款型号为 PYC110 的 Oppo 手机已出现在 Geekbench 在线结果数据库中。据传这是 A7 Pro M...",
+      "url": "https://www.gsmarena.com/oppo_a7_pro_max_might_have_just_run_geekbench_confirming_its_soc_and_ram_amount-news-73856.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oppo-a7-pro-max-geekbench/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo K15 正式发布，配备主动散热风扇、8000mAh 电池，新机正式...",
+      "source": "GSMArena",
+      "date": "2026-07-24",
+      "summary": "Oppo K15 已在中国悄然亮相，加入了 4 月份推出的 K15 Pro 和 K15 Pro 的行列。标准版 K15 保留了与其 Pro 兄弟姐妹相同的设计语言，还配备了内置主动冷却风扇。它已经在中国上市，并提供 12...",
+      "url": "https://www.gsmarena.com/oppo_k15_is_official_with_an_activecooling_fan_8000mah_battery-news-73859.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oppo-k15-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "您现在可以使用自拍视频登录您的 谷歌 帐户",
+      "source": "GSMArena",
+      "date": "2026-07-24",
+      "summary": "谷歌现在允许您使用自拍视频登录您的帐户。该公司表示，您当然首先需要通过录制初始自拍视频来进行设置，在视频中您只需看着设备的相机并完成一些简短的引导头部运动以捕捉多个角度。之后，您可以使用自拍视频登录您的 Google 帐...",
+      "url": "https://www.gsmarena.com/you_can_now_log_into_your_google_account_with_a_selfie_video-news-73854.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-account-selfie-video/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S27 和 S27+ 可能会配备新的主摄像头",
+      "source": "GSMArena",
+      "date": "2026-07-24",
+      "summary": "据称，三星 Galaxy S27 和 Galaxy S27 正在测试采用索尼传感器的新型 50MP 主摄像头。这是值得注意的，因为三星自己制造相机传感器，并且显然喜欢在自己的手机中使用它们。在开发周期的早期测试新传感器并...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_and_s27_could_get_a_new_main_camera-news-73857.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/android-switch-galaxy-z-fold8-ultra-flip8/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s27-new-main-camera/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌 Pixel Watch 5 的主要规格通过 谷歌 Play Conso...",
+      "title": "荣耀和Arri下周将展示机器人手机 荣耀推出新Logo",
       "source": "GSMArena",
-      "date": "2026-07-23",
-      "summary": "Google Pixel Watch 5 预计将于 8 月 12 日与 Pixel 11 系列智能手机一起正式上市。最近泄露的渲染图显示 Pixel Watch 5 看起来与 Pixel Watch 4 相同。现在 Go...",
-      "url": "https://www.gsmarena.com/google_pixel_watch_5_key_specs_play_console_listing-news-73837.php",
+      "date": "2026-07-24",
+      "summary": "荣耀机器人手机可能会比预期提前上市荣耀宣布将于7月28日也就是下周二举办影像技术发布会。 Honor 将与合作伙伴 Arri 一起推出一款包含全栈电影工作流程的手机。荣耀携手Arri将于28日举办影像技术发布会他们真的很...，带来多项升级",
+      "url": "https://www.gsmarena.com/honor_and_arri_will_showcase_the_robot_phone_next_week_honor_unveils_a_new_logo-news-73850.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-watch-5-key-specs-play-console-listing/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/honor-robot-phone-july-28-new-logo/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "印度红米 Note 17 跑 Geekbench，揭示其芯片组和 RAM 容...",
+      "title": "iPhone Ultra 再次被传推迟发布，新机正式登场",
       "source": "GSMArena",
       "date": "2026-07-23",
-      "summary": "Redmi本月初在中国推出了Note 17和Note 17 Pro，现在看来面向印度的Note 17刚刚跑出了Geekbench。与往常一样，这意味着 Geekbench 在线数据库中已经有它的列表，并且它揭示了掌舵的芯...",
-      "url": "https://www.gsmarena.com/indian_redmi_note_17_runs_geekbench_reveals_its_chipset_and_ram_amount-news-73834.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/indian-redmi-note-17-geekbench/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Find X10 系列正在与 iPhone 17 Pro 进行测试...",
-      "source": "GSMArena",
-      "date": "2026-07-23",
-      "summary": "根据 X 上爆料者的最新信息，Oppo 目前正在与 iPhone 17 Pro 一起测试即将推出的 Find X10、Find X10 Pro 和 Find X10 Pro Max，大概是为了将它们的相机实力与苹果最新旗...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_family_is_being_tested_agains_the_iphone_17_pro_live_shots_prove-news-73832.php",
+      "summary": "在最新一集的会吗？中，一份新报告称 iPhone Ultra 可能会被推迟。在此之前，最近有一些谣言称它实际上没有被推迟，而此前有一些报道称它确实被推迟了。目前，我们还不能确定。尽管如此，大多数最新传言至少都同意 iPh...",
+      "url": "https://www.gsmarena.com/iphone_ultra_is_now_rumored_to_be_delayed_again-news-73853.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oppo-find-x10-series-testing-alongside-iphone-17-pro/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-ultra-delayed-again/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "索尼推出具有开门录制功能的 FX5 电影摄影机",
+      "title": "三星为 Galaxy Watch Ultra2 和 Galaxy Watch...",
       "source": "GSMArena",
-      "date": "2026-07-22",
-      "summary": "索尼推出了紧凑型电影摄影机系列的最新成员 FX5。在另一个时间线中，FX5可能只是2021年推出的索尼FX3的更新版本，但在当前市场上它将以更高的价格推出，而FX3则继续销售。FX5 的推出带来了足够多的新玩具，足以让 ...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/sony_launches_fx5_cinema_camera_with_open_gate_recording-news-73836.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/sony-fx5/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果未来两年的 Mac 路线图泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-07-22",
-      "summary": "据彭博社最新报道，苹果计划在今年年底前发布一款搭载 M6 芯片的新款入门级 MacBook Pro。据称，同样的时间范围也适用于一些新的 iMac。配备 OLED 触摸屏的 MacBook Ultra 预计将提供 14 ...，带来多项升级",
-      "url": "https://www.gsmarena.com/apples_mac_roadmap_for_the_next_two_years_leaks-news-73835.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-mac-roadmap-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "以下是 Galaxy Z Fold8 系列和 Z Flip8 的定价明细",
-      "source": "GSMArena",
-      "date": "2026-07-22",
-      "summary": "我们仍在参加 Galaxy Unpacked 活动，该活动带来了 Galaxy Z Flip8、Galaxy Z Fold8 和 Z Fold8 Ultra。如果您想仔细观察，我们对 Z Fold8 duo 进行了实际比...",
-      "url": "https://www.gsmarena.com/here_is_thepricing_breakdown_for_the_galaxy_z_fold8_series_and_the_z_flip8-news-73833.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-z-foldables-pricing/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Watch Ultra2 和 Watch Series ...",
-      "source": "GSMArena",
-      "date": "2026-07-22",
-      "summary": "简介按照一贯的历史时间表，三星刚刚推出了最新的可折叠智能手机。其中包括 Galaxy Z Fold8 Ultra令人困惑的是，它是 Z Fold7 的直接后继产品、Z Fold8现在是三星全新可折叠外形的名称以及最后也是...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_watch_ultra2_and_watch_series_9_handson_review-news-73827.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-watch9-watch-ultra2-hands-on/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星推出搭载 Android XR 的 AI 智能眼镜",
-      "source": "GSMArena",
-      "date": "2026-07-22",
-      "summary": "Galaxy XR 耳机非常适合游戏和专业用途，但您不想在外出时佩戴它。相反，你可能会戴上三星在 Galaxy Unpacked 活动中推出的新款智能眼镜。数字方面是三星、谷歌和高通之间的合作。该眼镜在 Snapdrag...",
-      "url": "https://www.gsmarena.com/samsung_unveils_intelligent_eyewear_smart_glasses_powered_by_android_xr-news-73811.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-smart-glasses/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "您应该购买 5 款智能手表来代替 三星 Galaxy Watch Ultra...",
-      "source": "Android Authority",
       "date": "2026-07-23",
-      "summary": "暂时不要购买 Galaxy Watch Ultra 2。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-ultra-2-alternatives-3690211/",
+      "summary": "昨天，在伦敦举行的大型 Unpacked 活动中，三星推出了 Galaxy Watch9 和 Galaxy Watch Ultra2。该公司现已确认，这两款产品都将获得五次主要操作系统升级以及五年的安全更新。Inline...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/samsung_is_giving_the_galaxy_watch_ultra2_and_galaxy_watch9_five_years_of_updates-news-73851.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-watch-ultra-2-galaxy-watch9-software-support/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy Z Fold 8 更薄、更宽的设计也有其阴暗面",
+      "source": "Android Authority",
+      "date": "2026-07-24",
+      "summary": "Galaxy Z Fold 8 更薄、更宽的设计也有其阴暗面",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-trade-offs-3689671/",
       "tags": [
         "三星"
       ],
@@ -134,23 +134,11 @@
       "type": "news"
     },
     {
-      "title": "如果 Galaxy Z Flip 8 真的是三星的最后一款机型，那么可折叠世...",
+      "title": "ChatGPT Health 正在广泛推广，但 Android 用户不会太高...",
       "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "亲爱的三星，请不要让 Flip 翻开。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-last-one-foldables-in-trouble-3689436/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌希望你的脸成为新的自拍视频登录的备份密码",
-      "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "您现在可以将您的面孔设置为 Google 帐户的登录方式。",
-      "url": "https://www.androidauthority.com/google-selfie-video-sign-in-3690502/",
+      "date": "2026-07-24",
+      "summary": "ChatGPT 现在可以通过访问您的健康记录为您提供医疗建议。",
+      "url": "https://www.androidauthority.com/chatgpt-health-rollout-3691048/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌照片终于可以让你隐藏照片中的敏感细节",
+      "title": "Gemini Live 很快就能让你在聊天过程中将文件扔进对话中",
       "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "当您可以使用密文工具时，为什么还要使用钢笔工具来擦除敏感信息呢？",
-      "url": "https://www.androidauthority.com/google-photos-redact-tool-apk-teardown-3690571/",
+      "date": "2026-07-24",
+      "summary": "Gemini Live 可以不再让你描述图像，而只是拿走那个该死的文件。",
+      "url": "https://www.androidauthority.com/gemini-live-files-google-drive-attachment-3691025/",
       "tags": [
         "安卓"
       ],
@@ -170,23 +158,11 @@
       "type": "news"
     },
     {
-      "title": "OnePlus 继续前进，新手机即将上市",
+      "title": "我购买 Galaxy Z Fold 8 而不是 Fold 8 Ultra 的...",
       "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "OnePlus 继续前进，新手机即将上市",
-      "url": "https://www.androidauthority.com/oneplus-n6x-teaser-india-3690574/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy Z Fold 8 缺少 S Pen 支持，三星正在玩一场危险的...",
-      "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "S Pen 是我不会放弃的三星体验的一部分。",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-missing-s-pen-support-dangerous-game-3689243/",
+      "date": "2026-07-24",
+      "summary": "我实际上会购买更便宜的 Galaxy Z Fold 8。",
+      "url": "https://www.androidauthority.com/why-id-buy-galaxy-z-fold-8-instead-of-fold-8-ultra-3690261/",
       "tags": [
         "三星"
       ],
@@ -194,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "Galaxy Z Fold 8 Ultra 比 Z Fold 8 贵 200...",
+      "title": "高通的新款 Snapdragon Wear Elite 芯片是否会削弱 Ga...",
       "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "Galaxy Z Fold 8 做出了 Z Fold 7 从未做过的妥协。",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-vs-fold-8-worth-200-more-3686769/",
+      "date": "2026-07-24",
+      "summary": "三星将 Galaxy Watch Ultra 2 的电池升级为 800mAh，但官方报价显示电池续航时间并没有增加。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-battery-life-concerns-3690714/",
       "tags": [
         "三星"
       ],
@@ -206,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "有了这张精美的白金信用卡，您的下一次 WHOOP 可能是免费的",
+      "title": "售价 1,200 美元的 Z Flip 8 充电速度比 300 美元的 An...",
       "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "该优惠也适用于现有 WHOOP 用户。",
-      "url": "https://www.androidauthority.com/whoop-subscription-free-credit-card-3690522/",
+      "date": "2026-07-24",
+      "summary": "三星 Z Flip 8 的表现被其他价格仅为其昂贵标签一小部分的手机所超越。",
+      "url": "https://www.androidauthority.com/galaxy-z-flip-8-slow-charging-embarrassing-3687765/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "Spotify 全面推出 MTV 音乐视频排行榜",
+      "title": "Ultrahuman 的新“Emerald”更新对该应用程序的工作方式进行了...",
       "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "这是 Spotify 为赢得 YouTube 忠实用户而采取的又一举措。",
-      "url": "https://www.androidauthority.com/spotify-music-video-charts-global-playlist-3690531/",
+      "date": "2026-07-24",
+      "summary": "现在，您可以将 Apple Watch、Garmin 或 WHOOP 与 Ultra human 应用程序配对。",
+      "url": "https://www.androidauthority.com/ultrahuman-emerald-update-3691001/",
       "tags": [
         "安卓"
       ],
@@ -230,13 +206,37 @@
       "type": "news"
     },
     {
-      "title": "三星承诺为 Galaxy Watch 9 和 Galaxy Watch Ul...",
+      "title": "微软说服 LG 从其显示器中删除 McAfee 广告软件",
       "source": "Android Authority",
-      "date": "2026-07-23",
-      "summary": "五次主要操作系统升级和五年安全补丁将使三星最新的智能手表得到支持直至 2031 年。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-software-support-3690537/",
+      "date": "2026-07-24",
+      "summary": "LG 自动下载的显示器应用程序将不再显示 McAfee 弹出窗口，但另一个主要问题仍然存在。",
+      "url": "https://www.androidauthority.com/microsoft-lg-monitor-app-bloatware-adware-3690996/",
       "tags": [
-        "三星"
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "双子座的发光改造似乎正走向浮动覆盖层和实时屏幕",
+      "source": "Android Authority",
+      "date": "2026-07-24",
+      "summary": "双子座正试图比以往更加活跃地去爱。",
+      "url": "https://www.androidauthority.com/gemini-overlay-live-neural-design-apk-teardown-3690991/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "调查显示 谷歌 Tensor 已走到尽头，但一些 Pixel 粉丝不同意",
+      "source": "Android Authority",
+      "date": "2026-07-24",
+      "summary": "经过近五年的 Tensor 发展，大多数 Pixel 粉丝表示，谷歌的定制芯片仍然无法满足需求。",
+      "url": "https://www.androidauthority.com/continue-google-tensor-poll-results-3690972/",
+      "tags": [
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
