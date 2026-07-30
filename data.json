@@ -1,132 +1,204 @@
 {
-  "updated": "2026-07-29 10:59",
+  "updated": "2026-07-30 10:36",
   "news": [
     {
-      "title": "红米 Turbo 6 Max渲染图展示其全新设计",
+      "title": "三星公布 Galaxy Tab S12 系列的上市时间表",
       "source": "GSMArena",
-      "date": "2026-07-29",
-      "summary": "Redmi 在 1 月份推出了 Turbo 5 Max，并且已经在开发其继任者，有关该产品的详细信息已于本月初首次浮出水面。今天，我们还可以在下图中看到其全新的、改进的设计。左对齐的垂直相机岛已经消失，取而代之的是一个横...",
-      "url": "https://www.gsmarena.com/redmi_turbo_6_max_render_showcases_its_fresh_new_design-news-73920.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-turbo-6-max-render-leaks/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Poco M8 Power 在实践照片和视频中脱颖而出",
-      "source": "GSMArena",
-      "date": "2026-07-29",
-      "summary": "Poco M8 Power 将于 8 月 4 日在印度推出，预计将是更名后的 Redmi Note 17。在首次亮相之前，这款手机已经展示了三种颜色的上手照片，如下所示。Poco M8 Power 上手图片当然，橙色配色...",
-      "url": "https://www.gsmarena.com/poco_m8_power_stars_in_handson_photos_and_video-news-73919.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/poco-m8-power-hands-on-photos-video/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo S2 完整规格和定价在发布前泄露，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-07-29",
-      "summary": "据传 Vivo S2 将于 8 月 6 日在印度推出，该公司最近确认了其上市，并预告了这款手机的设计。在首次亮相之前，新的泄密事件透露了这款手机的完整规格和预期定价。据 X 上的爆料者称，配备 8GB RAM 和 128...",
-      "url": "https://www.gsmarena.com/vivo_s2_full_specs_and_pricing_leak_ahead_of_launch-news-73918.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/vivo-s2-specs-price-india-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Realme 16x 印度版据称配备 7,000mAh 电池，即将推出",
-      "source": "GSMArena",
-      "date": "2026-07-29",
-      "summary": "据最新消息称，Realme 16x 5G 可能很快就会在印度首次亮相。印度版本预计将配备比全球版本更大的电池。这款手机最近还出现在 BIS 认证网站上，暗示即将推出。泄露的消息称，印度版 Realme 16x 将配备 7...",
-      "url": "https://www.gsmarena.com/realme_16x_indian_variant_said_to_pack_7000mah_battery_launch_soon-news-73916.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/realme-16x-india-launch/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy S26 FE 通过新认证揭示充电速度",
-      "source": "GSMArena",
-      "date": "2026-07-29",
-      "summary": "预计将于 9 月上市的三星 Galaxy S26 FE 已出现在 UL Demko 认证数据库中，揭示了其充电速度。清单中提到了 15V3A 和 10V45A 充电额定值，表明 S26 FE 支持最大 45W 的充电速度...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_charging_speed-news-73915.php",
+      "date": "2026-07-30",
+      "summary": "过去几个月我们一直听说 Galaxy Tab S12 系列，三星已确认该产品将于今年推出，但没有具体说明。三星高管丹尼尔阿劳霍 Daniel Araujo 在公司第三季度财报电话会议上回答了有关三星移动部门在 RAM 危...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_series_launch_timeframe-news-73933.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s26-fe-charging-speed/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-tab-s12-ultra-renders/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "配备 9 个 JBL 扬声器的 Moto Pad 70 Groove 将于本...",
+      "title": "华为 nova 16 SE 将于下周与新款 MatePad Pro 和 Ma...",
       "source": "GSMArena",
-      "date": "2026-07-29",
-      "summary": "摩托罗拉宣布在印度推出新款 Moto Pad 70 Groove 平板电脑。即将推出的平板电脑将配备 121 英寸显示屏、360 度支架和 9 扬声器 JBL 音频系统。Moto Pad 70 Groove 将于 7 月...",
-      "url": "https://www.gsmarena.com/moto_pad_70_groove_with_9_jbl_speakers_is_launching_this_week-news-73914.php",
+      "date": "2026-07-30",
+      "summary": "华为计划于 8 月 5 日举行产品发布会，届时将推出 nova 16 SE，以及更新版本的 MateBook Fold Ultimate Design 和 MatePad Pro。该公司还将推出新款 MateBook P...，带来多项升级",
+      "url": "https://www.gsmarena.com/huawei_nova_16_se_to_launch_next_week_alongside_new_matepad_pro_and_matebook_fold-news-73935.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/moto-pad-70-groove-india-launch/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/huawei-nova-16-se-matebook-matepad-pro-launch-new/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "埃隆·马斯克 (Elon Musk) 的 X Money 现已向 Premi...",
+      "title": "Oppo A7 Pro Max 发布日期、颜色选项揭晓，新机正式登场",
       "source": "GSMArena",
-      "date": "2026-07-29",
-      "summary": "X Money 本来应该在去年推出早在 1 月份就已经计划好了。显然，这并没有发生。但它今天终于在美国推出，面向那些拥有 Premium 或 Premium X 订阅的用户。您的钱，在世界上最强大的网络上 Money 从...",
-      "url": "https://www.gsmarena.com/elon_musks_x_money_is_now_available_to_premium_and_premium_x_subscribers-news-73911.php",
+      "date": "2026-07-30",
+      "summary": "在最近确认配备 10000mAh 大电池的 Oppo A7 Pro Max 上市后，该公司现在透露了这款智能手机的发布日期以及一些其他细节。Oppo A7 Pro Max 将于 8 月 4 日在中国发布，并已可通过该公司...，带来多项升级",
+      "url": "https://www.gsmarena.com/oppo_a7_pro_max_launch_date_color_options_revealed-news-73932.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07//x-money-now-available/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oppo-a7-pro-max-launch-date-pre-order/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "带显示屏的 苹果 Home Hub 智能音箱将于今年推出，以下是它的功能",
+      "title": "谷歌新的 Pixel 11 Pro 预告片更好地展示了 Pixel Glow...",
       "source": "GSMArena",
-      "date": "2026-07-28",
-      "summary": "据彭博社 Mark Gurman 的最新报道称，苹果计划最早于 10 月、最晚于明年初发布 Home Hub。不出所料，新的 Siri AI 将成为其主要卖点。该设备基本上是一款类似 HomePod 的智能扬声器，配备 ...，带来多项升级",
-      "url": "https://www.gsmarena.com/apple_home_hub_smart_speaker_with_a_display_is_coming_this_year_here_are_its_features-news-73912.php",
+      "date": "2026-07-30",
+      "summary": "在 8 月 12 日举行的 Made by Google 活动之前，谷歌发布了即将推出的 Pixel 11 系列的新预告片，其中详细介绍了新的 Pixel Glow 功能。新的预告片强调了人们如何依赖多种谷歌服务，包括 ...，带来多项升级",
+      "url": "https://www.gsmarena.com/googles_new_pixel_11_pro_teaser_offers_a_better_look_at_the_pixel_glow_feature-news-73931.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-pro-new-teaser/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀X6e配备7500mAh电池",
+      "source": "GSMArena",
+      "date": "2026-07-30",
+      "summary": "荣耀刚刚在日益拥挤的 X6 系列中添加了一款新设备，其中已经包括 X6 本身、X6a、X6b、X6b 4G、X6c、X6d。现在让我们来认识一下已经在马来西亚正式推出的荣耀X6e。它配备了 661 英寸 LCD 屏幕，分...",
+      "url": "https://www.gsmarena.com/honor_x6e_arrives_with_a_7500_mah_battery-news-73927.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/honor-x6e-official/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "这就是三星 Galaxy Buds On 的样子",
+      "source": "GSMArena",
+      "date": "2026-07-30",
+      "summary": "据传三星正在开发一款采用新的夹式外形的 Galaxy Buds这对三星来说是新的最近大多数竞争对手都在这样做。我们曾经听说它们被称为 Galaxy Buds Able，但与此同时 Galaxy Buds On 这个名字也...",
+      "url": "https://www.gsmarena.com/this_is_what_the_samsung_galaxy_buds_on_look_like-news-73930.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-buds-on-images/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S26 FE 将比其前身更贵，具体价格是多少",
+      "source": "GSMArena",
+      "date": "2026-07-29",
+      "summary": "几个小时前，三星 Galaxy S26 FE 获得了支持 45W 有线充电的认证，就像它的前身一样，现在有消息称它在欧洲特别是法国的售价是多少。据称，具有 128GB 存储空间的基本版本售价为 799 欧元，具有 256...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_will_be_more_expensive_than_its_predecessor_new_leak_claims-news-73929.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s26-fe-prices-in-europe/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Counterpoint：2026年上半年全球智能手机芯片组出货量下降15%",
+      "source": "GSMArena",
+      "date": "2026-07-29",
+      "summary": "由于持续的存储芯片短缺继续困扰着原始设备制造商，智能手机出货量在过去几个月一直在下降。正如您可以想象的那样，其他组件也受到了影响。以智能手机芯片组为例。根据Counterpoint Research最新报告，2026年上...",
+      "url": "https://www.gsmarena.com/counterpoint_global_smartphone_chipset_shipments_down_15_in_first_half_of_2026-news-73928.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/counterpoint-global-soc-shipments-h1-2026/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy Z Fold8 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-07-29",
+      "summary": "三星 Galaxy Z Fold8 评测",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8-review-2984.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-z-fold8/-347x151/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "AT&T 即将拥有更多、更快的 5G",
+      "source": "GSMArena",
+      "date": "2026-07-29",
+      "summary": "ATT 现已宣布已完成从 EchoStar 收购价值 230 亿美元的频谱许可证。该交易于去年八月宣布。ATT 支付了所有费用，购买了平均约 50MHz 的低频段和中频段频谱，覆盖美国几乎每个市场，总共超过 400 个市...",
+      "url": "https://www.gsmarena.com/at_t_is_about_to_have_more_and_faster_5g-news-73926.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/att-new-5g-spectrum/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Good Lock 模块打破了三星便利的多任务处理功能",
+      "source": "Android Authority",
+      "date": "2026-07-30",
+      "summary": "三星已确认单手操作 Plus Good Lock 模块是罪魁祸首，并补充说修复工作正在进行中。",
+      "url": "https://www.androidauthority.com/samsung-edge-panel-one-hand-operation-bug-3692721/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "7 年后我再次尝试 Android Auto，但我仍然讨厌它",
+      "source": "Android Authority",
+      "date": "2026-07-30",
+      "summary": "它的设计并没有考虑到像我这样的用户。",
+      "url": "https://www.androidauthority.com/tried-android-auto-again-3692293/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "无论你做什么，现在都不要购买 谷歌 Pixel 手机",
+      "source": "Android Authority",
+      "date": "2026-07-30",
+      "summary": "Pixel 11 系列即将发布，您最好等待。，带来多项升级",
+      "url": "https://www.androidauthority.com/dont-buy-google-pixel-10-right-now-why-3691510/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "计划购买新手机？三星表示 RAM 危机只会变得更加严重",
+      "source": "Android Authority",
+      "date": "2026-07-30",
+      "summary": "不要屏住呼吸等待拉米吉顿很快结束。",
+      "url": "https://www.androidauthority.com/samsung-earnings-call-ram-crisis-worse-3692684/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "这款新应用程序可让您在不绊倒 Knox 或解锁引导加载程序的情况下 root...",
+      "source": "Android Authority",
+      "date": "2026-07-30",
+      "summary": "Root My Galaxy 应用程序使用 Linux 内核漏洞来授予旧款基于 Snapdragon 的 Galaxy 旗舰机的软根访问权限。",
+      "url": "https://www.androidauthority.com/root-my-galaxy-samsung-temporary-root-exploit-3692681/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "苹果升级是手机拥有量的未来，谷歌和三星需要效仿",
+      "source": "Android Authority",
+      "date": "2026-07-30",
+      "summary": "2026 年购买手机意味着什么？",
+      "url": "https://www.androidauthority.com/apple-upgrade-smartphone-ownership-3692266/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-home-hub-launch-timeline/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "新的泄密称 Pixel 11 和 Pixel 11 Pro 实际上可能比前代...",
-      "source": "GSMArena",
-      "date": "2026-07-28",
-      "summary": "几天前，谷歌高管证实，整个 Pixel 系列产品即将涨价，其中包括将于 8 月 12 日发布的 Pixel 11 系列。今天，一位通常可靠的消息来源透露了三款 Pixel 11 机型在英国市场的据称定价，这也不全是坏消息...，带来多项升级",
-      "url": "https://www.gsmarena.com/new_leak_claims_the_pixel_11_and_pixel_11_pro_may_actually_be_cheaper_than_their_predecessors-news-73913.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-leaked-pricing/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "WhatsApp Web 终于支持音频和视频通话",
-      "source": "GSMArena",
-      "date": "2026-07-28",
-      "summary": "今天，WhatsApp 正在纠正其网络客户端的主要缺点之一，因为它现在终于支持音频和视频通话。显然，这不需要下载或安装，因为它是 WhatsApp Web 的一部分，WhatsApp Web 还获得了对屏幕共享、反应和包...",
-      "url": "https://www.gsmarena.com/whatsapp_web_finally_gets_support_for_audio_and_video_calls-news-73910.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/whatsapp-web-calls/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "在 HBO Max 上寻找可看的内容很快就会变得更加容易",
+      "title": "谷歌表示 Pixel 闲置电池消耗问题已修复，但用户并不相信",
       "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "HBO Max 希望您只需要一个片段即可。",
-      "url": "https://www.androidauthority.com/hbo-max-shorts-3692319/",
+      "date": "2026-07-30",
+      "summary": "谷歌的修复显然已经针对 Pixel 9 和 Pixel 10 进行了修复，但最新的报告表明该问题并未消失。",
+      "url": "https://www.androidauthority.com/google-pixel-idle-battery-drain-fix-3692737/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "T-Mobile 正在赶走忠实客户。这 7 个改变可以赢回他们",
+      "title": "我终于解决了 谷歌 Messages 的两大烦恼 - 以下是解决方法",
       "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "TMobile 可以做很多事情。但会吗？",
-      "url": "https://www.androidauthority.com/t-mobile-changes-win-back-loyal-customers-3690760/",
+      "date": "2026-07-30",
+      "summary": "它始终是默认的应用程序设置。",
+      "url": "https://www.androidauthority.com/fixed-two-biggest-google-messages-annoyances-how-3688647/",
       "tags": [
         "安卓"
       ],
@@ -146,35 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Gemini Live 和 Circle to Search 很快就会推出精...",
+      "title": "三星确认 Galaxy S26 FE 即将推出，官方暗示可能即将推出",
       "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "Gemini Live 很快就会迎来意趣小姐时刻。",
-      "url": "https://www.androidauthority.com/gemini-live-circle-search-new-animations-3692272/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "调查显示，至少一些读者认为，观看 YouTube 广告胜过支付 Premiu...",
-      "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "广告拦截工具仍然是观看无广告 YouTube 的最喜欢的方式，但这并不适合某些人。",
-      "url": "https://www.androidauthority.com/deal-with-youtube-ads-poll-results-3692245/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy Watch 9 最大的缺陷与手表本身无关",
-      "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "购买 Galaxy Watch 9？最好确保您也有一部三星手机。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-health-monitor-app-flaw-3690635/",
+      "date": "2026-07-30",
+      "summary": "三星刚刚确认了 Galaxy S26 FE，并且可能很快就会推出。",
+      "url": "https://www.androidauthority.com/samsung-hint-galaxy-s26-fe-launch-3692667/",
       "tags": [
         "三星"
       ],
@@ -182,59 +230,11 @@
       "type": "news"
     },
     {
-      "title": "Gemini 现在可以根据 谷歌 文档中的评论进行阅读、回复和更改",
+      "title": "Android 版 Chrome 悄然获得了一种有趣的方式来个性化您的新标签...",
       "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "双子座现在处理你应该阅读的反馈。",
-      "url": "https://www.androidauthority.com/gemini-google-docs-comments-3692242/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy Z Flip 8 不再需要 Good Lock 来实现此盖屏功...",
-      "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "您不再需要 MultiStar 来调整应用程序在封面屏幕上的宽高比。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-cover-screen-aspect-ratio-button-3692241/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Snapseed 的下一次更新可能包含三个主要新功能",
-      "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "Snapseed 终于可以实现色彩分级以及摄影师喜爱的其他两个功能。",
-      "url": "https://www.androidauthority.com/snapseed-color-grading-raw-photo-capture-collage-editor-3692253/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我把 Fire TV Stick 换成了 谷歌 TV Streamer，然后...",
-      "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "谷歌，你需要做得更好。",
-      "url": "https://www.androidauthority.com/swapped-fire-tv-stick-google-tv-streamer-glitch-almost-ruined-3690678/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "多年来我第一次考虑放弃 谷歌 Pixel 手机",
-      "source": "Android Authority",
-      "date": "2026-07-29",
-      "summary": "谷歌没有给我一个留下来的充分理由。",
-      "url": "https://www.androidauthority.com/giving-up-google-pixel-phones-motorola-razr-fold-experience-3691996/",
+      "date": "2026-07-30",
+      "summary": "您的 Android 手机浏览器终于看起来不那么无聊了。",
+      "url": "https://www.androidauthority.com/chrome-for-android-appearance-menu-rolling-out-3692674/",
       "tags": [
         "安卓"
       ],
