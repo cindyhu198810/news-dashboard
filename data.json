@@ -1,204 +1,132 @@
 {
-  "updated": "2026-07-31 11:03",
+  "updated": "2026-08-01 10:13",
   "news": [
     {
-      "title": "OnePlus N6x 首发搭载天玑 6360 Apex 芯片组、7000m...",
+      "title": "新研究报告详细介绍了 iPhone Air 2 的升级",
       "source": "GSMArena",
-      "date": "2026-07-31",
-      "summary": "经过多次预告后，OnePlus 已在印度正式推出 N6x。这款新手机是上个月末推出的 OnePlus N6 的更实惠版本。OnePlus N6x 配备 68 英寸 LCD 显示屏，分辨率为 HD，刷新率高达 120Hz。...",
-      "url": "https://www.gsmarena.com/oneplus_n6x_debuts_with_a_dimensity_6360_apex_chipset_a_7000mah_battery-news-73950.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/oneplus-n6x-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo S2的发布日期和设计揭晓，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-07-31",
-      "summary": "vivo 本周早些时候开始预告 S2，今天，其印度分公司透露，这款智能手机将于 8 月 6 日中午 12 点印度标准时间发布。vivo在其印度官方网站上设置的促销页面还包含一张S2的图片，揭示了它的设计。正面是一个弧形显...，带来多项升级",
-      "url": "https://www.gsmarena.com/vivo_s2_launch_date_design-news-73949.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/vivo-s2-launch-date-design/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Tecno 推出 0mm 显示屏边框的无边框概念手机",
-      "source": "GSMArena",
-      "date": "2026-07-31",
-      "summary": "超薄边框的智能手机已经问世多年，但真正的无边框显示屏仍然遥不可及。 Tecno 现在希望通过其下一代无边框概念手机来改变这一现状，这是一款具有真正零边框显示屏的原型设备。Tecno 在官方新闻稿中确认，其下一代无边框概念...",
-      "url": "https://www.gsmarena.com/tecno_teases_concept_phone_with_0mm_display_bezels-news-73936.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/tecno-next-gen-bezelless-concept-phone/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "红米 K100 Pro Max 发布日期和设计正式公布，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-07-31",
-      "summary": "就在昨天，一张泄露的Redmi K100 Pro图片在网上出现，显示该手机采用樱桃红色外观。现在，小米正式曝光了K100 Pro Max的外观设计，并确定了上市日期。该公司在官方微博中证实，Redmi K100 Pro系...，更多细节逐步揭晓",
-      "url": "https://www.gsmarena.com/redmi_k100_pro_max_launch_date_and_design_officially_revealed-news-73948.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/redmi-k100-pro-max-launch-date-design/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米18和小米18 Pro Max认证暗示二者将走向全球",
-      "source": "GSMArena",
-      "date": "2026-07-31",
-      "summary": "几天前有传言称小米将在全球市场推出 18 Pro，与其前身不同。现在，X上的爆料者透露，两款小米设备已获得EEC认证。它们的型号为 2609BPN61G 和 2611FPNFAG，爆料者声称前者可能是小米 18 Pro ...",
-      "url": "https://www.gsmarena.com/xiaomi_18_and_xiaomi_18_pro_max_certification_hints_at_both_of_them_going_global-news-73942.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/xiaomi-18-xiaomi-18-pro-max-certification/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星还在开发一款采用耳挂式设计的 Galaxy Buds",
-      "source": "GSMArena",
-      "date": "2026-07-31",
-      "summary": "昨天，我们通过一些泄露的插图向您展示了三星 Galaxy Buds On 的外观。今天，同样的来源又带着新的耳机回来了，只是这些耳机描绘的是另一对不同的耳塞。具体来说，就是带有耳挂设计的耳塞。据报道，这些产品的内部代号为...",
-      "url": "https://www.gsmarena.com/samsung_is_also_working_on_a_pair_of_galaxy_buds_with_an_ear_hook_design-news-73946.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-buds-canal-5-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌将 Nano Banana 2 带到 谷歌 地球",
-      "source": "GSMArena",
-      "date": "2026-07-31",
-      "summary": "Google 的 Nano Banana 2 AI 图像生成模型现已在 Google Earth 中提供。它可以使用 Google Earth 的卫星、航空和 3D 图像生成自定义图像。您所需要做的就是放大到网络上 Go...",
-      "url": "https://www.gsmarena.com/google_brings_nano_banana_to_google_earth-news-73947.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-adds-nano-banana-2-to-google-earth/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新款谷歌 Pixel 11 Pro Fold 渲染图泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-07-30",
-      "summary": "谷歌将于 8 月 12 日推出 Pixel 11 系列，今天传奇人物 Evan Blass又名evleaks泄露了 Pixel 11 Pro Fold 的一些促销渲染图。其中一张渲染图证实了这款手机拥有 8 英寸的内部显...",
-      "url": "https://www.gsmarena.com/new_google_pixel_11_pro_fold_renders_leak-news-73945.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-pro-fold-new-renders-leak/-184x111/gsmarena_0000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iPhone 驾照将在另一个州发放",
-      "source": "GSMArena",
-      "date": "2026-07-30",
-      "summary": "俄克拉荷马州的 iPhone 和 Apple Watch 用户很快就可以将他们的驾驶执照和 ID 添加到 Apple Wallet 应用程序中。根据一份新报告，苹果实际上已经在努力在其后端系统中支持此功能。俄克拉荷马州三...",
-      "url": "https://www.gsmarena.com/iphone_drivers_licenses_are_coming_to_another_state-news-73944.php",
+      "date": "2026-08-01",
+      "summary": "投资分析师 Jeff Pu 今天与广发证券分享了一份新的研究报告，内容都是关于即将推出的 iPhone Air 2。该设备预计将于 2027 年第一季度推出，即 3 月底之前。Pu表示，iPhone Air 2将搭载A2...",
+      "url": "https://www.gsmarena.com/iphone_air_2s_upgrades_detailed_in_a_new_research_note-news-73969.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-wallet-drivers-license-new-state/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-air-2-key-specs-leak/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Spotify 推出运行模式",
+      "title": "摩托罗拉 Watch Ultra 渲染图泄露，核心配置曝光",
       "source": "GSMArena",
-      "date": "2026-07-30",
-      "summary": "Spotify 现已在其 iOS 应用程序中为美国、加拿大、英国、爱尔兰、澳大利亚、新西兰和瑞典的 Premium 订阅者添加了新的跑步模式。如果您位于受支持的国家地区之一并且拥有 iPhone，那么您应该已经能够在 F...",
-      "url": "https://www.gsmarena.com/spotify_gets_a_running_mode-news-73943.php",
+      "date": "2026-08-01",
+      "summary": "摩托罗拉现在似乎正准备进入超级智能手表领域，与苹果和三星等公司直接竞争。今天，一些渲染图显示了即将推出的摩托罗拉 Watch Ultra。正如你所看到的，它有一个圆形屏幕，10点钟位置有一个带有摩托罗拉标志的大旋转表冠，...",
+      "url": "https://www.gsmarena.com/motorola_watch_ultra_renders_leak-news-73970.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/spotify-running-mode/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-watch-ultra-leaked-renders/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌 Health 很快就会让您的医学实验室结果更容易理解",
-      "source": "Android Authority",
-      "date": "2026-07-31",
-      "summary": "一项名为医疗记录信息图的实验功能可以将复杂的实验室报告转化为可视化摘要。",
-      "url": "https://www.androidauthority.com/google-health-medical-record-infographic-apk-teardown-3693210/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "为什么我对 Android Halo 的永远在线人工智能感到兴奋（又有点不安...",
-      "source": "Android Authority",
-      "date": "2026-07-31",
-      "summary": "我喜欢 Google 对 Android Halo 的愿景。我不喜欢它需要多少信任作为回报。",
-      "url": "https://www.androidauthority.com/android-halo-always-on-ai-uneasy-opinion-3687107/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我改用这个被低估的 谷歌 地图替代方案的 4 个原因",
-      "source": "Android Authority",
-      "date": "2026-07-31",
-      "summary": "尽管提供的功能比竞争对手少，但它更适合我。",
-      "url": "https://www.androidauthority.com/reasons-why-switched-google-maps-alternative-3692824/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "独家：Galaxy S26 FE 的相机规格",
-      "source": "Android Authority",
-      "date": "2026-07-31",
-      "summary": "我们发现了三星即将发布的粉丝版的代号r14和相机传感器详细信息。，带来多项升级",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-camera-specs-leak-3693163/",
+      "title": "三星 Galaxy S26 FE 相机规格浮出水面",
+      "source": "GSMArena",
+      "date": "2026-08-01",
+      "summary": "三星高管最近证实了 Galaxy S26 FE 的存在，公司代表暗示这款手机将于今年推出。当我们等待三星推出 Galaxy S26 FE 的更多细节时，其相机规格已在网上浮出水面，表明相机系统不会与 Galaxy S25...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_camera_specs_surface-news-73959.php",
       "tags": [
         "三星"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s26-fe-charging-speed/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "三星智能眼镜将如何让变态远离（希望如此）",
-      "source": "Android Authority",
-      "date": "2026-07-31",
-      "summary": "三星希望其眼镜不会因为这些注重隐私的附加功能而成为小人的首选眼镜。",
-      "url": "https://www.androidauthority.com/samsung-smart-glasses-perverts-3693148/",
+      "title": "WhatsApp 正在计划建立一个新文件夹来存放来自大型企业的消息",
+      "source": "GSMArena",
+      "date": "2026-08-01",
+      "summary": "WhatsApp 显然意识到，许多用户都面临着主聊天列表混乱的问题，特别是因为有很多单独的线程，其中包含来自银行或航空公司等大型企业的消息。因此，根据一份新报告，WhatsApp 目前正在测试它认为的解决该问题的方法。来...",
+      "url": "https://www.gsmarena.com/whatsapp_is_planning_a_new_folder_for_messages_from_large_businesses-news-73967.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/whatsapp-offers-and-updates-folder/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星可能正在为明年准备一款令人惊喜的设备",
+      "source": "GSMArena",
+      "date": "2026-08-01",
+      "summary": "日前，来自韩国的报道称，三星将于明年推出八款旗舰设备，其中包括四款可折叠手机Flip9、Fold9、Fold9 Ultra、TriFold 2。今天，另一个消息来源公布了三星 2027 年可折叠产品线的代号，其中有五个：...",
+      "url": "https://www.gsmarena.com/samsung_may_be_preparing_a_surprise_device_for_next_year-news-73965.php",
       "tags": [
         "三星"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-2027-surprise/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "我购买 Galaxy Z Fold 8 Ultra 而不是 Pixel 10...",
-      "source": "Android Authority",
+      "title": "微软今年将发布Copilot超级应用，新机正式登场",
+      "source": "GSMArena",
       "date": "2026-07-31",
-      "summary": "Z Fold 8 Ultra给了我足够的理由去花额外的钱。",
-      "url": "https://www.androidauthority.com/reasons-buy-galaxy-z-fold-8-ultra-vs-pixel-10-pro-fold-3691608/",
+      "summary": "微软正准备创建一个 Copilot AI超级应用程序，它将包含聊天、编码、Cowork 及其新的自主自动驾驶仪。该应用程序将于今年晚些时候向消费者和企业开放。这一信息来自微软首席执行官萨蒂亚纳德拉 Satya Nadel...",
+      "url": "https://www.gsmarena.com/microsoft_will_release_a_copilot_super_app_this_year-news-73961.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/microsoft-copilot-super-app/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 Pixel 11 也泄露了一些新的渲染图，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-07-31",
+      "summary": "昨天，传奇泄密者 Evan Blass又名 evleaks分享了即将推出的 Pixel 11 Pro Fold 的一些新营销渲染图，今天他带着普通Pixel 11 回来了。谷歌 Pixel 11 营销渲染图泄露与 Pix...",
+      "url": "https://www.gsmarena.com/google_pixel_11_leaks_in_some_fresh_new_renders_too-news-73963.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-pixel-11-marketing-materials/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果第三季度将无法满足需求",
+      "source": "GSMArena",
+      "date": "2026-07-31",
+      "summary": "苹果首席执行官蒂姆库克在卸任前最后一次与投资者的电话会议中表示，即将到来的第三季度第三季度将出现供应链无法满足的巨大客户需求。库克强调，这并不是 RAM 限制或缺少零部件的问题，而是简单来说，客户对 iPhone、iPa...",
+      "url": "https://www.gsmarena.com/huge_demand_for_apple_devices_will_outpace_supply_in_q3_-news-73960.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/strong-apple-demand/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星即将推出的 Galaxy SmartTag3 将拥有新的外形",
+      "source": "GSMArena",
+      "date": "2026-07-31",
+      "summary": "三星于 2021 年推出了初代 Galaxy SmartTag，并于 2023 年推出了 SmartTag2。现在看来，它几乎已经准备好发布 SmartTag3，但这会带来一些变化。根据下面泄露的插图，下一代 Galax...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsungs_upcoming_galaxy_smarttag3_to_have_a_new_shape-news-73957.php",
       "tags": [
         "三星"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-smarttag3-leak/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "我花了几天时间研究 谷歌 钱包的新订单跟踪，效果非常好",
-      "source": "Android Authority",
+      "title": "高通芯片组正式涨价",
+      "source": "GSMArena",
       "date": "2026-07-31",
-      "summary": "Google 钱包一直在变得越来越好。",
-      "url": "https://www.androidauthority.com/google-wallet-order-tracking-hands-on-3692916/",
+      "summary": "在外界猜测其芯片组即将涨价后，高通正式确认将全面提高 Snapdragon 芯片的价格。首席执行官 Cristiano Amon 在接受 CNBC 采访时证实，从 9 月 1 日起，Snapdragon 芯片将更加昂贵。...",
+      "url": "https://www.gsmarena.com/qualcomm_chipsets_are_getting_a_price_hike-news-73951.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/qualcomm-chipsets-price-hike-confirmed/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "我重复使用的 140 个密码终于又回来了。这是我修复它的方法",
+      "source": "Android Authority",
+      "date": "2026-08-01",
+      "summary": "向我学习并尽快修复您重复使用的密码。",
+      "url": "https://www.androidauthority.com/fixing-reused-passwords-for-online-security-3685833/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "RCS 通用配置文件 4.1 让您更好地控制您的配置文件隐私",
+      "title": "我已经测试了数十个 Android 启动器。 2026 年您应该跳过以下 5...",
       "source": "Android Authority",
-      "date": "2026-07-31",
-      "summary": "精细切换可让您明确选择谁在个人和群组聊天中看到您的姓名和个人资料图片。",
-      "url": "https://www.androidauthority.com/rcs-universal-profile-4-1-3693145/",
+      "date": "2026-08-01",
+      "summary": "我迈出了这一步，所以你不必这样做。",
+      "url": "https://www.androidauthority.com/android-launchers-i-dont-recommend-2026-3691917/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "这家 Android 手机制造商开发了一款显示屏周围没有边框的型号",
+      "title": "OnePlus 在 2025 年打造了完美的 Android 手机。OneP...",
       "source": "Android Authority",
-      "date": "2026-07-31",
-      "summary": "具有真正无边框屏幕的手机很快就会成为现实。",
-      "url": "https://www.androidauthority.com/tecno-bezel-less-phone-3692728/",
+      "date": "2026-08-01",
+      "summary": "OnePlus 13 真的是瓶中闪电，对吧？",
+      "url": "https://www.androidauthority.com/oneplus-built-perfect-android-phone-oneplus-16-throwing-it-away-3693370/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +158,83 @@
       "type": "news"
     },
     {
-      "title": "OnePlus 确认退出美国后的首款旗舰产品 OnePlus 16 即将推出",
+      "title": "谷歌 Health 正准备接管 Nest Hub 睡眠追踪",
       "source": "Android Authority",
       "date": "2026-07-31",
-      "summary": "如果您也喜欢 OnePlus 15 的屏幕，那么有个好消息。",
-      "url": "https://www.androidauthority.com/oneplus-16-confirmed-3693118/",
+      "summary": "谷歌正在整合 Fit 的另一项服务。",
+      "url": "https://www.androidauthority.com/nest-hub-sleep-tracking-moving-to-google-health-3693527/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Anthropic 发现克劳德在所谓的密封测试中对真实的公司进行了黑客攻击",
+      "source": "Android Authority",
+      "date": "2026-07-31",
+      "summary": "人类说克劳德的行为达不到理想的行为。你需要用更强烈的词语来描述它们。",
+      "url": "https://www.androidauthority.com/claude-hacked-three-real-companies-3693505/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Android 17 QPR1 Beta 8 刚刚发布，包含 谷歌 的所有最...",
+      "source": "Android Authority",
+      "date": "2026-07-31",
+      "summary": "立即可以在 Pixel 6 或更新的手机上进行测试。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/android-17-qpr1-beta-8-3693518/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌地球因可预见的令人沮丧的原因而停止了双子座图像的生成",
+      "source": "Android Authority",
+      "date": "2026-07-31",
+      "summary": "Google 地球立即放弃了 Nano Banana 集成。",
+      "url": "https://www.androidauthority.com/google-earth-ai-image-generation-2-3693511/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "这是你永远不想看到的屏幕：一个 UI 9 永久锁定你的手机",
+      "source": "Android Authority",
+      "date": "2026-07-31",
+      "summary": "节省你的好奇心，不必在你自己的手机上尝试这个。",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-permalock-3693475/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Gmail的新警告可以让你免遭重大尴尬",
+      "source": "Android Authority",
+      "date": "2026-07-31",
+      "summary": "Gmail的新警告可以让你免遭重大尴尬",
+      "url": "https://www.androidauthority.com/gmail-bcc-warning-3693467/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "泄露的摩托罗拉 Razr 渲染预告下一个闪亮的特别版，核心配置曝光",
+      "source": "Android Authority",
+      "date": "2026-07-31",
+      "summary": "施华洛世奇版似乎将于 2026 年回归。",
+      "url": "https://www.androidauthority.com/motorola-razr-2026-swarovski-edition-renders-3693452/",
       "tags": [
         "安卓"
       ],
