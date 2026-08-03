@@ -1,6 +1,78 @@
 {
-  "updated": "2026-08-02 10:11",
+  "updated": "2026-08-03 11:51",
   "news": [
+    {
+      "title": "三星 Galaxy F70 Pro 正式发布，配备 6,000mAh 电池、...",
+      "source": "GSMArena",
+      "date": "2026-08-03",
+      "summary": "三星 Galaxy F70 Pro 在印度首次亮相，配备三后置摄像头、6000mAh 电池和 6 年软件支持保证。三星上周公布了这款手机的所有主要功能，并确认了其定价。该手机将于 8 月 8 日起通过 Flipkart ...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_f70_pro_is_official_with_a_6000mah_battery_triple_camera_setup-news-73980.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-f70-pro-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星将砍掉 Galaxy S27 Ultra 的一个摄像头",
+      "source": "GSMArena",
+      "date": "2026-08-03",
+      "summary": "据两个不同的消息来源称，三星正在考虑在 Galaxy S27 Ultra 上放弃过时的 10MP 3 倍长焦相机。该传感器自 Galaxy S21 Ultra 就已存在，看来明年它终于退役了。其中一位消息人士特别指出，3...",
+      "url": "https://www.gsmarena.com/samsung_will_axe_one_of_the_galaxy_s27_ultras_cameras-news-73976.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s26-ultra-india-price-discount/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo 详细介绍了 A7 Pro Max 相机和坚固的构造",
+      "source": "GSMArena",
+      "date": "2026-08-03",
+      "summary": "Oppo 将于 8 月 4 日推出 A7 Pro Max。在发布前夕，该公司详细介绍了这款手机的完整相机设置，并分享了一段展示其耐用性的视频。虽然 Oppo 此前确认 A7 Pro Max 将配备 50MP 主后置摄像头...，带来多项升级",
+      "url": "https://www.gsmarena.com/oppo_details_a7_pro_max_cameras_and_rugged_build-news-73977.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/oppo-a7-pro-max-cameras-durability/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "据报道 Galaxy S27 Pro 将配备 12MP 长焦摄像头",
+      "source": "GSMArena",
+      "date": "2026-08-03",
+      "summary": "据传三星将在 Galaxy S27 系列中推出一款新的 Pro 机型，预计将于 2027 年初首次亮相。虽然有关 Galaxy S27 Pro 的一些细节已经泄露，但现在一份新报告提供了有关该手机长焦摄像头的信息。据 E...",
+      "url": "https://www.gsmarena.com/the_galaxy_s27_pro_will_reportedly_get_a_12mp_telephoto_camera-news-73975.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/galaxy-s27-pro-camera-specs-report/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "更多 红米 K100 Pro Max 规格在发布前公布，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-08-03",
+      "summary": "Redmi K100 Pro 系列将于 8 月 11 日在中国推出。在首发之前，Redmi 透露了即将推出的智能手机的几个关键规格，包括芯片组、显示屏等详细信息。Redmi 已确认 K100 Pro Max 将搭载 Sn...",
+      "url": "https://www.gsmarena.com/more_redmi_k100_pro_max_specs_revealed_ahead_of_launch-news-73974.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-k100-pro-max-specs-new/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo S2 完整规格、Galaxy S27 Pro 和 Ultra 电池...",
+      "source": "GSMArena",
+      "date": "2026-08-02",
+      "summary": "七月现已结束，让我们回顾一下最后一周。vivo S2 的完整规格在预计 8 月 6 日在印度发布之前泄露。该手机将配备 683 英寸 15K 120Hz 曲面 AMOLED 显示屏、MediaTek Dimensity ...，带来多项升级",
+      "url": "https://www.gsmarena.com/vivo_s2_full_specs_galaxy_s27_pro_and_ultra_batteries_leak_week_31_in_review-news-73956.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/week-31-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "优惠：Galaxy Z Fold8系列和iPhone 17 Pro机型促销",
       "source": "GSMArena",
@@ -50,83 +122,95 @@
       "type": "news"
     },
     {
-      "title": "优惠：三星Galaxy S26 Ultra打折，Galaxy Z Fold8...",
-      "source": "GSMArena",
-      "date": "2026-08-01",
-      "summary": "三星将于 8 月 7 日开始发货最近推出的 Galaxy Z Fold8、Galaxy Z Fold8 Ultra 和 Galaxy Z Flip8。Galaxy Watch9 和 Galaxy Watch Ultra2...",
-      "url": "https://www.gsmarena.com/deals_samsung_galaxy_s26_ultra_discounted_galaxy_z_fold8_series_up_for_preorder-news-73964.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/weekly-deals-31/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉 Razr 70 施华洛世奇版的设计通过泄露的渲染图揭晓，核心配置曝...",
-      "source": "GSMArena",
-      "date": "2026-08-01",
-      "summary": "去年8月，摩托罗拉推出了Razr 60的施华洛世奇版，在北美称为Razr 2025。我们现在获悉，该品牌还将对今年的 Razr 70Razr 2026 进行施华洛世奇处理，摩托罗拉 Razr 70 施华洛世奇版的渲染图已...",
-      "url": "https://www.gsmarena.com/motorola_razr_70_2026_swarovski_edition_design_renders-news-73971.php",
+      "title": "谷歌正在开发一个新的用户界面来定制双子座每日简报",
+      "source": "Android Authority",
+      "date": "2026-08-03",
+      "summary": "谷歌显然正在努力研究定制双子座每日简报的用户界面。",
+      "url": "https://www.androidauthority.com/customize-gemini-daily-brief-ui-tweak-apk-teardown-3693789/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-razr-70-swarovski-edition-renders/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "CMF Clip Pro 蓝牙耳机将于下周上市",
-      "source": "GSMArena",
-      "date": "2026-08-01",
-      "summary": "Nothings CMF 几天前预告了新的无线耳机，我们现在知道它是 CMF Clip Pro OWS 耳机。CMF 在 X 上发布了一段简短的视频片段，宣布将于 8 月 4 日推出 Clip Pro，并让我们一睹这款耳...，带来多项升级",
-      "url": "https://www.gsmarena.com/nothing_cmf_clip_pro_launch_date-news-73972.php",
+      "title": "您很快就可以直接在 Android 手机上创建 Gemini Spark 技...",
+      "source": "Android Authority",
+      "date": "2026-08-03",
+      "summary": "很快，您将不需要访问桌面来创建或编辑 Gemini Spark 技能。",
+      "url": "https://www.androidauthority.com/gemini-spark-skills-android-apk-teardown-3693782/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/cmf-clip-pro-launch-date/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "新研究报告详细介绍了 iPhone Air 2 的升级",
-      "source": "GSMArena",
-      "date": "2026-08-01",
-      "summary": "投资分析师 Jeff Pu 今天与广发证券分享了一份新的研究报告，内容都是关于即将推出的 iPhone Air 2。该设备预计将于 2027 年第一季度推出，即 3 月底之前。Pu表示，iPhone Air 2将搭载A2...",
-      "url": "https://www.gsmarena.com/iphone_air_2s_upgrades_detailed_in_a_new_research_note-news-73969.php",
+      "title": "我以前每年都会升级我的 Android 手机。这就是我最终停下来的原因",
+      "source": "Android Authority",
+      "date": "2026-08-03",
+      "summary": "价格上涨，但体验并没有太大变化。为什么要升级？",
+      "url": "https://www.androidauthority.com/stopped-chasing-latest-android-phones-3692577/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "调查称一加顽固分子因美国突然关闭而感到“背叛”",
+      "source": "Android Authority",
+      "date": "2026-08-03",
+      "summary": "对于许多人来说，这是不祥之兆，但有些人仍然不太相信。",
+      "url": "https://www.androidauthority.com/oneplus-us-europe-shutdown-poll-results-3693726/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我是一个顽固的Android用户，但我仍然羡慕这7个iOS功能",
+      "source": "Android Authority",
+      "date": "2026-08-03",
+      "summary": "不要告诉我的 Android 手机这是我写的。",
+      "url": "https://www.androidauthority.com/diehard-android-user-ios-features-i-want-3691074/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "这款 iPhone 刚刚经历了几乎没人相信的事情",
+      "source": "Android Authority",
+      "date": "2026-08-03",
+      "summary": "iPhone 从 3600 英尺高的飞机上坠落，幸存下来，成为苹果有史以来最好的广告。",
+      "url": "https://www.androidauthority.com/iphone-surviving-fall-from-airplane-canada-3693761/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iphone-air-2-key-specs-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Watch Ultra 渲染图泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-08-01",
-      "summary": "摩托罗拉现在似乎正准备进入超级智能手表领域，与苹果和三星等公司直接竞争。今天，一些渲染图显示了即将推出的摩托罗拉 Watch Ultra。正如你所看到的，它有一个圆形屏幕，10点钟位置有一个带有摩托罗拉标志的大旋转表冠，...",
-      "url": "https://www.gsmarena.com/motorola_watch_ultra_renders_leak-news-73970.php",
+      "title": "联想 谷歌book 15 即将发布，大量泄密事件曝光，新机正式登场",
+      "source": "Android Authority",
+      "date": "2026-08-03",
+      "summary": "我们对谷歌全新的 Android 笔记本电脑有了最清晰的了解，该笔记本电脑可能会在 9 月份的 IFA 上推出。",
+      "url": "https://www.androidauthority.com/lenovo-googlebook-15-leaked-renders-3693742/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/motorola-watch-ultra-leaked-renders/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy S26 FE 相机规格浮出水面",
-      "source": "GSMArena",
-      "date": "2026-08-01",
-      "summary": "三星高管最近证实了 Galaxy S26 FE 的存在，公司代表暗示这款手机将于今年推出。当我们等待三星推出 Galaxy S26 FE 的更多细节时，其相机规格已在网上浮出水面，表明相机系统不会与 Galaxy S25...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_camera_specs_surface-news-73959.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s26-fe-charging-speed/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "您的三星手机已经拥有比 Android 17 App Bubbles 更好的...",
+      "title": "您应该购买 5 款智能手表来代替三星 Galaxy Watch 9",
       "source": "Android Authority",
-      "date": "2026-08-02",
-      "summary": "它太有用了，你会后悔没有早点使用它。",
-      "url": "https://www.androidauthority.com/samsung-pop-up-view-better-than-app-bubbles-how-use-3692326/",
+      "date": "2026-08-03",
+      "summary": "Galaxy Watch 9 并不是您唯一的智能手表选择。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-alternatives-3692792/",
       "tags": [
         "三星"
       ],
@@ -134,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Pixel 6 真是一团糟，谷歌在这方面做得更好",
+      "title": "Gemini Notebook 可能很快就能让您根据学习材料构建自定义学习游...",
       "source": "Android Authority",
-      "date": "2026-08-02",
-      "summary": "Pixel 6 给我带来了很多痛苦。",
-      "url": "https://www.androidauthority.com/google-pixel-6-revisit-2026-3692192/",
+      "date": "2026-08-03",
+      "summary": "这个备受推崇的工具以前称为 NotebookLM，它还可以创建交互式网页和应用程序以更好地吸引您。",
+      "url": "https://www.androidauthority.com/gemini-notebook-lm-interactive-learning-games-3693702/",
       "tags": [
         "安卓"
       ],
@@ -146,95 +230,11 @@
       "type": "news"
     },
     {
-      "title": "使用 Android 手机上的传感器可以做 5 件有趣的事情",
+      "title": "我每次旅行时都会使用这个设置，它为我节省了一大笔移动数据费用",
       "source": "Android Authority",
-      "date": "2026-08-02",
-      "summary": "您会惊讶于您的手机的功能之多。",
-      "url": "https://www.androidauthority.com/use-android-phone-sensors-3687662/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "不仅仅是你：这个基本的 谷歌 搜索功能在全球范围内都被破坏了",
-      "source": "Android Authority",
-      "date": "2026-08-02",
-      "summary": "时间过滤器不再在 Google 搜索中发挥作用。",
-      "url": "https://www.androidauthority.com/google-search-time-filters-broken-3693606/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我尝试了这个 vivicoded 劈柴模拟器，我无法停止玩它",
-      "source": "Android Authority",
-      "date": "2026-08-01",
-      "summary": "在此版本中还可以享受蛋糕烘焙体验、字体浏览器和 F1 预测工具！",
-      "url": "https://www.androidauthority.com/vibecoded-ai-apps-ai-tool-roundup-3692798/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "今年 8 月您需要尝试的 5 款最佳 Android 新应用",
-      "source": "Android Authority",
-      "date": "2026-08-01",
-      "summary": "本月，一款令人兴奋的 Android 游戏应用程序和全新的启动器即将上市。",
-      "url": "https://www.androidauthority.com/best-new-android-apps-games-august-2026-3693177/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "第三方应用商店即将接管 谷歌 Play。以下是如何准备",
-      "source": "Android Authority",
-      "date": "2026-08-01",
-      "summary": "时代正在发生变化。",
-      "url": "https://www.androidauthority.com/third-party-app-stores-coming-google-play-how-prepare-3689912/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Beatbot Sora 30 和 iSkim 组合将让您的泳池保持清洁，而...",
-      "source": "Android Authority",
-      "date": "2026-08-01",
-      "summary": "夏天来了，你的泳池在召唤。确保它干净整洁，而不要过度劳累！",
-      "url": "https://www.androidauthority.com/beatbot-sora-30-iskim-due-hands-on-3690811/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我用过 Galaxy Z Flip 8 和 Motorola Razr Ul...",
-      "source": "Android Authority",
-      "date": "2026-08-01",
-      "summary": "今年我只想再在口袋里放一个。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-flip-8-vs-motorola-razr-ultra-2026-hands-on-3692170/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我对谷歌新的自拍登录工具的看法是错误的。以下是您现在应该如何（以及为什么）进...",
-      "source": "Android Authority",
-      "date": "2026-08-01",
-      "summary": "我让谷歌扫描我的脸。我煮熟了吗？",
-      "url": "https://www.androidauthority.com/google-selfie-video-sign-in-how-to-use-3692675/",
+      "date": "2026-08-03",
+      "summary": "这个 Android 设置可以帮助我避免昂贵的漫游费用。",
+      "url": "https://www.androidauthority.com/one-setting-saves-fortune-mobile-data-travel-3688998/",
       "tags": [
         "安卓"
       ],
