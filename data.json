@@ -1,168 +1,132 @@
 {
-  "updated": "2026-08-06 10:58",
+  "updated": "2026-08-07 09:28",
   "news": [
     {
-      "title": "三星 Galaxy S26 系列何时将收到 One UI 9 Beta 5",
+      "title": "谷歌 地图中的 Ask Maps 现在可以为您订餐并记住您过去的对话",
       "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "三星于 5 月份发布了 Galaxy S26 系列的第一个 One UI 9 beta 更新，S26 三人组的最后一个 beta 版本在三周多前推出。 Beta用户一直在热切等待第五个One UI 9 Beta，三星已经...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_beta_5_release_schedule-news-74036.php",
+      "date": "2026-08-07",
+      "summary": "谷歌早在三月份就在谷歌地图中推出了由 Gemini 驱动的 Ask Maps 功能，今天它得到了大量的改进。其中最主要的是直接从应用程序订购食物的能力。您只需告诉问地图您想吃什么，它就会在您的路线上找到开放的餐厅来满足您...",
+      "url": "https://www.gsmarena.com/ask_maps_in_google_maps_can_now_order_food_for_you_and_remember_your_past_conversations-news-74050.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/ask-maps-improvements/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "POCO嘉年华2026庆祝八年大胆创新，从8到∞",
+      "source": "GSMArena",
+      "date": "2026-08-07",
+      "summary": "POCO 是一个粉丝驱动的智能手机品牌，每年都会举办一年一度的 POCO 嘉年华来庆祝其手机周围的社区。这个粉丝节为人们提供了一个聚集在一起、与品牌互动、讨论创新并了解下一步发展的机会。今年的主题是从8到，重点展示POC...",
+      "url": "https://www.gsmarena.com/poco_carnival_2026_celebrates_eight_years_of_bold_innovation_from_8_to_-news-74002.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-carnival-2026-sponsored/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "最新泄露的三星 Galaxy S26 FE 渲染图显示了所有三种颜色，核心配...",
+      "source": "GSMArena",
+      "date": "2026-08-07",
+      "summary": "三星 Galaxy S26 FE 刚刚获得 FCC 认证，现在我们有一组新的泄露渲染图，用三种颜色描绘了它。根据泄露的消息来源称，这些将是 Galaxy S26 FE 将提供的所有色调。不出所料，Galaxy S26 F...",
+      "url": "https://www.gsmarena.com/freshly_leaked_samsung_galaxy_s26_fe_renders_show_all_three_colors-news-74055.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-series-one-ui-9-beta-5-release-schedule/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-fresh-new-renders/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "vivo S2亮相，标志着S系列时隔7年重返印度",
+      "title": "GTA VI 加长版将于本月晚些时候在 Netflix 上推出",
       "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "vivo今天在印度推出了vivo S2，标志着S系列时隔七年重返亚洲国家，因为继2019年8月在印度推出vivo S1之后，vivo就没有再在印度推出任何S系列智能手机。vivo表示，S2专为注重风格、创意、智能体验和有...",
-      "url": "https://www.gsmarena.com/vivo_s2_features_price_sale_date-news-74038.php",
+      "date": "2026-08-07",
+      "summary": "GTA VI 终于于 11 月 19 日推出，并于 6 月底开始接受预订。如果您想更好地了解即将推出的游戏，您可以在 8 月 27 日进行。当天，Rockstar Games 将发布该游戏的扩展版，该游戏将于美国东部时间...，带来多项升级",
+      "url": "https://www.gsmarena.com/gta_vi_extended_look_is_coming_later_this_month_to_netflix-news-74053.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-s2-official/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/gta-vi-first-look/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "新报告称三星下一代智能手表不运行 Wear OS",
+      "title": "泄露的 Bose QuietComfort（第二代）渲染图展示了更新的设计和...",
       "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "据一份新报告称，三星正在开发一款不会运行 Wear OS 的新型智能手表。据称，这款产品的价格介于 Galaxy Fit 和 Galaxy Watch FE 之间，代号为 Galaxy Aero。它运行 RTOS，并且在...",
-      "url": "https://www.gsmarena.com/samsung_is_working_on_a_smartwatch_that_doesnt_run_wear_os-news-74032.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-aero/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo V80 Lite 5G 即将发布，可能是一次品牌重塑工作，新机正式...",
-      "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "vivo正在开发V80 Lite 5G，这是V80家族的第一个成员，根据最近的传言，该产品应该在本月中旬左右正式上市。V80 Lite 5G 已在 Google Play Console 中被发现，型号为 V2576、V...",
-      "url": "https://www.gsmarena.com/vivo_v80_lite_5g_is_on_the_way_and_could_be_a_rebrand_job-news-74034.php",
+      "date": "2026-08-07",
+      "summary": "Bose 于 2023 年推出了 QuietComfort 耳罩式耳机，三年后，该公司似乎正准备推出其继任者。在预计发布之前，Bose QuietComfort第二代的官方渲染图和功能已在网上浮出水面。HotEUDeal...，带来多项升级",
+      "url": "https://www.gsmarena.com/leaked_bose_quietcomfort_2nd_gen_renders_reveal_refreshed_design_color_options-news-74051.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-v80-lite-5g-google-play-console/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/bose-quietcomfort-2nd-gen-renders-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "华为推出2026款MateBook Fold，搭载麒麟X90 Plus So...",
+      "title": "任天堂报告称，尽管净销售额较低，但上季度营业利润仍增长了一倍多",
       "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "华为于去年 5 月推出了可折叠笔记本电脑 MateBook Fold Ultimate Design，几个月后又推出了非凡大师版。该公司现已推出 2026 年款 MateBook Fold，配备升级的芯片组。2026款华...",
-      "url": "https://www.gsmarena.com/huawei_unveils_2026_matebook_fold_with_kirin_x90_plus_soc-news-74035.php",
+      "date": "2026-08-07",
+      "summary": "任天堂的季度表现强劲从 4 月到 6 月的三个月内，该公司的营业利润猛增 150。从去年同期的 569 亿日元增至 1425 亿日元换算成约 902 亿美元。尽管净销售额下降 95 至 5178 亿日元328 亿美元，但...",
+      "url": "https://www.gsmarena.com/nintendo_reports_that_operating_profit_more_than_doubled_last_quarter_despite_lower_net_sales-news-74049.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-matebook-fold-2026-ofic/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/nintendo-q1-report/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "TCL P80 和 P80 Pro 渲染图、规格和价格泄露，核心配置曝光",
+      "title": "苹果低价采购中国 DRAM 的提议被长鑫存储拒绝",
       "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "TCL 正在开发几款新智能手机，计划在欧洲推出。今天，可靠消息来源泄露了两者的官方渲染图。据称，TCL P80 采用联发科天玑 7300 Elite 芯片组，配备 8GB RAM 和 128GB 存储空间。它具有带 OI...",
-      "url": "https://www.gsmarena.com/tcl_p80_and_p80_pro_renders_specs_and_prices_leak-news-74031.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/tcl-p80-p80-pro-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为推出轻如羽毛的12英寸MatePad Pro 2026",
-      "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "除了nova 16 SE智能手机之外，华为今天还发布了MatePad Pro 2026平板电脑。它拥有 12 英寸 OLED 屏幕，分辨率为 3036x1952，峰值亮度为 1600 尼特。它由 Kirin T93 或 ...，带来多项升级",
-      "url": "https://www.gsmarena.com/huawei_launches_the_featherlight_12inch_matepad_pro_2026-news-74030.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-matepad-pro-12-2026-official/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "看一下 Boltt Ace 5G 和 Boltt Evo 4G",
-      "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "早在 6 月份，我们就首次听说 FireBoltt 将进军智能手机领域，昨天该公司正式透露了首款 Boltt 智能手机的发布日期：8 月 25 日。今天，Flipkart 的促销页面更新了 Boltt Ace 5G 和 ...，带来多项升级",
-      "url": "https://www.gsmarena.com/take_a_look_at_the_boltt_ace_5g_and_boltt_evo_4g-news-74033.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/boltt-ace-evo-first-images/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果公司在印度的销售额首次突破 100 亿美元",
-      "source": "GSMArena",
-      "date": "2026-08-06",
-      "summary": "Apple 在印度创下了新的高位该国整个财年的年销售额首次突破 100 亿美元截至 3 月份的 12 个月期间。这一数字高于上一财年的 90 亿美元，与三年前相比增长了 67，令人印象深刻。一位接受彭博社采访的内部人士表...",
-      "url": "https://www.gsmarena.com/apple_reports_over_10_billion_in_sales_in_india_for_the_first_time-news-74024.php",
+      "date": "2026-08-07",
+      "summary": "据报道，距离 iPhone 18 发布仅几周时间，苹果公司就出现 DRAM 短缺，并正在忙着寻找更多库存。危急时刻需要采取危急措施，据报道，苹果公司向中国 RAM 制造商长鑫存储寻求额外库存。首先，苹果必须请求联邦政府批...，带来多项升级",
+      "url": "https://www.gsmarena.com/apple_wants_to_get_chinese_dram_on_the_cheap_cxmt_says_no-news-74048.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-india-usd-10-billion-sales/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-dram-china/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌 Assistant 即将关闭，时间如下",
+      "title": "三星 Galaxy Z Fold8 与三星 Galaxy Z Fold8 U...",
       "source": "GSMArena",
-      "date": "2026-08-05",
-      "summary": "由于 Gemini 正在接管，谷歌将关闭 Google Assistant 服务。 Google Assistant 将于 9 月 4 日开始关闭，但可能需要几周时间才能覆盖到所有仍在使用它的人。这次关闭将在 Andro...",
-      "url": "https://www.gsmarena.com/google_assistant_is_shutting_down_heres_when-news-74025.php",
+      "date": "2026-08-06",
+      "summary": "既然三星在三星 Galaxy Z Fold8 中采用了新的外形，那么至少一些潜在买家很自然地将其与三星 Galaxy Z Fold8 Ultra 中更成熟的可折叠设计进行权衡。毕竟两者的价格相差并不大，所以还得综合其他方...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_vs_samsung_galaxy_z_fold8_ultra-news-73985.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-assistant-shutdown/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-z-fold8-vs-z-fold8-ultra/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "我很高兴谷歌正在制作 Pixel Tag，但我绝对不会购买",
-      "source": "Android Authority",
+      "title": "三星 Galaxy S26 FE 通过 FCC",
+      "source": "GSMArena",
       "date": "2026-08-06",
-      "summary": "Pixel Tag 不会吸引像我这样分裂的苹果和谷歌家庭。",
-      "url": "https://www.androidauthority.com/google-pixel-tag-wont-buy-3694175/",
+      "summary": "三星即将推出的 Galaxy S26 FE 现已获得 FCC 的正式批准，这意味着它可能将于下个月推出，就像去年的前身一样。有趣的是，虽然 Galaxy S26 FE 配备 Exynos 芯片组和调制解调器，但它使用高通...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_passes_through_the_fcc-news-74047.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-fcc/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "与之前的报告相反，没有什么能够真正加倍实现其智能手机野心",
-      "source": "Android Authority",
+      "title": "Sunbird，一款支持 iMessage 的 Android 应用，带着公...",
+      "source": "GSMArena",
       "date": "2026-08-06",
-      "summary": "没有任何迹象表明它将在 2027 年推出多达六款手机，使今年发布的手机总数增加一倍。，带来多项升级",
-      "url": "https://www.androidauthority.com/nothing-phone-double-launches-2027-3695195/",
+      "summary": "欧盟一直在努力推动主要数字平台之间的互操作性。但公司也可以解决这个问题像Sunbird这样的公司，它也可以被称为凤凰，因为它死而复生。Sunbird 构建了一款 Android 应用程序，承诺提供适当的 iMessage...",
+      "url": "https://www.gsmarena.com/sunbird_the_android_app_that_does_imessage_returns_from_the_dead_with_an_open_beta-news-74046.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/sunbird-imessage-app-returns/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Signal 终于让使用多个 Android 设备变得更加容易",
+      "title": "新推出的 谷歌 Messages 让单手使用变得更加轻松",
       "source": "Android Authority",
-      "date": "2026-08-06",
-      "summary": "您不再需要选择使用哪部手机来保存 Signal 聊天内容。",
-      "url": "https://www.androidauthority.com/signal-android-device-linking-3695169/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "忘掉廉价电视吧，这款即将推出的 Roku 电视投影仪可能会以不到 70 美元...",
-      "source": "Android Authority",
-      "date": "2026-08-06",
-      "summary": "Aurzen 的廉价 Roku 电视投影机附带不容忽视的预购优惠。",
-      "url": "https://www.androidauthority.com/aurzen-roku-tv-portable-projector-preorder-deal-3695166/",
+      "date": "2026-08-07",
+      "summary": "重新设计的新浮动上下文菜单和选择性文本复制使大型手机上的消息传递不再那么令人沮丧。",
+      "url": "https://www.androidauthority.com/google-messages-floating-context-menu-selective-text-copying-beta-rollout-3695804/",
       "tags": [
         "安卓"
       ],
@@ -170,35 +134,11 @@
       "type": "news"
     },
     {
-      "title": "Android 上的 Chrome 正在落后——以下是它现在需要的 5 个功...",
+      "title": "Galaxy Z Fold 8 是今年不值得购买的三星可折叠手机",
       "source": "Android Authority",
-      "date": "2026-08-06",
-      "summary": "Android 上的 Chrome 正在落后以下是它现在需要的 5 个功能",
-      "url": "https://www.androidauthority.com/google-chrome-missing-features-android-3690595/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "一年的更新无法挽救 Pixel 10 的 GPU，现在 Pixel 11 面...",
-      "source": "Android Authority",
-      "date": "2026-08-06",
-      "summary": "Pixel 10 上的 Android 17 运行情况如何？",
-      "url": "https://www.androidauthority.com/pixel-10-gaming-android-17-update-pixel-11-worried-3693728/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星确认 Galaxy S26 One UI 9 Beta 版遭遇小幅挫折",
-      "source": "Android Authority",
-      "date": "2026-08-06",
-      "summary": "三星已将 S26 系列的 One UI 9 beta 5 推迟到下周，以进行最终审查和质量改进。",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-5-delay-3695187/",
+      "date": "2026-08-07",
+      "summary": "它给中孩子能量。",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-wrong-samsung-foldable-to-buy-3693569/",
       "tags": [
         "三星"
       ],
@@ -206,23 +146,11 @@
       "type": "news"
     },
     {
-      "title": "Galaxy S26 FE 出现在 FCC 上，带有意想不到的高通特色",
+      "title": "OnePlus 15 刚刚获得 ColorOS 测试版",
       "source": "Android Authority",
-      "date": "2026-08-06",
-      "summary": "高通和 Exynos 芯片集成在同一部手机中？是的，但也许不是你期望的那样。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-chip-filing-3695141/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "作为一名 Android Auto 日常用户，这是我在 2026 年大更新后...",
-      "source": "Android Authority",
-      "date": "2026-08-06",
-      "summary": "3D 导航、视频支持和小部件都不错，但这才是 Android Auto 真正需要的。",
-      "url": "https://www.androidauthority.com/android-auto-features-i-still-want-2026-3693948/",
+      "date": "2026-08-07",
+      "summary": "该更新可能基于 Android 17，目前已向印度的 OnePlus 15 系列开放。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/oneplus-15-coloros-beta-3695698/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +158,83 @@
       "type": "news"
     },
     {
-      "title": "谷歌可能最终解决了 Android 照片选择器的一个重大问题",
+      "title": "ChatGPT 很快就能让你轻松创建和使用自定义 WhatsApp 贴纸",
       "source": "Android Authority",
-      "date": "2026-08-06",
-      "summary": "Android 17 QPR 2 Beta 2 中的代码揭示了内置媒体编辑器的计划，这可以使用户免于繁琐的应用程序切换。",
-      "url": "https://www.androidauthority.com/android-photo-picker-media-editor-apk-teardown-3695131/",
+      "date": "2026-08-07",
+      "summary": "不再需要寻找完美的贴纸。",
+      "url": "https://www.androidauthority.com/chatgpt-whatsapp-stickers-apk-teardown-3695710/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星最新的 200MP 传感器可能是 Galaxy S27 Ultra 的绝...",
+      "source": "Android Authority",
+      "date": "2026-08-07",
+      "summary": "在配备 LOFIC 的相机传感器之后，这款新传感器可能正是三星旗舰产品所需要的。",
+      "url": "https://www.androidauthority.com/samsung-isocell-hpc-deeppix-camera-galaxy-s27-ultra-3695688/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "POCO 嘉年华 2026：POCO F8 Ultra、F8 Pro 等大优...",
+      "source": "Android Authority",
+      "date": "2026-08-07",
+      "summary": "参加 POCO 嘉年华 2026 挑战，就有机会赢得激动人心的奖品。",
+      "url": "https://www.androidauthority.com/poco-carnival-2026-3694764/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌正在重新考虑“快速设置”图块在锁定手机上的行为方式（再次）",
+      "source": "Android Authority",
+      "date": "2026-08-07",
+      "summary": "新代码表明 Google 将仅限制锁定屏幕上的 WiFi、蓝牙、移动数据和飞行模式切换。",
+      "url": "https://www.androidauthority.com/android-quick-settings-lock-screen-change-apk-teardown-3695702/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌打造了一款可离线工作的便携式人工智能翻译器，你也可以打造一个",
+      "source": "Android Authority",
+      "date": "2026-08-07",
+      "summary": "展示 Gemma 的离线、设备上功能。",
+      "url": "https://www.androidauthority.com/google-offline-ai-translator-gemma-4-3695674/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌正在为 Android 恢复本机应用程序锁定，但尚未适用于所有人",
+      "source": "Android Authority",
+      "date": "2026-08-07",
+      "summary": "这看起来像是一个受欢迎的替代方案，而不是仅仅通过私人空间隐藏应用程序。",
+      "url": "https://www.androidauthority.com/google-android-pixel-app-lock-3695632/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌刚刚延长了 Gemini Omni 令人惊讶的慷慨免费优惠",
+      "source": "Android Authority",
+      "date": "2026-08-07",
+      "summary": "十个免费的 Gemini Omni 视频意味着十个变得非常奇怪的机会。",
+      "url": "https://www.androidauthority.com/free-gemini-omni-videos-3695658/",
       "tags": [
         "安卓"
       ],
