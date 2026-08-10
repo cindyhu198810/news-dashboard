@@ -1,6 +1,90 @@
 {
-  "updated": "2026-08-09 09:07",
+  "updated": "2026-08-10 09:53",
   "news": [
+    {
+      "title": "红米 17 5G和红米 17 4G正式发布，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-08-10",
+      "summary": "继去年的红米15系列之后，小米又推出了红米17系列，共有两款成员。 Redmi 17 4G 和 Redmi 17 5G 具有相同的外观和主要规格。红米17 4G左和红米17 5G右这两款手机均配备 69 英寸 IPS L...",
+      "url": "https://www.gsmarena.com/redmi_17_5g_and_redmi_17_4g_go_official_-news-74087.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-17-series-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO Neo11 Ultra 和 Z11s 将于下周推出，设计揭晓",
+      "source": "GSMArena",
+      "date": "2026-08-10",
+      "summary": "iQOO 已确认 Neo11 Ultra 和 Z11s 在中国的上市日期。该公司还透露了这两款智能手机的设计以及一些关键规格。该公司在微博中证实，iQOO Neo11 Ultra和iQOO Z11s将于8月18日在中国首...",
+      "url": "https://www.gsmarena.com/iqoo_neo11_ultra_and_z11s_to_launch_next_week_design_revealed-news-74085.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-neo11-ultra-z11s-launch-date-design/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "古尔曼：苹果正在考虑对其智能手表产品线进行更​​广泛的重新设计",
+      "source": "GSMArena",
+      "date": "2026-08-10",
+      "summary": "据报道，苹果正在探索改进的智能手表系列，采用新的设计、外形，甚至无屏幕健身追踪器。该报告补充说，该公司还在考虑在现有的 Apple Watch SE 系列之外推出新的经济型智能手表型号。彭博社的 Mark Gurman ...",
+      "url": "https://www.gsmarena.com/gurman_apple_considering_a_broader_redesign_of_its_smartwatch_lineup-news-74084.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-watch-rethink-gurman-report/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "这是华硕和联想即将推出的 谷歌book 的样子",
+      "source": "GSMArena",
+      "date": "2026-08-09",
+      "summary": "华硕将在下个月的 IFA 展会上及时推出新款笔记本电脑，我们在相当多的所谓渲染图中看到了其中一款笔记本电脑，这些渲染图似乎是使用人工智能进行了升级，并且在这个过程中有点混乱。坦率地说，乍一看，我们似乎不应该关心。然而，这...",
+      "url": "https://www.gsmarena.com/heres_what_asus_and_lenovos_upcoming_googlebooks_might_look_like-news-74080.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/asus-googlebook-renders-leak/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "红米 K100 Pro、Galaxy S27、Pixel 11 规格泄露，第...",
+      "source": "GSMArena",
+      "date": "2026-08-09",
+      "summary": "小米在 8 月 11 日发布之前发布了 Redmi K100 Pro 和 K100 Pro Max。 K100 Pro 配备了重新设计的相机岛、659 英寸 185Hz 显示屏和高通 Snapdragon 8 Elite...，带来多项升级",
+      "url": "https://www.gsmarena.com/redmi_k100_pro_galaxy_s27_pixel_11_specs_leak_week_32_in_review_-news-74073.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/week-32-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "基于 Android 17 的 One UI 9 将是三星 Galaxy S...",
+      "source": "GSMArena",
+      "date": "2026-08-09",
+      "summary": "三星于 2023 年 2 月推出了 Galaxy S23、Galaxy S23 和 Galaxy S23 Ultra，搭载基于 Android 13 的 One UI 51，随后于 10 月推出了具有相同操作系统的 Ga...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s23_fe_android_17_one_ui_9_last_major_os_upgrade-news-74079.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s23-fe-android-17-last-os-upgrade/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周调查：您使用功能手机吗？为什么？",
+      "source": "GSMArena",
+      "date": "2026-08-09",
+      "summary": "功能手机正在卷土重来这只是一种时尚就像 Z 世代的人们拿着傻瓜相机到处跑一样还是市场上真正的趋势，是对全功能、全消费智能手机的抵制？现在，功能手机这个词从未被明确定义，现在甚至更加模糊。因此，为了明确我们的意思，我们指的...",
+      "url": "https://www.gsmarena.com/weekly_poll_do_you_use_a_feature_phone_why-news-74028.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-feature-phones/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "优惠：Galaxy Z Flip8 立即打折，Z Fold8 和 Z Fol...",
       "source": "GSMArena",
@@ -38,95 +122,23 @@
       "type": "news"
     },
     {
-      "title": "Caviar 刚刚透露了 iPhone Ultra 和 iPhone 18 ...",
-      "source": "GSMArena",
-      "date": "2026-08-08",
-      "summary": "Caviar 在未宣布的定制硬件上开始预订的情况并不罕见。这在过去曾发生过。然而，即使对于这家俄罗斯公司来说，这次的布局方式也显得有些大胆。它已经列出了针对 iPhone 18 ProPro Max 和备受期待的 iPh...",
-      "url": "https://www.gsmarena.com/did_caviar_just_spill_the_beans_on_the_iphone_ultra_and_the_iphone_18_pro_design_specs_and_release_d-news-74082.php",
+      "title": "我多年来一直在审查 Android 可折叠设备。 iPhone Ultra ...",
+      "source": "Android Authority",
+      "date": "2026-08-10",
+      "summary": "各位，捂紧钱包吧。",
+      "url": "https://www.androidauthority.com/5-things-iphone-ultra-can-learn-from-android-foldables-3694712/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/caviar-iphone-18-pro-iphone-ultra-leak/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "谷歌 Pixel 11 系列和 Watch 5：期待什么",
-      "source": "GSMArena",
-      "date": "2026-08-08",
-      "summary": "谷歌计划于 8 月 12 日周三举办一场大型活动，届时将推出下一代 Pixel 手机，以及一款新手表，或许还有首款智能标签。以下是迄今为止我们所知道的官方和非官方信息。谷歌已经发布了如下预告视频。它们表明，我们不应该对手...，带来多项升级",
-      "url": "https://www.gsmarena.com/google_pixel_11_series_and_watch_5_what_to_expect-news-74069.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-pixel-11-series-what-to-expect/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "优惠：Galaxy Z Fold8、Z Fold8 Ultra 和 Z Fl...",
-      "source": "GSMArena",
-      "date": "2026-08-08",
-      "summary": "三星 Galaxy Z8 可折叠手机和新款智能手表现已在全球上市周五正式发布。即将发生的另一件重大事件是下周谷歌 Pixel 11 系列的发布。首先，可折叠设备。三星 Galaxy Z Fold8 成为新热点它占欧洲 Z...，带来多项升级",
-      "url": "https://www.gsmarena.com/deals_the_galaxy_z_fold8_z_fold8_ultra_and_z_flip8_are_now_available-news-74059.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-deals-7/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus 告别欧洲，免费提供 50W 无线充电器",
-      "source": "GSMArena",
-      "date": "2026-08-08",
-      "summary": "正如该公司最近证实的那样，OnePlus 将退出欧洲和北美。作为临别礼物，它会在英国、德国、西班牙和法国提供免费的 AIRVOOC 50W 磁性无线充电器，前提是你做两件事：在 Oppo 德国网站上订阅 Oppo 时事通...",
-      "url": "https://www.gsmarena.com/oneplus_is_saying_goodbye_in_europe_by_offering_you_a_free_50w_wireless_charger-news-74077.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/oneplus-oppo-campaign/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉 Moto Pad 70 发布：12.1 英寸 90Hz 显示屏、5...",
-      "source": "GSMArena",
-      "date": "2026-08-08",
-      "summary": "摩托罗拉于 6 月推出了 Moto Pad 70 Pro，随后于上周推出了 Moto Pad 70 Groove。今天，联想旗下公司推出了Moto Pad 70，作为Moto Pad 70系列的第三个成员。摩托罗拉表示，...",
-      "url": "https://www.gsmarena.com/motorola_moto_pad_70_features_price_sale_date-news-74081.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/motorola-moto-pad-70-official/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "优惠：Galaxy S26 Ultra、iPhone 17 Pro、小米 1...",
-      "source": "GSMArena",
-      "date": "2026-08-08",
-      "summary": "Galaxy S26 Ultra、Galaxy S26 和 Galaxy S25 FE 是目前在英国亚马逊打折的部分三星智能手机。苹果的 iPhone 17 Pro、谷歌的 Pixel 10a 和小米的 17 系列也有优...",
-      "url": "https://www.gsmarena.com/deals_galaxy_s26_ultra_iphone_17_pro_and_xiaomi_17_ultra_on_sale-news-74071.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-deals-7/-184x111/gsmarena_uk.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星印度提高入门级 Galaxy A、F 和 M 系列机型的价格",
-      "source": "GSMArena",
-      "date": "2026-08-08",
-      "summary": "分析师对此发出警告入门级智能手机对零部件成本的上涨最为敏感。随着三星印度公司悄悄提高了入门级机型的价格，我们现在看到了 RAM 和存储短缺的影响。这会影响 Galaxy A、F 和 M 系列的低端06、07 和 17型号...",
-      "url": "https://www.gsmarena.com/samsung_india_increases_the_prices_of_entrylevel_galaxy_a_f_and_mseries_models-news-74066.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-india-increases-entry-level-galaxy-prices/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "搭载 Snapdragon 处理器的 Pixel 听起来可能很棒。这就是为什...",
+      "title": "8 月 12 日，每个粉丝都需要关注的 9 项 谷歌 Pixel 公告",
       "source": "Android Authority",
-      "date": "2026-08-09",
-      "summary": "你真的想花更多的钱购买 Pixel 旗舰产品吗？",
-      "url": "https://www.androidauthority.com/google-pixel-not-better-snapdragon-3691461/",
+      "date": "2026-08-10",
+      "summary": "8 月 12 日，每个粉丝都需要关注的 9 项 Google Pixel 公告",
+      "url": "https://www.androidauthority.com/big-google-pixel-announcements-august-12-2026-3694960/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 正在让向 Gemini Notebook 添加新源变得更加容易",
+      "title": "谷歌可能会取消这一有用且免费的 Gemini 功能，转而采用付费功能",
       "source": "Android Authority",
-      "date": "2026-08-08",
-      "summary": "您可能不会立即看到新功能。",
-      "url": "https://www.androidauthority.com/gemini-notebook-source-automation-3696153/",
+      "date": "2026-08-10",
+      "summary": "如果 Gems 要消失，谷歌真的应该让每个人都可以使用技能。",
+      "url": "https://www.androidauthority.com/google-retire-gemini-gems-leak-3696240/",
       "tags": [
         "安卓"
       ],
@@ -146,23 +158,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌照片用户报告方便的拖动选择功能已经消失",
+      "title": "三星解释其 Z Fold 8 显示屏如何实现几乎看不见的折痕",
       "source": "Android Authority",
-      "date": "2026-08-08",
-      "summary": "一项流行的 Google 照片功能已被 MIA 淘汰。对于某些人来说",
-      "url": "https://www.androidauthority.com/google-photos-drag-to-select-missing-3696148/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我用价值 6 美元的一包 NFC 标签赋予了我的三星手机超能力——具体方法如...",
-      "source": "Android Authority",
-      "date": "2026-08-08",
-      "summary": "廉价的 NFC 标签和三星例程的作用超乎您的想象。",
-      "url": "https://www.androidauthority.com/samsung-routines-nfc-tags-superpowers-how-3694682/",
+      "date": "2026-08-10",
+      "summary": "双钛层和致密的粘合支撑使新型可折叠面板能够更好地分散应力并减少折痕。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-display-upgrades-3696219/",
       "tags": [
         "三星"
       ],
@@ -170,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "2026 年我离不开的 8 款免费 Android 生产力应用程序",
+      "title": "民意调查揭示了这个即将消亡的 Android 手机功能到底有多受欢迎",
       "source": "Android Authority",
-      "date": "2026-08-08",
-      "summary": "我目前最喜欢的用于完成工作的应用程序。",
-      "url": "https://www.androidauthority.com/best-free-android-productivity-apps-2026-3693553/",
+      "date": "2026-08-10",
+      "summary": "这个曾经无处不在的 Android 功能现在是时候隆重回归了。",
+      "url": "https://www.androidauthority.com/android-microsd-card-slot-poll-results-3696223/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "我终于可以在 Chrome 上以 4K 格式观看 Netflix 节目了——...",
+      "title": "YouTube 新的自动播放行为已经吸引了数千名用户",
       "source": "Android Authority",
-      "date": "2026-08-08",
-      "summary": "我已经进行了像素窥视，所以你不必这样做。",
-      "url": "https://www.androidauthority.com/how-to-watch-netflix-4k-on-chrome-3695889/",
+      "date": "2026-08-10",
+      "summary": "没有人要求这样做，YouTube！",
+      "url": "https://www.androidauthority.com/youtube-autoplay-bug-or-feature-3696192/",
       "tags": [
         "安卓"
       ],
@@ -194,23 +194,11 @@
       "type": "news"
     },
     {
-      "title": "刚刚拿到 Galaxy Z Fold 8？这是您需要做的前 5 件事",
+      "title": "谷歌 Play 商店首个实验性“实验室”功能可让您“扩展一切”",
       "source": "Android Authority",
-      "date": "2026-08-08",
-      "summary": "我喜欢 Fold 8，但它开箱即用并不完美。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-first-things-to-do-3695011/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "在购买另一个 USB-C 充电器之前，请确保它具有此关键（且隐藏）规格",
-      "source": "Android Authority",
-      "date": "2026-08-08",
-      "summary": "购买 USBC 充电器仍然比想象中更难。",
-      "url": "https://www.androidauthority.com/usb-c-charger-need-to-know-before-buying-3694333/",
+      "date": "2026-08-10",
+      "summary": "您希望看到更多结果，还是每个结果的更多信息？这就是问题所在。",
+      "url": "https://www.androidauthority.com/google-play-store-labs-expand-everything-3696193/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "不要等待 Pixel 11：为什么你应该立即购买 Pixel 10",
+      "title": "人工智能代理黑客入侵健身房预订系统，同时试图为其用户获取位置",
       "source": "Android Authority",
-      "date": "2026-08-08",
-      "summary": "明智地使用 Pixel 10，为您省钱。您不会错过太多。",
-      "url": "https://www.androidauthority.com/dont-wait-for-pixel-11-buy-pixel-10-now-3695239/",
+      "date": "2026-08-10",
+      "summary": "人工智能代理不仅找到了提前预订课程的方法，还将另一个人从候补名单中剔除。",
+      "url": "https://www.androidauthority.com/openclaw-claude-ai-hacks-australia-gym-booking-system-3696189/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +218,23 @@
       "type": "news"
     },
     {
-      "title": "YouTube TV 订阅者开始享受最新的免费福利",
+      "title": "Pixel Watch 5即将获得斯蒂芬·库里的待遇",
       "source": "Android Authority",
-      "date": "2026-08-07",
-      "summary": "ESPN Unlimited 是去年秋天承诺的，现在它已经开始实现。",
-      "url": "https://www.androidauthority.com/youtube-tv-espn-unlimited-3696125/",
+      "date": "2026-08-10",
+      "summary": "这次合作确实是关于乐队的。",
+      "url": "https://www.androidauthority.com/google-pixel-watch-5-stephen-curry-edition-3696183/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Verizon 再次遭遇停电，这次是在光缆被破坏者切断之后",
+      "source": "Android Authority",
+      "date": "2026-08-10",
+      "summary": "该航空公司表示，维修工作正在进行中，执法部门也已介入。",
+      "url": "https://www.androidauthority.com/verizon-outage-southern-california-fiber-cables-cut-by-vandals-3696177/",
       "tags": [
         "安卓"
       ],
