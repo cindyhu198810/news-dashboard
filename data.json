@@ -1,156 +1,132 @@
 {
-  "updated": "2026-08-11 09:26",
+  "updated": "2026-08-12 09:35",
   "news": [
     {
-      "title": "小米18 Pro和小米18 Pro Max的颜色和背面材质泄露，核心配置曝光",
+      "title": "iOS 27 代码确认了六款即将推出的 iPhone",
       "source": "GSMArena",
-      "date": "2026-08-11",
-      "summary": "根据微博数码闲聊站的最新传闻，小米的下一代旗舰智能手机目前正在测试黑色、白色、粉色、蓝色和红色。正如 DCS 所说，这确实是一个非常丰富的颜色选择。虽然他没有提到具体型号的名称，但可以肯定的是，有问题的手机是小米 18 ...",
-      "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_maxs_colors_and_back_material_leak-news-74102.php",
+      "date": "2026-08-12",
+      "summary": "昨天，苹果为开发者发布了 iOS 27 的第五个测试版，根据一份新报告，该版本包含一些隐藏代码，揭示了即将推出的六款 iPhone 机型。在与电池驱动程序和电池智能功能相关的系统文件中找到了有问题的引用。除了现有型号之外...，带来多项升级",
+      "url": "https://www.gsmarena.com/ios_27_code_confirms_six_upcoming_iphones-news-74123.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/ios-27-reveals-six-new-iphones/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "联想公布了下一代游戏平板电脑的安兔兔得分，同时有传言透露了其电池容量",
+      "source": "GSMArena",
+      "date": "2026-08-12",
+      "summary": "联想将于 8 月 25 日全面推出其下一代游戏平板电脑。在此之前，今天该公司公布了其安兔兔得分，得分为 4585844，令人印象深刻。该平板电脑将被称为 Y700 Infinite、Y700 Ultimate 或 Y70...",
+      "url": "https://www.gsmarena.com/lenovo_unveils_its_next_gaming_tablets_antutu_score_while_a_rumor_reveals_its_battery_capacity-news-74126.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/lenovo-next-legion-y700-tablet-antutu-score-battery/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "据报道，荣耀的12000mAh电池现已进入“试生产”状态",
+      "source": "GSMArena",
+      "date": "2026-08-12",
+      "summary": "过去，有传言称荣耀的目标是为即将推出的 Power3 配备 11000 mAh 至 12000 mAh 的电池，但后来似乎 10000 mAh 就够了。我们还听说该公司正在开发一款 14000 mAh 的智能手机电池，但...",
+      "url": "https://www.gsmarena.com/honors_12000_mah_battery_is_now_reportedly_in_trial_production-news-74120.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-12k-mah-battery/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "华为Watch GT 7和GT 7 Pro续航时间长达21天",
+      "source": "GSMArena",
+      "date": "2026-08-12",
+      "summary": "华为上周在中国推出了Watch GT 7和Watch GT 7 Pro，以及nova 16 SE、2026款MateBook Fold和2026款MatePad Pro。新款智能手表在 Watch GT 6 系列的基础上...",
+      "url": "https://www.gsmarena.com/huawei_watch_gt_7_and_gt_7_pro_debut_with_up_to_21day_battery_life-news-74127.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-gt-7-pro-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "克劳德现在给文本添加水印以表明它是由人工智能生成的",
+      "source": "GSMArena",
+      "date": "2026-08-12",
+      "summary": "您可能已经在人工智能生成的图像上看到了水印，表明它们确实是由人工智能制作的。现在，甚至人工智能生成的文本也被加了水印，以便消费者更容易发现人工智能撰写的在线内容和评论。Claude 背后的公司 Anthropic 签署了...",
+      "url": "https://www.gsmarena.com/claude_now_watermarks_text_to_indicate_that_it_was_generated_by_ai-news-74116.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/claude-will-watermark-ai-generated-text/-184x111/gsmarena_0000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X500、X500 Pro和X500 Pro Max设计细节、屏幕...",
+      "source": "GSMArena",
+      "date": "2026-08-12",
+      "summary": "vivo 预计将于下个月推出 X500、X500 Pro 和 X500 Pro Max，今天，得益于微博数码闲聊站的最新泄密，我们得到了一些关于它们的屏幕尺寸和设计细节的详细信息，特别是摄像头凸起。据称，两款 Pro 型...",
+      "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_design_details_screen_sizes_and_soc_details_leak-news-74119.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-x500-x500-pro-x500-pro-max-details/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "红米 K100 Pro 和 K100 Pro Max 发布，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-08-12",
+      "summary": "正如预期的那样，小米今天在中国推出了最新的红米K系列手机，它们配备了一些令人印象深刻的规格。尽管它们看起来很相似，但它们也带来了一些关键的区别。Redmi K100 Pro左和K100 Pro Max右Redmi K10...",
+      "url": "https://www.gsmarena.com/redmi_k100_pro_and_k100_pro_max_announced_-news-74122.php",
       "tags": [
         "小米"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/xiaomi-18-pro-xiaomi-18-pro-max-colors-back-material/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-k100-pro-k100-pro-max-ofic/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "由于内存价格上涨，第二季度智能手机市场下降了7%",
+      "title": "泄漏显示 Fairphone 6+ 将配备升级的芯片组，性能也略有提高",
       "source": "GSMArena",
-      "date": "2026-08-11",
-      "summary": "根据 FDM CCS Insight 报告，与 2025 年第二季度相比，第二季度全球智能手机出货量下降了 7。与今年第一季度相比下降了 3。总体而言，FDM 预测 2026 年全球智能手机出货量将下降 12。欧洲和北美...",
-      "url": "https://www.gsmarena.com/the_smartphone_market_dropped_by_7_in_q2_because_of_rising_memory_prices-news-74101.php",
+      "date": "2026-08-12",
+      "summary": "因此，Fairphone 6 不仅仅是更多的 RAM 和新的颜色，它还将配备新的芯片组。 EvLeaks 发布了即将推出的手机的完整规格表、手机内部结构的分解图图像，甚至还有宣传视频。泄露：Fairphone 6 完整规...，带来多项升级",
+      "url": "https://www.gsmarena.com/the_fairphone_6_will_have_an_upgraded_chipset_for_slightly_higher_performance_too_leak_shows-news-74118.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/fcm-ccs-q2-7/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/fairphone-6-plus-full-spec-sheet/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "小米和红米的印度发布路线图泄露，新机正式登场",
+      "title": "网上疑似 iPhone Ultra 屏幕保护膜",
       "source": "GSMArena",
-      "date": "2026-08-11",
-      "summary": "今天，X 上的一位爆料者据称透露了今年剩余时间内小米和红米设备在印度的发布路线图。据他介绍，红米17系列将于9月5日在国内上市。然后，Redmi Note 17 Pro系列将在9月18日或9月20日加入已经正式发布的Re...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_and_redmis_india_launch_roadmap_leaks-news-74105.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/xiaomi-redmi-india-roadmap-leaks/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "一位分析师认为全玻璃 20 周年 iPhone 已经死了",
-      "source": "GSMArena",
-      "date": "2026-08-11",
-      "summary": "从去年开始，我们就不断听到有关苹果正在开发一款全玻璃20 周年纪念版 iPhone 的传言，该款 iPhone 将于明年推出，顺便说一句，今年恰逢初代 iPhone 诞生 20 周年。这款神秘的设备在谣言中有着各种各样的...",
-      "url": "https://www.gsmarena.com/the_allglass_20th_anniversary_iphone_is_dead_one_analyst_thinks-news-74100.php",
+      "date": "2026-08-12",
+      "summary": "苹果首款可折叠 iPhone 预计将于今年 9 月亮相，其设计与三星 Galaxy Z Fold8 和华为 Pura X Max 类似。虽然传闻中的 iPhone Ultra 的几张渲染图已经浮出水面，但现在新的泄露让我...",
+      "url": "https://www.gsmarena.com/alleged_iphone_ultra_screen_protector_surfaces_online-news-74117.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/all-glass-iphone-dead/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-ultra-screen-protector-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy S26 FE 规格完整泄露：以下是将会改变的内容和保持不...",
+      "title": "据报道，三星开始为 Galaxy S26 系列开发 One UI 9.5，用...",
       "source": "GSMArena",
       "date": "2026-08-11",
-      "summary": "围绕即将推出的三星 Galaxy S26 FE 已经有几项重大泄密事件，但现在我们通过 WinFuture 掌握了完整的情况。别担心，不仅仅是你我们也发现很难发现这张照片和 S25 FE 图片之间的差异。新的 FE 型号...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_specs_leak_in_full_heres_what_will_change_and_what_will_stay_the_same-news-74096.php",
+      "summary": "三星于 5 月份发布了 Galaxy S26 系列的第一个 One UI 9 beta，该公司最近确认该系列的第五个 One UI 9 beta 将于本周推出。当 Galaxy S26 系列用户等待 One UI 9 B...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_5_development_reportedly_begins-news-74109.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-full-specs-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-s26-good-lock-quickstar-network-speed-indicator/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "Aptoide Games 商店将可从 谷歌 Play 商店下载",
-      "source": "GSMArena",
-      "date": "2026-08-11",
-      "summary": "Aptoide 刚刚宣布，继 Google 在 Epic Games 对其提起的诉讼中败诉后，其专门的游戏应用商店 Aptoide Games 已获准在美国 Google Play 上发行。该案的部分裁决迫使谷歌允许第三...",
-      "url": "https://www.gsmarena.com/the_aptoide_games_store_will_be_available_to_download_from_the_google_play_store-news-74094.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/aptoide-games-google-play/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iPhone 18 Pro Max 的实际电池泄漏量有多大",
-      "source": "GSMArena",
-      "date": "2026-08-11",
-      "summary": "iPhone 18 Pro Max 将于下个月与 iPhone 18 Pro 和 iPhone Ultra 一起推出。早在 7 月初，我们就首次听说 iPhone 18 Pro Max 的 eSIM 型号电池容量为 54...",
-      "url": "https://www.gsmarena.com/the_iphone_18_pro_maxs_actual_battery_leaks_heres_how_big_it_is-news-74104.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-max-actual-battery-leaks/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Verizon 最近的一次断电导致南加州的移动和互联网服务中断",
-      "source": "GSMArena",
-      "date": "2026-08-10",
-      "summary": "至少可以说，Verizon 的日子并不好过。该运营商宣布，破坏者切断了多条光纤电缆，导致南加州部分地区的移动和互联网客户的服务中断。维修工作迅速启动，几个小时内就恢复了服务。执法部门已接到通知，正在调查该事件。威瑞森表示...",
-      "url": "https://www.gsmarena.com/verizons_latest_outage_saw_mobile_and_internet_services_disrupted_in_southern_california-news-74099.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/verizon-outage/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iPhone 18 Pro BOM成本预计上涨40%",
-      "source": "GSMArena",
-      "date": "2026-08-10",
-      "summary": "我们已经看到传言称，由于全球内存芯片持续短缺，iPhone 18 Pro 的上市时间可能会受到限制，TrendForce 的一份新报告现在对即将推出的 iPhone 18 Pro 的价格进行了预估。iPhone 18 P...",
-      "url": "https://www.gsmarena.com/iphone_18_pro_components_estimated_to_be_40_more_than_before__-news-74098.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-bom-trendforce/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "您现在可以使用 Venmo 支付 谷歌 Play 上的应用和订阅费用",
-      "source": "GSMArena",
-      "date": "2026-08-10",
-      "summary": "在美国，您现在可以使用您的 Venmo 余额或与您的 Venmo 账户关联的卡和银行账户在 Google Play 上支付费用  应用程序、游戏、订阅、应用内购买等。当然，在使用此功能之前，您需要在 Google Pla...",
-      "url": "https://www.gsmarena.com/you_can_now_use_venmo_to_pay_for_apps_and_subscriptions_on_google_play-news-74095.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-play-venmo-payments/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌正在测试不带“谷歌搜索”按钮的搜索（更新：已确认）",
+      "title": "三星图库的这 5 个功能太棒了，你会想放弃 谷歌 Photos",
       "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "谷歌正在测试不带谷歌搜索按钮的搜索更新：已确认，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/google-search-homepage-ai-3696476/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "克劳德会在你的人工智能编写的文本中隐藏水印，它会跟着你",
-      "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "克劳德的隐藏商标将适用于全世界，而不仅仅是欧盟。",
-      "url": "https://www.androidauthority.com/claude-ai-text-watermark-3696811/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy Z Fold 8 刚刚通过弯曲测试，但旧的弱点仍然存在",
-      "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "Fold 8通过了JerryRigEverything的弯曲测试，但是屏幕和防尘性能怎么样？",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-teardown-durability-3696765/",
+      "date": "2026-08-12",
+      "summary": "这里的东西比我们看到的还要多。",
+      "url": "https://www.androidauthority.com/best-samsung-gallery-features-3695635/",
       "tags": [
         "三星"
       ],
@@ -158,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "Galaxy Z Fold 8 不需要三星充电器 - 以下是购买的替代品",
+      "title": "我发现 Galaxy Z Fold 8 最大的弱点，并不是新设计",
       "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "45W Galaxy Z Fold 8 需要合适的充电器，不一定是三星充电器。",
-      "url": "https://www.androidauthority.com/best-samsung-galaxy-z-fold-8-chargers-3694802/",
+      "date": "2026-08-12",
+      "summary": "到了 2026 年，三星在可折叠设备的多任务处理方面仍然落后。",
+      "url": "https://www.androidauthority.com/galaxy-z-fold-8-biggest-weakness-multitasking-3695394/",
       "tags": [
         "三星"
       ],
@@ -170,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "Pixel 11 发布：在哪里观看以及对 谷歌 的期待，新机正式登场",
+      "title": "谷歌照片的新心情功能将您现有的图像变成复古胶片框架",
       "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "泄密事件和预告片已经破坏了很多内容，但谷歌可能仍然有一些惊喜。",
-      "url": "https://www.androidauthority.com/pixel-11-launch-watch-3696245/",
+      "date": "2026-08-12",
+      "summary": "谷歌照片的新心情功能将您现有的图像变成复古胶片框架",
+      "url": "https://www.androidauthority.com/google-photos-film-camera-moods-3697527/",
       "tags": [
         "安卓"
       ],
@@ -182,23 +158,11 @@
       "type": "news"
     },
     {
-      "title": "摩托罗拉透露哪些手机将获得稳定的 Android 17 更新",
+      "title": "Galaxy Watch 9 用户求助于风扇和冰浴（！！）来解决充电速度慢的...",
       "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "这份长长的名单几乎包括了近年来推出的所有 Razr、Edge 和 Moto G 手机。",
-      "url": "https://www.androidauthority.com/motorola-android-17-eligible-phones-3696779/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "你的 Galaxy 相机可以秘密放弃 24MP 转而使用 12MP，三星解释...",
-      "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "三星表示，当情况变得棘手时，24MP 设置并不总是最终决定。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-camera-24mp-fallback-3696764/",
+      "date": "2026-08-12",
+      "summary": "热量可能会让 Galaxy Watch 9 的快速充电过程变得极其缓慢。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-slow-charging-issue-3697532/",
       "tags": [
         "三星"
       ],
@@ -206,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "您的 Wear OS 智能手表很快就能更准确地显示您的锻炼路线",
+      "title": "Spotify 将开始标记人工智能生成的艺术家资料并停止推荐他们的音乐",
       "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "新的 Google Play 服务更新旨在让您的智能手表在户外锻炼时更加有用。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/wear-os-workout-routes-google-play-services-update-3696760/",
+      "date": "2026-08-12",
+      "summary": "Spotify 希望帮助用户知道他们何时正在聆听真实的人类艺术家的音乐。",
+      "url": "https://www.androidauthority.com/spotify-ai-persona-label-3697523/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +182,23 @@
       "type": "news"
     },
     {
-      "title": "新的 Pixel 11 泄漏有相机变焦的好消息，但 HiLight 的坏消息",
+      "title": "突发新闻：Galaxy S26 系列获得第五个 One UI 9 Beta ...",
       "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "如果您想要精美的通知 LED，则需要在 Pro 型号上多花一点钱。",
-      "url": "https://www.androidauthority.com/google-pixel-11-hilight-camera-leak-3696749/",
+      "date": "2026-08-12",
+      "summary": "稳定的发布仍然让人感觉难以捉摸。，带来多项升级",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-5-galaxy-s26-3697541/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 Sheets 让导入 Excel 文件不再那么麻烦",
+      "source": "Android Authority",
+      "date": "2026-08-12",
+      "summary": "它还保留格式和结构数据。",
+      "url": "https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +206,35 @@
       "type": "news"
     },
     {
-      "title": "有华硕笔记本电脑吗？您可能正在享受免费的 谷歌 AI Pro 或 Plus ...",
+      "title": "谷歌修复了照片错误，该错误删除了方便的拖动选择功能",
       "source": "Android Authority",
-      "date": "2026-08-10",
-      "summary": "即使一些较旧的笔记本电脑也符合条件。",
-      "url": "https://www.androidauthority.com/asus-google-ai-promotion-3696731/",
+      "date": "2026-08-12",
+      "summary": "花了几天时间，谷歌终于修复了这个问题。",
+      "url": "https://www.androidauthority.com/google-photos-drag-to-select-fixed-3697467/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 TV 刚刚推出 10,000 部免费电影和节目供您观看",
+      "source": "Android Authority",
+      "date": "2026-08-12",
+      "summary": "Google 还将 Freeplay 扩展到 300 多个免费直播频道。",
+      "url": "https://www.androidauthority.com/google-tv-freeplay-free-movies-tv-shows-3697473/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "这款桌面 CNC 铣床可让您零经验雕刻 3D 雕像，现已在 Kickstar...",
+      "source": "Android Authority",
+      "date": "2026-08-11",
+      "summary": "它通过 AI 将任何 2D 图像转换为 3D 可铣削对象。",
+      "url": "https://www.androidauthority.com/infimaker-k1-5-axis-desktop-cnc-mill-kickstarter-3696953/",
       "tags": [
         "安卓"
       ],
