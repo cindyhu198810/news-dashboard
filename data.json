@@ -1,132 +1,132 @@
 {
-  "updated": "2026-08-12 09:35",
+  "updated": "2026-08-13 09:36",
   "news": [
     {
-      "title": "iOS 27 代码确认了六款即将推出的 iPhone",
+      "title": "索尼表示 Xperia 1 VIII 销量强劲，并称 microSD 插槽和...",
       "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "昨天，苹果为开发者发布了 iOS 27 的第五个测试版，根据一份新报告，该版本包含一些隐藏代码，揭示了即将推出的六款 iPhone 机型。在与电池驱动程序和电池智能功能相关的系统文件中找到了有问题的引用。除了现有型号之外...，带来多项升级",
-      "url": "https://www.gsmarena.com/ios_27_code_confirms_six_upcoming_iphones-news-74123.php",
+      "date": "2026-08-13",
+      "summary": "日本媒体 ITmedia Mobile 采访了索尼的 Shohachi Ike 和 Eri Kitazawa，他们带来了有关 Xperia 1 VIII 性能的一些令人鼓舞的消息。你可能认为索尼已经放弃了智能手机市场，但...",
+      "url": "https://www.gsmarena.com/sony_says_that_xperia_1_viii_sales_are_strong_calls_the_microsd_slot_and_35mm_jack_integral-news-74150.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/sony-xperia-1-viii-interview/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone 18 的 RAM 可能会大幅提升",
+      "source": "GSMArena",
+      "date": "2026-08-13",
+      "summary": "分析师 Jeff Pu 今天发布的一份新研究报告称，iPhone 18 毕竟将配备 12GB RAM，比 iPhone 17 的 8GB RAM 显着提升。据称，它还将采用新的动态岛设计，该设计将在即将推出的 iPhon...，带来多项升级",
+      "url": "https://www.gsmarena.com/iphone_18_may_get_a_significant_bump_in_ram_after_all-news-74147.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/ios-27-reveals-six-new-iphones/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-18e-ram-amount/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "联想公布了下一代游戏平板电脑的安兔兔得分，同时有传言透露了其电池容量",
+      "title": "据报道，三星 Galaxy S27 系列不会复制即将推出的 iPhone 功...",
       "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "联想将于 8 月 25 日全面推出其下一代游戏平板电脑。在此之前，今天该公司公布了其安兔兔得分，得分为 4585844，令人印象深刻。该平板电脑将被称为 Y700 Infinite、Y700 Ultimate 或 Y70...",
-      "url": "https://www.gsmarena.com/lenovo_unveils_its_next_gaming_tablets_antutu_score_while_a_rumor_reveals_its_battery_capacity-news-74126.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/lenovo-next-legion-y700-tablet-antutu-score-battery/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "据报道，荣耀的12000mAh电池现已进入“试生产”状态",
-      "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "过去，有传言称荣耀的目标是为即将推出的 Power3 配备 11000 mAh 至 12000 mAh 的电池，但后来似乎 10000 mAh 就够了。我们还听说该公司正在开发一款 14000 mAh 的智能手机电池，但...",
-      "url": "https://www.gsmarena.com/honors_12000_mah_battery_is_now_reportedly_in_trial_production-news-74120.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-12k-mah-battery/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为Watch GT 7和GT 7 Pro续航时间长达21天",
-      "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "华为上周在中国推出了Watch GT 7和Watch GT 7 Pro，以及nova 16 SE、2026款MateBook Fold和2026款MatePad Pro。新款智能手表在 Watch GT 6 系列的基础上...",
-      "url": "https://www.gsmarena.com/huawei_watch_gt_7_and_gt_7_pro_debut_with_up_to_21day_battery_life-news-74127.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-gt-7-pro-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "克劳德现在给文本添加水印以表明它是由人工智能生成的",
-      "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "您可能已经在人工智能生成的图像上看到了水印，表明它们确实是由人工智能制作的。现在，甚至人工智能生成的文本也被加了水印，以便消费者更容易发现人工智能撰写的在线内容和评论。Claude 背后的公司 Anthropic 签署了...",
-      "url": "https://www.gsmarena.com/claude_now_watermarks_text_to_indicate_that_it_was_generated_by_ai-news-74116.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/claude-will-watermark-ai-generated-text/-184x111/gsmarena_0000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo X500、X500 Pro和X500 Pro Max设计细节、屏幕...",
-      "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "vivo 预计将于下个月推出 X500、X500 Pro 和 X500 Pro Max，今天，得益于微博数码闲聊站的最新泄密，我们得到了一些关于它们的屏幕尺寸和设计细节的详细信息，特别是摄像头凸起。据称，两款 Pro 型...",
-      "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_design_details_screen_sizes_and_soc_details_leak-news-74119.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-x500-x500-pro-x500-pro-max-details/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "红米 K100 Pro 和 K100 Pro Max 发布，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "正如预期的那样，小米今天在中国推出了最新的红米K系列手机，它们配备了一些令人印象深刻的规格。尽管它们看起来很相似，但它们也带来了一些关键的区别。Redmi K100 Pro左和K100 Pro Max右Redmi K10...",
-      "url": "https://www.gsmarena.com/redmi_k100_pro_and_k100_pro_max_announced_-news-74122.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-k100-pro-k100-pro-max-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "泄漏显示 Fairphone 6+ 将配备升级的芯片组，性能也略有提高",
-      "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "因此，Fairphone 6 不仅仅是更多的 RAM 和新的颜色，它还将配备新的芯片组。 EvLeaks 发布了即将推出的手机的完整规格表、手机内部结构的分解图图像，甚至还有宣传视频。泄露：Fairphone 6 完整规...，带来多项升级",
-      "url": "https://www.gsmarena.com/the_fairphone_6_will_have_an_upgraded_chipset_for_slightly_higher_performance_too_leak_shows-news-74118.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/fairphone-6-plus-full-spec-sheet/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "网上疑似 iPhone Ultra 屏幕保护膜",
-      "source": "GSMArena",
-      "date": "2026-08-12",
-      "summary": "苹果首款可折叠 iPhone 预计将于今年 9 月亮相，其设计与三星 Galaxy Z Fold8 和华为 Pura X Max 类似。虽然传闻中的 iPhone Ultra 的几张渲染图已经浮出水面，但现在新的泄露让我...",
-      "url": "https://www.gsmarena.com/alleged_iphone_ultra_screen_protector_surfaces_online-news-74117.php",
+      "date": "2026-08-13",
+      "summary": "早在 5 月份，我们就听说即将推出的三星 Galaxy S27 Ultra 可能会配备具有可变光圈的 200MP 主摄像头。此举无疑受到了所有有关苹果 iPhone 18 Pro 和 iPhone 18 Pro Max ...",
+      "url": "https://www.gsmarena.com/samsungs_galaxy_s27_series_reportedly_wont_copy_this_upcoming_iphone_feature-news-74148.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-ultra-screen-protector-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s27-series-no-dual-aperture/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "据报道，三星开始为 Galaxy S26 系列开发 One UI 9.5，用...",
+      "title": "荣耀预告Magic9系列，确认9月推出",
       "source": "GSMArena",
-      "date": "2026-08-11",
-      "summary": "三星于 5 月份发布了 Galaxy S26 系列的第一个 One UI 9 beta，该公司最近确认该系列的第五个 One UI 9 beta 将于本周推出。当 Galaxy S26 系列用户等待 One UI 9 B...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_5_development_reportedly_begins-news-74109.php",
+      "date": "2026-08-13",
+      "summary": "在今天的机器人手机主题演讲接近尾声时，荣耀放出了即将推出的Magic9系列的预告片。该品牌确认Magic9系列将于9月推出，比去年的Magic8系列提前了一个月。预告片展示了 Magic9 或 Magic9 Pro 的相...",
+      "url": "https://www.gsmarena.com/honor_teases_magic9_series_coming_next_month-news-74143.php",
       "tags": [
-        "三星"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/samsung-galaxy-s26-good-lock-quickstar-network-speed-indicator/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-magic9-teaser/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星图库的这 5 个功能太棒了，你会想放弃 谷歌 Photos",
-      "source": "Android Authority",
+      "title": "谷歌 Pixel Buds Pro 2 获得新颜色和新软件功能",
+      "source": "GSMArena",
+      "date": "2026-08-13",
+      "summary": "今天早些时候，谷歌发布了 Pixel 11、Pixel 11 Pro、Pixel 11 Pro XL、Pixel 11 Pro Fold、Pixel Watch 5 和 Pixel Tag。该公司还没有推出一对新的 Pi...，带来多项升级",
+      "url": "https://www.gsmarena.com/google_pixel_buds_pro_2_get_a_new_color_and_a_limitedtime_price_cut-news-74145.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-pixel-buds-pro-2-new-color/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌推出适用于 Pixel 和三星最新设备的 Tap to Share",
+      "source": "GSMArena",
+      "date": "2026-08-13",
+      "summary": "一段时间以来，有传言称谷歌正在开发类似于苹果 NameDrop 的 Android 版本。今天，这已正式成为点击分享。它适用于 Pixel 6 及以上的 Pixel 以及三星的 Galaxy Z Fold8、Fold8 ...",
+      "url": "https://www.gsmarena.com/google_launches_tap_to_share_for_pixels_and_samsungs_latest_devices-news-74146.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-launches-tap-to-share/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Realme P4s Lite 即将上市并获得认证",
+      "source": "GSMArena",
+      "date": "2026-08-13",
+      "summary": "Realme 正在开发另一款智能手机 P4s Lite，以补充其已经相当庞大的 P4 系列。该设备正在运往印度的途中，刚刚获得印度标准局BIS在该国的销售认证，型号为RMX5398。对于任何将在印度销售的智能手机来说，这...",
+      "url": "https://www.gsmarena.com/realme_p4s_lite_gets_certified_on_its_way_to_launch-news-74141.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/realme-p4s-lite-certified/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Motorola Signature 现已接收 Android 17 更新",
+      "source": "GSMArena",
+      "date": "2026-08-13",
+      "summary": "Motorola has now started rolling out the update to Android 17 for the Signature a smartphone that it launched ...",
+      "url": "https://www.gsmarena.com/motorola_signature_is_now_receiving_its_android_17_update-news-74138.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/motorola-signature-android-17-update/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Poco F9 Pro 和 F9 Ultra 电池细节泄露，核心配置曝光",
+      "source": "GSMArena",
       "date": "2026-08-12",
-      "summary": "这里的东西比我们看到的还要多。",
-      "url": "https://www.androidauthority.com/best-samsung-gallery-features-3695635/",
+      "summary": "Poco 预计将在未来几周内推出 F8 Pro 和 F8 Ultra 的后继产品。虽然 Poco F9 Pro 和 Poco F9 Ultra 最近出现在多个认证网站上，但新的泄漏现在透露了这两款手机的电池规格。Poco...",
+      "url": "https://www.gsmarena.com/poco_f9_pro_and_f9_ultra_battery_details_leak-news-74130.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-f9-pro-ultra-battery-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S26 系列迎来第五个 One UI 9 Beta 更新",
+      "source": "GSMArena",
+      "date": "2026-08-12",
+      "summary": "上周，三星代表宣布 Galaxy S26 系列的第五个 One UI 9 Beta 更新将于本周某个时间发布。三星兑现了承诺，为 Galaxy S26 系列发布了 One UI 9 Beta 5。这是第四个测试版推出近一...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_beta_5_update-news-74134.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/samsung-galaxy-s26-ultra-india-price-discount/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 Pixel 11 对比. Galaxy S26：我今年购买 Pixel...",
+      "source": "Android Authority",
+      "date": "2026-08-13",
+      "summary": "为什么我认为 Pixel 11 是更好的 Android 旗舰机。",
+      "url": "https://www.androidauthority.com/google-pixel-11-vs-samsung-galaxy-s26-3697495/",
       "tags": [
         "三星"
       ],
@@ -134,23 +134,11 @@
       "type": "news"
     },
     {
-      "title": "我发现 Galaxy Z Fold 8 最大的弱点，并不是新设计",
+      "title": "我喜欢 Pixel 手机，但 Pixel 11 相机系统还不够",
       "source": "Android Authority",
-      "date": "2026-08-12",
-      "summary": "到了 2026 年，三星在可折叠设备的多任务处理方面仍然落后。",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-biggest-weakness-multitasking-3695394/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌照片的新心情功能将您现有的图像变成复古胶片框架",
-      "source": "Android Authority",
-      "date": "2026-08-12",
-      "summary": "谷歌照片的新心情功能将您现有的图像变成复古胶片框架",
-      "url": "https://www.androidauthority.com/google-photos-film-camera-moods-3697527/",
+      "date": "2026-08-13",
+      "summary": "Pixel 曾经出色的相机早就应该进行更有意义的更新。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/pixel-11-cameras-not-enough-3694391/",
       "tags": [
         "安卓"
       ],
@@ -158,23 +146,11 @@
       "type": "news"
     },
     {
-      "title": "Galaxy Watch 9 用户求助于风扇和冰浴（！！）来解决充电速度慢的...",
+      "title": "谷歌很快就会让你选择 Gboard 剪贴板的健忘程度",
       "source": "Android Authority",
-      "date": "2026-08-12",
-      "summary": "热量可能会让 Galaxy Watch 9 的快速充电过程变得极其缓慢。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-9-ultra-2-slow-charging-issue-3697532/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Spotify 将开始标记人工智能生成的艺术家资料并停止推荐他们的音乐",
-      "source": "Android Authority",
-      "date": "2026-08-12",
-      "summary": "Spotify 希望帮助用户知道他们何时正在聆听真实的人类艺术家的音乐。",
-      "url": "https://www.androidauthority.com/spotify-ai-persona-label-3697523/",
+      "date": "2026-08-13",
+      "summary": "您复制的文本很快就会在 Gboard 内存中保存超过一个小时。",
+      "url": "https://www.androidauthority.com/gboard-clipboard-duration-slider-apk-teardown-3698099/",
       "tags": [
         "安卓"
       ],
@@ -182,23 +158,11 @@
       "type": "news"
     },
     {
-      "title": "突发新闻：Galaxy S26 系列获得第五个 One UI 9 Beta ...",
+      "title": "您的 Pixel 11 不会错过任何一个判断何时使用新的极限充电模式的机会",
       "source": "Android Authority",
-      "date": "2026-08-12",
-      "summary": "稳定的发布仍然让人感觉难以捉摸。，带来多项升级",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-beta-5-galaxy-s26-3697541/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Sheets 让导入 Excel 文件不再那么麻烦",
-      "source": "Android Authority",
-      "date": "2026-08-12",
-      "summary": "它还保留格式和结构数据。",
-      "url": "https://www.androidauthority.com/google-sheets-excel-pivot-tables-3697487/",
+      "date": "2026-08-13",
+      "summary": "Pixel Weather 屏幕保护程序将是它显示的地方之一。",
+      "url": "https://www.androidauthority.com/google-pixel-weather-screensaver-extreme-charging-mode-3698041/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌修复了照片错误，该错误删除了方便的拖动选择功能",
+      "title": "更多 Pixel 11 手机现已支持 NFC 支付升级",
       "source": "Android Authority",
-      "date": "2026-08-12",
-      "summary": "花了几天时间，谷歌终于修复了这个问题。",
-      "url": "https://www.androidauthority.com/google-photos-drag-to-select-fixed-3697467/",
+      "date": "2026-08-13",
+      "summary": "不过，有一个主要例外。",
+      "url": "https://www.androidauthority.com/pixel-11-phones-felica-japan-3698027/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 TV 刚刚推出 10,000 部免费电影和节目供您观看",
+      "title": "谷歌 为 Pixel 用户和足球迷添加 9 张新壁纸",
       "source": "Android Authority",
-      "date": "2026-08-12",
-      "summary": "Google 还将 Freeplay 扩展到 300 多个免费直播频道。",
-      "url": "https://www.androidauthority.com/google-tv-freeplay-free-movies-tv-shows-3697473/",
+      "date": "2026-08-13",
+      "summary": "Google 已与巴塞罗那足球俱乐部、拜仁足球俱乐部和巴黎圣日耳曼足球俱乐部合作。",
+      "url": "https://www.androidauthority.com/pixel-soccer-themed-wallpapers-3698059/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +194,47 @@
       "type": "news"
     },
     {
-      "title": "这款桌面 CNC 铣床可让您零经验雕刻 3D 雕像，现已在 Kickstar...",
+      "title": "PSA：不要相信 Chrome 更新弹出窗口 - 它可能是恶意软件",
       "source": "Android Authority",
-      "date": "2026-08-11",
-      "summary": "它通过 AI 将任何 2D 图像转换为 3D 可铣削对象。",
-      "url": "https://www.androidauthority.com/infimaker-k1-5-axis-desktop-cnc-mill-kickstarter-3696953/",
+      "date": "2026-08-13",
+      "summary": "可疑的扩展程序似乎正在触发令人信服的虚假浏览器更新警告。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/chrome-update-pop-ups-extension-malware-3698053/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Gemini 即将与更多您喜爱的应用程序合作",
+      "source": "Android Authority",
+      "date": "2026-08-13",
+      "summary": "双子座刚刚结识了一些新朋友，他们实际上非常有用。",
+      "url": "https://www.androidauthority.com/google-gemini-connected-apps-3698047/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Pixel 11 以旧换新优惠：获得 1,250 美元折扣和免费 Pixel...",
+      "source": "Android Authority",
+      "date": "2026-08-13",
+      "summary": "零售商正在为新款 Pixel 11 系列提供大量以旧换新优惠。",
+      "url": "https://www.androidauthority.com/pixel-11-trade-in-deals-3698031/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Pixel 11 手机可享受七年备件以配合更新政策",
+      "source": "Android Authority",
+      "date": "2026-08-13",
+      "summary": "如果您需要更换电池或修复屏幕，这应该会让您高枕无忧。",
+      "url": "https://www.androidauthority.com/google-pixel-11-seven-years-spare-parts-3698034/",
       "tags": [
         "安卓"
       ],
