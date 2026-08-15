@@ -1,144 +1,132 @@
 {
-  "updated": "2026-08-14 09:31",
+  "updated": "2026-08-15 08:50",
   "news": [
     {
-      "title": "Pixel 11系列中的谷歌Tensor G6不是2nm芯片",
+      "title": "谷歌 现在允许您删除 Gemini 的可见水印",
       "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "谷歌几天前推出了 Pixel 11 系列智能手机，内置 Tensor G6。虽然谷歌没有在任何地方明确提及，但人们普遍认为 Tensor G6 是一款 2nm 芯片。事实证明并非如此。InlinePriceWidget1...",
-      "url": "https://www.gsmarena.com/google_tensor_g6_3nm_chip-news-74169.php",
+      "date": "2026-08-15",
+      "summary": "谷歌的 Nano Banana 图像生成器相当不错，但有些人却因为它的图像右下角有一个可见的水印而感到厌烦，这与 ChatGPT 最新模型生成的图像不同。所以现在谷歌终于让你选择删除水印了。您将在 Gemini 和 Fl...",
+      "url": "https://www.gsmarena.com/google_now_lets_you_remove_geminis_visible_watermark_-news-74188.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-tensor-g6-3nm-chip/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-gemini-remove-watermarks/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "iPhone Ultra 现在据说在推出时仅限于一个市场",
+      "title": "Poco 开始预告 M8x 5G，让我们一睹它的背面",
       "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "今天来自澳大利亚各地的一份新报告称，虽然苹果将在 9 月 8 日的活动中推出可折叠 iPhone Ultra，但该设备不会与 iPhone 18 Pro 和 iPhone 18 Pro Max 同时发布，后者预计也将在同...，带来多项升级",
-      "url": "https://www.gsmarena.com/iphone_ultra_now_said_to_be_confined_to_one_market_at_launch-news-74164.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-ultra-confined-to-one-market/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iQOO Neo11 Ultra、Z11s 芯片组细节在发布前透露，新机正式...",
-      "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "在 8 月 18 日在中国发布之前，iQOO 发布了为 Neo11 Ultra 和 Z11s 提供支持的芯片组。该公司此前曾分享过这两款智能手机的设计和电池规格。iQOO Neo11 Ultra将搭载定制的天玑9500M...，带来多项升级",
-      "url": "https://www.gsmarena.com/iqoo_neo11_ultra_z11s_chipset_details_revealed_ahead_of_launch-news-74168.php",
+      "date": "2026-08-15",
+      "summary": "Poco 一月份推出了 M8 和 M8 Pro，四月份推出了 M8s，本月早些时候推出了 M8 Power，但现在事实证明，该家族的第五位成员也即将推出。这将被称为 M8x，Poco 今天开始通过 Flipkart 上的...",
+      "url": "https://www.gsmarena.com/poco_starts_teasing_the_m8x_5g_shows_us_a_glimpse_of_its_back-news-74187.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-neo11-ultra-z11s-chipset/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-m8x-teaser/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "iPhone X 加入苹果过时产品名单",
+      "title": "荣耀机器人手机上手评测，真实体验如何？",
       "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "苹果十周年纪念款iPhone iPhone X，在推出近九年后，终于被添加到该公司的过时产品列表中。该公司还将 2018 款 15 英寸 MacBook Pro 添加到了该列表中。一旦产品被添加到苹果的过时产品列表中，它...",
-      "url": "https://www.gsmarena.com/iphone_x_joins_apples_obsolete_product_list_alongside_2018_macbook_pro-news-74167.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-x-macbook-pro-2018-obsolete/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌已经推出Gemini 3.7 Flash",
-      "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "在发布 Gemini 36 Flash 仅仅三周后，Google 今天发布了 Gemini 37 Flash。该公司表示，这是其迄今为止最智能的编码和代理模型。据谷歌称，Gemini 37 Flash 是开发人员反馈和算...，带来多项升级",
-      "url": "https://www.gsmarena.com/google_already_launches_gemini_37_flash-news-74165.php",
+      "date": "2026-08-15",
+      "summary": "在有些沉闷的智能手机市场，荣耀决定进行一些改变，终于推出了万众期待的荣耀机器人手机。顾名思义，它不是普通的手机，也不属于现有的荣耀智能手机系列。相反，机器人手机囊括了多项行业首创技术，并建立在 100 多项专利之上。如果...",
+      "url": "https://www.gsmarena.com/honor_robot_phone_handson_review-news-74184.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/gemini-3-7-flash/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-robot-phone-handson/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Poco F9 Pro 和 Poco F9 Ultra 重大泄漏带来了图像、...",
+      "title": "华为非折叠宽屏手机即将上市",
       "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "几个小时前，有消息称即将推出的 Poco F9 Pro 和 Poco F9 Ultra 的电池容量，现在我们又泄露了这两款设备的渲染图和规格。正如预期的那样，Poco F9 Pro 是更名的 Redmi K100 Pro...",
-      "url": "https://www.gsmarena.com/poco_f9_pro_and_poco_f9_ultra_mega_leak_brings_images_specs_and_prices-news-74166.php",
+      "date": "2026-08-15",
+      "summary": "继 Pura X 的成功之后，华为在相当长的一段时间内一直致力于开发一款具有类似 16:10 屏幕长宽比的新型非折叠智能手机。据传该设备将于 9 月推出。根据之前的爆料，它将搭载麒麟9系列芯片组，电池容量至少为7000m...",
+      "url": "https://www.gsmarena.com/heres_when_huaweis_nonfolding_widescreen_phone_is_launching-news-74186.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-f9-pro-f9-ultra-mega-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-16-10-smartphone-launch-month/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "据传 Fairphone 6+ 将于何时推出以及售价是多少",
+      "title": "这是我们第一次看到三星即将推出的 One UI 9.5",
       "source": "GSMArena",
       "date": "2026-08-14",
-      "summary": "据新消息称，Fairphone 6 将于 8 月 18 日正式上市。根据在丹麦的上市情况，其售价约为 685 欧元。当然，由于增值税税率不同，其他欧洲市场的价格可能略有不同。事实上，欧元区的情况可能并没有那么糟糕  来自...",
-      "url": "https://www.gsmarena.com/heres_when_the_fairphone_6_is_rumored_to_launch_and_how_much_it_will_cost-news-74163.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/fairphone-6-plus-price-launch-date/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy Z Fold8 拆解并不令人印象深刻",
-      "source": "GSMArena",
-      "date": "2026-08-13",
-      "summary": "本周早些时候，我们看到 Galaxy Z Fold8 通过了 JerryRigEverything 的严酷耐用性测试，它经受住了一些剧烈的弯曲以及与刀片和沙子的近距离接触。 iFixit 团队现已将其拆解专业知识应用于三...",
-      "url": "https://www.gsmarena.com/galaxy_z_fold8_does_not_impress_in_teardown-news-74162.php",
+      "summary": "虽然三星仍在对 One UI 9 进行 Beta 测试，第五个 Beta 测试版已在几天前发布到 Galaxy S26 系列，但该公司也已经在开发 One UI 95。这可能是即将推出的 Galaxy S27 系列开箱即...，带来多项升级",
+      "url": "https://www.gsmarena.com/heres_our_first_look_at_samsungs_upcoming_one_ui_95-news-74185.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/galaxy-z-fold8-ifixit/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/one-ui-9-5-first-look/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Counterpoint：美国智能手机市场萎缩，廉价设备受创最严重",
+      "title": "骁龙 8 Elite Gen 6 Pro 在安兔兔测试中亮相",
       "source": "GSMArena",
-      "date": "2026-08-13",
-      "summary": "Counterpoint Research 的最新报告调查了 4 月 1 日至 6 月 30 日期间即第二季度美国智能手机的销量。由于持续的存储芯片危机导致设备的平均要价 ASP 全面上涨，整个市场与去年相比下降了 5。...",
-      "url": "https://www.gsmarena.com/counterpoint_us_smartphone_market_contracts_budget_devices_hit_hardest-news-74158.php",
+      "date": "2026-08-14",
+      "summary": "高通预计将在下个月的年度 Snapdragon 峰会上推出其下一代旗舰芯片组Snapdragon 8 Gen 6 Pro，它刚刚在安兔兔 11 基准测试中泄露。SM8975，正如其内部所知，获得了令人印象深刻的 483 ...",
+      "url": "https://www.gsmarena.com/snapdragon_8_elite_gen_6_pro_emerges_in_antutu_test_run_-news-74182.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/cr-us-q2-shipments/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/snapdragon-8-gen-6-pro-antutu/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "苹果再次传出今年将跳过 iPhone 18 的发布，新机正式登场",
+      "title": "LG 与 Nvidia 联手打造人工智能驱动的机器人和自动驾驶汽车硬件",
       "source": "GSMArena",
-      "date": "2026-08-13",
-      "summary": "长期以来一直有传言称苹果将分阶段推出 iPhone 18 系列和 iPhone Ultra，有多份报道称 iPhone 18 今年不会推出。现在，有新媒体报道援引苹果供应商和硕的消息，再次表示 iPhone 18 不会在...",
-      "url": "https://www.gsmarena.com/apple_iphone_18_2026_launch_skipped-news-74153.php",
+      "date": "2026-08-14",
+      "summary": "LG 公司董事长兼首席执行官 Kwang Mo Koo 访问了位于加利福尼亚州圣克拉拉的 Nvidia 总部，与首席执行官黄仁勋签署了谅解备忘录。该备忘录的重点是扩大两家公司的人工智能能力。LG 和 Nvidia 首席执...",
+      "url": "https://www.gsmarena.com/lg_joins_forces_with_nvidia_to_build_aipowered_robots_and_hardware_for_selfdriving_cars-news-74180.php",
       "tags": [
-        "苹果"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-iphone-18-2026-launch-skipped/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/lg-building-ai-robots-with-nvidia/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "我使用 DeX 将我的 Galaxy S25 Ultra 变成了一台轻型游戏...",
-      "source": "Android Authority",
+      "title": "法官迫使谷歌消除第三方应用商店安装中的摩擦",
+      "source": "GSMArena",
       "date": "2026-08-14",
-      "summary": "是的，我在上面玩过赛博朋克 2077。",
-      "url": "https://www.androidauthority.com/galaxy-s25-ultra-dex-lightweight-gaming-pc-3668734/",
+      "summary": "在法院裁决并与 Epic Games 达成和解后，谷歌最近开始通过其在美国的 Play 商店分销第三方应用商店。现在，美国地区法官 James Donato 已命令 Google 删除当用户想要从 Google Play...",
+      "url": "https://www.gsmarena.com/judge_forces_google_to_remove_friction_from_thirdparty_app_store_installations-news-74176.php",
       "tags": [
-        "三星"
+        "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-ordered-to-remove-friction-from-third-party-app-store-installations/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌下令删除安装第三方应用商店时的可怕警告",
+      "title": "快速浏览一下 谷歌 的新款 Pixel 11 系列、Pixel Watch ...",
+      "source": "GSMArena",
+      "date": "2026-08-14",
+      "summary": "今天，我们将快速上手 Google 2026 年的新系列设备，包括但不限于新款 Pixel 11 系列智能手机。有很多设备需要使用，所以让我们直接开始吧，不用多说。让我们从新的 Pixel 11 系列的同名型号开始。与 ...",
+      "url": "https://www.gsmarena.com/heres_a_quick_look_at_googles_new_pixel_11_series_pixel_watch_5_and_fitbit_air-news-74181.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/pixel-11-first-look/-184x111/gsmarena_0000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo Y31T 图像和规格泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-08-14",
+      "summary": "vivo于去年9月推出了Y31，目前据称正在研发Y31T。这显然很快就会在印度推出。下图据称显示了它的背面。据称，Y31T 配备 675 英寸 LCD 屏幕，分辨率为 HD，峰值亮度为 1250 尼特。它将搭载 Snap...",
+      "url": "https://www.gsmarena.com/vivo_y31t_image_and_specs_leak-news-74178.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-y31t-image-specs-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "美国政府希望私营公司开始对黑客进行攻击",
       "source": "Android Authority",
       "date": "2026-08-14",
-      "summary": "美国法官裁定，Play 商店的警告屏幕属于反竞争摩擦，必须结束。",
-      "url": "https://www.androidauthority.com/google-play-store-remove-third-party-app-store-friction-3698697/",
+      "summary": "特朗普政府将允许网络安全公司以牙还牙。",
+      "url": "https://www.androidauthority.com/us-cybersecurity-companies-to-conduct-cyberattacks-3699039/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "相机外观可能最终解决了 谷歌 Pixel 相机的最大问题",
+      "title": "ChatGPT 现在可以密切关注您在做什么，以防您稍后需要提醒",
       "source": "Android Authority",
       "date": "2026-08-14",
-      "summary": "Camera Looks 为 Pixel 11 系列带来了完全可定制的、类似电影的模拟。",
-      "url": "https://www.androidauthority.com/google-pixel-11-camera-looks-important-why-3696165/",
+      "summary": "ChatGPT 的新功能听起来很像 Windows Recall。",
+      "url": "https://www.androidauthority.com/chatgpt-computer-history-3699005/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 Play 商店明显隐藏 Pixel 11 系列折扣",
+      "title": "Pixel Journal 进行了一些方便的升级，可能很快就会整理你杂乱的条...",
       "source": "Android Authority",
       "date": "2026-08-14",
-      "summary": "您可以享受 Pixel 11 系列 150 美元的折扣，以及 Pixel 11 Pro Fold 和 Pixel Watch 5 的大幅折扣。",
-      "url": "https://www.androidauthority.com/google-play-store-pixel-11-series-deals-3698684/",
+      "summary": "随着谷歌推出一些有用的附加功能，我们发现了人工智能驱动的自动格式功能正在开发中的证据。",
+      "url": "https://www.androidauthority.com/pixel-journal-app-changes-apk-teardown-3698996/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "YouTube表示其用户界面不断变化是有原因的，并不是为了惹恼你",
+      "title": "谷歌 现在允许您删除 Gemini 作品中的水印",
       "source": "Android Authority",
       "date": "2026-08-14",
-      "summary": "YouTube 表示，它是减少混乱并使应用程序更易于使用，但并非所有人都会同意。",
-      "url": "https://www.androidauthority.com/youtube-explains-why-ui-keeps-changing-3698670/",
+      "summary": "谷歌让用户可以控制可见的 Gemini 水印。",
+      "url": "https://www.androidauthority.com/gemini-watermark-removal-setting-3698980/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "忘掉 Pixel 11吧，这款谷歌产品今年吸引了很多人的注意",
+      "title": "谷歌 Health 现在允许您从“今日”选项卡中删除人工智能指导",
       "source": "Android Authority",
       "date": "2026-08-14",
-      "summary": "调查显示 Fitbit Air 是我们读者渴望的 Google 产品。",
-      "url": "https://www.androidauthority.com/fitness-tracker-fitbit-air-poll-results-3698641/",
+      "summary": "一个新的开关可以让你清理Google Health的主屏幕。",
+      "url": "https://www.androidauthority.com/google-health-no-coach-insights-3698969/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 Meet 现在甚至可以为面对面会议做笔记，具体方法如下",
+      "title": "Fairphone 确定最终推出 Fairphone 6 Plus 的日期",
       "source": "Android Authority",
       "date": "2026-08-14",
-      "summary": "Google Meet 现在可以捕捉面对面的对话并将其转化为有用的笔记。",
-      "url": "https://www.androidauthority.com/google-meet-in-person-meeting-notes-3698664/",
+      "summary": "Fairphone 预告了 Fairphone 6 Plus 的推出。",
+      "url": "https://www.androidauthority.com/fairphone-6-plus-launch-date-3698966/",
       "tags": [
         "安卓"
       ],
@@ -206,35 +194,47 @@
       "type": "news"
     },
     {
-      "title": "三星手机终于可以通过 One UI 9.5 获得正确的应用程序锁定",
+      "title": "Chrome 正在测试没人要求的书签栏功能",
       "source": "Android Authority",
       "date": "2026-08-14",
-      "summary": "三星手机可能正在开发更方便的应用程序锁定功能。",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-app-lock-leak-3698657/",
+      "summary": "Chrome 正在测试一项可能会让书签栏粉丝烦恼的功能。",
+      "url": "https://www.androidauthority.com/chrome-bookmarks-bar-auto-hide-3698892/",
       "tags": [
-        "三星"
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "在三星完成 One UI 9 之前，One UI 9.5 就出现在 Gala...",
+      "title": "亚马逊这款 50 英寸 2026 款东芝 4K QLED Fire 电视现价...",
       "source": "Android Authority",
-      "date": "2026-08-13",
-      "summary": "我们可能不需要等待太久就能看到 One UI 95 的详细信息。",
-      "url": "https://www.androidauthority.com/one-ui-9-5-running-on-galaxy-device-3698596/",
+      "date": "2026-08-14",
+      "summary": "配备杜比视界、Alexa 语音控制和内置流媒体应用程序的东芝 50 英寸 4K QLED Fire TV 售价不到 200 美元。",
+      "url": "https://www.androidauthority.com/toshiba-4k-qled-fire-tv-deal-3698961/",
       "tags": [
-        "三星"
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Gemini 希望将无聊的电子表格变成交互式电子表格",
+      "title": "促销期间，以 99.99 美元购买 2 部 Philips Hue Secu...",
       "source": "Android Authority",
-      "date": "2026-08-13",
-      "summary": "Gemini 希望将无聊的电子表格变成交互式电子表格",
-      "url": "https://www.androidauthority.com/google-sheets-gemini-canvas-3698582/",
+      "date": "2026-08-14",
+      "summary": "这款飞利浦 Hue 相机 2 件装具有 1080p 视频、夜视功能和 IP65 防护等级，目前在亚马逊上有 62 的折扣。",
+      "url": "https://www.androidauthority.com/philips-hue-wired-camera-deal-3698956/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Pixel 手机很快也可以监控拨出电话是否存在诈骗行为",
+      "source": "Android Authority",
+      "date": "2026-08-14",
+      "summary": "谷歌的人工智能可能很快就能监控拨出的电话以发现粗略的情况。",
+      "url": "https://www.androidauthority.com/pixel-scam-detection-outgoing-3698887/",
       "tags": [
         "安卓"
       ],
