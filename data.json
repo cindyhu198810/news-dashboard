@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-15 08:50",
+  "updated": "2026-08-16 08:53",
   "news": [
+    {
+      "title": "每周民意调查结果：使用功能手机的人数惊人",
+      "source": "GSMArena",
+      "date": "2026-08-16",
+      "summary": "功能手机并没有你想象的那么死气沉沉在上周的民意调查中，三分之一的选民至少偶尔会使用功能手机。有些人甚至全职使用功能手机作为他们唯一的手机。其他人至少正在考虑放弃智能手机的想法。正如一些评论者指出的那样，智能手机在某些国家...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_a_surprising_number_of_people_are_using_feature_phones-news-74159.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-results-feature-phone/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO 16有望配备更高刷新率屏幕、新设计",
+      "source": "GSMArena",
+      "date": "2026-08-16",
+      "summary": "据称，iQOO 将于 9 月推出 iQOO 16，来自中国的最新传言称其将拥有比前一代更高的刷新率屏幕。这个词来自可靠的爆料者数字聊天站，他声称 iQOO 16 将配备 165Hz 刷新率屏幕。它将是来自三星的 685 ...",
+      "url": "https://www.gsmarena.com/iqoo_16_165hz_refresh_rate_screen_tipped-news-74191.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-16-neo12-z12-series-battery-capacity-tipped/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：Pixel 11系列开启预购，Galaxy Z8可折叠手机和S26机型...",
+      "source": "GSMArena",
+      "date": "2026-08-15",
+      "summary": "谷歌本周早些时候推出了新的 Pixel 11 系列有一款新的普通版、两款新的 Pro 和一款新的可折叠机型。现在所缺少的只是一款价格实惠的手机。RAM价格的大幅上涨影响了Pixel系列。谷歌现在在所有 11 系列机型上标...",
+      "url": "https://www.gsmarena.com/deals_pixel_11_series_goes_on_preorder_galaxy_z8_foldables_and_s26_models_drop_prices-news-74175.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-deals-14/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO Buds TWS耳机8月20日上市",
+      "source": "GSMArena",
+      "date": "2026-08-15",
+      "summary": "iQOO将于8月20日在印度推出Z11，同一天，该品牌还将推出iQOO Buds TWS耳机。iQOO 印度分公司在 X 上发布的预告片揭示了 iQOO Buds 的设计。它们是入耳式的，有硅胶耳塞，可以提供被动噪音消除...，带来多项升级",
+      "url": "https://www.gsmarena.com/iqoo_buds_tws_earphones_launch_date-news-74192.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-buds-launch-date/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Fairphone 6+ 现已确定正式发布日期，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-08-15",
+      "summary": "昨天有传言称 Fairphone 6 将于 8 月 18 日正式上市，今天该公司已经证实了这一消息。揭幕仪式将于当天欧洲中部时间 13:00 举行，即伦敦 12:00，东欧 14:00。2026 年 8 月 18 日 欧...",
+      "url": "https://www.gsmarena.com/the_fairphone_6_now_has_an_official_launch_date-news-74189.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/fairphone-6-plus-official-launch-date/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌正在为 Android 17 添加大量新的自定义选项",
+      "source": "GSMArena",
+      "date": "2026-08-15",
+      "summary": "谷歌刚刚向符合条件的 Pixel 设备发布了 Android 17 QPR2 Beta 3 更新，除了消除了一些错误之外，新软件还引入了一些很酷的新功能。最显着的变化是自定义快速设置菜单的能力。快速设置布局编辑器在 An...，带来多项升级",
+      "url": "https://www.gsmarena.com/google_is_adding_tons_of_new_customization_options_to_android_17-news-74193.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/android-17-customizations/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：谷歌 Pixel 11 系列预购开始",
+      "source": "GSMArena",
+      "date": "2026-08-15",
+      "summary": "谷歌本周早些时候推出了新的 Pixel 11 系列有一款新的普通版、两款新的 Pro 和一款新的可折叠机型。现在所缺少的只是一款价格实惠的手机。RAM价格的大幅上涨影响了Pixel系列。谷歌现在在所有 11 系列机型上标...",
+      "url": "https://www.gsmarena.com/deals_google_pixel_11_series_preorders_start-news-74183.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-deals-14/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO Neo11 Ultra完整规格表泄露，发布迫在眉睫，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-08-15",
+      "summary": "iQOO Neo11 Ultra预计将在几天内推出，在该公司预告这款手机并确认搭载天玑9500M芯片组后不久，热门微博爆料者数码闲聊站就透露了其余硬件，几乎没有留下任何想象空间。事实上，泄露的细节令人惊讶，至少在屏幕方面...",
+      "url": "https://www.gsmarena.com/iqoo_neo11_ultra_full_specs_sheet_leaks_launch_is_imminent-news-74190.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-neo11-ultra-z11s-launch-date-design/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
     {
       "title": "谷歌 现在允许您删除 Gemini 的可见水印",
       "source": "GSMArena",
@@ -26,99 +122,87 @@
       "type": "news"
     },
     {
-      "title": "荣耀机器人手机上手评测，真实体验如何？",
-      "source": "GSMArena",
+      "title": "Airseeker Tron 是一款令人印象深刻的覆盖机器人割草机，但有一些...",
+      "source": "Android Authority",
       "date": "2026-08-15",
-      "summary": "在有些沉闷的智能手机市场，荣耀决定进行一些改变，终于推出了万众期待的荣耀机器人手机。顾名思义，它不是普通的手机，也不属于现有的荣耀智能手机系列。相反，机器人手机囊括了多项行业首创技术，并建立在 100 多项专利之上。如果...",
-      "url": "https://www.gsmarena.com/honor_robot_phone_handson_review-news-74184.php",
+      "summary": "Airseeker Tron 是一款弹性割草机，可以切割和覆盖，但边缘有点粗糙。",
+      "url": "https://www.androidauthority.com/airseekers-tron-review-3686518/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-robot-phone-handson/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "华为非折叠宽屏手机即将上市",
-      "source": "GSMArena",
+      "title": "考虑购买 Pixel 11 基础版吗？以下是您可能会错过的 6 个专业相机功...",
+      "source": "Android Authority",
       "date": "2026-08-15",
-      "summary": "继 Pura X 的成功之后，华为在相当长的一段时间内一直致力于开发一款具有类似 16:10 屏幕长宽比的新型非折叠智能手机。据传该设备将于 9 月推出。根据之前的爆料，它将搭载麒麟9系列芯片组，电池容量至少为7000m...",
-      "url": "https://www.gsmarena.com/heres_when_huaweis_nonfolding_widescreen_phone_is_launching-news-74186.php",
+      "summary": "如果您是相机爱好者，普通 Pixel 11 可能不是最佳选择。",
+      "url": "https://www.androidauthority.com/missing-camera-features-pixel-11-3695959/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-16-10-smartphone-launch-month/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "这是我们第一次看到三星即将推出的 One UI 9.5",
-      "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "虽然三星仍在对 One UI 9 进行 Beta 测试，第五个 Beta 测试版已在几天前发布到 Galaxy S26 系列，但该公司也已经在开发 One UI 95。这可能是即将推出的 Galaxy S27 系列开箱即...，带来多项升级",
-      "url": "https://www.gsmarena.com/heres_our_first_look_at_samsungs_upcoming_one_ui_95-news-74185.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/one-ui-9-5-first-look/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "骁龙 8 Elite Gen 6 Pro 在安兔兔测试中亮相",
-      "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "高通预计将在下个月的年度 Snapdragon 峰会上推出其下一代旗舰芯片组Snapdragon 8 Gen 6 Pro，它刚刚在安兔兔 11 基准测试中泄露。SM8975，正如其内部所知，获得了令人印象深刻的 483 ...",
-      "url": "https://www.gsmarena.com/snapdragon_8_elite_gen_6_pro_emerges_in_antutu_test_run_-news-74182.php",
+      "title": "Pixel 11 的 Tensor G6 实际上是 G5 的良好升级吗？我计...",
+      "source": "Android Authority",
+      "date": "2026-08-15",
+      "summary": "Tensor G6 并不追求基准荣耀。这就是谷歌新芯片真正优先考虑的事情。",
+      "url": "https://www.androidauthority.com/tensor-g6-deep-dive-3695968/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/snapdragon-8-gen-6-pro-antutu/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "LG 与 Nvidia 联手打造人工智能驱动的机器人和自动驾驶汽车硬件",
-      "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "LG 公司董事长兼首席执行官 Kwang Mo Koo 访问了位于加利福尼亚州圣克拉拉的 Nvidia 总部，与首席执行官黄仁勋签署了谅解备忘录。该备忘录的重点是扩大两家公司的人工智能能力。LG 和 Nvidia 首席执...",
-      "url": "https://www.gsmarena.com/lg_joins_forces_with_nvidia_to_build_aipowered_robots_and_hardware_for_selfdriving_cars-news-74180.php",
+      "title": "您应该购买 5 款 Android 手机，而不是 Motorola Edge...",
+      "source": "Android Authority",
+      "date": "2026-08-15",
+      "summary": "摩托罗拉 Edge 并不存在于泡沫中，所以让我们看看还有什么。",
+      "url": "https://www.androidauthority.com/motorola-edge-2026-alternatives-3695520/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/lg-building-ai-robots-with-nvidia/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "法官迫使谷歌消除第三方应用商店安装中的摩擦",
-      "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "在法院裁决并与 Epic Games 达成和解后，谷歌最近开始通过其在美国的 Play 商店分销第三方应用商店。现在，美国地区法官 James Donato 已命令 Google 删除当用户想要从 Google Play...",
-      "url": "https://www.gsmarena.com/judge_forces_google_to_remove_friction_from_thirdparty_app_store_installations-news-74176.php",
+      "title": "Home Sound 是 2026 年不值得购买的 99 美元 谷歌 Hom...",
+      "source": "Android Authority",
+      "date": "2026-08-15",
+      "summary": "我仍然不会用原来的 Nest Hub 来换新的家庭扬声器。",
+      "url": "https://www.androidauthority.com/google-home-speaker-nest-display-comparison-3696291/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-ordered-to-remove-friction-from-third-party-app-store-installations/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "快速浏览一下 谷歌 的新款 Pixel 11 系列、Pixel Watch ...",
-      "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "今天，我们将快速上手 Google 2026 年的新系列设备，包括但不限于新款 Pixel 11 系列智能手机。有很多设备需要使用，所以让我们直接开始吧，不用多说。让我们从新的 Pixel 11 系列的同名型号开始。与 ...",
-      "url": "https://www.gsmarena.com/heres_a_quick_look_at_googles_new_pixel_11_series_pixel_watch_5_and_fitbit_air-news-74181.php",
+      "title": "Pixel 11 还是 Pixel 10a？这就是为什么 Pixel 11 ...",
+      "source": "Android Authority",
+      "date": "2026-08-15",
+      "summary": "Pixel 11确实值得一掷千金。",
+      "url": "https://www.androidauthority.com/pixel-11-vs-pixel-10a-3696152/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/pixel-11-first-look/-184x111/gsmarena_0000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "vivo Y31T 图像和规格泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-08-14",
-      "summary": "vivo于去年9月推出了Y31，目前据称正在研发Y31T。这显然很快就会在印度推出。下图据称显示了它的背面。据称，Y31T 配备 675 英寸 LCD 屏幕，分辨率为 HD，峰值亮度为 1250 尼特。它将搭载 Snap...",
-      "url": "https://www.gsmarena.com/vivo_y31t_image_and_specs_leak-news-74178.php",
+      "title": "我尝试了 2 种流行的 Android 版 Flighty 替代品，但我只选...",
+      "source": "Android Authority",
+      "date": "2026-08-15",
+      "summary": "Android 终于有了一些真正出色的 Flighty 替代品。",
+      "url": "https://www.androidauthority.com/i-tried-two-flighty-alternatives-android-3696341/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-y31t-image-specs-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -151,90 +235,6 @@
       "date": "2026-08-14",
       "summary": "随着谷歌推出一些有用的附加功能，我们发现了人工智能驱动的自动格式功能正在开发中的证据。",
       "url": "https://www.androidauthority.com/pixel-journal-app-changes-apk-teardown-3698996/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 现在允许您删除 Gemini 作品中的水印",
-      "source": "Android Authority",
-      "date": "2026-08-14",
-      "summary": "谷歌让用户可以控制可见的 Gemini 水印。",
-      "url": "https://www.androidauthority.com/gemini-watermark-removal-setting-3698980/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Health 现在允许您从“今日”选项卡中删除人工智能指导",
-      "source": "Android Authority",
-      "date": "2026-08-14",
-      "summary": "一个新的开关可以让你清理Google Health的主屏幕。",
-      "url": "https://www.androidauthority.com/google-health-no-coach-insights-3698969/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Fairphone 确定最终推出 Fairphone 6 Plus 的日期",
-      "source": "Android Authority",
-      "date": "2026-08-14",
-      "summary": "Fairphone 预告了 Fairphone 6 Plus 的推出。",
-      "url": "https://www.androidauthority.com/fairphone-6-plus-launch-date-3698966/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Chrome 正在测试没人要求的书签栏功能",
-      "source": "Android Authority",
-      "date": "2026-08-14",
-      "summary": "Chrome 正在测试一项可能会让书签栏粉丝烦恼的功能。",
-      "url": "https://www.androidauthority.com/chrome-bookmarks-bar-auto-hide-3698892/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "亚马逊这款 50 英寸 2026 款东芝 4K QLED Fire 电视现价...",
-      "source": "Android Authority",
-      "date": "2026-08-14",
-      "summary": "配备杜比视界、Alexa 语音控制和内置流媒体应用程序的东芝 50 英寸 4K QLED Fire TV 售价不到 200 美元。",
-      "url": "https://www.androidauthority.com/toshiba-4k-qled-fire-tv-deal-3698961/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "促销期间，以 99.99 美元购买 2 部 Philips Hue Secu...",
-      "source": "Android Authority",
-      "date": "2026-08-14",
-      "summary": "这款飞利浦 Hue 相机 2 件装具有 1080p 视频、夜视功能和 IP65 防护等级，目前在亚马逊上有 62 的折扣。",
-      "url": "https://www.androidauthority.com/philips-hue-wired-camera-deal-3698956/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Pixel 手机很快也可以监控拨出电话是否存在诈骗行为",
-      "source": "Android Authority",
-      "date": "2026-08-14",
-      "summary": "谷歌的人工智能可能很快就能监控拨出的电话以发现粗略的情况。",
-      "url": "https://www.androidauthority.com/pixel-scam-detection-outgoing-3698887/",
       "tags": [
         "安卓"
       ],
