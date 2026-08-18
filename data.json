@@ -1,132 +1,192 @@
 {
-  "updated": "2026-08-17 09:05",
+  "updated": "2026-08-18 08:59",
   "news": [
     {
-      "title": "HMD 2760 Flip设计和关键规格泄露，据称运行Android 13 ...",
+      "title": "iQOO 在发布前透露了有关印度 Z11 和 Buds TWS 的更多细节，...",
       "source": "GSMArena",
-      "date": "2026-08-17",
-      "summary": "HMD 去年 3 月在 MWC 上推出了 2660 Flip 功能手机。该公司现在似乎正在准备其继任者 2760 Flip，预计将运行 Android。根据新的泄露消息，HMD 2760 Flip 将运行基于 Andro...",
-      "url": "https://www.gsmarena.com/hmd_2760_flip_design_and_key_specs_leak_said_to_run_android_13_go-news-74198.php",
+      "date": "2026-08-18",
+      "summary": "iQOO将于8月20日在印度推出Z11，其设计和规格与中国和马来西亚的Z11不同。 iQOO 已经透露了印度 Z11 的一些功能，现在它还分享了有关这款智能手机的更多细节。iQOO 透露，印度 Z11 的正面将配备 32...",
+      "url": "https://www.gsmarena.com/iqoo_z11_india_iqoo_buds_tws_features-news-74215.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/hmd-2760-flip-design-specs-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-z11-india-iqoo-buds-tws-features/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "CUBOT 预告 KINGKONG Dura，一款基于可更换电池电源的坚固型...",
+      "title": "泄露的视频中出现了带摄像头的苹果 AirPods，核心配置曝光",
       "source": "GSMArena",
-      "date": "2026-08-17",
-      "summary": "CUBOT 正准备推出 KINGKONG Dura，这是一款坚固耐用的智能手机，围绕实用的可更换电池系统构建，旨在减少充电停机时间并让用户保持移动。用户无需将手机连接到充电线并等待，而是可以取出耗尽的电池，安装充满电的备...",
-      "url": "https://www.gsmarena.com/cubot_teases_kingkong_dura_a_rugged_phone_built_around_swappable_battery_power-news-74155.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/cubot-kingkong-dura-sponsored/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Poco M8x 将搭载 Snapdragon 4 Gen 5 SoC、关键...",
-      "source": "GSMArena",
-      "date": "2026-08-17",
-      "summary": "Poco 最近开始预告 M8x 5G 在印度的推出。虽然该公司尚未透露有关即将推出的手机的详细信息，但 Flipkart 上的预告片已经确认了为这款手机提供动力的芯片组及其发布日期。一位线人还泄露了其他几个关键规格和定价...，带来多项升级",
-      "url": "https://www.gsmarena.com/poco_m8x_to_be_powered_by_snapdragon_4_gen_5_soc_key_specs_and_pricing_tipped-news-74197.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-m8x-specs-design/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Tipster称小米18 Ultra被取消，即将推出的vivo和Oppo U...",
-      "source": "GSMArena",
-      "date": "2026-08-17",
-      "summary": "传闻今年 12 月亮相的小米 18 Ultra 现已被取消。根据最新消息，小米将在即将推出的 18 系列中仅推出三款智能手机。在 X 上的一篇帖子中，爆料者 Karticey Singh 声称小米今年不会推出 18 Ul...",
-      "url": "https://www.gsmarena.com/tipster_claims_xiaomi_18_ultra_cancelled_upcoming_vivo_and_oppo_ultras_wont_go_global-news-74196.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/xiaomi-18-ultra-cancelled-rumor/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Tab S12 系列平板电脑现已出现在 谷歌 Play ...",
-      "source": "GSMArena",
-      "date": "2026-08-16",
-      "summary": "三星 Galaxy Tab S12 系列平板电脑最近出现在蓝牙 SIG 的网站上，因为它们已通过蓝牙认证。现在，这些相同的平板电脑已出现在 Google Play 控制台支持的设备列表中。Galaxy Tab S12 系...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_series_google_play_console_listing-news-74194.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-tab-s12-series-google-play-console-listing/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Pixel 11 系列、荣耀机器人手机、红米 17 官方，第 33 周回顾",
-      "source": "GSMArena",
-      "date": "2026-08-16",
-      "summary": "科技新闻开始有所回升，尤其是在过去一周。谷歌与 Pixel Watch 5 一起推出了 Pixel 11 系列。Pixel 11、11 Pro、11 Pro XL 和 11 Pro Fold 都搭载了新的 Tensor ...",
-      "url": "https://www.gsmarena.com/pixel_11_series_honor_robot_phone_redmi_17_official_week_33_in_review-news-74177.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/week-33-in-review/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周民意调查：您会购买哪一款 谷歌 Pixel 11 型号？",
-      "source": "GSMArena",
-      "date": "2026-08-16",
-      "summary": "Google 本周发布了新款 Pixel 11、Pixel 11 Pro、11 Pro XL 和 11 Pro Fold，这些手机已开始接受预订，并将于 8 月 20 日开始发售。您打算入手一台吗？该公司改变了11系列的...，带来多项升级",
-      "url": "https://www.gsmarena.com/weekly_poll_which_google_pixel_11_model_would_you_buy-news-74157.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-google-pixel-11-series/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星可能正在为明年的耳机竞争对手索尼和苹果做好准备",
-      "source": "GSMArena",
-      "date": "2026-08-16",
-      "summary": "几天前，网上出现了有关三星 Galaxy Buds On 的信息采用耳挂式设计的耳机，以及一些展示其外观的插图。现在，同一消息来源展示了索尼 WH1000XM6 和苹果 AirPods Max 2 的潜在竞争对手。Gal...",
-      "url": "https://www.gsmarena.com/samsung_is_likely_preparing_sony_and_apple_headphones_rival_for_next_year-news-74195.php",
+      "date": "2026-08-18",
+      "summary": "有传言称，苹果公司正在开发内置摄像头的 AirPods。尽管最近有传言称所谓的 AirPods Ultra 项目已被取消，但一段新视频已经出现，显示了配备摄像头的 AirPods 的实际使用情况。MacRumors 在最...",
+      "url": "https://www.gsmarena.com/apple_airpods_with_cameras_surface_in_leaked_video-news-74214.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-new-over-ear-headphones/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-airpods-with-cameras-video-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "优惠：谷歌 Pixel 11 系列现已接受预订，含礼品卡和以旧换新奖励",
+      "title": "Nothing's CMF 预告了一对新耳塞",
       "source": "GSMArena",
-      "date": "2026-08-16",
-      "summary": "谷歌本周早些时候推出了新的 Pixel 11 系列有一款新的普通版、两款新的 Pro 和一款新的可折叠机型。现在所缺少的只是一款价格实惠的手机。RAM价格的大幅上涨影响了Pixel系列。谷歌现在在所有 11 系列机型上标...",
-      "url": "https://www.gsmarena.com/deals_the_google_pixel_11_series_is_now_on_preorder_with_gift_cards_and_tradein_bonuses-news-74174.php",
+      "date": "2026-08-18",
+      "summary": "Nothing的子品牌CMF今年可能不会推出新的智能手机，但它仍在忙于开发其他产品。现在看起来我们收到的下一个产品将是一副新的耳塞。至少这就是该公司的新预告片如下所示强烈暗示的内容。接下来会发生什么的提示。 pictwi...",
+      "url": "https://www.gsmarena.com/nothings_cmf_teases_a_new_pair_of_earbuds-news-74213.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-deals-14/-184x111/gsmarena_us.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/cmf-new-teaser/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "每周民意调查结果：使用功能手机的人数惊人",
+      "title": "谷歌的诈骗检测功能正在向另一家 Android 设备制造商开放",
       "source": "GSMArena",
-      "date": "2026-08-16",
-      "summary": "功能手机并没有你想象的那么死气沉沉在上周的民意调查中，三分之一的选民至少偶尔会使用功能手机。有些人甚至全职使用功能手机作为他们唯一的手机。其他人至少正在考虑放弃智能手机的想法。正如一些评论者指出的那样，智能手机在某些国家...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_a_surprising_number_of_people_are_using_feature_phones-news-74159.php",
+      "date": "2026-08-18",
+      "summary": "谷歌的诈骗检测功能可以在通话过程中警告您潜在的诈骗，到目前为止，它当然适用于 Pixel，而且自 Galaxy S26 系列以来也适用于三星旗舰产品。然而，事实证明该功能可能会面向第三个 Android 品牌：vivo。...",
+      "url": "https://www.gsmarena.com/googles_scam_detection_feature_is_headed_to_another_android_device_maker-news-74212.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-results-feature-phone/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-scam-detection-coming-to-vivo/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Pixel 很快就会获得人工智能驱动的“电池使用情况摘要”",
+      "title": "vivo V80 Lite 5G预告图展示了其部分正面设计",
+      "source": "GSMArena",
+      "date": "2026-08-18",
+      "summary": "本月早些时候，我们听说 vivo 正在开发 V80 Lite 5G，其在 Google Play Console 上的列表显示，它很可能是重新命名的 vivo S2。今天，您在 Instagram 上看到的图片是由印度沙...",
+      "url": "https://www.gsmarena.com/vivo_v80_lite_teaser_image_shows_part_of_its_front_design-news-74211.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-v80-lite-5g-leaked-poster/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "HMD 102 4G Pro 规格泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-08-18",
+      "summary": "HMD 早在去年 9 月就推出了 102 4G，现在该公司似乎正在开发名为 102 4G Pro 的升级版本。今天，该信息已由通常可靠的 HMD 相关信息来源泄露。据消息人士透露，新设备将配备 2 英寸 QQVGA LC...",
+      "url": "https://www.gsmarena.com/hmd_102_4g_pro_specs_leak-news-74209.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/hmd-102-4g-pro-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Edge 70 Max 接受审查",
+      "source": "GSMArena",
+      "date": "2026-08-17",
+      "summary": "这是上个月推出的摩托罗拉 Edge 70 Max。让我们看看它的盒子里面，看看里面有什么。 Edge 70 Max 配备 256GB 存储空间和 8GB 或 12GB RAM。您可以选择 Pantone Aqua Gre...",
+      "url": "https://www.gsmarena.com/motorola_edge_70_max_in_for_review-news-74208.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/motorola-edge-70-max-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：百思买 (Best Buy) 上 iPhone Air 和 iPhon...",
+      "source": "GSMArena",
+      "date": "2026-08-17",
+      "summary": "Apple iPhone Air 目前在百思买 Best Buy 上很受欢迎，因为它的所有内存和颜色选项都有 160 美元的折扣。这些手机由百思买自己销售，并且是无锁版手机。                       ...",
+      "url": "https://www.gsmarena.com/deals_iphone_air_and_iphone_16e_discounts_are_trending_on_best_buy-news-74210.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/best-buy-iphone-air-16e-deals/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S26 FE 上手视频中的明星",
+      "source": "GSMArena",
+      "date": "2026-08-17",
+      "summary": "三星 Galaxy S26 FE 即将上市，已经获得 FCC 认证，最近又出现多起泄密事件。它可能会在 9 月初与新款 Galaxy Tab S12 平板电脑一起亮相。在此之前，X 上的一位用户上传了一段他声称是 Gal...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_stars_in_a_handson_video-news-74204.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-hands-on-video/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "配备 10,000mAh 电池的红米 Note 17 Pro Max 将于下...",
+      "source": "GSMArena",
+      "date": "2026-08-17",
+      "summary": "小米正式宣布在全球市场推出新款红米 Note 17 Pro Max，并透露了一些关键规格。这款手机的最大亮点之一是其 10000mAh 电池。该公司已在其全球网站上设立了预告页面，确认Redmi Note 17系列，包括...",
+      "url": "https://www.gsmarena.com/redmi_note_17_pro_max_with_10000mah_battery_to_launch_next_week-news-74205.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-note-17-pro-max-launch-specs/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌的最新更新让我们再次了解其 Android PC 战略",
+      "source": "Android Authority",
+      "date": "2026-08-18",
+      "summary": "一项新的 Google Play 服务功能暗示了手机和 PC 之间更深层次的联系。",
+      "url": "https://www.androidauthority.com/google-play-services-googlebooks-android-3699602/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Gboard 很快就会让忽略剪贴板建议变得更容易",
+      "source": "Android Authority",
+      "date": "2026-08-18",
+      "summary": "不，Gboard，我不想将剪贴板内容粘贴到我打开的每个聊天中。",
+      "url": "https://www.androidauthority.com/gboard-clipboard-suggestions-dismiss-button-apk-teardown-3699618/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "动手视频展示 Galaxy S26 FE，确认疯狂的水平锁定视频模式",
+      "source": "Android Authority",
+      "date": "2026-08-18",
+      "summary": "这些视频展示了 Galaxy S26 FE 的所有荣耀，以及照片样本、相机功能等。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-hands-on-videos-leak-3699595/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星 One UI 9.5 可能会有一个新的连接中心，由谷歌提供",
+      "source": "Android Authority",
+      "date": "2026-08-18",
+      "summary": "Galaxy 用户终于可以获得原生卫星连接支持。",
+      "url": "https://www.androidauthority.com/one-ui-9-5-satellite-connectivity-usb-mode-3699598/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "全球范围内的 谷歌 Home 和 Nest 设备出现大范围停电",
+      "source": "Android Authority",
+      "date": "2026-08-18",
+      "summary": "用户报告称，Google Home 和 Nest 扬声器和显示器出现屏幕冻结、控制延迟和自动化损坏的情况。",
+      "url": "https://www.androidauthority.com/google-home-nest-outage-3699616/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "寻人功能正在 Wear OS 上推出，但它并不是为了找人",
       "source": "Android Authority",
       "date": "2026-08-17",
-      "summary": "它将使用 Gemini Nano 在本地处理您的电池使用模式。",
-      "url": "https://www.androidauthority.com/google-pixel-ai-battery-usage-summaries-apk-teardown-3699191/",
+      "summary": "更重要的是让他们找到你。",
+      "url": "https://www.androidauthority.com/find-hub-people-wear-os-rollout-3699562/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "我用 Gemini 取代了 Duolingo，它（几乎）是完美的选择",
+      "title": "Android 17 QPR 1 Beta 9 分享了谷歌完成的修复工作",
       "source": "Android Authority",
       "date": "2026-08-17",
-      "summary": "Gemini 可能会悄然成为您一直在寻找的 Duolingo 替代品。",
-      "url": "https://www.androidauthority.com/i-replaced-duolingo-with-gemini-3696132/",
+      "summary": "距离计划于 9 月份发布的时间已经不多了。，带来多项升级",
+      "url": "https://www.androidauthority.com/android-17-qpr-1-beta-9-3699552/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "Android 17 QPR 2 Beta 3 将蜂窝网络安全提升到新水平",
+      "title": "超过 10,000 名读者告诉我们 Pixel 11 系列没有达到目标",
       "source": "Android Authority",
       "date": "2026-08-17",
-      "summary": "谷歌正在添加安全日志、密码加密详细信息和更多通知警报，以防止蜂窝攻击。",
-      "url": "https://www.androidauthority.com/android-17-qpr-2-beta-3-mobile-network-security-apk-teardown-3699150/",
+      "summary": "我们的读者调查显示了对谷歌最新旗舰产品的相当残酷的评价。",
+      "url": "https://www.androidauthority.com/pixel-11-series-hot-or-not-poll-results-3699451/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Anthropic 揭示了克劳德如何秘密为人工智能编写的文本添加水印",
+      "title": "您的 YouTube 观看次数即将上升，但有一个问题",
       "source": "Android Authority",
       "date": "2026-08-17",
-      "summary": "在某些情况下，克劳德的水印解决方案可能无效。",
-      "url": "https://www.androidauthority.com/how-claude-watermarks-text-3699100/",
+      "summary": "不要指望这一变化会让加入 YouTube 合作伙伴计划变得更加容易。",
+      "url": "https://www.androidauthority.com/youtube-view-count-change-3699493/",
       "tags": [
         "安卓"
       ],
@@ -170,71 +230,11 @@
       "type": "news"
     },
     {
-      "title": "您的 Pixel 很快就能帮助您诊断通话、移动数据和 Wi-Fi 问题",
+      "title": "调查显示 Pixel 用户希望谷歌停止浪费所有空间",
       "source": "Android Authority",
       "date": "2026-08-17",
-      "summary": "几年前，Pixels 就可以使用这样的功能。",
-      "url": "https://www.androidauthority.com/pixel-connectivity-health-diagnostics-apk-teardown-3699105/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌悄然复活了我们一年多前首次发现的 Pixel 手势",
-      "source": "Android Authority",
-      "date": "2026-08-17",
-      "summary": "谷歌仍在致力于其期待已久的 Pixel 双击锁定功能，而且看起来比以前更好。",
-      "url": "https://www.androidauthority.com/google-pixel-double-tap-lock-android-17-qpr2-beta-3-3699094/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android 17 QPR2 Beta 3 是一个令人惊讶的功能丰富的更新",
-      "source": "Android Authority",
-      "date": "2026-08-17",
-      "summary": "谷歌正在推出针对呼叫转移诈骗的新保护措施、快速设置布局编辑器等等。",
-      "url": "https://www.androidauthority.com/android-17-qpr2-beta-3-new-features-3699084/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我已经使用 Feedly 十年了，但这 2 个最小的 Android 应用程...",
-      "source": "Android Authority",
-      "date": "2026-08-16",
-      "summary": "两个免费的 RSS 阅读器、零算法和一杯非常慢的咖啡。",
-      "url": "https://www.androidauthority.com/feedly-alternatives-android-app-replacements-3695670/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "智能手机失去的 5 项功能需要在 2026 年卷土重来",
-      "source": "Android Authority",
-      "date": "2026-08-16",
-      "summary": "一些功能需要回归。",
-      "url": "https://www.androidauthority.com/5-lost-smartphone-features-need-comeback-2026-3695617/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "8 个 谷歌 Chrome 标志可解决浏览器最烦人的问题",
-      "source": "Android Authority",
-      "date": "2026-08-16",
-      "summary": "8 个 Google Chrome 标志可解决浏览器最烦人的问题",
-      "url": "https://www.androidauthority.com/best-google-chrome-flags-2026-3698138/",
+      "summary": "调查显示 Pixel 用户希望谷歌停止浪费所有空间",
+      "url": "https://www.androidauthority.com/pixel-11-hardware-survey-fix-overheating-battery-life-3699458/",
       "tags": [
         "安卓"
       ],
