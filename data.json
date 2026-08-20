@@ -1,242 +1,242 @@
 {
-  "updated": "2026-08-19 09:00",
+  "updated": "2026-08-20 09:02",
   "news": [
     {
-      "title": "红米 M100 正式发布，配备 7,900 mAh 电池、Snapdrago...",
+      "title": "苹果 Watch Series 12 标志着失落已久的材质回归",
       "source": "GSMArena",
-      "date": "2026-08-19",
-      "summary": "Redmi M100已在中国正式上市，并在小米网站悄然上市。该手机配备 69 英寸 LCD 屏幕，分辨率为 720x1600，刷新率为 120Hz，峰值亮度为 825 尼特。它由 Snapdragon 4 Gen 5 S...",
-      "url": "https://www.gsmarena.com/redmi_m100_goes_official_with_7900_mah_battery_snapdragon_4_gen_5_soc-news-74235.php",
+      "date": "2026-08-20",
+      "summary": "根据 X 上爆料者的最新传闻，苹果即将推出的 Apple Watch Series 12 将标志着陶瓷作为表壳材料的回归。这绝对是苹果公司的一个有趣举措，它使 Apple Watch 的材料选择多样化，同时也可能推高平均...",
+      "url": "https://www.gsmarena.com/apple_watch_series_12_to_mark_the_return_of_a_longlost_material-news-74254.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-watch-series-12-ceramic-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO Z11 在印度首次亮相，具有不同的规格和设计，Buds TWS 紧...",
+      "source": "GSMArena",
+      "date": "2026-08-20",
+      "summary": "经过数周的预告，iQOO 在印度正式推出了 Z11 以及 iQOO Buds。印度版本采用了重新设计的外观，并与全球型号有一些硬件差异。iQOO Z11 印度版搭载联发科天玑 7500 Turbo 芯片组，搭配高达 12...",
+      "url": "https://www.gsmarena.com/iqoo_z11_debuts_in_india_with_different_specs_and_design_buds_tws_tag_along-news-74256.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-z11-buds-india-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星已经在开发 Galaxy A58 和 Galaxy XCover FR",
+      "source": "GSMArena",
+      "date": "2026-08-20",
+      "summary": "三星于 3 月份推出了 Galaxy A57，现在已经在开发其继任者 Galaxy A58。这是 GSMA 协会数据库透露的。目前还没有关于即将推出的设备的详细信息，但它的型号为 SMA586x，最后一个数字或字符表示它...",
+      "url": "https://www.gsmarena.com/samsung_is_already_working_on_the_galaxy_a58_and_galaxy_xcover_fr-news-74253.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-a58-xcover-fr-gsma-database/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "索尼 WH-1000XM4C 图像及规格详细信息泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-08-20",
+      "summary": "索尼于 2020 年推出了 WH1000XM4 耳机，目前已经停产一段时间了。然而，该公司显然正在努力将其重新推出为 WH1000XM4C。我们大约几周前第一次听说此事，今天又有了关于它们的新消息，所以它们显然是真实存在...",
+      "url": "https://www.gsmarena.com/sony_wh1000xm4c_images_leak_along_with_spec_details-news-74251.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/sony-wh-1000xm4c-new-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米18 Pro和小米18 Pro Max可能刚刚获得认证",
+      "source": "GSMArena",
+      "date": "2026-08-20",
+      "summary": "小米即将推出的 18 Pro 和 18 Pro Max 可能刚刚获得在中国销售的认证。这两款设备均支持 100W 有线充电，并且还支持 UWB。它们预计将于 9 月在中国推出，并且很可能是首款使用高通即将推出的 Snap...",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_may_have_just_been_certified-news-74247.php",
       "tags": [
         "小米"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-m100-official/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/xiaomi-18-pro-xiaomi-18-pro-max-certified/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy S26 FE 的欧洲能源标签泄露，核心配置曝光",
+      "title": "这是 谷歌 Pixel 智能手环还是新的 Fitbit 设备？",
       "source": "GSMArena",
-      "date": "2026-08-19",
-      "summary": "三星即将推出的 Galaxy S26 FE 最近被大量泄露，这让我们认为它的发布迫在眉睫。今天，其欧洲能源标签在官方数据库中发布之前已被泄露，并显示该设备的总体评级为 A。其电池寿命额定为 50 小时，耐跌落能力为 A ...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fes_european_energy_label_leaks-news-74230.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-eprel-label/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为 MatePad Air (2026) 现已在马来西亚和中东发售",
-      "source": "GSMArena",
-      "date": "2026-08-19",
-      "summary": "最新的华为 MatePad Air 2026 于上个月与华为 FreeClip 2 S 一起亮相。如果您想了解有关这款平板电脑的更多信息，请查看我们在访问马来西亚参加正式发布会后撰写的实践文章。华为MatePad Air...，带来多项升级",
-      "url": "https://www.gsmarena.com/the_huawei_matepad_air_2026_is_now_available_in_malaysia_and_the_middle_east-news-74227.php",
+      "date": "2026-08-20",
+      "summary": "在谷歌上周举行的大型 Pixel 活动中，该公司推出了 Pixel 11、11 Pro、11 Pro XL 和 11 Pro Fold，以及新款 Pixel Watch 5，并推出了首款名为 Pixel Tag 的智能标...",
+      "url": "https://www.gsmarena.com/is_this_a_google_pixel_smartband_or_a_new_fitbit_device-news-74248.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-matepadi-air-malaysia/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/mysterious-fitbit-smart-band/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "据报道，谷歌希望很快停止在中国的所有 Pixel 生产",
+      "title": "iPhone 17 Pro 保护壳可能适合 iPhone 18 Pro",
       "source": "GSMArena",
-      "date": "2026-08-19",
-      "summary": "据一份新报告称，谷歌希望明年停止在中国生产任何 Pixel 产品。当然，这包括智能手机，还包括智能手表和耳机。近年来，谷歌一直在扩大其在越南和印度的产能，以减少对中国的依赖，但很大一部分Pixel产品仍然在中国制造。20...",
-      "url": "https://www.gsmarena.com/google_reportedly_wants_to_end_all_pixel_production_in_china_very_soon-news-74223.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-china-exit-timeline/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iPhone 18 Pro 的芯片组预计比前代快 18%",
-      "source": "GSMArena",
-      "date": "2026-08-19",
-      "summary": "iPhone 18 Pro系列预计将于下个月推出，搭载苹果A20 Pro芯片组，据传该芯片将采用台积电2nm工艺制造。现在有新的泄漏声称该芯片组将提供改进的性能和效率，但成本比其前身更高。据微博爆料者Fixed Focu...",
-      "url": "https://www.gsmarena.com/iphone_18_pros_chipset_tipped_to_be_18_percent_faster_than_predecessor-news-74217.php",
+      "date": "2026-08-20",
+      "summary": "苹果预计将在下个月上旬发布 iPhone 18 Pro 和 iPhone 18 Pro Max，最有可能是 9 月 8 日或 9 日。在我们等待这一事件发生的过程中，一个有趣的新前景出现了。为 iPhone 17 Pro...，带来多项升级",
+      "url": "https://www.gsmarena.com/iphone_17_pro_cases_may_fit_the_iphone_18_pro-news-74249.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-a20-pro-details-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-17-pro-cases-fit-iphone-18-pro/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Spotify 扩展了用户注释，将播放列表注释添加到其顶级编辑策划的播放列表...",
+      "title": "三星确定了 Galaxy S26 FE 的发布日期 - 将于下周发布，新机正...",
       "source": "GSMArena",
       "date": "2026-08-19",
-      "summary": "上个月，Spotify 添加了运行模式和用户注释等新功能。现在，流媒体正在通过播放列表注释建立后一个想法。Spotify 的全球播放列表编辑团队将使用这些内容来解释给定播放列表背后的想法为什么一首歌会包含在这个特定的列表...",
-      "url": "https://www.gsmarena.com/spotify_expands_user_notes_adds_playlist_notes_to_its_top_editorcurated_playlists-news-74228.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/spotify-playlist-notes/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Tab S12 Ultra 渲染图泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-08-19",
-      "summary": "预计三星很快就会推出 Galaxy Tab S12 Ultra 和 Galaxy Tab S12，或许是在 9 月初，因为当时是其上一代旗舰平板电脑的发布时间。在此之前，今天一张声称描绘 Galaxy Tab S12 U...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_render_leaks-news-74234.php",
+      "summary": "三星将于下周四8 月 27 日在Galaxy Event 2026 年 8 月期间推出 Galaxy S26 家族的新成员，该活动将在 Samsungcom 及其 YouTube 频道上进行直播。活动于世界标准时间中午 ...",
+      "url": "https://www.gsmarena.com/samsung_sets_the_date_for_the_galaxy_s26_fe_unveiling__its_coming_next_week-news-74245.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-tab-s12-ultra-render/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-date-confirmed/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "YouTube 修改观看次数统计",
+      "title": "高通的新预告片证实两款 Snapdragon 8 Elite Gen 6 S...",
       "source": "GSMArena",
-      "date": "2026-08-18",
-      "summary": "随着 YouTube 平台宣布改变处理观看人数的方式，YouTube 创作者很快就会看到更高的视频观看次数。从 8 月 24 日起，YouTube 上的观看次数将在视频开始后立即计算。这与去年应用于 YouTube Sh...",
-      "url": "https://www.gsmarena.com/youtube_revises_view_count_format-news-74225.php",
+      "date": "2026-08-19",
+      "summary": "几个月以来，一直有传言称高通将在其年度 Snapdragon 峰会上推出不是一款，而是两款 Snapdragon 8 Elite Gen 6 SoC。今天，该公司在 X 上发布了最新预告片，证实了这一点。您自己看看：代理...，带来多项升级",
+      "url": "https://www.gsmarena.com/qualcomms_new_teaser_confirms_that_two_snapdragon_8_elite_gen_6_socs_are_coming-news-74252.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/youtube-revises-view-count-format/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/qualcomm-confirms-two-snapdragon-8-elite-gen-6-socs/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星在 One UI 9 中详细介绍了新的保修和保养菜单",
+      "title": "亚马逊为符合条件的 Fire TV 设备免费提供 Alexa+ AI 聊天机...",
       "source": "GSMArena",
-      "date": "2026-08-18",
-      "summary": "One UI 9 在最近推出的 Galaxy Z Fold8、Fold8 Ultra 和 Flip8 上首次亮相，在设置中带来了新的保修和保养菜单。您可以在这里跟踪所有三星设备的保修期和到期日期，并将这些信息整合到一处。...",
-      "url": "https://www.gsmarena.com/samsung_details_the_new_warranty_and_care_menu_in_one_ui_9-news-74231.php",
+      "date": "2026-08-19",
+      "summary": "早在二月份，亚马逊就向美国所有人开放了 Alexa AI 聊天机器人，Prime 订阅者可以无限制地免费使用它。如今，该公司正在将这项服务的覆盖范围免费扩大到那些拥有兼容 Fire TV 设备的用户。首先需要澄清的是，如...",
+      "url": "https://www.gsmarena.com/amazon_makes_its_alexa_ai_chatbot_free_for_eligible_fire_tv_devices-news-74250.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/amazon-alexa-plus-free-fire-tv/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "我们测试了 Pixel 11 的 Tensor G6 芯片，结果很残酷",
+      "source": "Android Authority",
+      "date": "2026-08-20",
+      "summary": "G6 更好，但还没有达到应有的程度。",
+      "url": "https://www.androidauthority.com/tensor-g6-benchmarks-tests-3699714/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌证实，Android 17 的新干扰杀手是 Pixel 11 独有",
+      "source": "Android Authority",
+      "date": "2026-08-20",
+      "summary": "Android 17 的暂停点可能是您抵御分散注意力的应用程序的最佳防御手段，但前提是您拥有 Pixel 11 系列手机。",
+      "url": "https://www.androidauthority.com/android-17-pause-point-digital-wellbeing-pixel-11-exclusive-3700872/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "很难看到表情符号？ Gboard 正在推出解决方案",
+      "source": "Android Authority",
+      "date": "2026-08-20",
+      "summary": "无论您想要每行看到更多表情符号还是更大的表情符号，此滑块都能满足您的需求。",
+      "url": "https://www.androidauthority.com/gboard-emoji-slider-rollout-3700850/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Waymo 的自动驾驶汽车集成了 Gemini，这样你就有人可以交谈了",
+      "source": "Android Authority",
+      "date": "2026-08-20",
+      "summary": "Waymo 汽车也将采用新的Zen 模式。",
+      "url": "https://www.androidauthority.com/waymo-gemini-integration-3700836/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌对占用过多内存的Android应用程序越来越严厉",
+      "source": "Android Authority",
+      "date": "2026-08-20",
+      "summary": "更多的 Android 手机很快将能够控制占用大量内存的应用程序。",
+      "url": "https://www.androidauthority.com/google-android-apps-memory-usage-enforcement-3700841/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "高通刚刚预告了两款新的 Snapdragon 8 Elite 芯片",
+      "source": "Android Authority",
+      "date": "2026-08-20",
+      "summary": "高通已正式开始预告两款下一代旗舰处理器。",
+      "url": "https://www.androidauthority.com/qualcomm-snapdragon-8-elite-gen-6-teaser-3700828/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Pixel 11 系列悄悄地独家添加了最有用的新触觉功能之一",
+      "source": "Android Authority",
+      "date": "2026-08-20",
+      "summary": "Pixel 11 的全新自定义振动选项是您指尖上的音乐。",
+      "url": "https://www.androidauthority.com/google-pixel-11-custom-vibration-3700805/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星刚刚确定了下一款 Galaxy S26 的发布日期，而这一次是为粉丝准备...",
+      "source": "Android Authority",
+      "date": "2026-08-20",
+      "summary": "三星正准备让 Galaxy S26 FE 正式上市。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-launch-date-3700799/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-warranty-and-care/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "苹果正在输掉反垄断诉讼，很快将无法向外部支付平台收取佣金",
-      "source": "GSMArena",
-      "date": "2026-08-18",
-      "summary": "苹果一直在全球范围内与反垄断监管机构作斗争，在试图从第三方支付平台上的购买中收取佣金后，该公司即将在美国再次失败。在苹果自己最新的监管文件中，该公司承认它可能不再能够这样做。欧盟委员会率先迫使苹果允许第三方应用商店在其平...",
-      "url": "https://www.gsmarena.com/apple_is_losing_the_antitrust_battle_and_soon_wont_be_able_to_charge_commissions_from_external_payme-news-74229.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/apple-opens-up-ios-in-brazil/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "您的三星手机现在可以解锁您的大众电动汽车",
+      "title": "调查显示您的手机最有可能取代的工具箱项目",
       "source": "Android Authority",
       "date": "2026-08-19",
-      "summary": "三星继续扩大对三星钱包中数字车钥匙的支持。",
-      "url": "https://www.androidauthority.com/samsung-wallet-volkswagen-ev-digital-car-keys-3700299/",
+      "summary": "调查显示您的手机最有可能取代的工具箱项目",
+      "url": "https://www.androidauthority.com/which-phone-sensors-use-poll-results-3700721/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星修复 Instagram 单手操作故障",
+      "source": "Android Authority",
+      "date": "2026-08-19",
+      "summary": "三星建议更新为在 Instagram 中使用单手操作。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/samsung-one-hand-operation-instagram-3700713/",
       "tags": [
         "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌照片很快就会让你让你的手机整夜保持清醒，这是有充分理由的",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "隔夜备份功能将使应用程序保持在前台运行，以便您的媒体备份不会中断。",
-      "url": "https://www.androidauthority.com/google-photos-overnight-backup-apk-teardown-3700294/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "这个泄露的摩托罗拉配件可能会改变你的手机充电方式，核心配置曝光",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "泄露的充电器采用纤薄设计、编织电缆和 USBC 连接器。",
-      "url": "https://www.androidauthority.com/moto-snap-wireless-charger-leak-3700171/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "惠普的 谷歌book 泄露事件强调了对“Continue On”（谷歌版本的...",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "Continue On 已正式宣布支持 Android 平板电脑，但与 Googlebook 一起出现还是第一次。",
-      "url": "https://www.androidauthority.com/hp-googlebook-leak-handoff-3700179/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "别介意 OnePlus 15：OnePlus 16 终于可以获得真正的 16...",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "OnePlus 16 可以让您充分利用 165Hz 面板。",
-      "url": "https://www.androidauthority.com/oneplus-16-165hz-screen-leak-3699661/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "有人在 reMarkable Paper Pro 上安装了 Android ...",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "谁知道数字纸也有 Android 叛逆的一面？",
-      "url": "https://www.androidauthority.com/remarkable-paper-pro-running-android-13-3700212/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "像素温度计应用程序图标终于进行了渐变改造",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "为您发誓使用或从不使用的应用程序提供一个新的应用程序图标。",
-      "url": "https://www.androidauthority.com/pixel-thermometer-gradient-app-icon-3700224/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "十亿 Telegram 用户很快就会拥有自己的域名",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "Telegram 试图成为 WordPress 竞争对手的计划并不在我的 2026 年宾果卡上。",
-      "url": "https://www.androidauthority.com/telegram-top-level-domain-3700158/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌刚刚吓到了一些 Pixel Watch 用户，但有好消息",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "谷歌无意中让 Pixel Watch 1 用户认为他们的手表已经完成了。",
-      "url": "https://www.androidauthority.com/google-pixel-watch-health-sync-warning-bug-3700145/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Gboard Rambler 有使用限制，达到使用限制后会发生以下情况（更新...",
-      "source": "Android Authority",
-      "date": "2026-08-19",
-      "summary": "更新：谷歌已经澄清了 Rambler 的离线功能。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/gboard-rambler-usage-limit-3699660/",
-      "tags": [
-        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
