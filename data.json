@@ -1,132 +1,132 @@
 {
-  "updated": "2026-08-21 09:04",
+  "updated": "2026-08-22 08:53",
   "news": [
     {
-      "title": "Infinix Hot 70 Pro 在印度的发布时间表已公布，颜色选项也已...",
+      "title": "据称 iQOO 正在开发一款小巧但功能强大的平板电脑",
       "source": "GSMArena",
-      "date": "2026-08-21",
-      "summary": "上个月推出的 Infinix Hot 70 Pro 即将在印度首次亮相。 Infinix 尚未透露 Hot 70 Pro 在印度的上市日期，但表示它将在 9 月的第一周抵达印度。Infinix 还确认 Hot 70 Pr...",
-      "url": "https://www.gsmarena.com/infinix_hot_70_pro_india_launch_timeframe_colors-news-74276.php",
+      "date": "2026-08-22",
+      "summary": "据微博数码闲聊站最新消息称，继推出多款大尺寸平板之后，iQOO 准备进军小型平板领域，与 6 月份发布的 RedMagic Astra 2 直接竞争。据传iQOO平板电脑配备88英寸屏幕，具有超高刷新率和四边窄边框，金属...，带来多项升级",
+      "url": "https://www.gsmarena.com/iqoo_is_allegedly_working_on_a_small_and_powerful_tablet-news-74291.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/infinix-hot-70-pro-india-launch-timeframe/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iqoo-small-tablet-rumor/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "基于 Android 17 的 Nothing OS 5.0 即将揭晓",
+      "title": "Vivo V70 Lite 4G 配备 8,100mAh 电池和 IP69 ...",
       "source": "GSMArena",
-      "date": "2026-08-21",
-      "summary": "自从 Google 发布 Android 17 以来，您可能一直想知道 Nothing 何时会发布自己对新操作系统的解释。好吧，我们越来越近了。该公司刚刚宣布，基于 Android 17 的 Nothing OS 50 ...，带来多项升级",
-      "url": "https://www.gsmarena.com/heres_when_nothing_os_50_based_on_android_17_is_getting_unveiled-news-74273.php",
+      "date": "2026-08-22",
+      "summary": "vivo V70 Lite 早在 6 月份就已发布，其 4G 版本尚未在欧亚大陆的多个市场上市。顾名思义，该设备采用 4G 芯片组特别是紫光展锐的 T7300。它搭配 8GB LPDDR4X RAM 和 128256GB...，带来多项升级",
+      "url": "https://www.gsmarena.com/vivo_v70_lite_4g_arrives_with_8100mah_battery_and_ip69_rating-news-74288.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/nothing-os-5-unveiling-date/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/vivo-v70-lite-4g-ofic/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Poco F9 Ultra 运行 Geekbench 确认其芯片组和 RAM...",
+      "title": "红米 Note 17 Pro 和 红米 Note 17 Pro Max 印度...",
       "source": "GSMArena",
-      "date": "2026-08-21",
-      "summary": "Poco F9 Pro 和 Poco F9 Ultra 似乎即将推出，过去一周有关它们的泄密数量不断增加。现在，Ultra 似乎已经跑出了 Geekbench 7，单核得分为 2980，多核得分为 10030。它由 Qu...",
-      "url": "https://www.gsmarena.com/poco_f9_ultra_runs_geekbench_confirming_its_chipset_and_ram_amount-news-74274.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08//poco-f9-ultra-geekbench/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Counterpoint：欧洲智能手机出货量跌至三年低点",
-      "source": "GSMArena",
-      "date": "2026-08-21",
-      "summary": "欧洲智能手机市场第二季度4 月至 6 月的出货量创下 2023 年以来的最低水平。Counterpoint Research 的一份新报告估计，该时期智能手机出货量为 3500 万部，比去年下降 10。通货膨胀、伊朗冲突...",
-      "url": "https://www.gsmarena.com/european_smartphone_shipments_drop_to_three_year_low-news-74271.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/europe-q2-smartphone-shipments-cr/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星Galaxy A08新认证显示电池容量跃升",
-      "source": "GSMArena",
-      "date": "2026-08-21",
-      "summary": "几天前，即将推出的三星 Galaxy A08 出现在 Google Play Console 数据库中。现在，在巴西推出之前，它还获得了巴西 Anatel 的认证。认证显示，Galaxy A08的电池额定容量为5830m...",
-      "url": "https://www.gsmarena.com/new_samsung_galaxy_a08_certification_reveals_a_jump_in_battery_capacity-news-74265.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/galaxy-a08-4g-certified/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "红米 Watch 6 Active正式发布 大电池+140种运动模式，新机正...",
-      "source": "GSMArena",
-      "date": "2026-08-21",
-      "summary": "Redmi Watch 6 Active 上次曝光是在几天前，今天终于正式发布。它已经在小米的中国在线商店上架，售价为 349 元人民币约合 51 美元。您可以选择炮铜色、粉橙色和银色配色。红米手表6 活跃色彩它配备 1...，带来多项升级",
-      "url": "https://www.gsmarena.com/redmi_watch_6_active_is_now_official_with_a_big_battery_and_140_sports_modes-news-74272.php",
+      "date": "2026-08-22",
+      "summary": "Redmi Note 17 系列将于下周在全球发布，但不包括印度。在那里，Redmi Note 17 已经正式发布，而今天有关 Redmi Note 17 Pro 和 Redmi Note 17 Pro Max 的新细节...，带来多项升级",
+      "url": "https://www.gsmarena.com/redmi_note_17_pro_and_redmi_note_17_pro_max_india_launch_date_leaks_along_with_pricing_details-news-74290.php",
       "tags": [
         "小米"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-watch-6-active-official/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/redmi-note-17-pro-pro-max-india-details/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy Tab S12+ 和 S12 Ultra 价格泄露，核心...",
+      "title": "Poco X8 和 X8 Power 营销材料泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-08-22",
+      "summary": "几个小时前，有传言称 Poco 即将推出配备 10000 mAh 电池的 X8 Power。现在，X 上的另一位爆料者分享了一些据称是 X8 Power 以及期待已久的 X8 的营销材料。我们就直截了当地说：这些似乎是重...",
+      "url": "https://www.gsmarena.com/poco_x8_and_x8_power_marketing_materials_leak-news-74292.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-x8-x8-power-india-details/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "如果荣耀机器人手机的云台摄像头坏了，需要赔偿多少钱",
       "source": "GSMArena",
       "date": "2026-08-21",
-      "summary": "三星将于下周发布 Galaxy S26 FE，预计该公司还将很快发布 Galaxy Tab S12 和 Galaxy Tab S12 Ultra，可能在同一天，或者如果不是的话，也可能在 9 月初。在发布之前，可靠消息人...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_and_s12_ultra_prices_leak-news-74268.php",
+      "summary": "经过数月的预告和展示后，荣耀的机器人手机终于在上周正式发布。它绝对是一个独特的设备，带有集成的万向摄像头，即使它实际上不是一个机器人。不过，万向摄像头包含许多活动部件，因此如果您在手机外出时掉落手机，可能会损坏它。在这种...，带来多项升级",
+      "url": "https://www.gsmarena.com/heres_how_much_youll_pay_if_you_break_the_honor_robot_phones_gimbal_camera-news-74289.php",
       "tags": [
-        "三星"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-tab-s12-plus-s12-ultra-prices-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/honor-robot-phone-repair-prices/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "泄露显示三星 One UI 9.5 可能会使用人工智能来设计自定义小部件，核...",
+      "title": "三星 Galaxy Z Flip8 评测，真实体验如何？",
       "source": "GSMArena",
-      "date": "2026-08-20",
-      "summary": "谷歌的新 Gemini Intelligence AI 有一个名为创建我的小部件的功能  基本上，它采用简单的语言描述小部件应该做什么，找出如何做到这一点并将小部件放在主屏幕上。现在看来三星将在 One UI 95 中包...",
-      "url": "https://www.gsmarena.com/samsungs_one_ui_95_might_use_ai_to_let_you_design_custom_widgets_leak_shows-news-74270.php",
+      "date": "2026-08-21",
+      "summary": "三星 Galaxy Z Flip8 评测",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_flip8-review-2989.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-one-ui-95-my-custom-widget/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/samsung-galaxy-z-flip8/-347x151/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "尽管演示被泄露，但据报道苹果配备摄像头的 AirPods 仍定于 2027 ...",
+      "title": "三星 Galaxy S26 FE 拆箱视频泄露，核心配置曝光",
       "source": "GSMArena",
-      "date": "2026-08-20",
-      "summary": "最近网上出现了一段泄露的演示视频，展示了传闻中的苹果配备摄像头的 AirPods 的工作原理。泄密事件表明，新款 AirPods 可能会在下个月与 iPhone 18 Pro 系列一起亮相。尽管视频被泄露，彭博社的 Ma...",
-      "url": "https://www.gsmarena.com/despite_leaked_demo_apples_cameraequipped_airpods_still_reportedly_set_for_2027_launch-news-74255.php",
+      "date": "2026-08-21",
+      "summary": "三星将于 8 月 27 日推出 Galaxy S26 FE，在此之前我们已经在上手视频以及大量泄露的渲染图中看到了该设备。来个快速开箱视频怎么样？即使这款手机还没有正式上市，你想看到这一点吗？好吧，如果你愿意，那就来吧。...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_leaks_in_unboxing_video-news-74285.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-unboxing-video/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy S26 Ultra 红色色调问题的修复可能会在本月晚些时候发布...",
+      "source": "GSMArena",
+      "date": "2026-08-21",
+      "summary": "上个月，三星承认有报道称 Galaxy S26 Ultra 显示屏在某些条件下可能会出现红色色调，并承诺对此进行修复该公司将其归咎于软件问题，而不是硬件问题。据三星韩国客户支持团队称，该修复将于本月底完成。三星社区论坛上...",
+      "url": "https://www.gsmarena.com/a_fix_for_the_red_tint_issue_on_the_galaxy_s26_ultra_may_be_coming_later_this_month-news-74279.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-ultra-red-tint-issue-fix-incoming/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "RayNeo 推出注重生产力的 iO 眼镜和注重多媒体的 GT 眼镜",
+      "source": "GSMArena",
+      "date": "2026-08-21",
+      "summary": "RayNeo 是顶级 AR 智能眼镜公司之一根据 Counterpoint 2026 年第一季度数据，市场份额为 237，推出了两条新产品线iO 和 GT 系列。前者专注于一目了然的环境智能，后者则专注于多媒体游戏和电影...",
+      "url": "https://www.gsmarena.com/rayneo_unveils_productivity_focused_io_glasses_and_multimedia_focused_gt_glasses-news-74284.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/rayneo-io-gt-smart-glasses/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Epic Games认为苹果新的欧盟应用商店规则仍然违反了《数字市场法》",
+      "source": "GSMArena",
+      "date": "2026-08-21",
+      "summary": "欧盟委员会可能对苹果的新应用商店规则感到满意，但 Epic Games 肯定不满意。 堡垒之夜的开发商和最大游戏商店之一的所有者认为，苹果的改变仍然违反了数字市场法。爱尔兰独立报援引欧盟委员会发言人的话说：欧盟委员会欢迎...",
+      "url": "https://www.gsmarena.com/epic_games_thinks_that_apples_new_eu_app_store_rules_still_violate_the_digital_markets_act-news-74278.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-airpods-pro-camera-2027-report/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/epic-games-not-happy-with-apples-eu-store-rules/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "内部人士称，三星现在为其生产的芯片加价高达 15%",
-      "source": "GSMArena",
-      "date": "2026-08-20",
-      "summary": "接受路透社采访的内部人士表示，人工智能的繁荣吞噬了台积电领先晶圆厂的制造能力，因此公司开始转向三星生产芯片，这使该公司有足够的筹码将价格提高最多 15。7 月，三星开始向美国和中国客户收取比前一个月高 1015 的 4n...",
-      "url": "https://www.gsmarena.com/samsung_is_now_charging_up_to_15_more_for_the_chips_it_makes_insiders_say-news-74259.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-increases-semiconductor-prices/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌在 Pixel 11 上推出的新点击分享功能令人难以置信。使用方法如下",
+      "title": "Insignia 32 英寸 Fire TV 降至仅 69.99 美元——对...",
       "source": "Android Authority",
       "date": "2026-08-21",
-      "summary": "谷歌在 Pixel 11 上推出的新点击分享功能令人难以置信。使用方法如下",
-      "url": "https://www.androidauthority.com/pixel-11-tap-to-share-how-use-3700155/",
+      "summary": "购买 Insignia 32 英寸 Fire TV 可节省 60 美元，只需 6999 美元即可获得内置 Fire TV 和 Alexa 语音遥控器。",
+      "url": "https://www.androidauthority.com/insignia-32-inch-fire-tv-deal-3701775/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "YouTube Premium 可能会在上一次涨价几个月后再次涨价",
+      "title": "亚马逊将罗技 G309 Lightspeed 鼠标降至历史最低价 34.99...",
       "source": "Android Authority",
       "date": "2026-08-21",
-      "summary": "报告指出，保费价格上涨，您的每月账单将再次受到影响。",
-      "url": "https://www.androidauthority.com/youtube-premium-may-get-another-price-hike-3701352/",
+      "summary": "亚马逊将罗技 G309 Lightspeed 的建议零售价降低 61，将这款备受好评的鼠标降至非常诱人的价格。",
+      "url": "https://www.androidauthority.com/logitech-g309-lightspeed-mouse-deal-3701771/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "新的华硕 谷歌book 泄露显示更多配置和定价细节，核心配置曝光",
+      "title": "您的 Verizon Disney Plus、Hulu 和 ESPN Plu...",
       "source": "Android Authority",
       "date": "2026-08-21",
-      "summary": "华硕可以为用户的 Googlebook 提供大量配置选项。",
-      "url": "https://www.androidauthority.com/asus-cx9406-googlebook-leak-16gb-ram-3701366/",
+      "summary": "大多数 Verizon Disney 捆绑优惠都在上涨，但这个 15 美元的计划保持不变。",
+      "url": "https://www.androidauthority.com/verizon-disney-bundle-price-hike-3701755/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "Android 上最好的 PS3 模拟器刚刚推出在线游戏",
+      "title": "谷歌的智能显示屏都在哪里？缺货 商店列表引起关注",
       "source": "Android Authority",
       "date": "2026-08-21",
-      "summary": "我们还进行了大量影响各种游戏的兼容性改进。",
-      "url": "https://www.androidauthority.com/armsx3-ps3-emulator-android-online-play-3701355/",
+      "summary": "从 Nest Hub 到 Pixel 平板电脑，每台智能显示器上都有 Google Store。",
+      "url": "https://www.androidauthority.com/google-store-smart-displays-3701744/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "RayNeo 希望其新款 iO 智能眼镜成为您不再伸手拿手机的原因",
+      "title": "Oura 的睡眠追踪在拟议的集体诉讼中受到批评",
       "source": "Android Authority",
       "date": "2026-08-21",
-      "summary": "该公司针对屏幕疲劳的解决方案是在你面前放置另一个屏幕。",
-      "url": "https://www.androidauthority.com/rayneo-glasses-reduce-smartphone-use-3700718/",
+      "summary": "投诉称，其部分睡眠追踪的准确性只不过是抛硬币的机会。",
+      "url": "https://www.androidauthority.com/oura-faces-lawsuit-over-sleep-tracking-accuracy-3701739/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "RayNeo 通过 GT 和 GT Max AR 眼镜以及新的 Pocket...",
+      "title": "谷歌 为您提供了对共享照片位置数据的更多控制权",
       "source": "Android Authority",
       "date": "2026-08-21",
-      "summary": "不过，Pocket TV Pro 仅限于 RayNeo AR 眼镜，所以不要抱太大希望。",
-      "url": "https://www.androidauthority.com/rayneo-gt-max-ar-glasses-pocket-tv-pro-streamer-3701131/",
+      "summary": "Android 的照片选择器正在为共享照片添加位置数据切换。",
+      "url": "https://www.androidauthority.com/new-android-photo-picker-api-coming-3701717/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "GrapheneOS 的第一款摩托罗拉手机将是价格高于 Pixel 的旗舰手...",
+      "title": "ChatGPT 很快就能让你用 PIN 码或指纹锁定聊天",
       "source": "Android Authority",
       "date": "2026-08-21",
-      "summary": "如果你希望 GrapheneOS 的第一款 Moto 手机价格便宜，那你就运气不好了。",
-      "url": "https://www.androidauthority.com/grapheneos-motorola-phones-pricing-3701347/",
+      "summary": "修复临时聊天的最大缺点。",
+      "url": "https://www.androidauthority.com/chatgpt-locked-chats-private-conversations-3701687/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "Pixel 11 系列出厂图片现已可供下载",
+      "title": "兑换 谷歌 Play 积分可以为你赢得一本价值不菲的经典蜘蛛侠漫画",
       "source": "Android Authority",
       "date": "2026-08-21",
-      "summary": "全新 Pixel 11 刚从工厂出厂。",
-      "url": "https://www.androidauthority.com/pixel-11-factory-images-3701343/",
+      "summary": "Play Points 付款可能会购买珍贵的彼得帕克期刊",
+      "url": "https://www.androidauthority.com/google-play-sweepstakes-3701703/",
       "tags": [
         "安卓"
       ],
@@ -218,23 +218,23 @@
       "type": "news"
     },
     {
-      "title": "Galaxy S26 Ultra 的红屏修复传奇终于（几乎）结束了",
+      "title": "谷歌 让 My Pixel 应用与 Pixel 11 的颜色真正匹配",
       "source": "Android Authority",
-      "date": "2026-08-20",
-      "summary": "如果您需要前往服务中心进行软件修复，那么修复软件有什么意义呢？",
-      "url": "https://www.androidauthority.com/galaxy-s26-red-screen-update-3701277/",
+      "date": "2026-08-21",
+      "summary": "看看这个针对 Pixel 11 系列的有趣的全新 My Pixel 调整。",
+      "url": "https://www.androidauthority.com/my-pixel-app-color-3701675/",
       "tags": [
-        "三星"
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "谷歌 Photos 用户绝大多数要求更好的清理选项",
+      "title": "谷歌 Messages 群聊邀请链接看起来已准备就绪",
       "source": "Android Authority",
-      "date": "2026-08-20",
-      "summary": "我们最新民意调查的压倒性结果表明，当前的清理工具并不适合大多数人。",
-      "url": "https://www.androidauthority.com/google-photos-free-up-space-poll-results-3701310/",
+      "date": "2026-08-21",
+      "summary": "Google 正在让人们更轻松地加入您的群聊。",
+      "url": "https://www.androidauthority.com/google-messages-group-chat-invite-links-3701647/",
       "tags": [
         "安卓"
       ],
