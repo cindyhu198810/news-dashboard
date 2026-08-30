@@ -1,6 +1,114 @@
 {
-  "updated": "2026-08-29 13:53",
+  "updated": "2026-08-30 13:51",
   "news": [
+    {
+      "title": "Deals: iPhone 17 lineup discounted, Ga...",
+      "source": "GSMArena",
+      "date": "2026-08-30",
+      "summary": "Apples iPhone 18 Pro lineup is expected to be unveiled at the upcoming Apple event scheduled for September 9 A...",
+      "url": "https://www.gsmarena.com/deals_iphone_17_lineup_discounted_galaxy_s26_and_xiaomi_17_on_sale-news-74400.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-deals-28/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Weekly poll: will you buy the 三星 Galax...",
+      "source": "GSMArena",
+      "date": "2026-08-30",
+      "summary": "The Samsung Galaxy S26 FE is here and in a way it feels like it has been with us all along The S25 FE was over...",
+      "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-samsung-galaxy-s26-fe/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Weekly poll results: the Honor Robot P...",
+      "source": "GSMArena",
+      "date": "2026-08-30",
+      "summary": "Last weeks poll shows that people are interested in the Honor Robot Phone for its camera and AI capabilities  ...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-poll-results-honor-robot-phone/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "WhatsApp's Scam Alert feature is now a...",
+      "source": "GSMArena",
+      "date": "2026-08-30",
+      "summary": "Back in June we learned that WhatsApp was developing a Scam Alert feature which Meta officially detailed over ...",
+      "url": "https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/whatsapp-scam-alert-android-beta-users/-184x111/gsmarena_002.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Motorola's Razr Fold is finally on its...",
+      "source": "GSMArena",
+      "date": "2026-08-29",
+      "summary": "Motorola launched the Razr Fold in the US in late May when the company announced that it would be available fo...",
+      "url": "https://www.gsmarena.com/motorolas_razr_fold_is_finally_on_its_way_to_verizon-news-74402.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/motorola-razr-fold-headed-to-verizon/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Deals: the Galaxy S26 FE is coming, Ga...",
+      "source": "GSMArena",
+      "date": "2026-08-29",
+      "summary": "Samsung unveiled the Galaxy S26 FE earlier this week  the phone is set to go on sale on Friday next week Septe...",
+      "url": "https://www.gsmarena.com/deals_the_galaxy_s26_fe_is_coming_galaxy_s26_series_on_sale_nothing_phone_3_also_discounted-news-74384.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-deals-28/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Here's when the iPhone 18 Pro and iPho...",
+      "source": "GSMArena",
+      "date": "2026-08-29",
+      "summary": "Apple is unveiling the iPhone 18 Pro and iPhone 18 Pro Max along with the iPhone Ultra on September 9 Thats a ...",
+      "url": "https://www.gsmarena.com/heres_when_the_iphone_18_pro_and_iphone_18_pro_max_are_rumored_to_go_on_preorder-news-74398.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/iphone-18-pro-pro-max-pre-order-date-time/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Motorola Edge 70 Max 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-08-29",
+      "summary": "Motorola Edge 70 Max review",
+      "url": "https://www.gsmarena.com/motorola_edge_70_max-review-2991.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/motorola-edge-70-max/-347x151/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Poco X8 and X8 Power's price ranges 泄露...",
+      "source": "GSMArena",
+      "date": "2026-08-29",
+      "summary": "Poco has already confirmed that its launching the X8 and X8 Power in India on September 4 following a mega lea...",
+      "url": "https://www.gsmarena.com/poco_x8_and_x8_powers_price_ranges_leak-news-74401.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/poco-x8-x8-power-price-range-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "Here's our best look yet at the inward...",
       "source": "GSMArena",
@@ -14,111 +122,87 @@
       "type": "news"
     },
     {
-      "title": "Oppo Find X10 and Find X10 Pro Max 发布 ...",
-      "source": "GSMArena",
-      "date": "2026-08-29",
-      "summary": "According to a new report Oppo is planning to launch the Find X10 and Find X10 Pro Max in global markets by la...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_launch_time_frame_in_global_markets_and_india_leaks-news-74399.php",
+      "title": "I took my Android phone off silent mod...",
+      "source": "Android Authority",
+      "date": "2026-08-30",
+      "summary": "Some imagination and an AI tool is all you need",
+      "url": "https://www.androidauthority.com/android-phone-making-ai-ringtones-love-it-why-3702849/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/oppo-find-x10-find-x10-pro-max-global-launch-time-frame/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Deals: the Galaxy S26 FE is on pre-ord...",
-      "source": "GSMArena",
-      "date": "2026-08-29",
-      "summary": "Samsung unveiled the Galaxy S26 FE earlier this week  the phone is set to go on sale on Friday next week Septe...",
-      "url": "https://www.gsmarena.com/deals_the_galaxy_s26_fe_is_on_preorder_but_the_s26_is_cheaper__several_pocos_are_cheaper_too-news-74388.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/weekly-deals-28/-184x111/gsmarena_de.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Reno17 series could get teleconve...",
-      "source": "GSMArena",
-      "date": "2026-08-29",
-      "summary": "Oppo unveiled the Reno16 series in China in May and later launched it in global markets The lineup also made i...",
-      "url": "https://www.gsmarena.com/oppo_reno17_series_could_get_teleconverter_support_new_rumor_claims-news-74396.php",
+      "title": "Just get a Pixel 11? Here are the firs...",
+      "source": "Android Authority",
+      "date": "2026-08-30",
+      "summary": "Set up your new Pixel 11 properly with these 10 essential tweaks",
+      "url": "https://www.androidauthority.com/pixel-11-settings-change-tips-3702992/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/oppo-reno17-series-teleconverter-rumor/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy S26 FE in for 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-08-29",
-      "summary": "The Galaxy FE models have always enjoyed the attention of loyal and savvy Galaxy fans but Samsung may be cutti...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_in_for_review-news-74391.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-ifr/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果 hikes prices again, this time for 苹...",
-      "source": "GSMArena",
-      "date": "2026-08-28",
-      "summary": "Apple hiked the prices of all of its hardware products back in June As were all anxiously waiting for the comp...",
-      "url": "https://www.gsmarena.com/apple_hikes_prices_again_this_time_for_apple_tv_and_apple_one-news-74397.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/apple-tv-apple-one-price-hike/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Motorola teases a new Swaro对比ki-encrus...",
-      "source": "GSMArena",
-      "date": "2026-08-28",
-      "summary": "Motorola launched blingedup Swarovskiencrusted versions of the Razr 60 and Edge 70 last year then followed up ...",
-      "url": "https://www.gsmarena.com/motorola_teases_a_new_swarovskiencrusted_razr_heres_when_its_launching-news-74395.php",
+      "title": "5 Android phones you should buy instea...",
+      "source": "Android Authority",
+      "date": "2026-08-30",
+      "summary": "These five phones are the Pixel 11 Pro Folds fiercest competitors",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-alternatives-3698460/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/motorola-razr-70-swarovski-edition-teaser/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "谷歌 Pixel 11 in for 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-08-28",
-      "summary": "Last year was a big step for the Pixel 10 which gained a zoom camera but downgraded the main camera but this y...",
-      "url": "https://www.gsmarena.com/google_pixel_11_in_for_review-news-74377.php",
+      "title": "谷歌 made Android 17’s best feature a Pi...",
+      "source": "Android Authority",
+      "date": "2026-08-30",
+      "summary": "Stroll lets me earn time on social media by walking first",
+      "url": "https://www.androidauthority.com/best-digital-wellbeing-pixel-11-exclusive-i-found-better-app-3679013/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/google-pixel-11-ifr/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy S26 series receives seventh ...",
-      "source": "GSMArena",
-      "date": "2026-08-28",
-      "summary": "Samsung released the sixth One UI 9 beta for the Galaxy S26 series earlier this week Now in a surprising move ...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_beta_7_update-news-74387.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-series-one-ui-9-beta-7-update/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Huawei teases a slimmer Huawei Watch D...",
-      "source": "GSMArena",
-      "date": "2026-08-28",
-      "summary": "Huawei is preparing for the September 2 launch of the nova 16s Pro but as it turns out the company will also i...",
-      "url": "https://www.gsmarena.com/huawei_teases_a_slimmer_huawei_watch_d3_and_freebuds_neo-news-74393.php",
+      "title": "One of 谷歌’s weirdest Pixel features is...",
+      "source": "Android Authority",
+      "date": "2026-08-30",
+      "summary": "One of Googles weirdest Pixel features is finally dead and Im going to seriously miss it",
+      "url": "https://www.androidauthority.com/google-pixel-thermometer-dead-miss-3701785/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/huawei-watch-d3-freebuds-neo/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "I use 谷歌 Chrome every day, and these a...",
+      "source": "Android Authority",
+      "date": "2026-08-30",
+      "summary": "Youll wish you knew some of them earlier",
+      "url": "https://www.androidauthority.com/google-chrome-tips-tricks-2026-3703259/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "There’s no GrapheneOS for Pixel 11 pho...",
+      "source": "Android Authority",
+      "date": "2026-08-30",
+      "summary": "The GrapheneOS team suggests Google may have dropped this key security feature to save money",
+      "url": "https://www.androidauthority.com/no-grapheneos-google-pixel-11-3704622/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
@@ -153,90 +237,6 @@
       "url": "https://www.androidauthority.com/cant-stop-using-galaxy-z-fold-8-3702806/",
       "tags": [
         "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Messages just got a customization s...",
-      "source": "Android Authority",
-      "date": "2026-08-29",
-      "summary": "Google Messages just got a customization setting Ive wanted for years  how to use it",
-      "url": "https://www.androidauthority.com/google-messages-chat-themes-how-use-3704381/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Vloggers will love this phone and rear...",
-      "source": "Android Authority",
-      "date": "2026-08-29",
-      "summary": "The OPPO Reno 16 Pro is a solid Android phone with a quirky accessory but the price tag is a stretch to get it...",
-      "url": "https://www.androidauthority.com/oppo-reno-16-pro-hands-on-3698232/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "I rely on 谷歌 Maps every day, but these...",
-      "source": "Android Authority",
-      "date": "2026-08-29",
-      "summary": "Google Maps is my goto travel app but these missing features drive me crazy",
-      "url": "https://www.androidauthority.com/google-maps-missing-features-2026-3701802/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "ChatGPT, Gemini, and Claude quietly ge...",
-      "source": "Android Authority",
-      "date": "2026-08-29",
-      "summary": "Your favorite AI chatbot might be remembering a little too much",
-      "url": "https://www.androidauthority.com/chatgpt-gemini-claude-memory-cleanup-how-3701167/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 rounds the week out with Android 17...",
-      "source": "Android Authority",
-      "date": "2026-08-28",
-      "summary": "Two weeks after the last release just like clockwork",
-      "url": "https://www.androidauthority.com/android-17-qpr2-beta-4-3704596/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 is finally fixing one of Calendar’s...",
-      "source": "Android Authority",
-      "date": "2026-08-28",
-      "summary": "Google Calendar is finally solving the RSVP email spam nightmare",
-      "url": "https://www.androidauthority.com/google-calendar-lets-you-avoid-rsvps-3704581/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Forget screenless: Fitbit Air users ha...",
-      "source": "Android Authority",
-      "date": "2026-08-28",
-      "summary": "And apparently it still works just fine",
-      "url": "https://www.androidauthority.com/fitbit-air-taped-3704588/",
-      "tags": [
-        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
