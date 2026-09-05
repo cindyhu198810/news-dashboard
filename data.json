@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-04 12:47",
+  "updated": "2026-09-05 11:53",
   "news": [
+    {
+      "title": "Deals: Galaxy S26 FE now on sale, late...",
+      "source": "GSMArena",
+      "date": "2026-09-05",
+      "summary": "Samsung recently announced its latest FE series phone the Galaxy S26 FE and its already available with a small...",
+      "url": "https://www.gsmarena.com/deals_galaxy_s26_fe_now_on_sale_latest_galaxy_z_foldables_get_price_cuts-news-74485.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-4/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Tecno bezel-less concept phone 上手",
+      "source": "GSMArena",
+      "date": "2026-09-04",
+      "summary": "The race to 0mm display bezels has taken a back seat in recent years but Tecno decided to jumpstart the whole ...",
+      "url": "https://www.gsmarena.com/tecno_bezelless_concept_phone_handson-news-74476.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/tecno-bezel-less-concept-ifa-2026/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy Watch7 and Galaxy Watch Ultr...",
+      "source": "GSMArena",
+      "date": "2026-09-04",
+      "summary": "Samsung has started rolling out the Wear OS 7based One UI 9 Watch beta to the Galaxy Watch7 and Galaxy Watch U...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-watch7-galaxy-watch-ultra-one-ui-9-watch-beta-update/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone Ultra, iPhone 18 Pro and 18 Pro...",
+      "source": "GSMArena",
+      "date": "2026-09-04",
+      "summary": "John Ternus will host an Apple event as CEO for the first time on September 9 Wednesday The event is expected ...",
+      "url": "https://www.gsmarena.com/iphone_ultra_iphone_18_pro_and_18_pro_max_prices_leaked_by_vodafone__heres_the_damage-news-74484.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-ultra-18-pro-price-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Our 三星 Galaxy S26 FE battery life and ...",
+      "source": "GSMArena",
+      "date": "2026-09-04",
+      "summary": "The Samsung Galaxy S26 FE went on sale in multiple markets around the world today  the 700  700  800 phone has...",
+      "url": "https://www.gsmarena.com/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s26-fe-battery-and-charge-tests/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 Pixel 11 Pro XL 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-09-04",
+      "summary": "Google Pixel 11 Pro XL review",
+      "url": "https://www.gsmarena.com/google_pixel_11_pro_xl-review-2994.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/pixel-11-pro-xl/-347x151/gsmarena_003.jpg",
+      "type": "news"
+    },
+    {
+      "title": "New 泄露 details 苹果 A20 Pro chip，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-09-04",
+      "summary": "A new leak coming out of China claims to have figured out some key details about the upcoming Apple A20 Pro ch...",
+      "url": "https://www.gsmarena.com/new_leak_details_apple_a20_pro_chip-news-74471.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-a20-pro-chip-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 Pixel Watch 5 Stephen Curry Special...",
+      "source": "GSMArena",
+      "date": "2026-09-04",
+      "summary": "Google unveiled the Pixel Watch 5 last month alongside the Pixel 11 series smartphones The smartwatch comes wi...",
+      "url": "https://www.gsmarena.com/google_pixel_watch_5_stephen_curry_special_edition_price_sale_date-news-74477.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/google-pixel-watch-5-stephen-curry-special-edition-price-sale-date/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
     {
       "title": "The RugOne Xsnap 7 Pro smartphone feat...",
       "source": "GSMArena",
@@ -26,107 +122,71 @@
       "type": "news"
     },
     {
-      "title": "Tecno Pova 8 Pro Tonino Lamborghini ed...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "Back in March Tecno announced its partnership with Italian luxury lifestyle brand Tonino Lamborghini It has si...",
-      "url": "https://www.gsmarena.com/tecno_pova_8_pro_tonino_lamborghini_edition_goes_official-news-74473.php",
+      "title": "T-Mobile’s secret $25/month plan is te...",
+      "source": "Android Authority",
+      "date": "2026-09-05",
+      "summary": "You can do a lot better than TMobiles new budget plan",
+      "url": "https://www.androidauthority.com/t-mobile-secret-super-essentials-saver-plan-worth-it-3705791/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/tecno-pova-8-pro-tonino-lamborghini-edition/-184x111/gsmarena_00.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Infinix Hot 70 Pro 发布ed in India，新机正式登...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "The Infinix Hot 70 Pro unveiled in July debuted in India todayThe Infinix Hot 70 Pro comes in Mirage Green Div...",
-      "url": "https://www.gsmarena.com/infinix_hot_70_pro_india_price_sale_date-news-74472.php",
+      "title": "The Pixel 11 Pro should be a disappoin...",
+      "source": "Android Authority",
+      "date": "2026-09-05",
+      "summary": "The Pixel 11 Pro isnt perfect but I still love it",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-review-3703549/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-hot-70-pro-india-price-sale-date/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Oppo A7 Pro with an 8,000mAh battery i...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "After launching the Oppo A7 Pro Max last month the company has now confirmed that the standard A7 Pro will lau...",
-      "url": "https://www.gsmarena.com/oppo_a7_pro_with_an_8000mah_battery_is_launching_next_week-news-74470.php",
+      "title": "4 reasons why I’ll always buy 三星 Galax...",
+      "source": "Android Authority",
+      "date": "2026-09-05",
+      "summary": "Google has some catching up to do",
+      "url": "https://www.androidauthority.com/samsung-galaxy-vs-google-pixel-2026-3703157/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "I refuse to stop using my 8-year-old C...",
+      "source": "Android Authority",
+      "date": "2026-09-05",
+      "summary": "Original Chromecasts still beat Google TV for simple streaming",
+      "url": "https://www.androidauthority.com/using-old-chromecast-in-2026-3706737/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-a7-pro-launch/-184x111/gsmarena_00.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "vivo to unveil Android 17-based Origin...",
-      "source": "GSMArena",
-      "date": "2026-09-03",
-      "summary": "vivo has finally confirmed the unveiling date for its new OriginOS 70 update The company has also teased sever...",
-      "url": "https://www.gsmarena.com/vivo_to_unveil_android_17based_originos_7_on_september_16-news-74469.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-originos-7-launch-date/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Hands-on: Motorola Edge 70 Plus, Razr ...",
-      "source": "GSMArena",
-      "date": "2026-09-03",
-      "summary": "Motorola unveiled the new Edge 70 Plus smartphone a special edition Swarovski crystal Razr 70 aka Razr 2026 in...",
-      "url": "https://www.gsmarena.com/motorola_edge_70_plus_razr_70_with_crystals_watch_ultra_handson-news-74468.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-ifa-hands-on/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Motorola unveils Edge 70 Plus, Watch U...",
-      "source": "GSMArena",
-      "date": "2026-09-03",
-      "summary": "At its IFA 2026 keynote today Motorola unveiled the new Edge 70 Plus smartphone the Watch Ultra adorned the Ra...",
-      "url": "https://www.gsmarena.com/motorola_unveils_edge_70_plus_watch_ultra_swarovski_razr_70_at_ifa_2026-news-74467.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-ifa-announcements/-184x111/gsmarena_1000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "This iOS 27 feature will let you use o...",
-      "source": "GSMArena",
-      "date": "2026-09-03",
-      "summary": "Apple is expected to release iOS 27 to the public shortly after its iPhone event next week Ahead of the offici...",
-      "url": "https://www.gsmarena.com/this_ios_27_feature_will_let_you_use_one_phone_number_on_two_iphones-news-74466.php",
+      "title": "谷歌 Photos on Android just got an iPhon...",
+      "source": "Android Authority",
+      "date": "2026-09-05",
+      "summary": "Manual Photo Stacks Are Here",
+      "url": "https://www.androidauthority.com/google-photos-android-app-manual-stacks-how-to-3707900/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-handoff-ios-27-demo/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "vivo V80 Lite arrives with 10,000mAh b...",
-      "source": "GSMArena",
-      "date": "2026-09-03",
-      "summary": "As expected vivo unveiled its V80 Lite in Malaysia and the phones major selling point is its gargantuan 10000 ...",
-      "url": "https://www.gsmarena.com/vivo_v80_lite_arrives_with_10000mah_battery_-news-74464.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-v80-lite-global-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Homemade manufacturing has never becom...",
+      "title": "5 Android apps you should use instead ...",
       "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "HeyGears G1X brings 2D UV printing designs onto surfaces and fullcolor 3D models previously inaccessible to mo...",
-      "url": "https://www.androidauthority.com/heygears-g1x-3705223/",
+      "date": "2026-09-05",
+      "summary": "There are better ways to keep notes than Keep",
+      "url": "https://www.androidauthority.com/google-keep-alternatives-android-apps-3705410/",
       "tags": [
         "安卓"
       ],
@@ -134,23 +194,11 @@
       "type": "news"
     },
     {
-      "title": "Galaxy Watch 7 and Galaxy Watch Ultra ...",
+      "title": "This Android smartphone has a detachab...",
       "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "The beta is live for Galaxy Watch 7 and Galaxy Watch Ultra owners in South Korea with the US potentially follo...",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-7-ultra-one-ui-9-watch-beta-3707568/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "MapQuest expands to Android Auto as vi...",
-      "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "The nearly 30yearold service expands to vehicle screens to maintain its viral app store momentum",
-      "url": "https://www.androidauthority.com/mapquest-android-auto-testing-3707520/",
+      "date": "2026-09-05",
+      "summary": "A rugged Android phone with a camera you can pop off and use on its own Yep someone actually built one",
+      "url": "https://www.androidauthority.com/ulefone-rugone-xsnap-7-pro-hands-on-3707961/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "First look: 谷歌 is working on another n...",
+      "title": "Latest reMarkable update adds circle-t...",
       "source": "Android Authority",
       "date": "2026-09-04",
-      "summary": "The new animation is more bubbly and I like it",
-      "url": "https://www.androidauthority.com/google-search-live-animation-apk-teardown-3707616/",
+      "summary": "reMarkable just made capturing and copying way easier",
+      "url": "https://www.androidauthority.com/remarkable-circle-to-capture-3707908/",
       "tags": [
         "安卓"
       ],
@@ -170,23 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Crazy Exynos 2700 泄露 gives us an unpre...",
+      "title": "谷歌 wants to let you use your phone as ...",
       "source": "Android Authority",
       "date": "2026-09-04",
-      "summary": "An upgraded CPU plenty of cache and a huge NPU are the highlights here",
-      "url": "https://www.androidauthority.com/samsung-exynos-2700-specs-leak-3707590/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Photos makes finding and editing ph...",
-      "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "Managing your Google Photos library just got easier",
-      "url": "https://www.androidauthority.com/google-photos-gemini-spark-integration-3707558/",
+      "summary": "Remote Googlebook control could be possible with a Cast trackpad on Android phones",
+      "url": "https://www.androidauthority.com/googlebook-trackpad-3707888/",
       "tags": [
         "安卓"
       ],
@@ -194,47 +230,11 @@
       "type": "news"
     },
     {
-      "title": "I refuse to buy a Pixel Watch until 谷歌...",
+      "title": "谷歌’s new Gemini feature aimed at multi...",
       "source": "Android Authority",
       "date": "2026-09-04",
-      "summary": "Google makes a compelling Wear OS watch but its not perfect",
-      "url": "https://www.androidauthority.com/google-pixel-watch-change-5-things-3703208/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Survey shows how divisive the Pixel 11...",
-      "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "Readers also shed light on their hopes for the Tensor G7",
-      "url": "https://www.androidauthority.com/google-tensor-g6-g7-poll-results-3707517/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy Watch 8’s latest beta update fi...",
-      "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "Samsung is focusing on stability as testing of its latest watch software continues",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-8-one-ui-9-beta-2-3707529/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "I tested 2 of the best Android foldabl...",
-      "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "Motorola makes a strong case with the Razr Fold",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-vs-razr-fold-hands-on-3704049/",
+      "summary": "Google quietly begins its gradual roll out of the Gemini overlays new minimize UI",
+      "url": "https://www.androidauthority.com/gemini-overlay-minimize-button-rollout-3707874/",
       "tags": [
         "安卓"
       ],
