@@ -1,6 +1,114 @@
 {
-  "updated": "2026-09-05 11:53",
+  "updated": "2026-09-06 12:12",
   "news": [
+    {
+      "title": "谷歌 Pixel 11 Pro 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-09-06",
+      "summary": "Google Pixel 11 Pro review",
+      "url": "https://www.gsmarena.com/google_pixel_11_pro-review-2996.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-11-pro/-347x151/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Deals: Poco F9 Pro and F9 Ultra, Galax...",
+      "source": "GSMArena",
+      "date": "2026-09-06",
+      "summary": "The Poco F9 series launched this week as did the Galaxy S26 FE Lets have a look at the newcomers as well as so...",
+      "url": "https://www.gsmarena.com/deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-4/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Huawei Watch 6 46mm in for 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-09-06",
+      "summary": "Huaweis got a watch for everyone  whether youre into smart bands the Fit and Band series affordable classic wa...",
+      "url": "https://www.gsmarena.com/huawei_watch_6_in_for_review-news-74453.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-watch-6-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy A35's One UI 9 beta update r...",
+      "source": "GSMArena",
+      "date": "2026-09-06",
+      "summary": "About a week ago a One UI 9 beta build with firmware version A356NKSUAZZH5 for the Galaxy A35 was spotted on S...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-a35-one-ui-9-beta-release-imminent/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 apparently has two game controllers...",
+      "source": "GSMArena",
+      "date": "2026-09-05",
+      "summary": "Practically anything Apple releases tends to enjoy at least some popularity Unfortunately like with most of th...",
+      "url": "https://www.gsmarena.com/apple_apparently_has_two_game_controllers_in_the_works-news-74487.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-two-unannounced-game-controllers/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Deals: Galaxy Z Fold8 Ultra and Z Flip...",
+      "source": "GSMArena",
+      "date": "2026-09-05",
+      "summary": "The Samsung Galaxy Z8 series of foldables launched about a month ago and were already seeing the first big dis...",
+      "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_ultra_and_z_flip8_get_first_big_price_cuts_galaxy_s26_fe_launches-news-74474.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-4/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米 unveils the Smart Band 11",
+      "source": "GSMArena",
+      "date": "2026-09-05",
+      "summary": "Xiaomi just took the wrapping off the Smart Band 11 in China with registrations already open on the home marke...",
+      "url": "https://www.gsmarena.com/xiaomi_unveils_the_smart_band_11-news-74489.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-unveil-smart-band-11/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy A18 4G 泄露s in full: renders,...",
+      "source": "GSMArena",
+      "date": "2026-09-05",
+      "summary": "Wait Galaxy A18 4G Isnt that still way off in the future and meant to come out in 2027 Well no We get the conf...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a18_4g_leaks_in_full_renders_specs_and_price-news-74490.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-a18-4g-leak/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Here's Motorola's wide foldable that's...",
+      "source": "GSMArena",
+      "date": "2026-09-05",
+      "summary": "Samsung unveiled its first wide foldable smartphone in July called the Galaxy Z Fold8 In August Huawei introdu...",
+      "url": "https://www.gsmarena.com/motorola_wide_foldable_design_sketches-news-74488.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-wide-foldable-design-sketches/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
     {
       "title": "Deals: Galaxy S26 FE now on sale, late...",
       "source": "GSMArena",
@@ -14,119 +122,11 @@
       "type": "news"
     },
     {
-      "title": "Tecno bezel-less concept phone 上手",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "The race to 0mm display bezels has taken a back seat in recent years but Tecno decided to jumpstart the whole ...",
-      "url": "https://www.gsmarena.com/tecno_bezelless_concept_phone_handson-news-74476.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/tecno-bezel-less-concept-ifa-2026/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Watch7 and Galaxy Watch Ultr...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "Samsung has started rolling out the Wear OS 7based One UI 9 Watch beta to the Galaxy Watch7 and Galaxy Watch U...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-watch7-galaxy-watch-ultra-one-ui-9-watch-beta-update/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iPhone Ultra, iPhone 18 Pro and 18 Pro...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "John Ternus will host an Apple event as CEO for the first time on September 9 Wednesday The event is expected ...",
-      "url": "https://www.gsmarena.com/iphone_ultra_iphone_18_pro_and_18_pro_max_prices_leaked_by_vodafone__heres_the_damage-news-74484.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-ultra-18-pro-price-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Our 三星 Galaxy S26 FE battery life and ...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "The Samsung Galaxy S26 FE went on sale in multiple markets around the world today  the 700  700  800 phone has...",
-      "url": "https://www.gsmarena.com/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s26-fe-battery-and-charge-tests/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Pixel 11 Pro XL 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "Google Pixel 11 Pro XL review",
-      "url": "https://www.gsmarena.com/google_pixel_11_pro_xl-review-2994.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/pixel-11-pro-xl/-347x151/gsmarena_003.jpg",
-      "type": "news"
-    },
-    {
-      "title": "New 泄露 details 苹果 A20 Pro chip，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "A new leak coming out of China claims to have figured out some key details about the upcoming Apple A20 Pro ch...",
-      "url": "https://www.gsmarena.com/new_leak_details_apple_a20_pro_chip-news-74471.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-a20-pro-chip-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Pixel Watch 5 Stephen Curry Special...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "Google unveiled the Pixel Watch 5 last month alongside the Pixel 11 series smartphones The smartwatch comes wi...",
-      "url": "https://www.gsmarena.com/google_pixel_watch_5_stephen_curry_special_edition_price_sale_date-news-74477.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/google-pixel-watch-5-stephen-curry-special-edition-price-sale-date/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "The RugOne Xsnap 7 Pro smartphone feat...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "RugOne a brand under Ulefone has announced a new smartphone featuring a detachable action camera Called the Xs...",
-      "url": "https://www.gsmarena.com/the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/rugone-xsnap-7-pro-announced/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "The 三星 Galaxy S26 FE officially goes o...",
-      "source": "GSMArena",
-      "date": "2026-09-04",
-      "summary": "The Samsung Galaxy S26 FE is now available in markets around the world The new FE model didnt get a preorder p...",
-      "url": "https://www.gsmarena.com/the_samsung_galaxy_s26_fe_officially_goes_on_sale_today-news-74475.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s26-fe-now-available/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "T-Mobile’s secret $25/month plan is te...",
+      "title": "I turned my Android phone’s camera not...",
       "source": "Android Authority",
-      "date": "2026-09-05",
-      "summary": "You can do a lot better than TMobiles new budget plan",
-      "url": "https://www.androidauthority.com/t-mobile-secret-super-essentials-saver-plan-worth-it-3705791/",
+      "date": "2026-09-06",
+      "summary": "Action Notch changed the way I do so many things on my phone",
+      "url": "https://www.androidauthority.com/action-notch-android-phone-camera-notch-shortcut-hands-on-3706976/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "The Pixel 11 Pro should be a disappoin...",
+      "title": "This $500 Android phone shows what 谷歌 ...",
       "source": "Android Authority",
-      "date": "2026-09-05",
-      "summary": "The Pixel 11 Pro isnt perfect but I still love it",
-      "url": "https://www.androidauthority.com/google-pixel-11-pro-review-3703549/",
+      "date": "2026-09-06",
+      "summary": "These two basic features are available on this new midranger and its predecessors but not on the Pixel 11",
+      "url": "https://www.androidauthority.com/google-pixel-11-cheap-phone-camera-features-3703907/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "4 reasons why I’ll always buy 三星 Galax...",
+      "title": "Motorola and 谷歌 foldables are quietly ...",
       "source": "Android Authority",
-      "date": "2026-09-05",
-      "summary": "Google has some catching up to do",
-      "url": "https://www.androidauthority.com/samsung-galaxy-vs-google-pixel-2026-3703157/",
+      "date": "2026-09-06",
+      "summary": "Samsung forgot the foldable features that truly matter",
+      "url": "https://www.androidauthority.com/motorola-google-foldables-beat-samsung-3704932/",
       "tags": [
         "三星"
       ],
@@ -158,11 +158,71 @@
       "type": "news"
     },
     {
-      "title": "I refuse to stop using my 8-year-old C...",
+      "title": "The best Android alarm app isn’t on th...",
+      "source": "Android Authority",
+      "date": "2026-09-06",
+      "summary": "This Clock app isnt on the Play Store but that doesnt mean it isnt worth getting",
+      "url": "https://www.androidauthority.com/chrono-alarm-clock-app-how-to-download-3704417/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "This RO water filter has earned a perm...",
+      "source": "Android Authority",
+      "date": "2026-09-06",
+      "summary": "Its never been this easy to stay hydrated",
+      "url": "https://www.androidauthority.com/waterdrop-m6cg-ro-water-filter-system-review-3703100/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "I want better 三星 phones, but these new...",
+      "source": "Android Authority",
+      "date": "2026-09-06",
+      "summary": "Samsung doesnt have much incentive to push its hardware innovation",
+      "url": "https://www.androidauthority.com/samsung-record-sales-keep-us-from-better-phones-3704357/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "I bought the most boring Pixel 11 Pro ...",
+      "source": "Android Authority",
+      "date": "2026-09-06",
+      "summary": "The Olive Fog and Canyon Pixel 11 Pros are lovely but feel gross as soon as you touch them",
+      "url": "https://www.androidauthority.com/pixel-11-pro-obsidian-color-perfect-3705496/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "I finally tried XREAL’s fully-baked An...",
+      "source": "Android Authority",
+      "date": "2026-09-06",
+      "summary": "XREAL has been teasing its first Android XR glasses for a long time and theyre genuinely worth the wait",
+      "url": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "There’s much more to the TCL P80 Ultra...",
       "source": "Android Authority",
       "date": "2026-09-05",
-      "summary": "Original Chromecasts still beat Google TV for simple streaming",
-      "url": "https://www.androidauthority.com/using-old-chromecast-in-2026-3706737/",
+      "summary": "The hardware makes the case NXTPAPER sweetens the deal",
+      "url": "https://www.androidauthority.com/tcl-p80-series-nxtpaper-3706515/",
       "tags": [
         "安卓"
       ],
@@ -170,71 +230,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 Photos on Android just got an iPhon...",
+      "title": "Insta360 wants to sell you the camera ...",
       "source": "Android Authority",
       "date": "2026-09-05",
-      "summary": "Manual Photo Stacks Are Here",
-      "url": "https://www.androidauthority.com/google-photos-android-app-manual-stacks-how-to-3707900/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "5 Android apps you should use instead ...",
-      "source": "Android Authority",
-      "date": "2026-09-05",
-      "summary": "There are better ways to keep notes than Keep",
-      "url": "https://www.androidauthority.com/google-keep-alternatives-android-apps-3705410/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "This Android smartphone has a detachab...",
-      "source": "Android Authority",
-      "date": "2026-09-05",
-      "summary": "A rugged Android phone with a camera you can pop off and use on its own Yep someone actually built one",
-      "url": "https://www.androidauthority.com/ulefone-rugone-xsnap-7-pro-hands-on-3707961/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Latest reMarkable update adds circle-t...",
-      "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "reMarkable just made capturing and copying way easier",
-      "url": "https://www.androidauthority.com/remarkable-circle-to-capture-3707908/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 wants to let you use your phone as ...",
-      "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "Remote Googlebook control could be possible with a Cast trackpad on Android phones",
-      "url": "https://www.androidauthority.com/googlebook-trackpad-3707888/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌’s new Gemini feature aimed at multi...",
-      "source": "Android Authority",
-      "date": "2026-09-04",
-      "summary": "Google quietly begins its gradual roll out of the Gemini overlays new minimize UI",
-      "url": "https://www.androidauthority.com/gemini-overlay-minimize-button-rollout-3707874/",
+      "summary": "360degree cameras are ready for the masses and it seems they may be all many of you will need",
+      "url": "https://www.androidauthority.com/insta360-x6-ai-editing-3707926/",
       "tags": [
         "安卓"
       ],
