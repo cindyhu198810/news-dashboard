@@ -1,11 +1,119 @@
 {
-  "updated": "2026-09-06 12:12",
+  "updated": "2026-09-07 14:19",
   "news": [
+    {
+      "title": "vivo X500获得认证，充电支持曝光，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-09-07",
+      "summary": "vivo将于本月推出X500系列，在此之前，香草X500已经出现在一堆认证数据库中。它获得了新加坡IMDA、马来西亚SIRIM以及TV认证，型号为V2619。SIRIM认证确认该型号属于X500。 IMDA 已确认该手机...",
+      "url": "https://www.gsmarena.com/vivo_x500_gets_certified_its_charging_support_is_revealed-news-74497.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-x500-certified/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星Galaxy A07s首发，6.7英寸屏幕，5000mAh电池",
+      "source": "GSMArena",
+      "date": "2026-09-07",
+      "summary": "早在 8 月份，三星 Galaxy A07s 就与 Galaxy A08 一起出现在 Google Play 控制台上。现在，这款廉价智能手机似乎已经在黎凡特地区悄然推出，并且已经可以购买。Galaxy A07s 配备八...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a07s_debuts_with_a_67inch_screen_5000mah_battery-news-74494.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-a07s-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "泄露的视频显示 iPhone 18 Pro Max 为深樱桃色，18 Pro...",
+      "source": "GSMArena",
+      "date": "2026-09-07",
+      "summary": "距离苹果即将举行的 iPhone 发布会只有几天的时间，预计该公司将在会上推出首款可折叠 iPhone 以及 iPhone 18 Pro 和 iPhone 18 Pro Max。在活动开始之前，Pro 型号现已出现在实践...，带来多项升级",
+      "url": "https://www.gsmarena.com/leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-pro-max-demo-unit-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X10 系列确认将于本月推出，设计预告",
+      "source": "GSMArena",
+      "date": "2026-09-07",
+      "summary": "Oppo 最终确认其 Find X10 旗舰系列将于本月在中国推出。该公司还透露了即将推出的手机的一些细节，并展示了其设计。在微博上，Oppo 高管卓士杰调侃了 Find X10 和 Find X10 Pro Max 的...",
+      "url": "https://www.gsmarena.com/oppo_find_x10_series_confirmed_to_launch_this_month_design_teased-news-74492.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-find-x10-series-launch-september/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Poco X8拆箱",
+      "source": "GSMArena",
+      "date": "2026-09-07",
+      "summary": "Poco X8 与更高端的 F9 Pro 和 F9 Ultra 一起全球首发，它在高端方面的不足，在电池方面得到了弥补。让我们开始吧。 Poco X8 已经开始销售。 8256GB 型号的价格为 400 欧元，如果您想要...",
+      "url": "https://www.gsmarena.com/poco_x8_unboxing-news-74480.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/poco-x8-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO 16 现在有望配备 8,400 mAh 电池",
+      "source": "GSMArena",
+      "date": "2026-09-06",
+      "summary": "可靠爆料者数字聊天站早些时候声称，预计本月推出的 iQOO 16 将配备 8500 mAh 电池。现在，爆料者称这款智能手机已确认配备 8400 mAh 电池。即使iQOO 16的电池容量低于此前传闻，但仍然高于iQOO...",
+      "url": "https://www.gsmarena.com/iqoo_16_battery_capacity_tipped_again-news-74486.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/07/iqoo-16-neo12-z12-series-battery-capacity-tipped/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone 18 颜色、Galaxy S27 Ultra 相机详解、Poc...",
+      "source": "GSMArena",
+      "date": "2026-09-06",
+      "summary": "iPhone 18 Pro 和 Pro Max 今年可能会获得完全更新的调色板。一份新的泄露消息称，苹果将为这两款产品提供深樱桃色、天蓝色和黑色三种颜色，预计深樱桃色将取代宇宙橙成为主色调。酒红色紫色的色调在之前的泄漏中...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/iphone_18_colors_galaxy_s27_ultra_camera_detailed_poco_f9_series_unveiled_week_36_in_review-news-74483.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/week-36-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周投票：您会购买 Poco F9 Pro 还是 Poco F9 Ultra...",
+      "source": "GSMArena",
+      "date": "2026-09-06",
+      "summary": "本周带来了 Poco F9 Pro 和 F9 Ultra这两款机型已经上市，早鸟价仍然有效。检查下表以了解详细情况：   配置  Poco F9 Pro  Poco F9 超    12GB256GB  699 美元早鸟...",
+      "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_poco_f9_pro_or_the_poco_f9_ultra-news-74463.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-poco-f9-series/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周民意调查结果：粉丝认为三星Galaxy S26 FE急需降价",
+      "source": "GSMArena",
+      "date": "2026-09-06",
+      "summary": "粉丝们已经发话了三星 Galaxy S26 FE 不是它。可能是这样，但上周的民意调查结果非常清楚地表明，S26 FE 列车不会在价格没有明显下降的情况下离开车站。从目前的情况来看，人们倾向于选择其他 Galaxy 机型...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-results-samsung-galaxy-s26-fe/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "谷歌 Pixel 11 Pro 评测，真实体验如何？",
       "source": "GSMArena",
       "date": "2026-09-06",
-      "summary": "Google Pixel 11 Pro review",
+      "summary": "谷歌 Pixel 11 Pro 评测",
       "url": "https://www.gsmarena.com/google_pixel_11_pro-review-2996.php",
       "tags": [
         "安卓"
@@ -14,143 +122,95 @@
       "type": "news"
     },
     {
-      "title": "Deals: Poco F9 Pro and F9 Ultra, Galax...",
-      "source": "GSMArena",
-      "date": "2026-09-06",
-      "summary": "The Poco F9 series launched this week as did the Galaxy S26 FE Lets have a look at the newcomers as well as so...",
-      "url": "https://www.gsmarena.com/deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-4/-184x111/gsmarena_de.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Huawei Watch 6 46mm in for 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-09-06",
-      "summary": "Huaweis got a watch for everyone  whether youre into smart bands the Fit and Band series affordable classic wa...",
-      "url": "https://www.gsmarena.com/huawei_watch_6_in_for_review-news-74453.php",
+      "title": "Snapseed 更加倾向于专业编辑，包括颜色分级和其他即将推出的功能",
+      "source": "Android Authority",
+      "date": "2026-09-07",
+      "summary": "我们还首次看到 Snapseed 中重新组织的外观菜单。",
+      "url": "https://www.androidauthority.com/snapseed-android-color-grading-search-roll-out-3708328/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-watch-6-ifr/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy A35's One UI 9 beta update r...",
-      "source": "GSMArena",
-      "date": "2026-09-06",
-      "summary": "About a week ago a One UI 9 beta build with firmware version A356NKSUAZZH5 for the Galaxy A35 was spotted on S...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491.php",
+      "title": "GrapheneOS 正在构建自己的 RCS 支持，以将 谷歌 Messag...",
+      "source": "Android Authority",
+      "date": "2026-09-07",
+      "summary": "以隐私为中心的操作系统还重新设计消息应用程序并重新考虑剪贴板访问。",
+      "url": "https://www.androidauthority.com/grapheneos-messaging-rcs-support-secure-paste-3708317/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "更多 Android 应用很快就能避免你意外发送裸照",
+      "source": "Android Authority",
+      "date": "2026-09-07",
+      "summary": "谷歌可以将设备上 SafetyCore 驱动的敏感内容警告系统引入 Android 照片选择器。",
+      "url": "https://www.androidauthority.com/android-photo-picker-sensitive-content-warning-apk-teardown-3708303/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "最新的 Wide Fold 来了，拥有 Galaxy Z Fold 8 所缺...",
+      "source": "Android Authority",
+      "date": "2026-09-07",
+      "summary": "市场上最新的宽屏折叠手机在某些方面击败了三星 Galaxy Z Fold 8。",
+      "url": "https://www.androidauthority.com/xiaomi-18-fold-launched-3708357/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-a35-one-ui-9-beta-release-imminent/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "苹果 apparently has two game controllers...",
-      "source": "GSMArena",
-      "date": "2026-09-05",
-      "summary": "Practically anything Apple releases tends to enjoy at least some popularity Unfortunately like with most of th...",
-      "url": "https://www.gsmarena.com/apple_apparently_has_two_game_controllers_in_the_works-news-74487.php",
+      "title": "Pixel 11 的手语翻译功能在实际演示中看起来非常有用",
+      "source": "Android Authority",
+      "date": "2026-09-07",
+      "summary": "一个新的演示展示了谷歌手语翻译的实时工作。",
+      "url": "https://www.androidauthority.com/pixel-11-live-sign-language-to-text-translation-real-world-demo-3708253/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "一些 Galaxy Z Fold 8 用户报告屏幕边角软化，给力太多",
+      "source": "Android Authority",
+      "date": "2026-09-07",
+      "summary": "这是预期行为还是缺陷？",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-soft-corners-3708274/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "华为对iPhone Ultra的回应？带有隐私屏幕的更纤薄的三折页",
+      "source": "Android Authority",
+      "date": "2026-09-07",
+      "summary": "Mate XT2还配备了新的长焦摄像头，并运行华为最新的HarmonyOS 7。",
+      "url": "https://www.androidauthority.com/huawei-mate-xt-2-tri-folding-phone-3708262/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-two-unannounced-game-controllers/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Deals: Galaxy Z Fold8 Ultra and Z Flip...",
-      "source": "GSMArena",
-      "date": "2026-09-05",
-      "summary": "The Samsung Galaxy Z8 series of foldables launched about a month ago and were already seeing the first big dis...",
-      "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_ultra_and_z_flip8_get_first_big_price_cuts_galaxy_s26_fe_launches-news-74474.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-4/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米 unveils the Smart Band 11",
-      "source": "GSMArena",
-      "date": "2026-09-05",
-      "summary": "Xiaomi just took the wrapping off the Smart Band 11 in China with registrations already open on the home marke...",
-      "url": "https://www.gsmarena.com/xiaomi_unveils_the_smart_band_11-news-74489.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-unveil-smart-band-11/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy A18 4G 泄露s in full: renders,...",
-      "source": "GSMArena",
-      "date": "2026-09-05",
-      "summary": "Wait Galaxy A18 4G Isnt that still way off in the future and meant to come out in 2027 Well no We get the conf...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a18_4g_leaks_in_full_renders_specs_and_price-news-74490.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-a18-4g-leak/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Here's Motorola's wide foldable that's...",
-      "source": "GSMArena",
-      "date": "2026-09-05",
-      "summary": "Samsung unveiled its first wide foldable smartphone in July called the Galaxy Z Fold8 In August Huawei introdu...",
-      "url": "https://www.gsmarena.com/motorola_wide_foldable_design_sketches-news-74488.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-wide-foldable-design-sketches/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Deals: Galaxy S26 FE now on sale, late...",
-      "source": "GSMArena",
-      "date": "2026-09-05",
-      "summary": "Samsung recently announced its latest FE series phone the Galaxy S26 FE and its already available with a small...",
-      "url": "https://www.gsmarena.com/deals_galaxy_s26_fe_now_on_sale_latest_galaxy_z_foldables_get_price_cuts-news-74485.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-4/-184x111/gsmarena_uk.jpg",
-      "type": "news"
-    },
-    {
-      "title": "I turned my Android phone’s camera not...",
-      "source": "Android Authority",
-      "date": "2026-09-06",
-      "summary": "Action Notch changed the way I do so many things on my phone",
-      "url": "https://www.androidauthority.com/action-notch-android-phone-camera-notch-shortcut-hands-on-3706976/",
-      "tags": [
-        "安卓"
-      ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "This $500 Android phone shows what 谷歌 ...",
+      "title": "想要在已使用三年的 Galaxy Watch 6 上安装最新软件吗？三星有一...",
       "source": "Android Authority",
-      "date": "2026-09-06",
-      "summary": "These two basic features are available on this new midranger and its predecessors but not on the Pixel 11",
-      "url": "https://www.androidauthority.com/google-pixel-11-cheap-phone-camera-features-3703907/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Motorola and 谷歌 foldables are quietly ...",
-      "source": "Android Authority",
-      "date": "2026-09-06",
-      "summary": "Samsung forgot the foldable features that truly matter",
-      "url": "https://www.androidauthority.com/motorola-google-foldables-beat-samsung-3704932/",
+      "date": "2026-09-07",
+      "summary": "该测试版现已在韩国推出，美国版本可能很快也会跟进。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-watch-6-classic-one-ui-9-watch-beta-sk-3708269/",
       "tags": [
         "三星"
       ],
@@ -158,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "The best Android alarm app isn’t on th...",
+      "title": "第一眼：Play 商店可以为付费游戏提供他们应得的彻底修改的用户界面",
       "source": "Android Authority",
-      "date": "2026-09-06",
-      "summary": "This Clock app isnt on the Play Store but that doesnt mean it isnt worth getting",
-      "url": "https://www.androidauthority.com/chrono-alarm-clock-app-how-to-download-3704417/",
+      "date": "2026-09-07",
+      "summary": "付费游戏可能很快就会在 Play 商店中脱颖而出。",
+      "url": "https://www.androidauthority.com/google-play-store-paid-games-ui-overhaul-apk-teardown-3708282/",
       "tags": [
         "安卓"
       ],
@@ -170,73 +230,13 @@
       "type": "news"
     },
     {
-      "title": "This RO water filter has earned a perm...",
+      "title": "我每天都使用三星提醒。这是我最喜欢的 10 个提示和技巧",
       "source": "Android Authority",
-      "date": "2026-09-06",
-      "summary": "Its never been this easy to stay hydrated",
-      "url": "https://www.androidauthority.com/waterdrop-m6cg-ro-water-filter-system-review-3703100/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "I want better 三星 phones, but these new...",
-      "source": "Android Authority",
-      "date": "2026-09-06",
-      "summary": "Samsung doesnt have much incentive to push its hardware innovation",
-      "url": "https://www.androidauthority.com/samsung-record-sales-keep-us-from-better-phones-3704357/",
+      "date": "2026-09-07",
+      "summary": "确保您充分利用三星提醒。",
+      "url": "https://www.androidauthority.com/samsung-reminder-tips-tricks-2026-3702896/",
       "tags": [
         "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "I bought the most boring Pixel 11 Pro ...",
-      "source": "Android Authority",
-      "date": "2026-09-06",
-      "summary": "The Olive Fog and Canyon Pixel 11 Pros are lovely but feel gross as soon as you touch them",
-      "url": "https://www.androidauthority.com/pixel-11-pro-obsidian-color-perfect-3705496/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "I finally tried XREAL’s fully-baked An...",
-      "source": "Android Authority",
-      "date": "2026-09-06",
-      "summary": "XREAL has been teasing its first Android XR glasses for a long time and theyre genuinely worth the wait",
-      "url": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "There’s much more to the TCL P80 Ultra...",
-      "source": "Android Authority",
-      "date": "2026-09-05",
-      "summary": "The hardware makes the case NXTPAPER sweetens the deal",
-      "url": "https://www.androidauthority.com/tcl-p80-series-nxtpaper-3706515/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Insta360 wants to sell you the camera ...",
-      "source": "Android Authority",
-      "date": "2026-09-05",
-      "summary": "360degree cameras are ready for the masses and it seems they may be all many of you will need",
-      "url": "https://www.androidauthority.com/insta360-x6-ai-editing-3707926/",
-      "tags": [
-        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
