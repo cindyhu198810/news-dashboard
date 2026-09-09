@@ -1,244 +1,124 @@
 {
-  "updated": "2026-09-08 12:56",
+  "updated": "2026-09-09 13:01",
   "news": [
     {
-      "title": "It's official - the Oppo F35 series is...",
+      "title": "iPhone Ultra is apparently called iPho...",
       "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "Oppo has officially confirmed that the F35 series will launch in India soon This launch was rumored back in Au...",
-      "url": "https://www.gsmarena.com/its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-f35-official-teaser/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米 18 Fold 上手",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "Passportsized folds are the trend these days and the freshly announced Xiaomi 18 Fold wants to capitalize on t...",
-      "url": "https://www.gsmarena.com/xiaomi_18_fold_handson-news-74508.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-18-fold-hands-on/-184x111/gsmarena_014.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus N6 Lite teased",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "OnePlus has officially teased the launch of a new N6 series smartphone in India The upcoming OnePlus N6 Lite w...",
-      "url": "https://www.gsmarena.com/oneplus_n6_lite_launching_soon_in_india-news-74511.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oneplus-n6-lite-india-launch/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Infinix Xpad 30 Pro 发布es with 11-inch ...",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "Infinix has unveiled its latest Xpad 30 Pro Android tablet in global markets It comes with a large 11inch disp...",
-      "url": "https://www.gsmarena.com/infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/infinix-xpad-30-pro-ofic/-184x111/gsmarena_010.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy Watch6 series receives One U...",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "Samsung released Wear OS 7based One UI 9 Watch beta for the Galaxy Watch8 and Watch8 Classic last month and a ...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_watch6_series_one_ui_9_watch_beta-news-74506.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/25/09/samsung-galaxy-watch6-series-one-ui-8-watch-beta-program/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Find X10 Pro Max’s triple-rear ca...",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "The Oppo Find X10 series is set to launch in China this month with the Pro Max confirmed to feature a triple 2...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_pro_maxs_triplerear_camera_setup_detailed-news-74505.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-find-x10-pro-max-camera-specs/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Here's when the vivo X500 series is 发布...",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "vivo confirmed the launch date for its X500 series at the vivo Creator Festival in China yesterday The company...",
-      "url": "https://www.gsmarena.com/heres_when_the_vivo_x500_series_is_launching_in_china-news-74504.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-x500-series-launch-date/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Sony Xperia 1 VIII receives the Androi...",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "Sony launched its latest flagship smartphone the Xperia 1 VIII a few months ago running Android 16 In the mean...",
-      "url": "https://www.gsmarena.com/sony_xperia_1_viii_receives_android_17_update_heres_whats_new-news-74495.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/sony-xperia-1-viii-android-17-update/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Huawei Mate XT 2 Ultimate Design is of...",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "The Huawei Mate XT 2 Ultimate Design has been unveiled in China with a redesign and an inwardfolding hinge des...",
-      "url": "https://www.gsmarena.com/huawei_mate_xt_2_ultimate_design_is_official_with_a_kirin_9050_pro_soc_5600mah_battery-news-74503.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-mate-xt-2-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Tecno unveils the Camon Slim 5G with a...",
-      "source": "GSMArena",
-      "date": "2026-09-08",
-      "summary": "Today Tecno has taken the wraps off the Camon Slim 5G a phone that does justice to its name by being 639mm thi...",
-      "url": "https://www.gsmarena.com/tecno_unveils_the_camon_slim_5g_with_interesting_and_very_different_finishes-news-74499.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/tecno-camon-slim-5g-official/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 is finally undoing this annoying No...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "Song details and handy shortcuts are once again only a swipe away",
-      "url": "https://www.androidauthority.com/pixel-now-playing-notifications-restored-3708730/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Forget emulation: We’re much closer to...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "PC and Android ports of Super Smash Bros Melee just took one huge step towards happening",
-      "url": "https://www.androidauthority.com/super-smash-bros-melee-decompiled-3708716/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Is the AI chip dead? What Arm’s new CP...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "Arm thinks your CPU should do the AI heavy lifting",
-      "url": "https://www.androidauthority.com/arm-c2-ultra-explained-3706334/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星 says Galaxy Z Fold 8’s screen corne...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "The company has clarified that the inner display flex is an intentional cushion against sand and everyday impa...",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-screen-flex-response-3708709/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "If the iPhone Ultra has these 5 featur...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "Apple has an opportunity to do something special",
-      "url": "https://www.androidauthority.com/iphone-ultra-features-ditch-android-phone-3708124/",
+      "date": "2026-09-09",
+      "summary": "In a lastminute rumor published mere hours before Apples big event today Bloombergs Mark Gurman claims that th...",
+      "url": "https://www.gsmarena.com/iphone_ultra_is_apparently_called_iphone_duo_and_will_be_cheaper_than_expected-news-74530.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-last-minute-leak-iphone-duo/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "5 Android phones you should buy instea...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "The Galaxy S26 FE has its advantages but is it the best fit for your needs",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-alternatives-3706527/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "These Android phones could beat iPhone...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "Recent history suggests a global release isnt far behind",
-      "url": "https://www.androidauthority.com/vivo-x500-series-launch-date-3708651/",
+      "title": "Watch 苹果's 'Surprise and shine' iPhone...",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "The day many of you have been waiting for has arrived Apple is holding its Surprise and shine launch event tod...",
+      "url": "https://www.gsmarena.com/apple_iphone_18_series_iphone_duo_launch_event_live_stream-news-74532.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-surprise-and-shine-launch-even-live-stream/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌 is making sideloading harder, but A...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "The Play Store alone just isnt enough for many Android users",
-      "url": "https://www.androidauthority.com/android-sideloading-hassle-poll-results-3708676/",
+      "title": "Arm unveils CSS for Mobile 2 with Mali...",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "Last year Arm introduced Lumex Compute Subsystem CSS  a turnkey solution for chipset designs Today the company...",
+      "url": "https://www.gsmarena.com/arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/arm-css-for-mobile-2/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "There’s a new dark side to Pixel softw...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "Pixel phones are getting updates but not necessarily the features you want",
-      "url": "https://www.androidauthority.com/pixel-software-updates-dark-side-3707641/",
+      "title": "Infinix XPAD 30 Pro 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "Infinix XPAD 30 Pro review",
+      "url": "https://www.gsmarena.com/infinix_xpad_30_pro-review-2998.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/infinix-xpad-30-pro/-347x151/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "谷歌 Wallet will now let you add physica...",
-      "source": "Android Authority",
-      "date": "2026-09-08",
-      "summary": "The Play Store is also getting some UI tweaks",
-      "url": "https://www.androidauthority.com/google-wallet-physical-transit-cards-nfc-support-3708656/",
+      "title": "Two Galaxy S27 series models to featur...",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "Samsung introduced the Privacy Display feature with the Galaxy S26 Ultra earlier this year In June we heard th...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_galaxy_s27_ultra_privacy_display-news-74528.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/03/samsung-galaxy-s26-ultra-privacy-display-tested/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X500 Pro Max design revealed ahea...",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "vivos nextgeneration X500 flagship series is set to launch in China later this month Ahead of the launch the c...",
+      "url": "https://www.gsmarena.com/vivo_x500_pro_max_design_revealed_ahead_of_launch-news-74527.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-x500-pro-max-design-revealed/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Realme 16 Pro  Harry Potter Edition te...",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "Last year Realme teamed up with Warner Bros Discovery Global Consumer Products for the Realme 15 Pro Game of T...",
+      "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_edition_design-news-74512.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/realme-16-pro-buds-t500-pro-harry-potter-edition-teased/-184x111/gsmarena_102.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Honor Magic9 series to debut on Septem...",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "Honor has announced the launch date for its upcoming Magic9 flagship series Alongside it has revealed the phon...",
+      "url": "https://www.gsmarena.com/honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-magic9-series-launch-date-design/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Tecno Camon Slim unboxing",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "Say hello to the latest in Tecnos line of slim phones  the Camon Slim 5G Its similar yet different from the 4G...",
+      "url": "https://www.gsmarena.com/tecno_camon_slim_unboxing-news-74509.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/tecno-camon-slim-unboxing/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy A55 gets One UI 9 Beta updat...",
+      "source": "GSMArena",
+      "date": "2026-09-09",
+      "summary": "Samsung has rolled out the One UI 9 beta update for the Galaxy A55The One UI 9 beta for the Samsung Galaxy A55...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a55_one_ui_9_beta_update-news-74525.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/25/06/samsung-galaxy-a55-android-16-one-ui-8-geekbench/-184x111/gsmarena_001.jpg",
       "type": "news"
     }
   ]
