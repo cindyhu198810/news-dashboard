@@ -1,144 +1,228 @@
 {
-  "updated": "2026-09-10 12:58",
+  "updated": "2026-09-11 12:53",
   "news": [
     {
-      "title": "三星 Galaxy Tab S12 Ultra 再次出现在泄露的渲染图中，T...",
+      "title": "Honor Watch 6 Pro's 发布 date and design...",
       "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "三星表示将在 2026 年下半年推出 Galaxy Tab S12 系列，但没有透露其他信息。据传该系列包括两款平板电脑  Galaxy Tab S12 和 Galaxy Tab S12 Ultra。 Tab S12 U...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_plus_tab_s12_ultra_colors_renders-news-74553.php",
+      "date": "2026-09-11",
+      "summary": "Honors Watch 6 series includes the Watch 6 Watch 6 Plus and Watch 6 Plus Motorcycle Edition Honor has announce...",
+      "url": "https://www.gsmarena.com/honor_watch_6_pro_launch_date_design-news-74580.php",
       "tags": [
-        "三星"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-tab-s12-series-colors-renders/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-watch-6-pro-launch-date/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "苹果 iPhone Duo 与 Galaxy Z Fold8 数据对比",
+      "title": "Poco X8 Power with a 10,000mAh battery...",
       "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "经过多年的谣言、泄密和期待，苹果终于推出了首款折叠手机。 iPhone Duo 具有熟悉的短而宽的外形，已经过多家 Android 制造商的尝试和测试，其中包括三星及其自己的 Galaxy Z Fold8。 苹果与三星在...",
-      "url": "https://www.gsmarena.com/apple_iphone_duo_vs_galaxy_z_fold8_by_the_numbers-news-74557.php",
+      "date": "2026-09-11",
+      "summary": "The Poco X8 was unveiled globally earlier this month followed by its India launch alongside the X8 Power last ...",
+      "url": "https://www.gsmarena.com/poco_x8_power_with_a_10000mah_battery_goes_on_sale_in_india-news-74578.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/poco-x8-power-on-sale-india/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Honor Magic9 series said to include a ...",
+      "source": "GSMArena",
+      "date": "2026-09-11",
+      "summary": "Honor recently revealed the design of its upcoming Magic9 series but did not share any specs A recent leak sug...",
+      "url": "https://www.gsmarena.com/honor_magic9_series_said_to_include_a_super_edition_with_an_11000mah_battery-news-74577.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-magic9-pro-max-super-edition-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy SmartTag3's 泄露ed images reve...",
+      "source": "GSMArena",
+      "date": "2026-09-11",
+      "summary": "Samsung launched the OG Galaxy SmartTag in 2021 and followed it with the SmartTag2 in 2023 We know Samsung is ...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_smarttag3_design_colors_leaked_images-news-74574.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-smarttag3-leaked-images/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Here's your first look at the upcoming...",
+      "source": "GSMArena",
+      "date": "2026-09-11",
+      "summary": "After teasing the iQOO 16s redesigned rear camera module earlier this week the company has now offered a close...",
+      "url": "https://www.gsmarena.com/heres_your_first_look_at_the_upcoming_iqoo_16-news-74573.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iqoo-16-rear-design-revealed/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo K14 Lite is coming, 发布 date and d...",
+      "source": "GSMArena",
+      "date": "2026-09-11",
+      "summary": "Oppos K14 series currently includes two smartphones  the K14 and the K14x Next week these will be joined by a ...",
+      "url": "https://www.gsmarena.com/oppo_k14_lite_design_colors_launch_date-news-74575.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-k14-lite-launch-date/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X Fold6's global 发布 is nearing，新机...",
+      "source": "GSMArena",
+      "date": "2026-09-11",
+      "summary": "vivo launched its latest foldable smartphone the X Fold6 in China back in June Weve been patiently waiting for...",
+      "url": "https://www.gsmarena.com/vivo_x_fold6s_global_launch_is_nearing-news-74572.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/global-vivo-x-fold6-geekbench/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S26 and Galaxy S26 Ultra now...",
+      "source": "GSMArena",
+      "date": "2026-09-11",
+      "summary": "Samsung has announced that the Galaxy S26 and Galaxy S26 Ultra are now available in India through its Certifie...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_galaxy_s26_ultra_certified_renewed_india_price-news-74561.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s26-s26-ultra-crn-india/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米 starts beta test recruitment for Hy...",
+      "source": "GSMArena",
+      "date": "2026-09-11",
+      "summary": "Xiaomi is now starting to recruit eager beta testers for its upcoming HyperOS 4 release for Global and EEA mar...",
+      "url": "https://www.gsmarena.com/xiaomi_starts_beta_test_recruitment_for_hyperos_4_-news-74570.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-hyperos-4-beta-recruitment/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Qualcomm outlines the improvements in ...",
+      "source": "GSMArena",
+      "date": "2026-09-11",
+      "summary": "Qualcomm is introducing its Snapdragon 8 Elite Gen 6 SoC as well as the Snapdragon 8 Elite Gen 6 Pro at its an...",
+      "url": "https://www.gsmarena.com/qualcomm_outlines_the_improvements_in_the_snapdragon_8_elite_gen_6_pros_new_npu-news-74569.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/qualcomm-details-snapdragon-8-elite-gen-6-pro-npu/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "This Android 17 update brings the visu...",
+      "source": "Android Authority",
+      "date": "2026-09-11",
+      "summary": "A glassier interface smarter widgets and other upgrades are on the way",
+      "url": "https://www.androidauthority.com/xiaomi-hyperos-4-global-beta-eligible-phones-3710294/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星’s upcoming AirPods Max rival 泄露s ag...",
+      "source": "Android Authority",
+      "date": "2026-09-11",
+      "summary": "The upcoming headphones could offer features like Conversation mode and 360 Audio",
+      "url": "https://www.androidauthority.com/samsung-over-ear-headphones-h1-leak-3710299/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "New 三星 Galaxy Buds ‘T1’ 泄露 曝光 workout-...",
+      "source": "Android Authority",
+      "date": "2026-09-11",
+      "summary": "The Galaxy Buds Canal 5 are internally codenamed T1 and could come with a large battery and touch controls",
+      "url": "https://www.androidauthority.com/samsung-galaxy-buds-canal-5-leak-features-3710315/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "I tried out the Pixel 11 Pro Fold and ...",
+      "source": "Android Authority",
+      "date": "2026-09-11",
+      "summary": "The Pixel 11 Pro Fold is better than ever But is it finally worth it Ehh",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-fold-review-3702073/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Gemini in 谷歌 Sheets is making spreadsh...",
+      "source": "Android Authority",
+      "date": "2026-09-11",
+      "summary": "Finally someone else can figure out what those numbers actually mean",
+      "url": "https://www.androidauthority.com/gemini-in-google-sheets-on-android-3710291/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "5 Android phones you should buy instea...",
+      "source": "Android Authority",
+      "date": "2026-09-11",
+      "summary": "Google has plenty of competition",
+      "url": "https://www.androidauthority.com/google-pixel-11-pro-alternatives-3709234/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Sharing a TV? YouTube now lets you loc...",
+      "source": "Android Authority",
+      "date": "2026-09-11",
+      "summary": "Your subscriptions searches and viewing habits can now remain for your eyes only",
+      "url": "https://www.androidauthority.com/youtube-account-lock-smart-tv-rollout-3710248/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "The iPhone 18 Pro camera is already ye...",
+      "source": "Android Authority",
+      "date": "2026-09-11",
+      "summary": "The iPhone 18 Pros variable aperture camera sounds impressive but its not enough for me",
+      "url": "https://www.androidauthority.com/iphone-18-pro-camera-disapointment-3709681/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-duo-vs-galaxy-z-fold8-by-the-numbers/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Find X10 配备双 200MP 摄像头，Pro Max 获得...",
-      "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "Oppo 公布了 Find X10 和高端 Find X10 Pro Max 的新相机细节。值得注意的是，该公司最近确认这两款手机都将配备 8000mAh 电池。Oppo Find X10 将配备双 200MP 后置摄像...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_to_feature_dual_200mp_cameras_pro_max_gets_open_gate-news-74555.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-find-x10-camera-specs/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo X500新设计在发布前曝光，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "vivo X500系列将于9月21日在中国推出。在最近预告了X500 Pro Max的设计之后，该公司现在又公布了标准版vivo X500的更新设计及其可用的颜色选项。与前身vivo X300不同，即将推出的vivo X...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/vivo_x500s_new_design_revealed_ahead_of_launch-news-74552.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-x500-design-color-options/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果 iPhone Duo、iPhone 18 Pro、Watch Seri...",
-      "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "苹果 2026 年 iPhone 发布会现已结束，这是一次不同寻常的发布会。我们终于看到了苹果首款折叠式 iPhone，至少可以说，它很有趣。它看起来是苹果迟到的另一个产品类别，但它以其典型的精致和特殊性到达了。我们拭目...，带来多项升级",
-      "url": "https://www.gsmarena.com/apple_iphone_duo_iphone_18_pro_watch_series_12_ultra_4_coverage_wrapup-news-74550.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-event-coverage-wrap-up/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果提高 iPhone 17 系列、iPhone Air 和 iPhone ...",
-      "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "正如预期的那样，苹果在宣布 iPhone 18 Pro 系列和全新可折叠 iPhone Duo 后不久，就悄悄提高了几款现有 iPhone 机型的价格。此次涨价影响的是 iPhone 17、iPhone 17e、iPho...",
-      "url": "https://www.gsmarena.com/apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-17-16-17e-air-price-hike/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星开始在英国销售经过认证的翻新版 Galaxy S26、S26+ 和 S2...",
-      "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "三星的认证翻新计划通过其官方在线商店提供像新的一样的翻新设备，现已在英国增加了 Galaxy S26、Galaxy S26 和 Galaxy S26 Ultra。您可以购买经认证的翻新版 S26，售价 739 英镑256...",
-      "url": "https://www.gsmarena.com/samsung_starts_selling_certified_renewed_galaxy_s26_s26_and_s26_ultra_in_the_uk-news-74537.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s26-s26-plus-s26-ultra-certified-re-newed-uk/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "全球 Oppo A7 Pro 和 A7 Pro Max 出现在 Geekbe...",
-      "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "Oppo 于 8 月在中国推出了 A7 Pro Max，昨天又推出了 A7 Pro，看来这两款设备也将进军全球市场。它们现在都已出现在 Geekbench 在线数据库中，并且关于基准测试揭示的少数规格有一些好消息。A7 ...",
-      "url": "https://www.gsmarena.com/global_oppo_a7_pro_and_a7_pro_max_spotted_on_geekbench-news-74540.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/global-oppo-a7-pro-a7-pro-max-geekbench/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀Magic9 Pro Max在正式发布前发布了一段上手视频，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "荣耀Magic9系列将于本月底亮相，我们认为它将有三个成员Magic9、9 Pro和Magic9 Pro Max。后者采用我们在预告片中看到的苔绿色，在早期的拆箱和动手视频中担任主角。该视频已发布在微博上  您可以在这里...，带来多项升级",
-      "url": "https://www.gsmarena.com/the_honor_magic9_pro_max_stars_in_a_handson_video_before_its_official_announcement-news-74542.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-magic9-pro-max-hands-on-video-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "索尼 Xperia 1 IX 可能会获得令人兴奋的相机升级",
-      "source": "GSMArena",
-      "date": "2026-09-10",
-      "summary": "索尼早在 5 月份就推出了其最新旗舰智能手机 Xperia 1 VIII，并于 6 月份发布。现在我们已经有关于它的继任者的传言，我们假设它将被称为 Xperia 1 IX。InlinePriceWidget146601...，带来多项升级",
-      "url": "https://www.gsmarena.com/sony_xperia_1_ix_may_get_an_exciting_camera_upgrade-news-74529.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/sony-xperia-1-ix-camera-details-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果新款 Watch 的心率准确度超过 Pixel Watch 4，但真正的...",
-      "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "谷歌较旧的可穿戴设备在苹果的研究中仍然带来了一些惊喜。",
-      "url": "https://www.androidauthority.com/apple-watch-12-heart-rate-accuracy-pixel-watch-4-3709741/",
-      "tags": [
-        "苹果"
-      ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "调查显示大量 Galaxy Watch 粉丝根本不知道此功能的存在",
+      "title": "Galaxy Buds On 泄露ed renders show 三星’s ...",
       "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "调查显示大量 Galaxy Watch 粉丝根本不知道此功能的存在",
-      "url": "https://www.androidauthority.com/samsung-galaxy-watch-body-composition-poll-results-3709777/",
+      "date": "2026-09-11",
+      "summary": "Leaked renders reveal a cuffstyle openear design with head gestures and smart audio features",
+      "url": "https://www.androidauthority.com/samsung-galaxy-buds-on-render-leak-3710245/",
       "tags": [
         "三星"
       ],
@@ -146,97 +230,13 @@
       "type": "news"
     },
     {
-      "title": "为什么 RayNeo 是唯一一家值得您押注的 AR 眼镜公司",
+      "title": "三星’s Galaxy SmartTag 3 泄露s in all its ...",
       "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "从个人影院显示器到隐形屏幕眼镜，RayNeo 的三款 AR 眼镜针对现实世界的用例。",
-      "url": "https://www.androidauthority.com/rayneo-ar-glasses-ifa-2026-3708762/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "特朗普移动T1涨价抢消费者钱包",
-      "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "250 美元的价格悄然上涨，将这款中档美国手机推至 749 美元，使其与旗舰产品展开直接竞争。",
-      "url": "https://www.androidauthority.com/trump-mobile-t1-price-hike-3709792/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌照片很快就会让你为你的主页选择一致的外观",
-      "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "谷歌正在开发一种切换功能，让用户可以保持所有照片和视频的缩略图大小相同。",
-      "url": "https://www.androidauthority.com/google-photos-consistent-home-layout-apk-teardown-3709729/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Pixel 11 的游戏性能真的那么差吗？我玩了 3 个热门游戏来找出答案",
-      "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "如果 Tensor 还没有过时的话，上一代的性能不会那么糟糕。",
-      "url": "https://www.androidauthority.com/pixel-11-gaming-test-3708496/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星承诺为这款 Galaxy 畅销产品提供六项 Android 升级，但落后...",
-      "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "用户报告了延迟问题、触摸屏冻结和性能恶化问题。",
-      "url": "https://www.androidauthority.com/galaxy-a07-one-ui-8-5-lag-touchscreen-issues-3709684/",
+      "date": "2026-09-11",
+      "summary": "Samsung could be going all in on squircles",
+      "url": "https://www.androidauthority.com/samsung-galaxy-smarttag-3-images-leak-3710201/",
       "tags": [
         "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌照片的标记工具很快就会变得更加强大和可定制",
-      "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "标记工具正在得到一些急需的喜爱。",
-      "url": "https://www.androidauthority.com/google-photos-markup-tools-upgrades-apk-teardown-3709700/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "每个 Galaxy 用户现在都应该下载的 6 个三星秘密应用程序",
-      "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "许多出色的三星应用程序隐藏在众目睽睽之下。",
-      "url": "https://www.androidauthority.com/best-secret-samsung-apps-2026-3705438/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Messages 现在会向您发送有关 谷歌 Messages 的短信，...",
-      "source": "Android Authority",
-      "date": "2026-09-10",
-      "summary": "现在，Google Messages 会滑入您的私信中，仅用于讨论新功能。",
-      "url": "https://www.androidauthority.com/google-messages-business-chat-3709676/",
-      "tags": [
-        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
