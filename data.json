@@ -1,11 +1,107 @@
 {
-  "updated": "2026-09-12 12:14",
+  "updated": "2026-09-13 13:22",
   "news": [
     {
-      "title": "Realme 16 Pro Harry Potter Edition's k...",
+      "title": "优惠：iPhone 18 Pro和Pro Max开始预购，Galaxy Z ...",
+      "source": "GSMArena",
+      "date": "2026-09-13",
+      "summary": "苹果全新 iPhone 18 Pro 系列现已开放预订，销售定于 9 月 18 日开始。同时，iPhone Duo 将于 10 月开始预订，但如果你等不及那么久，三星 Galaxy Z Fold8 和 Z Fold8 U...",
+      "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_preorder_begins_galaxy_z_fold8_and_galaxy_s26_series_get_discounted-news-74592.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-11/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周调查：你会购买 iPhone Duo 吗？ iPhone 18 Pro ...",
+      "source": "GSMArena",
+      "date": "2026-09-13",
+      "summary": "多年的谣言终于可以平息苹果公司于本周早些时候推出了首款可折叠手机 iPhone Duo。这不是一款便宜的手机这是价格明细。也就是说，它的起价为 2000 美元2000 英镑2300 欧元300000 卢比，与大多数地区 ...",
+      "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_iphone_duo_what_about_the_iphone_18_pro_or_iphone_18_pro_max-news-74563.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-apple-iphone-duo-18-pro-18-pro-max/-184x111/gsmarena_0000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Watch X3 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-09-13",
+      "summary": "Oppo Watch X3 延续了该品牌的战略，即提供出色的 Wear OS 体验，并注重电池寿命。它的价格约为 300 欧元，承诺在全智能模式下电池续航时间长达五天，从而在与老牌竞争对手的竞争中占据一席之地。Inlin...",
+      "url": "https://www.gsmarena.com/oppo_watch_x3_review-news-73855.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-watch-x3-review/-184x111/gsmarena_1000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周民意调查结果：Poco F9 Ultra炙手可热，Poco F9 Pro...",
+      "source": "GSMArena",
+      "date": "2026-09-13",
+      "summary": "从上周民意调查的评论中我们知道，有些人已经购买了 Poco F9 Ultra。这显然是两者中更受欢迎的型号它的 F9 Pro 兄弟表现还不错，但它显然处于 Ultra 的阴影之下。Poco F9 Ultra 概览  Po...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_poco_f9_ultra_sizzles_poco_f9_pro_not_as_hot_both_need_a_price_cut-news-74565.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-results-poco-f9-pro-poco-f9-ultra/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone 18 Pro 和 iPhone Duo 热门产品",
       "source": "GSMArena",
       "date": "2026-09-12",
-      "summary": "Realme teased the Realme 16 Pro Harry Potter Edition a few days ago and confirmed India will be one of the lau...",
+      "summary": "现在我们已经有几天时间来思考苹果最新的 iPhone，现在是时候分享我们的初步想法了。有些事情是显而易见的苹果仍将销售其生产的每一款新 iPhone，而且几乎 100 确定它将难以保持 iPhone Duo 的库存。抛开...",
+      "url": "https://www.gsmarena.com/iphone_18_pro_and_iphone_duo_hottake-news-74588.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-iphone-hot-take-september-26/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：iPhone 18 Pro 和 Pro Max 已接受预订，iPhon...",
+      "source": "GSMArena",
+      "date": "2026-09-12",
+      "summary": "新款 iPhone 18 Pro 和 18 Pro Max 的预订已于本周六开始。由于我们谈论的是苹果公司，所以没有预购优惠实际上恰恰相反，因为苹果公司将 iPhone 16、17 和 Air 的价格提高了 100 美元...",
+      "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_are_on_preorder_iphone_duo_coming_soon_here_are_the_alternatives-news-74583.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-11/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S26 FE 印度价格泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-09-12",
+      "summary": "上个月推出的三星 Galaxy S26 FE 于 9 月 4 日在部分市场开始销售。印度并不是第一波销售的一部分，因为销售计划于 9 月 18 日开始。这可能就是为什么三星没有透露 Galaxy S26 FE 在印度的价...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_india_price_leaks-news-74595.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 开...",
+      "source": "GSMArena",
+      "date": "2026-09-12",
+      "summary": "日前发布的苹果 iPhone 18 Pro 和 iPhone 18 Pro Max 现已在美国、英国、德国、澳大利亚、加拿大、中国、法国、印度和韩国等 65 个国家地区通过苹果官网接受预订。这 65 个国家地区将于 9 ...，带来多项升级",
+      "url": "https://www.gsmarena.com/apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-pros-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Realme 16 Pro哈利波特版关键规格已确认",
+      "source": "GSMArena",
+      "date": "2026-09-12",
+      "summary": "Realme 几天前预告了 Realme 16 Pro 哈利波特版，并确认印度将是发布市场之一。虽然该品牌尚未宣布推出日期，但已确认了特别版的关键规格。Realme已在其印度官方网站上设置了Realme 16 Pro哈利...，带来多项升级",
       "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_key_specs-news-74593.php",
       "tags": [
         "安卓"
@@ -14,10 +110,10 @@
       "type": "news"
     },
     {
-      "title": "Deals: iPhone 18 Pro and Pro Max 发布, G...",
+      "title": "优惠：iPhone 18 Pro和Pro Max发布，Galaxy S26和...",
       "source": "GSMArena",
       "date": "2026-09-12",
-      "summary": "Preorders for the new iPhone 18 Pro and 18 Pro Max started this Saturday Premium Apple models rarely get disco...",
+      "summary": "新款 iPhone 18 Pro 和 18 Pro Max 的预订已于本周六开始。苹果的高端机型很少有折扣，而且从来不会这么早就打折，所以我们只是在这里列出它们的价格，以便与旗舰安卓手机进行比较，这可能会吸引你远离新 i...",
       "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_launch_galaxy_s26_and_pixel_11_series_drop_prices-news-74585.php",
       "tags": [
         "苹果"
@@ -26,106 +122,70 @@
       "type": "news"
     },
     {
-      "title": "vivo shows all colors of the X500 Pro ...",
-      "source": "GSMArena",
-      "date": "2026-09-12",
-      "summary": "vivo is unveiling the X500 series in China on September 21 and ahead of that a few days ago the company reveal...",
-      "url": "https://www.gsmarena.com/vivo_shows_all_colors_of_the_x500_pro_max-news-74589.php",
+      "title": "我仍未购买 谷歌 TV 投影仪的 6 个原因（以及为什么我可能永远不会购买）",
+      "source": "Android Authority",
+      "date": "2026-09-13",
+      "summary": "Google TV 投影仪很诱人，但我不确定它们是否适合我。",
+      "url": "https://www.androidauthority.com/google-tv-projector-reasons-to-avoid-3708440/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-x500-pro-max-all-colors/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "OnePlus 16 may not 发布 in India，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-09-12",
-      "summary": "According to a new rumor from a tipster on X OnePlus may not be launching the upcoming OnePlus 16 in India Ins...",
-      "url": "https://www.gsmarena.com/oneplus_16_may_not_launch_in_india-news-74587.php",
+      "title": "Kvaesitso 与我用过的任何 Android 启动器都不一样——你在 ...",
+      "source": "Android Authority",
+      "date": "2026-09-13",
+      "summary": "侧载从来没有让人觉得这是合理的。",
+      "url": "https://www.androidauthority.com/kvaesitso-launcher-hands-on-3709677/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oneplus-16-may-not-launch-in-india/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Fairphone's Fairbuds 2 earbuds 泄露 in t...",
-      "source": "GSMArena",
-      "date": "2026-09-11",
-      "summary": "Fairphone launched its first pair of true wireless earbuds aptly called the Fairbuds in April of 2024 Now the ...",
-      "url": "https://www.gsmarena.com/fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591.php",
+      "title": "谷歌在 Pixel 11 上隐藏了一个有用的“相机外观”快捷方式 - 如何启...",
+      "source": "Android Authority",
+      "date": "2026-09-13",
+      "summary": "我终于找到了更好的方式来使用 Pixel 11 的相机外观。",
+      "url": "https://www.androidauthority.com/camera-looks-shortcut-pixel-11-how-enable-3706575/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/fairbuds-2-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy A08 retailer listing gives u...",
-      "source": "GSMArena",
-      "date": "2026-09-11",
-      "summary": "The Samsung Galaxy A08 was spotted in the Google Play Console in August and then got certified by Anatel in Br...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590.php",
+      "title": "我曾经很羡慕配备 Android Auto 的汽车 — 直到我找到了这个 2...",
+      "source": "Android Authority",
+      "date": "2026-09-13",
+      "summary": "像这样的小玩意儿弥补了几十年之间的差距。",
+      "url": "https://www.androidauthority.com/old-car-no-bluetooth-android-auto-20-dollar-fix-3707667/",
       "tags": [
-        "三星"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-a08-listed/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "The iPhone Duo does not solve foldable...",
-      "source": "GSMArena",
-      "date": "2026-09-11",
-      "summary": "After leaking more than a communal tap the iPhone Duo  Apples first foldable  is finally a reality We are used...",
-      "url": "https://www.gsmarena.com/the_iphone_duo_does_not_solve_foldables_biggest_problems-news-74568.php",
+      "title": "您的 谷歌 Messages 收件箱是否一团糟？这个被忽视的设置清理了它",
+      "source": "Android Authority",
+      "date": "2026-09-13",
+      "summary": "自动删除过期的 OTP 消息。",
+      "url": "https://www.androidauthority.com/how-to-auto-delete-otp-texts-google-messages-3708009/",
       "tags": [
-        "苹果"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-duo-foldable-issues/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Here's how much using one phone number...",
-      "source": "GSMArena",
-      "date": "2026-09-11",
-      "summary": "In iOS 27 which is being released to everyone on Monday Apple is introducing a new feature that will let you u...",
-      "url": "https://www.gsmarena.com/heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-handoff-cost/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Here are the iPhone 18 Pro (Max) and i...",
-      "source": "GSMArena",
-      "date": "2026-09-11",
-      "summary": "While preorders for the new iPhone 18 Pro models technically start tomorrow September 12 Applecoms store is al...",
-      "url": "https://www.gsmarena.com/here_are_the_iphone_18_pro_max_and_iphone_duo_offers_from_apple_and_the_big_us_carriers-news-74581.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-18-duo-available/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果 extends free satellite features for...",
-      "source": "GSMArena",
-      "date": "2026-09-11",
-      "summary": "A footnote in the iPhone 18 Pro press release revealed that Apple is providing an additional year of free sate...",
-      "url": "https://www.gsmarena.com/apple_extends_free_satellite_access_for_older_iphones-news-74576.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-extends-free-satellite-access-older-iphones/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Here’s how I’d fix 谷歌’s AI branding if...",
+      "title": "如果我担任一天的首席执行官，我将如何修复谷歌的人工智能品牌",
       "source": "Android Authority",
       "date": "2026-09-12",
-      "summary": "So it runs on Gemini youre basically talking to Gemini but it isnt called Gemini",
+      "summary": "所以，它在 Gemini 上运行，你基本上是在和 Gemini 说话，但它不叫 Gemini？",
       "url": "https://www.androidauthority.com/how-google-should-fix-gemini-3710128/",
       "tags": [
         "安卓"
@@ -134,10 +194,10 @@
       "type": "news"
     },
     {
-      "title": "Just bought a Pixel 11 Pro? Don’t forg...",
+      "title": "刚买了 Pixel 11 Pro？别忘了领取 119 美元的隐藏优惠",
       "source": "Android Authority",
       "date": "2026-09-12",
-      "summary": "If you can use Google AI Pro its practically 120 cash back on your 11 Pro",
+      "summary": "如果你可以使用 Google AI Pro，那么你的 11 Pro 几乎可以返现 120 美元。",
       "url": "https://www.androidauthority.com/pixel-11-pro-free-google-ai-pro-3707151/",
       "tags": [
         "安卓"
@@ -146,10 +206,10 @@
       "type": "news"
     },
     {
-      "title": "6 Quick Settings tiles I can’t live wi...",
+      "title": "Android 上我离不开的 6 个快速设置图块",
       "source": "Android Authority",
       "date": "2026-09-12",
-      "summary": "These tiles make Androids Quick Settings much more useful",
+      "summary": "这些图块使 Android 的快速设置更加有用。",
       "url": "https://www.androidauthority.com/i-add-6-quick-settings-tiles-new-phone-3705896/",
       "tags": [
         "安卓"
@@ -158,10 +218,10 @@
       "type": "news"
     },
     {
-      "title": "苹果’s A20 Pro chip puts the iPhone 18 P...",
+      "title": "苹果的 A20 Pro 芯片使 iPhone 18 Pro 暂时领先于 An...",
       "source": "Android Authority",
       "date": "2026-09-12",
-      "summary": "The A20 Pro could put Apples iPhone 18 Pro back on top of mobile performance",
+      "summary": "A20 Pro 可以让苹果的 iPhone 18 Pro 重新回到移动性能的巅峰。",
       "url": "https://www.androidauthority.com/apple-a20-pro-explained-3709816/",
       "tags": [
         "苹果"
@@ -170,71 +230,11 @@
       "type": "news"
     },
     {
-      "title": "I dumped 11 popular 谷歌 apps on my Andr...",
+      "title": "我在 Android 手机上抛弃了 11 个流行的 谷歌 应用程序，转而使用...",
       "source": "Android Authority",
       "date": "2026-09-12",
-      "summary": "DeGoogling with open source apps is easier than you might think",
+      "summary": "使用开源应用程序进行去谷歌搜索比您想象的要容易。",
       "url": "https://www.androidauthority.com/best-open-source-alternatives-google-android-apps-2026-3708712/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "My Pixel was overheating and stutterin...",
-      "source": "Android Authority",
-      "date": "2026-09-12",
-      "summary": "Now my Pixel is as chill as me",
-      "url": "https://www.androidauthority.com/pixel-overheating-stuttering-fix-3705992/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Fairbuds 2 泄露 gives us an early look a...",
-      "source": "Android Authority",
-      "date": "2026-09-11",
-      "summary": "Fairphone is changing the formula but hopefully not the best aspect",
-      "url": "https://www.androidauthority.com/fairbuds-2-leak-3710518/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Building websites with ChatGPT just go...",
-      "source": "Android Authority",
-      "date": "2026-09-11",
-      "summary": "ChatGPT Sites is done making you build everything by yourself",
-      "url": "https://www.androidauthority.com/chatgpt-sites-new-features-3710506/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 explains what’s going on with the d...",
-      "source": "Android Authority",
-      "date": "2026-09-11",
-      "summary": "That vanishing speedometer in Google Maps on Android Auto isnt what we thought",
-      "url": "https://www.androidauthority.com/android-auto-maps-speedometer-3710468/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Health no longer lets users log in ...",
-      "source": "Android Authority",
-      "date": "2026-09-11",
-      "summary": "To be fair weve known this was coming for years now",
-      "url": "https://www.androidauthority.com/google-health-fitbit-login-3710482/",
       "tags": [
         "安卓"
       ],
