@@ -1,132 +1,132 @@
 {
-  "updated": "2026-09-16 13:35",
+  "updated": "2026-09-17 13:37",
   "news": [
     {
-      "title": "小米 will let you use AI to build apps f...",
+      "title": "vivo X500 runs Geekbench, 曝光 a chipset...",
       "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "As promised Xiaomi has shared more details about the versatile rear display coming to the upcoming Xiaomi 18 P...",
-      "url": "https://www.gsmarena.com/xiaomi_18_pros_rear_display_will_let_users_build_apps_with_ai-news-74641.php",
+      "date": "2026-09-17",
+      "summary": "The upcoming vivo X500 has seemingly been spotted in the Geekbench online database with the model number V2609...",
+      "url": "https://www.gsmarena.com/vivo_x500_runs_geekbench_reveals_a_chipset_schism_in_the_line-news-74660.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-x500-geekbench/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Huawei Mate 90 Pro Max key specificati...",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "The Huawei Mate 90 series is expected to launch in October and a new rumor has now surfaced revealing the key ...",
+      "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_key_specifications_surface-news-74659.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-mate-90-pro-max-key-specs/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "MediaTek Dimensity 9600M is also offic...",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "Earlier this week MediaTek announced its latest flagship chipset  the Dimensity 9600 Pro and it turns out that...",
+      "url": "https://www.gsmarena.com/mediatek_dimensity_9600m_is_also_official-news-74657.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/mediatek-dimensity-9600m-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy Z Fold8 sales in Korea pick up ...",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "Korean publication The Chosun is reporting that sales of the Galaxy Z Fold8 increased by around 10 on a weekto...",
+      "url": "https://www.gsmarena.com/galaxy_z_fold8_sales_in_korea_pick_up_after_the_announcement_of_the_iphone_duo-news-74656.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/galaxy-z-fold8-sales-pick-up-in-korea/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Honor Win tablet is coming soon with a...",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "The Honor Win lineup which currently includes the Win Win RT and Win Turbo smartphones is set to expand with a...",
+      "url": "https://www.gsmarena.com/honor_win_tablet_is_coming_soon_with_an_oled_display_and_builtin_fan-news-74655.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-win-tablet-teaser/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus 16 发布 teased, 165Hz system-wid...",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "Weve heard plenty about the OnePlus 16 through leaks and rumors but the company has remained quiet about the u...",
+      "url": "https://www.gsmarena.com/oneplus_16_launch_teased_165hz_systemwide_refresh_rate_confirmed-news-74654.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oneplus-16-launch-teased/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 Pixel 11 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "Google Pixel 11 review",
+      "url": "https://www.gsmarena.com/google_pixel_11-review-3000.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/google-pixel-11/-347x151/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Honor Win 2 and Win 2 RT get certified",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "According to the prolific leaker who goes by Digital Chat Station on Weibo Honors upcoming Win 2 and Win 2 RT ...",
+      "url": "https://www.gsmarena.com/honor_win_2_and_win_2_rt_get_certified-news-74653.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-win-2-certified/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO shows the Pad Ultra and its dedic...",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "iQOO is launching the Pad Ultra in China on September 29 alongside the iQOO 16 smartphone The company has in t...",
+      "url": "https://www.gsmarena.com/iqoo_shows_the_pad_ultra_and_its_dedicated_gaming_accessories-news-74651.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iqoo-pad-ultra-showcased/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米 18 Pro runs Geekbench confirming it...",
+      "source": "GSMArena",
+      "date": "2026-09-17",
+      "summary": "Yesterday Xiaomi finally started to officially tease the upcoming 18 Pro series revealing that the Xiaomi 18 P...",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_runs_geekbench_confirming_its_chipset-news-74647.php",
       "tags": [
         "小米"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-18-pro-max-rear-display-features/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-18-pro-geekbench/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星 officially releases One UI 9 for th...",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "Following a monthslong beta testing period today Samsung is finally releasing the stable version of One UI 9 b...",
-      "url": "https://www.gsmarena.com/samsung_officially_releases_one_ui_9_based_on_android_17_for_the_galaxy_s26_s26_and_s26_ultra-news-74642.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/one-ui-9-rolls-out/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo K14 Lite is official with a 7,000...",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "Oppos K14 lineup in India has gained a new member The Oppo K14 Lite is a budget 4G smartphone featuring a 7000...",
-      "url": "https://www.gsmarena.com/oppo_k14_lite_is_official_with_a_7000mah_battery-news-74637.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-k14-lite-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 might stick to LPDDR5X memory for i...",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "Earlier reports claimed that the Samsung Galaxy S27 lineup will ship with the nextgeneration LPDDR6 memory pai...",
-      "url": "https://www.gsmarena.com/samsung_might_stick_to_lpddr5x_memory_for_its_lowertier_galaxy_s27_devices-news-74636.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/24/04/micron-6-1b-funding-granted/-184x111/gsmarena_003.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Honor Magic9 Pro Max runs Geekbench, 曝...",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "The Honor Magic9 Pro Max has seemingly been spotted in the Geekbench online database with the model number WKL...",
-      "url": "https://www.gsmarena.com/honor_magic9_pro_max_runs_geekbench_reveals_its_chipset_and_ram_amount-news-74624.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-magic9-pro-max-geekbench/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo X500 Pro and X500 Pro Max will be...",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "Earlier today MediaTek unveiled the Dimensity 9600 Pro its latest flagship smartphone chipset which is built o...",
-      "url": "https://www.gsmarena.com/vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-x500-pro-first-with-dimensity-9600-pro/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "红米 Note 17 Pro and 红米 Note 17 Pro Max ...",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "After bringing the Redmi Note 17 to India last month today Redmi has also launched the Note 17 Pro and Note 17...",
-      "url": "https://www.gsmarena.com/redmi_note_17_pro_and_redmi_note_17_pro_max_land_in_india_here_are_the_prices-news-74629.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/redmi-note-17-pro-redmi-note-17-pro-max-india/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo starts teasing the V80, promises ...",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "Yesterday the upcoming vivo V80s battery capacity leaked alongside its launch timeframe  presumably its landin...",
-      "url": "https://www.gsmarena.com/vivo_starts_teasing_the_v80_promises_it_will_deliver_cinematic_moments-news-74631.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-v80-teaser/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Here's when the Lava Virat Curve is 发布...",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "Lava is launching the Virat Curve in India on September 21 at 12 PM local time Ahead of that the brand has rev...",
-      "url": "https://www.gsmarena.com/heres_when_the_lava_virat_curve_is_launching_and_its_main_specs-news-74630.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/lava-virat-curve-launch-date-specs/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米 HyperOS 4 beta is now available",
-      "source": "GSMArena",
-      "date": "2026-09-16",
-      "summary": "In midAugust Xiaomi announced HyperOS 4 with a very unsurprising glass look and then last week it started recr...",
-      "url": "https://www.gsmarena.com/xiaomi_hyperos_4_beta_is_now_available-news-74625.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-hyperos-4-beta-rolling-out/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Home keeps getting confused about w...",
+      "title": "Roku will soon let you test exciting n...",
       "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Google says Voice Match improvements are coming but theres no timeline yet",
-      "url": "https://www.androidauthority.com/google-home-voice-match-recognition-issues-3711916/",
+      "date": "2026-09-17",
+      "summary": "Roku is also making search smarter and Voice more useful",
+      "url": "https://www.androidauthority.com/roku-os-update-roku-labs-smarter-search-voice-3712090/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "Older Pixel watches just received a ma...",
+      "title": "Bose expands its open-ear lineup with ...",
       "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Google is expanding its intelligent Smart Wake alarm feature to previous smartwatch generations to end groggy ...",
-      "url": "https://www.androidauthority.com/pixel-watch-smart-wake-older-models-3711926/",
+      "date": "2026-09-17",
+      "summary": "Bose brings Sport Open and Ultra Open Earbuds 2nd Gen for those averse to the inear design",
+      "url": "https://www.androidauthority.com/bose-sport-ultra-open-earbuds-launch-3712331/",
       "tags": [
         "安卓"
       ],
@@ -146,47 +146,11 @@
       "type": "news"
     },
     {
-      "title": "This phone has two fingerprint scanner...",
+      "title": "iPhone Duo may have inadvertently help...",
       "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Its not the first phone with two fingerprint scanners though",
-      "url": "https://www.androidauthority.com/nubia-ai-phone-two-fingerprint-scanners-3711897/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 really wants you to record a video ...",
-      "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Google has begun nudging users to set up video selfies as a backup signin method",
-      "url": "https://www.androidauthority.com/google-video-selfie-sign-in-account-restore-3711853/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Meta’s next smart glasses might not at...",
-      "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Two steps forward two steps back",
-      "url": "https://www.androidauthority.com/meta-camera-free-smart-glasses-leak-3711886/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "5 Android phones you should buy instea...",
-      "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Maybe leave that Apple in the cart",
-      "url": "https://www.androidauthority.com/iphone-18-pro-alternatives-3711225/",
+      "date": "2026-09-17",
+      "summary": "Customers seemingly dont want to spend big on a foldable that wont ship until late October",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-sales-iphone-duo-3712401/",
       "tags": [
         "苹果"
       ],
@@ -194,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "Android Auto could give you a better l...",
+      "title": "YouTube plays whack-a-mole, fixes anot...",
       "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "A redesigned place card could keep more trip research off your phone",
-      "url": "https://www.androidauthority.com/android-auto-google-maps-photos-gemini-ai-summaries-apk-teardown-3711806/",
+      "date": "2026-09-17",
+      "summary": "The issue affected signups addons and subscription changes",
+      "url": "https://www.androidauthority.com/youtube-tv-sign-up-subscription-issues-fixed-3712364/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "I almost missed the Pixel 11’s best ca...",
+      "title": "I used the Motorola Edge (2026) all su...",
       "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Dont spend another minute without the new Quick Access controls",
-      "url": "https://www.androidauthority.com/pixel-11-camera-quick-access-controls-hands-on-3708045/",
+      "date": "2026-09-17",
+      "summary": "A pretty face just isnt enough",
+      "url": "https://www.androidauthority.com/motorola-edge-2026-review-3700788/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "Windows Phone might be dead, but it no...",
+      "title": "I use Waze every day, and the latest A...",
       "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Who expected Quick Share on Windows Phone in 2026",
-      "url": "https://www.androidauthority.com/windows-phone-quick-share-3711823/",
+      "date": "2026-09-17",
+      "summary": "I use Waze every day and the latest Android Auto update completely changed how I drive",
+      "url": "https://www.androidauthority.com/new-waze-gemini-features-android-auto-hands-on-3708699/",
       "tags": [
         "安卓"
       ],
@@ -230,13 +194,49 @@
       "type": "news"
     },
     {
-      "title": "The big 谷歌book moment is almost here, ...",
+      "title": "MapQuest went viral over Lake Ontario....",
       "source": "Android Authority",
-      "date": "2026-09-16",
-      "summary": "Googlebook has a lot to prove  and Gemini isnt enough",
-      "url": "https://www.androidauthority.com/why-googlebook-isnt-exciting-3710521/",
+      "date": "2026-09-17",
+      "summary": "MapQuest is in the news right now but is it actually worth using",
+      "url": "https://www.androidauthority.com/using-mapquest-2026-instead-of-google-maps-3710148/",
       "tags": [
         "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Survey shows Chrome still rules Androi...",
+      "source": "Android Authority",
+      "date": "2026-09-17",
+      "summary": "and its packed with features",
+      "url": "https://www.androidauthority.com/best-android-browser-poll-results-3712363/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Signal will finally let you register w...",
+      "source": "Android Authority",
+      "date": "2026-09-17",
+      "summary": "Its also adding twofactor authentication support for numberless accounts",
+      "url": "https://www.androidauthority.com/signal-beta-numberless-registration-3712379/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy S25 and older models finally ha...",
+      "source": "Android Authority",
+      "date": "2026-09-17",
+      "summary": "The rollout roadmap also points to October for older Galaxy flagships",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s25-z-fold-7-flip-7-one-ui-9-rollout-date-3712314/",
+      "tags": [
+        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
