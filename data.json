@@ -1,144 +1,132 @@
 {
-  "updated": "2026-09-23 13:44",
+  "updated": "2026-09-24 13:38",
   "news": [
     {
-      "title": "The Huawei Watch D3 is now available i...",
+      "title": "荣耀 X9e Pro 配备 11,000mAh 电池和 Snapdragon...",
       "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "While most smartwatches that purport to measure blood pressure use optical sensors the Huawei Watch D3 is one ...",
-      "url": "https://www.gsmarena.com/the_huawei_watch_d3_is_now_available_in_europe_comes_with_a_free_smart_bathroom_scale-news-74727.php",
+      "date": "2026-09-24",
+      "summary": "全新的荣耀X9e Pro现已在马来西亚正式上市，它带来了两个突出的功能。第一个是 10000 尼特的明亮显示屏，我们稍后会介绍，第二个是 11000mAh 电池。这与 6 月初推出的荣耀 X80 Pro Max 的典型容...",
+      "url": "https://www.gsmarena.com/honor_x9e_pro_arrives_with_11000mah_battery_and_snapdragon_6_gen_5_chip-news-74749.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-watch-d3-now-available/-184x111/gsmarena_0000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-x9e-pro-ofic/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Motorola unveils Signature 27 with 200...",
+      "title": "苹果正在修复 iPhone 18 Pro 和 iPhone 18 Pro M...",
       "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "Motorola has shared a first look at its upcoming Signature 27 flagship phone during Qualcomms Snapdragon Summi...",
-      "url": "https://www.gsmarena.com/motorola_unveils_signature_27_with_200mp_telephoto_camera_snapdragon_8_elite_extreme_gen_6-news-74726.php",
+      "date": "2026-09-24",
+      "summary": "苹果已确认正在修复一个影响部分 iPhone 18 Pro 和 iPhone 18 Pro Max 设备的严重错误。如果一切按计划进行，该修复程序将被纳入计划于下周发布的新固件更新中。InlinePriceWidget1...，带来多项升级",
+      "url": "https://www.gsmarena.com/apple_is_fixing_a_nasty_iphone_18_pro_and_iphone_18_pro_max_bug-news-74745.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-iphone-18-pro-pro-max-bug/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "该公司确认小米18 Pro和小米18 Pro Max正在走向全球",
+      "source": "GSMArena",
+      "date": "2026-09-24",
+      "summary": "昨天，小米在中国发布了18 Pro和18 Pro Max。不到24小时后，该公司已正式确认小米18 Pro系列即这两款手机将在未来某个时候在全球发布。小米首席营销官徐飞在一段短视频中谈到了这些问题：Xiaomi18Pro...，带来多项升级",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_are_going_global_the_company_confirms-news-74746.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-confirms-18-pro-series-global-release/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Meta Muse Charm 是一款独立的人工智能设备，将于今年晚些时候推...",
+      "source": "GSMArena",
+      "date": "2026-09-24",
+      "summary": "在推出新款无摄像头 RayBan Meta Audio 和 Meta VR 眼镜后，马克扎克伯格就选择了一款onemore thing设备Meta Muse Charm。顾名思义，这是一个独立的类似钥匙扣电子宠物类型的设...",
+      "url": "https://www.gsmarena.com/meta_muse_charm_is_a_standalone_ai_device_coming_later_this_year_-news-74744.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-signature-27-first-look/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/meta-muse-charm-teased/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "The 3D models of foldable phones on ou...",
+      "title": "vivo S2 FE规格和图片泄露，10,000mAh电池成为焦点，核心配置...",
       "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "For many years now weve been partnered with Binkies 3D to give you access to 3D models of smartphones that you...",
-      "url": "https://www.gsmarena.com/the_3d_models_of_foldable_phones_on_our_site_can_now_be_opened_and_closed_heres_a_look-news-74724.php",
+      "date": "2026-09-24",
+      "summary": "早在8月份，vivo就通过S2在印度复活了S系列。现在，根据 X 上的爆料者的最新消息，该公司正在开发 S2 FE。据称，其规格已与您在下面看到的两张图片一起发布。在我们进一步讨论之前，我们需要提醒您一个事实，即这不是一...，带来多项升级",
+      "url": "https://www.gsmarena.com/vivo_s2_fe_specs_and_images_leak_10000_mah_battery_takes_the_spotlight-news-74739.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/binkies-3d-folding-phones-fold/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-s2-fe-rumor/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Android OEMs pledge allegiance to the ...",
+      "title": "Oppo 在英国开始盲购 Find X10 系列并提供大量赠品",
       "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "The Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 are now official and most of the big names in the Andro...",
-      "url": "https://www.gsmarena.com/android_oems_pledge_allegiance_to_the_snapdragon_8_elite_gen_6_series-news-74723.php",
+      "date": "2026-09-24",
+      "summary": "Oppo 昨天在中国推出了 Find X10、Find X10 E 和 Find X10 Pro Max。虽然这些设备尚未在全球市场正式上市，但 Oppo 已开始在英国接受盲目预订。该公司基本上为您提供了购买 Find ...",
+      "url": "https://www.gsmarena.com/oppo_starts_blind_find_x10_series_preorders_in_the_uk_with_tons_of_freebies-news-74738.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/android-oems-pledge-allegiance-snapdragon-8-elite-gen-6-series/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-find-x10-series-uk-blind-pre-order/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Oppo K14 Plus' key specs, 发布 date, and...",
+      "title": "来自泰国曼谷的vivo V80上手和拍照样张",
       "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "Oppo teased the K14 Plus last week and today it announced that the smartphone will be unveiled in India on Sep...",
-      "url": "https://www.gsmarena.com/oppo_k14_plus_key_specs_launch_date_design-news-74722.php",
+      "date": "2026-09-24",
+      "summary": "vivo 将于当地时间 10 月 6 日中午 12 点在印度发布 V80。它有三种颜色：Sunrise Anthem、Horizon Blue 和 Stellar Black。我们最近拿到了 vivo V80 的 Sun...，带来多项升级",
+      "url": "https://www.gsmarena.com/vivo_v80_hands_on_camera_samples-news-74742.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/oppo-k14-plus-launch-date/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-v80-hands-on-camera-samples/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "Snapdragon 8 Elite Extreme Gen 6 and 8...",
+      "title": "Meta 推出新款 VR 眼镜和无摄像头 Ray-Ban Meta Audi...",
       "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "Qualcomms latest flagship chipsets are now official The new Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 ...",
-      "url": "https://www.gsmarena.com/snapdragon_8_elite_extreme_gen_6_and_8_elite_gen_6_debut-news-74721.php",
+      "date": "2026-09-24",
+      "summary": "Meta 在 Meta Connect 2026 上发布了两款新的智能眼镜。该公司推出了首款无摄像头、仅音频的 Ray Ban Meta Audio，以及一副新的虚拟现实眼镜，简称为 Meta VR 眼镜。Meta VR...，带来多项升级",
+      "url": "https://www.gsmarena.com/meta_announces_new_vr_glasses_and_camerafree_rayban_meta_audio_-news-74741.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/snapdragon-8-elite-extreme-gen-6-ofic/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/meta-vr-glasses-ray-ban-audio-announced/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy S27, S27+, S27 Pro, and S27 ...",
+      "title": "小米Pad 9 Pro和Pad 9发布，新机正式登场",
       "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "A few days ago we heard that Samsung was considering using LPDDR5X memory in the Galaxy S27 and S27 instead of...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_s27_s27_pro_and_s27_ultra_ram_and_storage_configurations_leak-news-74720.php",
+      "date": "2026-09-24",
+      "summary": "除了在中国发布的小米 18 Pro 和 18 Pro Max 之外，该公司还推出了 Pad 9 Pro 和 Pad 9 平板电脑。这些新机型加入了本月早些时候推出的小米 Pad 9 Pro Max。小米平板 9 Pro ...，带来多项升级",
+      "url": "https://www.gsmarena.com/xiaomi_pad_9_pro_and_pad_9_announced-news-74740.php",
       "tags": [
-        "三星"
+        "小米"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s27-series-ram-storage-configurations/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/xiaomi-pad-9-pro-announced/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Beats 360 announced with interchangeab...",
+      "title": "Realme 16 Pro哈利波特版开箱及上手",
       "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "Beats today announced a new fullsized pair of wireless headphones the Beats 360 These new headphones are targe...",
-      "url": "https://www.gsmarena.com/beats_360_announced_with_interchangeable_headband_and_cushions_and_ipx4_rating-news-74719.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/beats-360-launch/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Realme Buds T500 Pro Harry Potter Edit...",
-      "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "Realme teamed up with Warner Bros Discovery Global Consumer Products last year for the Realme 15 Pro Game of T...",
-      "url": "https://www.gsmarena.com/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712.php",
+      "date": "2026-09-24",
+      "summary": "继 Realme 与华纳兄弟合作推出 Realme 15 Pro 权力游戏版之后，又到了 Realme 16 Pro 哈利波特版的时候了！就大片而言，这两部作品并不容易被击败。这个特别版所基于的手机本身就很出色，但更有趣...",
+      "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_edition_unboxing_and_handson-news-74736.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/realme-buds-t500-pro-harry-potter-edition-hands-on/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/realme-16-pro-harry-potter-unboxing/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy A18 in for 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-09-23",
-      "summary": "The Samsung Galaxy A18 is a simple phone that does the basics Its limited to 4G networks has a 5000mAh battery...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a18_in_for_review-news-74715.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-a18-ifr/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Massive Galaxy Tab S12 Plus and Ultra ...",
+      "title": "疯狂交易！ Shark PowerDetect 价格降至历史最低价，享受 7...",
       "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "The tablets are reportedly launching in the first week of October",
-      "url": "https://www.androidauthority.com/samsung-galaxy-tab-s12-plus-ultra-leak-renders-specs-3714531/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Hot deal: The new Ring Battery Doorbel...",
-      "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "Save 60 on Rings new Battery Doorbell 2K and get 2K video TwoWay Talk motion alerts and a wide doorstep view",
-      "url": "https://www.androidauthority.com/ring-battery-doorbell-2k-deal-3714185/",
+      "date": "2026-09-24",
+      "summary": "Shark 的 PowerDetect 机器人吸尘器和拖把刚刚创下历史新低，售价为 27999 美元，具有自动清空、自动清洁底座。",
+      "url": "https://www.androidauthority.com/shark-powerdetect-robot-vacuum-mop-deal-3714702/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "These Android flagships pair the lates...",
+      "title": "Gmail 将其星星和重要性标记变成蓝色，用户并不满意",
       "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "Huge batteries privacy displays and smarter rear screens round things out",
-      "url": "https://www.androidauthority.com/xiaomi-18-pro-max-launch-3714485/",
+      "date": "2026-09-24",
+      "summary": "谷歌表示，这一变化有助于提高可访问性，但用户抱怨它使层次结构扁平化，并使收件箱变得混乱。",
+      "url": "https://www.androidauthority.com/gmail-blue-stars-importance-marker-redesign-3715082/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "Grab the Blink Outdoor 4 3-camera home...",
+      "title": "不要等待：立即享受最佳的 Prime Day 早期科技优惠",
       "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "Save 124 on the Blink Outdoor 4 3camera system and get 1080p video night vision and 2year battery life",
-      "url": "https://www.androidauthority.com/blink-outdoor-4-3-camera-home-security-kit-deal-3713787/",
+      "date": "2026-09-24",
+      "summary": "您不必等待正式开始即可获得一些超值优惠。",
+      "url": "https://www.androidauthority.com/best-prime-day-deals-fall-2026-3714550/",
       "tags": [
         "安卓"
       ],
@@ -170,23 +158,11 @@
       "type": "news"
     },
     {
-      "title": "三星 accidentally freezes its smart frid...",
+      "title": "Android 上的 Dolphin Emulator 终于可以让您将朋友拖...",
       "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "Another reason to think twice about buying a connected appliance",
-      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Early Prime deal: The Amazon Fire HD 1...",
-      "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "Save 82 on the Fire HD 10 a budget tablet with a Full HD 101inch display octacore chip and expandable storage",
-      "url": "https://www.androidauthority.com/amazon-fire-hd-10-tablet-deal-3713780/",
+      "date": "2026-09-24",
+      "summary": "Dolphin 的最新更新为 Android 带来了 Netplay 在线多人游戏，并为移动和 PC 用户提供跨平台支持。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/dolphin-emulator-android-netplay-3715060/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "Amazon slashes 50% off the highly rate...",
+      "title": "谷歌 Messages 存在相机闪光灯问题，但没有人知道原因",
       "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "Amazon drops the new Ring Indoor Cam Plus to 2999 its best price this year with 2K video and twoway talk",
-      "url": "https://www.androidauthority.com/ring-indoor-cam-plus-deal-3714206/",
+      "date": "2026-09-24",
+      "summary": "又一天，又一个 Google Messages 错误。",
+      "url": "https://www.androidauthority.com/google-messages-camera-flash-bug-3715027/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "Does the Pixel 11 Pro’s modem still lo...",
+      "title": "谷歌正在努力修复两个影响日常生活和智能灯的令人沮丧的家庭错误",
       "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "The Pixels modem may finally no longer be its biggest weakness",
-      "url": "https://www.androidauthority.com/pixel-11-pro-modem-vs-galaxy-s26-ultra-3712761/",
+      "date": "2026-09-24",
+      "summary": "警报例程可能会失灵，而一些非英文灯名称也会停止工作。",
+      "url": "https://www.androidauthority.com/google-home-alarm-routines-smart-light-bugs-3715046/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 could bring the Pixel 11’s customiz...",
+      "title": "数据隐私不仅仅适合书呆子——这就是为什么你也应该关心的原因",
       "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "Google could bring the Pixel 11s customized My Pixel colors to older Pixels",
-      "url": "https://www.androidauthority.com/my-pixel-app-device-colors-apk-teardown-3714457/",
+      "date": "2026-09-24",
+      "summary": "我越了解我的个人数据在不同服务中的使用方式，我就越想保护我的隐私。",
+      "url": "https://www.androidauthority.com/why-data-privacy-matters-for-everyone-3709285/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +206,35 @@
       "type": "news"
     },
     {
-      "title": "谷歌 Meet’s automatic note-taker now get...",
+      "title": "Spotify 刚刚为 Meta Muse 提供了打开您音乐的钥匙",
       "source": "Android Authority",
-      "date": "2026-09-23",
-      "summary": "The meeting that couldve been an email now is",
-      "url": "https://www.androidauthority.com/google-meet-quick-notes-3714439/",
+      "date": "2026-09-24",
+      "summary": "您的聆听现在可以对您的计划做出反应，而无需您动一根手指。",
+      "url": "https://www.androidauthority.com/spotify-meta-muse-integration-3714958/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "你的 Android 手机可能不再阻止你撞上柱子",
+      "source": "Android Authority",
+      "date": "2026-09-24",
+      "summary": "谷歌正准备弃用 Digital Wellbeing 的 Heads Up 步行安全功能。",
+      "url": "https://www.androidauthority.com/google-digital-wellbeing-heads-up-deprecation-apk-teardown-3714971/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我准备放弃 Pixel 11 Pro 转而选择 Motorola Signa...",
+      "source": "Android Authority",
+      "date": "2026-09-24",
+      "summary": "我准备放弃 Pixel 11 Pro 转而选择 Motorola Signature 27 的 5 个理由",
+      "url": "https://www.androidauthority.com/motorola-signature-27-better-than-pixel-11-pro-3714602/",
       "tags": [
         "安卓"
       ],
