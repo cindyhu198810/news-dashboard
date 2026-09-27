@@ -1,11 +1,95 @@
 {
-  "updated": "2026-09-26 13:14",
+  "updated": "2026-09-27 14:07",
   "news": [
     {
-      "title": "Here are some more renders of the 三星 G...",
+      "title": "促销：谷歌 Pixel 11 系列降价，三星 Galaxy Z8 可折叠手机...",
+      "source": "GSMArena",
+      "date": "2026-09-27",
+      "summary": "谷歌 Pixel 11 系列目前与去年的 Pixel 10 Pro 一起以折扣价出售。三星最新的 Galaxy Z Fold8 Ultra、Galaxy Z Fold8 和 Galaxy Z Flip8 也在发售。同时，...",
+      "url": "https://www.gsmarena.com/deals_googles_pixel_11_series_gets_price_cuts_samsung_galaxy_z8_foldables_discounted-news-74778.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-25/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周投票：你觉得小米18 Pro和小米18 Pro Max怎么样？",
+      "source": "GSMArena",
+      "date": "2026-09-27",
+      "summary": "继 Snapdragon 8 Elite Extreme Gen 6 和 8 Elite Gen 6 发布后，小米推出了两款搭载新芯片的旗舰产品。这两款手机已经在中国开售，小米已经确认小米18 Pro系列将在全球发售。什...，带来多项升级",
+      "url": "https://www.gsmarena.com/weekly_poll_what_do_you_think_of_the_xiaomi_18_pro_and_xiaomi_18_pro_max-news-74753.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-xiaomi-18-pro-18-pro-max/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周民意调查结果：红米 Note 17 Pro和Note 17 Pro Ma...",
+      "source": "GSMArena",
+      "date": "2026-09-27",
+      "summary": "虽然小米的红米Note 15系列并未受到普遍喜爱，但一年前的一项民意调查中，红米Note 15系列获得了积极的反响。 Pro 型号显然是粉丝的最爱，但 Pro 本身也表现出色。上周我们调查了您对他们的继任者的看法，但结果...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_the_redmi_note_17_pro_and_note_17_pro_max_feel_like_a_step_back-news-74756.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-poll-results-redmi-note-17-pro-17-pro-max/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "WhatsApp 正在重新设计其 Android 应用程序，具体方法如下",
+      "source": "GSMArena",
+      "date": "2026-09-27",
+      "summary": "据一份新报告称，WhatsApp 目前正在重新设计其 Android 应用程序。目前，重新设计的重点是应用程序的导航栏，该导航栏具有新的外观和内部的新项目。下图显示了当前开发的粗略状态  这绝对不是重新设计的最终版本，因...",
+      "url": "https://www.gsmarena.com/whatsapp_is_redesigning_its_android_app_heres_how-news-74782.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/whatsapp-android-redesign/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 代码确认了下一代入门级 iPad 的主要规格",
       "source": "GSMArena",
       "date": "2026-09-26",
-      "summary": "Samsung was expected to unveil the Galaxy Tab S12 and Galaxy Tab S12 Ultra this month but rumors now suggest i...",
+      "summary": "苹果于 2025 年 3 月推出了最新的入门级 iPad，其继任者预计将在两年后的 2027 年春季上市。在此之前，一份新报告为我们带来了即将推出的平板电脑的主要规格，在苹果代码中找到了详细信息。因此，下一代入门级 iP...",
+      "url": "https://www.gsmarena.com/apple_code_confirms_the_main_specs_of_the_next_entrylevel_ipad-news-74783.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-code-confirms-ipad-2027-specs/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：Galaxy Z Fold7 对比 Galaxy Z Fold8 和 ...",
+      "source": "GSMArena",
+      "date": "2026-09-26",
+      "summary": "上周，我们重点关注了 iPhone 18 Pro 系列的发布。本周我们将了解 Galaxy 手机的最新情况。让我们从可折叠设备开始。三星 Galaxy Z Fold7去年的书本式可折叠手机售价 1350 美元。这比 Z ...，带来多项升级",
+      "url": "https://www.gsmarena.com/deals_galaxy_z_fold7_vs_galaxy_z_fold8_and_z_fold8_ultra_plus_galaxy_s26_fe_alternatives-news-74767.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/weekly-deals-25/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "这是所有颜色的 苹果 HomePod Mini 2",
+      "source": "GSMArena",
+      "date": "2026-09-26",
+      "summary": "苹果于 2020 年 10 月推出了首款 HomePod Mini。它最初提供白色和午夜色，后来提供蓝色、橙色和黄色。现在，MacRumors 分享的一张尚未推出的 HomePod Mini 2 的图片展示了该扬声器的所...",
+      "url": "https://www.gsmarena.com/apple_homepod_mini_2_design_colors-news-74786.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/apple-homepod-mini-2-design-colors/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "以下是三星 Galaxy Tab S12+ 和 Galaxy Tab S12...",
+      "source": "GSMArena",
+      "date": "2026-09-26",
+      "summary": "三星预计将于本月推出 Galaxy Tab S12 和 Galaxy Tab S12 Ultra，但现在有传言称三星将于下个月准确地说是 10 月 7 日正式推出这些平板电脑。这两款平板电脑的泄露渲染图揭示了它们的设计，...",
       "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_plus_galaxy_tab_s12_ultra_renders-news-74785.php",
       "tags": [
         "三星"
@@ -14,10 +98,10 @@
       "type": "news"
     },
     {
-      "title": "Oppo gives us our best look yet at the...",
+      "title": "Oppo 为我们展示了即将推出的 K14 Plus 的最佳外观，并确认了内存...",
       "source": "GSMArena",
       "date": "2026-09-26",
-      "summary": "Oppo recently announced that it would unveil the K14 Plus in India on September 29 with online retailer Flipka...",
+      "summary": "Oppo 最近宣布将于 9 月 29 日在印度推出 K14 Plus，在线零售商 Flipkart 公布了其设计、颜色选择和主要规格。现在，Oppo 在其印度网站上建立了一个页面，并分享了 K14 Plus 的图片，让我...",
       "url": "https://www.gsmarena.com/oppo_k14_plus_official_images_memory_options_colors-news-74784.php",
       "tags": [
         "安卓"
@@ -26,10 +110,10 @@
       "type": "news"
     },
     {
-      "title": "Deals: massive price cuts for the Gala...",
+      "title": "优惠：Galaxy Z Fold8和Z Flip8大幅降价，Pixel 11...",
       "source": "GSMArena",
       "date": "2026-09-26",
-      "summary": "The Galaxy Z Fold8 and Z Flip8 are around onethird off this week  these are massive discounts for cuttingedge ...",
+      "summary": "Galaxy Z Fold8 和 Z Flip8 本周大约有三分之一的折扣对于上个月才推出的尖端可折叠手机来说，这是巨大的折扣。大Z Fold8 Ultra和Pixel 11系列都有较小的折扣，但仍然值得一看。三星 Ga...",
       "url": "https://www.gsmarena.com/deals_massive_price_cuts_for_the_galaxy_z_fold8_and_z_flip8_pixel_11_series_also_discounted-news-74770.php",
       "tags": [
         "三星"
@@ -38,94 +122,70 @@
       "type": "news"
     },
     {
-      "title": "Honor keeps teasing the Magic9 Pro Max...",
-      "source": "GSMArena",
-      "date": "2026-09-26",
-      "summary": "Honor is unveiling the Magic9 series on September 28 and since were just a few days away from the event the co...",
-      "url": "https://www.gsmarena.com/honor_keeps_teasing_the_magic9_pro_maxs_cinematic_mic_and_teleconverter-news-74780.php",
+      "title": "我把安卓手机烦人的AI按钮变成了最强大的快捷键",
+      "source": "Android Authority",
+      "date": "2026-09-27",
+      "summary": "我准备禁用我的人工智能按钮，直到我意识到它实际上可以做多少事情。",
+      "url": "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/honor-magic9-cinematic-mic-teleconverter/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Here's proof the vivo X500 Pro Max is ...",
-      "source": "GSMArena",
-      "date": "2026-09-26",
-      "summary": "We had the distinct pleasure of attending vivos X500 series unveiling in Shanghai China If youve never been to...",
-      "url": "https://www.gsmarena.com/camera_samples_from_the_vivo_x500_pro_max_shanghai-news-74779.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-x500-pro-max-camera-samples/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Motorola Edge 60 Fusion starts receivi...",
-      "source": "GSMArena",
-      "date": "2026-09-25",
-      "summary": "Motorola has started rolling out the update to Android 17 for the Edge 60 Fusion in India according to reports...",
-      "url": "https://www.gsmarena.com/motorola_edge_60_fusion_starts_receiving_the_android_17_update-news-74781.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/motorola-edge-60-fusion-android-17-update/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果 iPhone 18 Pro 评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-09-25",
-      "summary": "Apple iPhone 18 Pro review",
-      "url": "https://www.gsmarena.com/apple_iphone_18_pro-review-3003.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/apple-iphone-18-pro/-347x151/gsmarena_004.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 sued over Galaxy S23 Ultra, Galaxy ...",
-      "source": "GSMArena",
-      "date": "2026-09-25",
-      "summary": "A USbased company called Ioengine is suing Samsung in the US District Court for the Eastern District of Texas ...",
-      "url": "https://www.gsmarena.com/samsung_sued_over_galaxy_s23_ultra_galaxy_watch_ultra_patent_infringement-news-74777.php",
+      "title": "我最喜欢的 5 项 Android 功能在三星或 Pixel 手机上找不到",
+      "source": "Android Authority",
+      "date": "2026-09-27",
+      "summary": "谷歌和三星都很棒，但这些或类似的功能会让它们变得更好。",
+      "url": "https://www.androidauthority.com/best-android-features-not-on-pixel-galaxy-3713013/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s23-ultra-patent-trial/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Qualcomm may be adding DirectX 12 supp...",
-      "source": "GSMArena",
-      "date": "2026-09-25",
-      "summary": "Qualcomm is apparently considering an official solution to better support PC game emulation on Android Accordi...",
-      "url": "https://www.gsmarena.com/qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774.php",
+      "title": "我将 Pixel 11 Pro XL 与 Pixel 8 Pro 进行了对比...",
+      "source": "Android Authority",
+      "date": "2026-09-27",
+      "summary": "我将 Pixel 11 Pro XL 与 Pixel 8 Pro 进行了对比测试。这就是为什么是时候最终升级了",
+      "url": "https://www.androidauthority.com/pixel-11-pro-xl-vs-pixel-8-pro-hands-on-comparison-3714142/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/qualcomm-directx-12-rumor/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Multiple users report lockscreen issue...",
-      "source": "GSMArena",
-      "date": "2026-09-25",
-      "summary": "The September Pixel Drop brought improvements to the VIP contacts widget shored up scam detection and added th...",
-      "url": "https://www.gsmarena.com/multiple_users_report_lockscreen_issues_after_installing_the_september_pixel_drop-news-74775.php",
+      "title": "我曾经很喜欢可折叠手机。现在，我无法忍受他们",
+      "source": "Android Authority",
+      "date": "2026-09-27",
+      "summary": "事实证明，我宁愿将手机和平板电脑分开。",
+      "url": "https://www.androidauthority.com/why-i-cant-stand-foldable-phones-3714723/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/september-pixel-drop-lockscreen-issues/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "9 excellent iOS apps I wish would come...",
+      "title": "除了基本搜索之外，使用 谷歌 Lens 的 7 种令人惊讶的有用方法",
+      "source": "Android Authority",
+      "date": "2026-09-27",
+      "summary": "当基于文本的搜索不可行时，这是一种快速、简单的获取答案的方法。",
+      "url": "https://www.androidauthority.com/underrated-google-lens-features-2026-3714541/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我希望 9 个优秀的 iOS 应用程序能够登陆 Android（但可能永远不...",
       "source": "Android Authority",
       "date": "2026-09-26",
-      "summary": "9 excellent iOS apps I wish would come to Android but probably never will",
+      "summary": "我希望 9 个优秀的 iOS 应用程序能够登陆 Android但可能永远不会",
       "url": "https://www.androidauthority.com/ios-apps-i-want-on-android-2026-3713705/",
       "tags": [
         "安卓"
@@ -134,10 +194,10 @@
       "type": "news"
     },
     {
-      "title": "The Motorola Signature 27 has one huge...",
+      "title": "与其他三星竞争对手相比，摩托罗拉 Signature 27 有一项巨大优势",
       "source": "Android Authority",
       "date": "2026-09-26",
-      "summary": "Its time for a new challenger",
+      "summary": "是时候迎来新的挑战者了。",
       "url": "https://www.androidauthority.com/motorola-signature-27-advantage-over-other-samsung-rivals-3714695/",
       "tags": [
         "三星"
@@ -146,10 +206,10 @@
       "type": "news"
     },
     {
-      "title": "The Galaxy Z Fold 8 is exactly what I’...",
+      "title": "Galaxy Z Fold 8 正是我想要的可折叠手机，但我对 Z Fold...",
       "source": "Android Authority",
       "date": "2026-09-26",
-      "summary": "The Galaxy Z Fold 8 is easily the closest Ive come to pulling the trigger on a foldable But I still cant do it",
+      "summary": "Galaxy Z Fold 8 无疑是我所见过的最接近可折叠手机的一款。但我还是做不到。",
       "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-review-3708629/",
       "tags": [
         "三星"
@@ -158,10 +218,10 @@
       "type": "news"
     },
     {
-      "title": "My favorite Pixel 11 Pro feature is so...",
+      "title": "我最喜欢的 Pixel 11 Pro 功能是其他 Android 手机无法比...",
       "source": "Android Authority",
       "date": "2026-09-26",
-      "summary": "My favorite Pixel 11 Pro feature is something no other Android phone can match",
+      "summary": "我最喜欢的 Pixel 11 Pro 功能是其他 Android 手机无法比拟的",
       "url": "https://www.androidauthority.com/pixel-11-pro-favorite-feature-face-unlock-why-3713749/",
       "tags": [
         "安卓"
@@ -170,73 +230,13 @@
       "type": "news"
     },
     {
-      "title": "3 ways the Snapdragon 8 Elite Gen 6 is...",
+      "title": "Snapdragon 8 Elite Gen 6 实际上比去年的芯片更差的 ...",
       "source": "Android Authority",
       "date": "2026-09-26",
-      "summary": "Is Qualcomms Snapdragon 8 Elite Gen 6 secretly an 8 Elite Lite",
+      "summary": "高通的 Snapdragon 8 Elite Gen 6 秘密是8 Elite Lite吗？",
       "url": "https://www.androidauthority.com/snapdragon-8-elite-gen-6-downgrades-vs-gen-5-3715153/",
       "tags": [
         "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "I turned my old Pixel into a TV box an...",
-      "source": "Android Authority",
-      "date": "2026-09-26",
-      "summary": "Getting the most out of my 8yearold Pixel 3 XL",
-      "url": "https://www.androidauthority.com/turned-old-pixel-into-tv-box-security-camera-worth-it-3714104/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Health 5.09 arrives with more than ...",
-      "source": "Android Authority",
-      "date": "2026-09-25",
-      "summary": "Health Guardians a big part of this but not the whole picture",
-      "url": "https://www.androidauthority.com/google-health-5-09-3715801/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "You told us your favorite Pixel 11 Pro...",
-      "source": "Android Authority",
-      "date": "2026-09-25",
-      "summary": "Five alternatives entered and only one could top our poll but there was a bigger surprise at the bottom",
-      "url": "https://www.androidauthority.com/best-pixel-11-pro-alternative-poll-results-3715761/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Searching for 谷歌books won’t give you t...",
-      "source": "Android Authority",
-      "date": "2026-09-25",
-      "summary": "Google is facing some funny SEO irony for Googlebooks queries",
-      "url": "https://www.androidauthority.com/search-confuses-googlebooks-with-books-3715775/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "YouTube keep freezing on your Galaxy p...",
-      "source": "Android Authority",
-      "date": "2026-09-25",
-      "summary": "Z Fold 8 Ultra seems to have it worse than others",
-      "url": "https://www.androidauthority.com/galaxy-phone-youtube-freeze-3715746/",
-      "tags": [
-        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
