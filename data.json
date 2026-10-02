@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-01 15:32",
+  "updated": "2026-10-02 14:49",
   "news": [
     {
-      "title": "三星 Galaxy M08 和 F08 现已正式上市",
+      "title": "苹果 委托获奖照片展示 iPhone Duo 的摄像头",
       "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "今天，三星在其印度网站上悄悄列出了 Galaxy M08 和 F08。这使得这两款设备正式上市，它们实际上都是 Galaxy A08 的克隆版，但名称不同。与 A08 一样，M08 和 F08 均配备 67 英寸 LCD...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_m08_and_f08_are_now_official-news-74863.php",
+      "date": "2026-10-02",
+      "summary": "我们一直很喜欢 Apple 的 Shot on iPhone 媒体特技。这是流行的给专业人士一个工具，获得专业结果的方法，而且它总是有效的。一个真正的专业人士在他的领域总是会取得惊人的成果，即使是使用手机。在这种情况下，...",
+      "url": "https://www.gsmarena.com/apple_commissions_awardwinning_photogs_to_showcase_the_iphone_duos_cameras-news-74875.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-cameras/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "没有什么可以让您先于其他人试用其即将推出的产品，方法如下",
+      "source": "GSMArena",
+      "date": "2026-10-02",
+      "summary": "今天还没有开放新的社区审查计划的提交。该公司将其描述为您有机会先于其他人亲身体验其最新产品和软件，并通过与充满活力的全球社区分享您自己的想法来展示您的创造力。如果您被选中，您将被承诺首先将产品送到您手中，并且可以直接与 ...",
+      "url": "https://www.gsmarena.com/nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/nothing-community-review-program/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "亚马逊推出更新后的 Kindle 系列",
+      "source": "GSMArena",
+      "date": "2026-10-02",
+      "summary": "亚马逊今天发布了三款新 Kindle，它们带来了更新的颜色、更薄更轻的外形以及更耐用的电池。所有版本现在都配备齐平显示屏和可选的铝制背面。基本款 Kindle第 12 代配备相同尺寸的 6 英寸电子墨水屏幕，但具有更圆角...，带来多项升级",
+      "url": "https://www.gsmarena.com/amazon_unveils_its_updated_kindle_lineup-news-74874.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/amazon-new-kindles-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone Duo 的内屏保护膜是可更换的，价格如下",
+      "source": "GSMArena",
+      "date": "2026-10-02",
+      "summary": "据苹果服务和维修网站称，iPhone Duo 的可折叠屏幕顶层可以更换。如果有 AppleCare，价格会相当便宜。Apple 表示，如果您有有效的 AppleCare，只需 1999 美元即可更换主显示屏顶部的磨砂屏幕...",
+      "url": "https://www.gsmarena.com/iphone_duos_inner_display_cover_can_be_replaced-news-74873.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-duo-official/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "华为Mate 90 Pro Max将让你同时使用三张SIM卡",
+      "source": "GSMArena",
+      "date": "2026-10-02",
+      "summary": "您是否曾希望可以在手机上同时使用三张 SIM 卡？华为最新旗舰手机 Mate 90 Pro Max 就可以做到这一点。华为在中国推出了这款手机，同时推出了 Mate 90 系列的其他产品，其中包括 Mate 90、Mat...",
+      "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-90-pro-max-triple-sim/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星更新了 SmartThings 应用程序，重新设计了“主页”选项卡",
+      "source": "GSMArena",
+      "date": "2026-10-02",
+      "summary": "三星正在对其 SmartThings 应用程序进行重大修改，版本为 185130。此更新重新设计了主页选项卡并更新了设备选项卡。该版本已经在 iOS 上推出实际上，iPhone 用户首先获得了该版本，并且现已在 Goog...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-m08-f08-official/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-smartthings-app-update/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Poco C95 Pro 推出，配备 7,500mAh 电池和 6.9 英寸...",
+      "title": "苹果的 HomePad / Home Hub 可能有这四种颜色",
       "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "小米已在全球部分地区推出了 Poco C95 Pro，包括欧盟和新加坡。Poco C95 Pro 的主要亮点包括支持 45W 有线充电的 7500mAh 电池，以及具有 120Hz 刷新率和 Gorilla Glass ...",
-      "url": "https://www.gsmarena.com/poco_c95_pro_launches_with_a_7500mah_battery_and_69_inch_display-news-74856.php",
+      "date": "2026-10-02",
+      "summary": "昨天，一份报告告诉我们，苹果最终将于 10 月 13 日推出传闻已久的 Home Hub 或 HomePad。该报告暗示，它只会提供一种颜色，被描述为苹果的标准灰色铝饰面。然而，事实证明，该设备实际上可以提供四种颜色：银...",
+      "url": "https://www.gsmarena.com/apples_homepad___home_hub_may_come_in_these_four_colors-news-74866.php",
       "tags": [
-        "安卓"
+        "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/poco-c95-pro-ofic/-184x111/gsmarena_0.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-home-hub-homepad-colors/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "RedMagic 12 Pro+ 运行 Geekbench，确认其芯片组和 ...",
+      "title": "三星首款 Android XR 眼镜终于发布，新机正式登场",
       "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "RedMagic 上个月开始预告其下一代旗舰智能手机 12 Pro。该设备将于 10 月 15 日正式上市。在此之前，拥有原型机的人已决定在其上运行 Geekbench。与往常一样，这导致了基准测试在线数据库中的列表。正...",
-      "url": "https://www.gsmarena.com/redmagic_12_pro_runs_geekbench_confirms_its_chipset_and_ram_amount-news-74855.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-12-pro-plus-geekbench/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星推出首款夹式耳机 Galaxy Buds On",
-      "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "就在三星首款夹式耳机图片在网上曝光的一天后，该公司在韩国正式推出了 Galaxy Buds On。Galaxy Buds On 采用夹式设计，据称可以舒适地长时间使用，包括在跑步等户外活动期间。开放式设计还允许用户保持对...，更多细节逐步揭晓",
-      "url": "https://www.gsmarena.com/samsung_unveils_galaxy_buds_on_its_first_clipon_earphones-news-74853.php",
+      "date": "2026-10-02",
+      "summary": "三星在 7 月份的 Galaxy Unpacked 活动中展示了首款 Android XR 眼镜，现在来自其祖国韩国的一份新报告告诉我们，我们应该期待它们最终推出的时间：11 月。据称，这一消息已得到三星官方的证实。不幸...",
+      "url": "https://www.gsmarena.com/heres_when_samsungs_first_android_xr_glasses_are_finally_launching-news-74867.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-buds-on-announced/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-intelligent-eyewear-launch-month/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "华为Mate 90 Pro搭载双层OLED和麒麟9035，Mate 90升级...",
+      "title": "Android 的新侧载护栏现已在四个国家正式推出",
       "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "华为正在推出其下一代平板旗舰产品  Mate 90 RS 是山中之王，您可以在此处阅读有关它的更多信息，并在此处阅读有关 Mate 90 Pro Max 的更多信息。在这篇文章中，我们将介绍新款华为 Mate 90 和 ...",
-      "url": "https://www.gsmarena.com/the_huawei_mate_90_pro_brings_a_duallayer_oled_and_kirin_9035_mate_90_gets_upgraded_tele_camera-news-74852.php",
+      "date": "2026-10-02",
+      "summary": "早在今年春天，谷歌就宣布了在 Android 上侧载应用程序的新流程，至少可以说，Android 用户对此心情复杂。谷歌辩称，新规则可以防止诈骗者迫使人们安装恶意应用程序，目前有四个国家正在实施这些变化。现在，巴西、泰国...",
+      "url": "https://www.gsmarena.com/androids_new_sideloading_guardrails_are_now_official_in_four_countries-news-74868.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-90-mate-90-pro-official/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/06/android-developer-verification-app-sideloading-timeline/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "华为 Mate 90 RS 带来华丽的设计和 2TB 存储空间",
+      "title": "OnePlus 16 确认配备比前身大得多的电池",
       "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "全新的 Mate 90 Pro Max 本身就是一款令人印象深刻的手机，但华为还有一个更特别的版本，称为 Mate 90 RS Ultimate Design。它是对之前的 Ultimate Design 华为手机的致敬...",
-      "url": "https://www.gsmarena.com/huawei_mate_90_rs_brings_flashy_design_and_2tb_storage_trim-news-74851.php",
+      "date": "2026-10-02",
+      "summary": "在即将发布之前，OnePlus 已确认对 OnePlus 16 进行重大电池升级，而且是一次重大升级。该智能手机将于 10 月 12 日在中国首次亮相。公司高管李杰路易斯在微博上发帖透露，OnePlus 16 将配备 9...，带来多项升级",
+      "url": "https://www.gsmarena.com/oneplus_16_confirmed_to_pack_a_much_larger_battery_than_its_predecessor-news-74859.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-90-rs-ofic/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-16-battery-revealed/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "vivo V80 Lite开箱及上手",
-      "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "今天，我们对vivo V80 Lite进行开箱。这个vivo V80 Lite，具体来说，不是这个vivo V80 Lite针对印度市场。令人困惑，我们知道。全球发售的 vivo V80 Lite 有绿色、粉色和黑色我们...",
-      "url": "https://www.gsmarena.com/vivo_v80_lite_unboxing_and_handson-news-74827.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-v80-lite-ifr/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新款 HMD Android 手机规格泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "根据 HMD 相关泄密和谣言的可靠来源，该公司正在开发另一款低端 Android 手机以加入其产品组合。目前尚不清楚这款手机的名称，但据称代号为Darkhawk。对于该设备的规格来说，这个代号可能太酷了。据报道，它将配备...",
-      "url": "https://www.gsmarena.com/specs_for_a_new_hmd_android_phone_leak-news-74849.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/hmd-darkhawk-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为 Mate 90 Pro Max 首发，配备 1 英寸模块化摄像头、12...",
-      "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "华为在中国推出了最新的Mate 90系列手机，其中Mate 90 Pro Max位居榜首。该手机配备 69 英寸大显示屏，后置三摄像头设置，并支持独特的 1 英寸模组摄像头系统。Mate 90 Pro Max 上的三后置...",
-      "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_debuts_with_a_1inch_modular_camera_12000nit_display_and_6800mah_battery-news-74850.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/huawei-mate-90-pro-max-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo Y600 5G来了，大家会熟悉的",
-      "source": "GSMArena",
-      "date": "2026-10-01",
-      "summary": "vivo Y600 5G刚刚在Google Play Console上架，型号为V2626。其型号显示，它将与马来西亚的 V80 Lite 5G 以及印度的 S2 FE 是同一设备，后者将于 10 月 6 日推出。Goo...",
-      "url": "https://www.gsmarena.com/vivo_y600_5g_is_coming_and_it_will_be_familiar-news-74846.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/vivo-y600-5g-google-play-console/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "贝尔金超薄 10K 磁性电池组在 Prime Day 早期大幅降价",
+      "title": "这款 Android 旗舰产品的疯狂相机硬件很快就会与疯狂的价格相匹配",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "Belkin 的 10000mAh Qi2 磁性移动电源在亚马逊上降至 5999 美元，这是我们今年见过的最优惠价格。",
-      "url": "https://www.androidauthority.com/belkin-qi2-15w-slim-magnetic-power-bank-deal-3717087/",
+      "date": "2026-10-02",
+      "summary": "全球定价可能与买家在中国看到的非常不同。",
+      "url": "https://www.androidauthority.com/oppo-find-x10-pro-max-global-price-leak-3718487/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "Corsair 的 Harpoon v2 无线游戏鼠标具有三模式连接，现价 ...",
+      "title": "好评如潮的 Bose SoundLink Plus 扬声器在亚马逊促销中降至...",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "此次 Prime Day 优惠将 Corsair Harpoon v2 Wireless 降价 29，这是一款具有 3 种连接方式的轻型游戏鼠标。",
-      "url": "https://www.androidauthority.com/corsair-harpoon-v2-wireless-gaming-mouse-deal-3717130/",
+      "date": "2026-10-02",
+      "summary": "在 Amazon 购买 Bose SoundLink Plus 可节省 33。这款坚固耐用的便携式扬声器具有 20 小时的电池续航时间和 USBC 充电功能。",
+      "url": "https://www.androidauthority.com/bose-soundlink-plus-deal-3717595/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "今年 10 月您需要尝试的 6 款最佳 Android 新应用",
+      "title": "Visible 将在未来五年内为你的电话费节省 5 美元",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "本月的版本包括一个有用的人工智能图库搜索工具、一个新的网络广播流媒体和一个奖励应用程序！",
-      "url": "https://www.androidauthority.com/best-new-android-apps-games-october-2026-3717818/",
+      "date": "2026-10-02",
+      "summary": "到 2031 年，新的转换者可以锁定较低的月费。",
+      "url": "https://www.androidauthority.com/visible-five-years-promo-3718372/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "亚马逊将贝尔金 16 合 1 三显示屏 USB-C 扩展坞降价至今年最优惠价...",
+      "title": "Bose Smart Ultra Soundbar 提前降价 32%",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "购买 Belkin 的 16 合 1 三重显示 USBC 扩展坞可节省 20，该扩展坞是一款 16 端口设置，支持三重 4K 和 25Gb 以太网。",
-      "url": "https://www.androidauthority.com/belkin-16-in-1-triple-display-usb-c-dock-deal-3717074/",
+      "date": "2026-10-02",
+      "summary": "Bose Smart Ultra Soundbar 在亚马逊的售价降至 679 美元，这是 2026 年迄今为止杜比全景声 Dolby Atmos 和更清晰对话的最佳价格。",
+      "url": "https://www.androidauthority.com/bose-smart-ultra-soundbar-prime-deal-3717578/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "我们担心的 Galaxy S26 涨价来了",
+      "title": "三星Galaxy A系列刚刚在美国遭遇大幅涨价的打击",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "Galaxy S26 系列的所有型号现在价格上涨了 100 美元，而 1TB Galaxy S26 Ultra 的涨幅更大。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-series-price-increase-3717926/",
+      "date": "2026-10-02",
+      "summary": "600 美元的 Galaxy A57 5G 听起来怎么样？",
+      "url": "https://www.androidauthority.com/samsung-galaxy-a-series-phones-price-hike-3718522/",
       "tags": [
         "三星"
       ],
@@ -182,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "Android备受争议的新侧载规则正式发布，新机正式登场",
+      "title": "人工智能概述正在扼杀网站吗？法院刚刚站在谷歌一边",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "谷歌的开发者验证规则已经惠及第一批Android用户。",
-      "url": "https://www.androidauthority.com/android-sideloading-developer-verification-first-wave-rollout-3717921/",
+      "date": "2026-10-02",
+      "summary": "这标志着出版商今年在针对谷歌人工智能概览的法律斗争中遭遇第二次重大挫折。",
+      "url": "https://www.androidauthority.com/google-ai-overviews-publisher-lawsuit-win-3718333/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "移至 2 天手机：OnePlus 16 可能会成为 3 天手机，并确认升级",
+      "title": "PS3 游戏占用 Android 设备存储空间？此 ARMSX3 功能非常适...",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "9000mAh 电池听起来如何？",
-      "url": "https://www.androidauthority.com/oneplus-16-battery-size-confirmed-3717911/",
+      "date": "2026-10-02",
+      "summary": "ARMSX3 现在可以播放 CHD 文件，它提供的文件大小比传统 ISO 文件小得多。",
+      "url": "https://www.androidauthority.com/armsx3-ps3-emulator-android-chd-files-3718329/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "Android 很快就能让你无需触摸手机即可触发紧急求救",
+      "title": "T-Mobile 泄露的 T-Mix 计划比我们想象的要复杂得多，核心配置曝...",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "谷歌的个人安全应用程序很快就能让你用语音触发 SOS",
-      "url": "https://www.androidauthority.com/android-voice-activated-emergency-sos-personal-safety-3717858/",
+      "date": "2026-10-02",
+      "summary": "新产品阵容可能会改变 TMobile 客户享受福利和电话优惠的方式。",
+      "url": "https://www.androidauthority.com/t-mobile-t-mix-plans-pricing-picks-perks-leak-3718282/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "iGarden K70 让您的泳池在叶季保持良好状态，现立减 550 美元",
+      "title": "我认为谷歌在 Pixel 11 Pro XL 上犯了一个错误。 30天后，我...",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "今年秋天，利用 iGarden 的 Prime Big Deals Day 折扣，实现泳池清洁自动化。",
-      "url": "https://www.androidauthority.com/igarden-pool-cleaner-k70-3717200/",
+      "date": "2026-10-02",
+      "summary": "如果你能捂住鼻子，Pixel 11 Pro XL 就值得了。",
+      "url": "https://www.androidauthority.com/i-thought-google-made-mistake-pixel-11-pro-xl-wrong-why-3717023/",
       "tags": [
         "安卓"
       ],
@@ -230,13 +230,13 @@
       "type": "news"
     },
     {
-      "title": "三星首款 Android XR 智能眼镜终于有了发布窗口，新机正式登场",
+      "title": "你无法使用 Meta 的 Muse 发现我的 4 个主要原因",
       "source": "Android Authority",
-      "date": "2026-10-01",
-      "summary": "FCC 的出现是一个线索。现在，三星首款人工智能眼镜可能还要几周时间才会面世。",
-      "url": "https://www.androidauthority.com/samsung-smart-glasses-launch-date-3717873/",
+      "date": "2026-10-02",
+      "summary": "尽管我非常喜欢人工智能，但在目前的状态下很难相信它，这对 Muse 来说更是如此。",
+      "url": "https://www.androidauthority.com/meta-muse-why-avoid-3714199/",
       "tags": [
-        "三星"
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
