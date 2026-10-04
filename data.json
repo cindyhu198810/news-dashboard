@@ -1,11 +1,119 @@
 {
-  "updated": "2026-10-03 13:32",
+  "updated": "2026-10-04 14:10",
   "news": [
     {
-      "title": "华为Watch GT 7 Pro评测，真实体验如何？",
+      "title": "Our 红米 Note 17 4G battery life and cha...",
+      "source": "GSMArena",
+      "date": "2026-10-04",
+      "summary": "Does a market for 4G phones still exist Xiaomi thinks so so it released the Redmi Note 17 4G Weve already look...",
+      "url": "https://www.gsmarena.com/our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/redmi-note-17-4g-battery-and-charge-test/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Deals: Amazon's early Prime Deals slas...",
+      "source": "GSMArena",
+      "date": "2026-10-04",
+      "summary": "Amazon will kick off Prime Deal Days on October 6 Tuesday next week The sales event will run for two days but ...",
+      "url": "https://www.gsmarena.com/deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-2/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
+    {
+      "title": "This is when the Honor Magic9 series i...",
+      "source": "GSMArena",
+      "date": "2026-10-04",
+      "summary": "Honor launched the Magic9 Magic9 Super and Magic9 Pro Max in China a few days ago If the devices interest you ...",
+      "url": "https://www.gsmarena.com/this_is_when_the_honor_magic9_series_is_landing_in_europe-news-74887.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-magic9-series-european-launch-month/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO 16 is headed to India, but at wha...",
+      "source": "GSMArena",
+      "date": "2026-10-04",
+      "summary": "The iQOO 16 became official in China earlier this week Now if youve been wondering whether it will be availabl...",
+      "url": "https://www.gsmarena.com/iqoo_16_is_headed_to_india_but_at_what_price-news-74888.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-16-india/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "WhatsApp's Restricted Chat feature is ...",
+      "source": "GSMArena",
+      "date": "2026-10-04",
+      "summary": "Last month we learned that WhatsApp was developing a feature called Restricted Chat as an upgrade to Advanced ...",
+      "url": "https://www.gsmarena.com/whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-restricted-chat-feature-android-ios-beta-rollout/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Honor Magic9 series is official, Motor...",
+      "source": "GSMArena",
+      "date": "2026-10-04",
+      "summary": "Honor unveiled its Magic9 flagship series in China consisting of the Magic9 Magic9 Super Edition and the range...",
+      "url": "https://www.gsmarena.com/honor_magic9_series_is_official_motorolas_wide_foldable_coming_week_40_in_review-news-74882.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/week-40-in-review/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "谷歌's Pixel 10a gets $100 more expensiv...",
       "source": "GSMArena",
       "date": "2026-10-03",
-      "summary": "华为 Watch GT 系列始终如一地融合了优质的制造质量、广泛的健康和活动追踪功能以及顶级的电池续航能力，Watch GT 7 Pro 也采用了同样的配方，同时彻底改变了运动追踪体验。尽管采用了新的颜色和改进的表带系统...",
+      "summary": "Its definitely price hike season for smartphones these days Following Samsung raising its smartphone prices ju...",
+      "url": "https://www.gsmarena.com/googles_pixel_10a_gets_100_more_expensive-news-74889.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/google-pixel-10a-price-hike/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S25 series receiving One UI ...",
+      "source": "GSMArena",
+      "date": "2026-10-03",
+      "summary": "Samsung released the Android 17based One UI 9 stable update for the Galaxy S25 series a few days ago but the r...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s25_series_one_ui_9_stable_update_usa-news-74890.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/25/09/samsung-galaxy-s25-ultra-one-ui-8-5-test-build/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo teases the X Fold6 in India along...",
+      "source": "GSMArena",
+      "date": "2026-10-03",
+      "summary": "Last week vivo announced it would unveil the V80 on October 6 in India Later the company said it would also un...",
+      "url": "https://www.gsmarena.com/vivo_x_fold6_vivo_vision_india_launch_teaser-news-74891.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x-fold6-india-launch-teaser/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Huawei Watch GT 7 Pro 评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-10-03",
+      "summary": "Huaweis Watch GT series has consistently offered a blend of premium build quality extensive health and activit...",
       "url": "https://www.gsmarena.com/huawei_watch_gt_7_pro_review-news-74802.php",
       "tags": [
         "安卓"
@@ -14,118 +122,70 @@
       "type": "news"
     },
     {
-      "title": "优惠：三星可折叠手机的 Prime Day 早期优惠现已上线，Pixel 1...",
-      "source": "GSMArena",
-      "date": "2026-10-03",
-      "summary": "亚马逊的 Prime Big Deal Days 促销将于 10 月 6 日开始，但这家电子商务巨头已经在部分设备上提供早期优惠。但是，您需要成为亚马逊 Prime 会员才能享受折扣。最新的 Galaxy Z 可折叠手机...",
-      "url": "https://www.gsmarena.com/deals_early_prime_day_deals_on_samsung_foldables_now_live_pixel_11_pro_and_galaxy_s26_ultra_discount-news-74885.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-2/-184x111/gsmarena_uk.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为Mate 90 Pro Max跑Geekbench，揭示麒麟9050 P...",
-      "source": "GSMArena",
-      "date": "2026-10-03",
-      "summary": "华为昨天在中国推出了四款新的 Mate 90 系列手机，功能更强大的 Pro Max 和 RS 型号配备了该品牌最新的 Kirin 9050 Pro 芯片组。虽然华为在其营销材料中没有透露太多有关 SoC 的信息，但 M...",
-      "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_runs_geekbench_revealing_kirin_9050_pro_performance__-news-74881.php",
+      "title": "Is your phone not charging? Try this s...",
+      "source": "Android Authority",
+      "date": "2026-10-04",
+      "summary": "How to clean your phones USBC port and fix charging",
+      "url": "https://www.androidauthority.com/usb-c-port-cleaning-3716899/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/kirin-9050-pro-geekbench/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Oppo Find X10和Find X10 Pro Max泄露的欧洲价格令...",
-      "source": "GSMArena",
-      "date": "2026-10-03",
-      "summary": "由于人工智能数据中心的需求，内存和存储芯片的价格比几年前高出许多倍，因此价格上涨是当今移动世界的游戏名称。即使知道所有这些，今天泄露的 Oppo Find X10 和 Find X10 Pro Max 的欧洲价格仍然相当...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_leaked_european_prices_are_shocking-news-74878.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-find-x10-pro-max-european-prices-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "据传荣耀的宽折叠屏即将推出",
-      "source": "GSMArena",
-      "date": "2026-10-03",
-      "summary": "如果你相信谣言，那么荣耀已经在相当长的一段时间内致力于开发自己的宽折叠式产品。上次我们听到有关它的任何消息，它显然应该在今年年底推出。然而，根据微博上一位知名泄密者的新谣言，这不会完全发生。相反，据称荣耀将在一月份推出其...",
-      "url": "https://www.gsmarena.com/heres_when_honors_wide_foldable_is_now_rumored_to_launch-news-74886.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-wide-foldable-launch-month/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星显示器 (三星 Display) 开始为 Galaxy S27 系列批量...",
-      "source": "GSMArena",
-      "date": "2026-10-02",
-      "summary": "今天早些时候，我们报道了这样一个事实：三星显然已经开始批量生产 Exynos 2700 芯片组，该芯片组将用于即将推出的 Galaxy S27 系列。但这还不是全部。据韩国另一份报道称，三星显示器公司正准备本月开始批量生...",
-      "url": "https://www.gsmarena.com/samsung_display_to_start_mass_amoled_production_for_the_galaxy_s27_series-news-74884.php",
+      "title": "Your 三星 Gallery app finally syncs with...",
+      "source": "Android Authority",
+      "date": "2026-10-04",
+      "summary": "For better or worse OneDrives gone",
+      "url": "https://www.androidauthority.com/samsung-gallery-google-photos-sync-how-use-3717795/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-series-amoled-mass-production/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "iPhone 18 Pro Max 在 AT&T 上的连接问题显然并未在 i...",
-      "source": "GSMArena",
-      "date": "2026-10-02",
-      "summary": "继 9 月初首次发布 iOS 27 后，本周早些时候，苹果发布了 iOS 2701。该更新修复了导致新推出的 iPhone 18 Pro 和 iPhone 18 Pro Max 在 Face ID 身份验证失败后重启的问...，带来多项升级",
-      "url": "https://www.gsmarena.com/iphone_18_pro_max_connectivity_issue_on_at_t_isnt_fixed_by_ios_2701_apparently-news-74883.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/att-iphone-18-pro-max-connectivity-issue/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 谷歌book 出现在 Geekbench 上，搭载 Snapdrago...",
-      "source": "GSMArena",
-      "date": "2026-10-02",
-      "summary": "Google 不满足于拥有一种笔记本电脑平台，因此推出了 GooglebooksAndroid 驱动的笔记本电脑。该平台的官方页面列出了宏碁、华硕、戴尔、惠普和联想的笔记本电脑。现在看来，三星很快就会加入这个行列，推出自...",
-      "url": "https://www.gsmarena.com/samsung_googlebook_appears_on_geekbench_with_a_snapdragon_x_elite_chipset-news-74880.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-googlebook-geekbench-result/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星开始量产 Exynos 2700 芯片，Galaxy S27 Ultra...",
-      "source": "GSMArena",
-      "date": "2026-10-02",
-      "summary": "据韩国出版物 The Elec 报道，三星已开始批量生产 Exynos 2700 芯片组。据报道，该公司将生产目标设定为比 Exynos 2600 目标高出 10 以上，以适应 S 系列家族的新成员Galaxy S27 ...",
-      "url": "https://www.gsmarena.com/samsung_starts_mass_producing_exynos_2700_chip_galaxy_s27_ultra_decision_still_up_in_the_air-news-74879.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-exynos-2700-starts-mass-production/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "AT&T、Verizon 和 T-Mobile 正式成立合资企业以消除盲区",
-      "source": "GSMArena",
-      "date": "2026-10-02",
-      "summary": "早在 5 月份，ATT、Verizon 和 TMobile 就宣布了一项原则协议，将创建一家合资企业，致力于消除美国各地的盲区。近五个月后的今天，该合资企业终于正式启动。保罗罗斯将担任新公司的临时首席执行官，同时正在积极...",
-      "url": "https://www.gsmarena.com/at_t_verizon_and_tmobile_officially_launch_joint_venture_to_end_dead_zones-news-74870.php",
+      "title": "This 2025 Motorola phone is quietly be...",
+      "source": "Android Authority",
+      "date": "2026-10-04",
+      "summary": "The Motorola Edge 70 flew under the radar but I love it",
+      "url": "https://www.androidauthority.com/motorola-edge-70-becoming-favorite-android-phone-3715468/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/att-verizon-t-mobile-joint-venture/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "这 9 个 Thunderbird 功能让我永远放弃 Gmail",
+      "title": "I tried Duolingo for the first time in...",
+      "source": "Android Authority",
+      "date": "2026-10-04",
+      "summary": "This isnt the Duolingo I remember",
+      "url": "https://www.androidauthority.com/using-duolingo-after-one-year-bad-alternatives-3717701/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "After a month with the Galaxy Z Fold 8...",
+      "source": "Android Authority",
+      "date": "2026-10-04",
+      "summary": "A month with the Galaxy Z Fold 8 has quietly ruined every other phone for me",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-one-monther-later-3710165/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "These 9 Thunderbird features made me d...",
       "source": "Android Authority",
       "date": "2026-10-03",
-      "summary": "具有更酷和更好功能的失败者",
+      "summary": "The underdog with cooler and better features",
       "url": "https://www.androidauthority.com/ditched-gmail-for-thunderbird-why-3716057/",
       "tags": [
         "安卓"
@@ -134,10 +194,10 @@
       "type": "news"
     },
     {
-      "title": "我使用 Pixel 的新电池摘要一周了——谷歌还有工作要做",
+      "title": "I used Pixel’s new battery summaries f...",
       "source": "Android Authority",
       "date": "2026-10-03",
-      "summary": "电池总结还有很长的路要走。",
+      "summary": "Battery summaries have a long way to go",
       "url": "https://www.androidauthority.com/pixel-battery-summaries-hands-on-3718048/",
       "tags": [
         "安卓"
@@ -146,10 +206,10 @@
       "type": "news"
     },
     {
-      "title": "最好的 Snapdragon 8 Gen 5 系列芯片是什么？我测试了所有这...",
+      "title": "What’s the best Snapdragon 8 Gen 5 ser...",
       "source": "Android Authority",
       "date": "2026-10-03",
-      "summary": "CPU 测试按预期进行，但 GPU 基准测试则完全是另一回事。",
+      "summary": "CPU testing goes about as expected but GPU benchmarking is another story altogether",
       "url": "https://www.androidauthority.com/all-snapdragon-8-gen-5-chips-tested-3704993/",
       "tags": [
         "安卓"
@@ -158,10 +218,10 @@
       "type": "news"
     },
     {
-      "title": "我讨厌 Android 品牌抄袭 苹果，但 iPhone Duo 是个例外",
+      "title": "I hate when Android brands copy 苹果 — b...",
       "source": "Android Authority",
       "date": "2026-10-03",
-      "summary": "iPhone Duo 可以让 Android 可折叠设备变得更好。",
+      "summary": "The iPhone Duo could make Android foldables much better",
       "url": "https://www.androidauthority.com/hate-when-android-copies-apple-iphone-duo-exception-3716696/",
       "tags": [
         "苹果"
@@ -170,73 +230,13 @@
       "type": "news"
     },
     {
-      "title": "我的三星手机充满了屏幕截图。这个快速技巧解决了它",
+      "title": "My 三星 phone was full of screenshots. T...",
       "source": "Android Authority",
       "date": "2026-10-03",
-      "summary": "本地应该可以做到这一点。",
+      "summary": "It should be possible to do this natively",
       "url": "https://www.androidauthority.com/samsung-phone-full-screenshots-fixed-how-3715634/",
       "tags": [
         "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "联想智能时钟终于恢复天气预报了",
-      "source": "Android Authority",
-      "date": "2026-10-02",
-      "summary": "再也不用像傻瓜一样去外面检查了！",
-      "url": "https://www.androidauthority.com/lenovo-smart-clock-weather-3718711/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "促销：三星 Galaxy S26 FE 首次降价",
-      "source": "Android Authority",
-      "date": "2026-10-02",
-      "summary": "在亚马逊购买新款三星 Galaxy S26 FE 即可享受优惠，并获得 67 英寸 AMOLED 显示屏、120Hz 刷新率和 Galaxy AI。",
-      "url": "https://www.androidauthority.com/deal-samsung-galaxy-s26-fe-3718767/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android Auto 的信号栏终于回归仪表板",
-      "source": "Android Authority",
-      "date": "2026-10-02",
-      "summary": "Android Auto 的信号栏丢失了几个月，但修复终于来了。",
-      "url": "https://www.androidauthority.com/android-auto-signal-bar-icon-return-3718732/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "YouTube 正在清理 Shorts 中最糟糕的部分之一",
-      "source": "Android Authority",
-      "date": "2026-10-02",
-      "summary": "为省力短裤提供更少的呼吸空间。",
-      "url": "https://www.androidauthority.com/youtube-shorts-promoting-original-content-reposts-3718668/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌以 Android 17 QPR 3 Beta 1 结束本周",
-      "source": "Android Authority",
-      "date": "2026-10-02",
-      "summary": "抢先一睹 Android 2027 年的发展方向！",
-      "url": "https://www.androidauthority.com/android-17-qpr-3-beta-1-3718741/",
-      "tags": [
-        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
