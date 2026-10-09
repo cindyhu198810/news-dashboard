@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-08 15:44",
+  "updated": "2026-10-09 15:23",
   "news": [
     {
-      "title": "尽管 iPhone Air 2 的电池续航时间比前代产品更长，但 iPhon...",
+      "title": "RedMagic 12 Pro+ 正在成为 RGB 爱好者的梦想",
       "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "据新传言，预计将于明年春季与 iPhone 18 和 iPhone 18e 一起推出的 iPhone Air 2 将比其前身更薄。有多薄？ 52毫米。这比 2025 年的初代 iPhone Air 薄了 04 毫米。显然...",
-      "url": "https://www.gsmarena.com/heres_how_thin_the_iphone_air_2_will_be_despite_having_better_battery_life_than_its_predecessor-news-74952.php",
+      "date": "2026-10-09",
+      "summary": "RedMagic 即将推出的旗舰产品 12 Pro 将于下周在中国推出。在最近透露了手机的设计和颜色选项后，该品牌现在分享了有关该设备冷却系统的详细信息。该公司在微博上发布消息称，RedMagic 12 Pro将是全球首...，带来多项升级",
+      "url": "https://www.gsmarena.com/the_redmagic_12_pro_is_shaping_up_to_be_an_rgb_lovers_dream-news-74978.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-12-pro-plus-rgb-liquid-cooling/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "7 月至 9 月计算机市场出货量下降 20%",
+      "source": "GSMArena",
+      "date": "2026-10-09",
+      "summary": "IDC最新数据显示，今年第三季度79月全球电脑出货量较去年同期下降201，达到6270万台。这是继第二季度 38 的小幅下降之后连续第二个季度出现下降。第三季度的出货量也较上一季度下降了 91，因此该行业的形势不容乐观。...",
+      "url": "https://www.gsmarena.com/computer_market_shipments_fell_20_between_july_and_september-news-74976.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/pc-market-decline-q3/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "全球小米 18 Pro Max 的芯片组和 RAM 数量已通过基准测试",
+      "source": "GSMArena",
+      "date": "2026-10-09",
+      "summary": "小米已经确认，与去年的前辈不同，小米18 Pro和18 Pro Max将在国际上推出。因此，随着传闻 18 Ultra 被取消，18 Pro Max 基本上将成为该公司进入 2027 年的旗舰智能手机。现在，其全球版本已...",
+      "url": "https://www.gsmarena.com/global_xiaomi_18_pro_max_has_its_chipset_and_ram_amount_confirmed_by_a_benchmark-news-74977.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/xiaomi-18-pro-max-global-geekbench-ai/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus 15 在正式操作系统发布前几天收到 ColorOS 17 O...",
+      "source": "GSMArena",
+      "date": "2026-10-09",
+      "summary": "Oppo 正式确认 ColorOS 17 将于下周 10 月 13 日全球发布，OnePlus 刚刚开放注册，供 OnePlus 用户抢先体验该软件。值得注意的是，这并不是 OnePlus 播种的软件的最终版本，当然，它...，带来多项升级",
+      "url": "https://www.gsmarena.com/oneplus_15_receives_coloros_17_open_beta_just_days_before_the_official_os_launch-news-74973.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-15-coloros17-open-beta/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus 16 显示屏规格已确认",
+      "source": "GSMArena",
+      "date": "2026-10-09",
+      "summary": "OnePlus 16 将于下周正式上市，在大型发布会之前，该品牌透露了即将推出的旗舰产品的更多关键信息。该手机将配备 BOE X4 LTPO OLED 显示屏。该面板将带来 15K 分辨率和高达 185Hz 的刷新率，但...，带来多项升级",
+      "url": "https://www.gsmarena.com/oneplus_16_display_specs_confirmed-news-74972.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-16-display-specs/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "报告：需求疲软苹果削减iPhone 18 Pro系列零部件订单",
+      "source": "GSMArena",
+      "date": "2026-10-09",
+      "summary": "据一份新报告称，苹果已要求部分供应商减少 iPhone 18 Pro 和 iPhone 18 Pro Max 的零部件产量。该报道援引知情人士的话称，苹果将 10 月份的零部件订单削减了 15。据报道，此次削减是由于内存...",
+      "url": "https://www.gsmarena.com/apple_reportedly_cuts_iphone_18_pro_series_component_orders_amid_weak_demand-news-74971.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-air-2-thinness/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-cuts-iphone-18-pro-max-production-report/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Oppo Find X10 和 Pro Max 拆箱和上手",
+      "title": "Oppo 宽屏手机 Surface 的新细节",
       "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "这是 Oppo Find X10 系列的首次亮相，该系列将于 10 月 21 日全球上市。Oppo Find X10 Pro Max 和 Find X10 于 9 月底在中国推出，所以我们知道其规格。至少，我们知道起点。...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_and_pro_max_unboxing_and_handson-news-74959.php",
+      "date": "2026-10-09",
+      "summary": "关于 Oppo 宽屏旗舰智能手机的传言已经流传了一段时间。新的泄漏现在透露了有关该设备的显示宽高比和整体宽度的详细信息。Tipster Digital Chat Station 声称 Oppo 的宽屏智能手机传闻称为 R...",
+      "url": "https://www.gsmarena.com/new_details_about_oppos_widescreen_phone_surface-news-74970.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10s-hands-on/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-wide-screen-phone-display-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "WhatsApp 正在其应用程序中创建一个新的“联系人”选项卡",
+      "title": "Gurman：苹果将于 10 月 27 日发布触摸屏 MacBook，新机正...",
       "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "WhatsApp 目前正在其 Android 应用程序中测试专用的联系人选项卡。它显示在最新的测试版中，注册测试版计划的用户可以通过 Google Play 商店下载该版本。因此，它仍然是一项正在进行的工作，尚未提供给所...",
-      "url": "https://www.gsmarena.com/whatsapp_is_creating_a_new_contacts_tab_in_its_app-news-74950.php",
+      "date": "2026-10-09",
+      "summary": "昨天，有报道称苹果计划本月推出两款单独的产品。虽然该公司已确认首次活动定于 10 月 13 日举行，但彭博社的马克古尔曼 Mark Gurman 现在透露了第二次活动的举行时间。古尔曼援引熟悉苹果计划的消息人士称，第二次...",
+      "url": "https://www.gsmarena.com/gurman_apple_to_announce_its_touchscreen_macbook_on_october_27-news-74969.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/gurman-apple-october-27-event-report/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO Neo12的显示屏可能很特别",
+      "source": "GSMArena",
+      "date": "2026-10-09",
+      "summary": "iQOO Neo11于去年10月发布，所以现在它的继任者几乎随时都会出现。根据微博数码闲聊站的最新传闻，iQOO Neo12可能配备了一块非常独特的屏幕。据称，中国显示面板制造商维信诺正在开发一款具有2K分辨率和 185...，带来多项升级",
+      "url": "https://www.gsmarena.com/iqoo_neo12s_display_could_be_very_special-news-74967.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-new-contacts-tab/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-neo12-screen/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "报告：三星第四季度智能手机产量削减高达 30%",
+      "title": "红米 Turbo 6 Max 可能配备 10,000mAh 电池和 7 英寸...",
       "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "持续的存储芯片危机几个月来一直困扰着科技公司，韩国Money Today的一份新报告显示，三星准备大幅削减智能手机产量。报道称，三星移动体验MX已经与供应商联系，要求将其产量减少 2030。这是专门针对第四季度即 10 ...",
-      "url": "https://www.gsmarena.com/report_samsung_is_cutting_up_to_30_of_its_smartphone_production_in_q4_-news-74955.php",
+      "date": "2026-10-09",
+      "summary": "小米今年早些时候推出了 Redmi Turbo 5 Max，配备 9000mAh 电池和 683 英寸显示屏。现在，有新的传言表明，其继任者 Redmi Turbo 6 Max 可能配备更大的电池和显示屏。Tipster...",
+      "url": "https://www.gsmarena.com/the_redmi_turbo_6_max_could_offer_a_10000mah_battery_and_a_7inch_display-news-74961.php",
       "tags": [
-        "三星"
+        "小米"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/report-samsung-30-percent-reduction-smartphone-production-q4/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/redmi-turbo-6-max-specs-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Oppo Find X10 和 Find X10 Pro Max 将于 10...",
-      "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "继上个月在中国推出 Find X10 系列后，Oppo 现在已确认该手机何时在全球市场推出。不过，似乎只有 Find X10 和 Find X10 Pro Max 会进入国际市场。Oppo Find X10 和 Find...",
-      "url": "https://www.gsmarena.com/heres_when_the_oppo_find_x10_and_find_x10_pro_max_will_launch_globally-news-74957.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-global-launch/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星电子公布 2026 年第三季度盈利指引",
-      "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "三星电子公布了 2026 年第三季度7 月至 9 月的盈利预期。三星表示，该季度的综合销售额约为 195 万亿韩元14533 亿美元，综合营业利润约为 10740 万亿韩元800 亿美元。相比之下，三星2026年第二季度...",
-      "url": "https://www.gsmarena.com/samsung_q3_2026_earnings_guidance-news-74956.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/25/10/samsung-q3-earnings-guidance/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "微软公布 Surface Laptop Ultra 价格和供货情况",
-      "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "今年早些时候在 Computex 上宣布的 Microsoft Surface Laptop Ultra 终于可以预订了。这款旗舰笔记本电脑由 Nvidia 的 RTX Spark SoC 提供支持，并将与苹果传闻中的 ...",
-      "url": "https://www.gsmarena.com/microsoft_reveals_surface_laptop_ultra_price_and_availability-news-74953.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/microsoft-surface-laptop-ultra-price-availability/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "RedMagic 12 Pro+ 设计和颜色选项在发布前公布，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "RedMagic 12 Pro 将于 10 月 15 日在中国推出。在发布之前，该公司已经透露了这款手机的完整设计和颜色选项，现已开始预订。RedMagic 在微博上发帖证实，12 Pro 将采用该公司标志性的透明设计、...，带来多项升级",
-      "url": "https://www.gsmarena.com/redmagic_12_pro_design_and_color_options_revealed_ahead_of_launch-news-74954.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-12-pro-plus-design-colors/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "现在每个人都可以检查图像、视频或音频文件是否是由 AI 制作的",
-      "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "从今天开始，Google 将以英语向全球所有人提供其 SynthID Detector 工具。该工具可用于查明图像、视频或音频文件是否是使用 Google、OpenAI、Nvidia 或 Kakao 的 AI 制作的。很...",
-      "url": "https://www.gsmarena.com/everyone_can_now_check_if_an_image_video_or_audio_file_was_made_with_ai-news-74951.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/google-synthid-detector/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉向 Razr Ultra 2026 推出 Android 17",
-      "source": "GSMArena",
-      "date": "2026-10-08",
-      "summary": "获得 Android 17 更新的最新摩托罗拉设备是 Razr Ultra 2026。这款手机现已在美国接收最新版本的 Android。InlinePriceWidget146381该更新通过无线方式下载，下载量高达 4...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/motorola_rolls_out_android_17_to_the_razr_ultra_2026-news-74949.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/motorola-razr-ultra-2026-android-17-update/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "购买新的运营商？ Mint 现在的无限数据价格为 10 美元/月",
+      "title": "促销：CMF Watch Pro 2 在亚马逊上刚刚创下 36 美元的历史新...",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "半年无线服务 60 美元是无与伦比的。",
-      "url": "https://www.androidauthority.com/mint-mobile-10-deal-3720811/",
+      "date": "2026-10-09",
+      "summary": "Watch Pro 2 降价 27，使这款配备 AMOLED、GPS 和蓝牙通话功能的廉价智能手表降价至历史新低。",
+      "url": "https://www.androidauthority.com/deal-cmf-watch-pro-2-2-3721405/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "YouTube Music 正在测试带有庞大专辑封面标题的全新外观",
+      "title": "我们距离为 AI 代理构建的桌面体验又近了一步，这就是它的样子",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "如果您喜欢专辑封面，您一定会喜欢新专辑和播放列表页面。",
-      "url": "https://www.androidauthority.com/youtube-music-album-playlist-redesign-3720792/",
+      "date": "2026-10-09",
+      "summary": "Open Swarm 与其他三个人工智能工具一起出现在本周的综述中。",
+      "url": "https://www.androidauthority.com/new-ai-apps-services-open-swarm-3721189/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "限量版 Bose QuietComfort Ultra 2nd Gen 创下...",
+      "title": "Anker 的新型 SOLIX 便携式发电站以某种方式缩小，同时容纳比以往更...",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "限量版 Driftwood Sand 配色在亚马逊上刚刚跌至 369 美元，现在是一个诱人的购买时机。",
-      "url": "https://www.androidauthority.com/limited-edition-bose-quietcomfort-ultra-2nd-gen-deal-3720819/",
+      "date": "2026-10-09",
+      "summary": "Anker 最新的 5kWh 级 SOLIX S5000 也是其迄今为止最强大的便携式解决方案。",
+      "url": "https://www.androidauthority.com/anker-solix-s5000-portable-power-station-3720694/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌地图可以为 Ask Maps 提供关键的聊天共享升级",
+      "title": "Gmail Live 可能很快就会获得一些新的声音，由 Gemini 提供",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "未来的地图更新可能会在链接的帮助下显着改进共享询问地图对话。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/google-ask-maps-share-conversation-apk-teardown-3720761/",
+      "date": "2026-10-09",
+      "summary": "共有七个新声音可能会出现在 Gmail Live 上。",
+      "url": "https://www.androidauthority.com/gmail-live-android-new-voices-apk-teardown-3721242/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "Android 很快就能把你的游戏手柄变成鼠标",
+      "title": "谷歌 Chat 可能很快就会针对表情符号进行 HDR 升级？",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "对于可访问性来说可能很大。",
-      "url": "https://www.androidauthority.com/android-gamepad-mouse-3720781/",
+      "date": "2026-10-09",
+      "summary": "隐藏的设置指向支持的显示器上更明亮、对比度更高的表情符号。",
+      "url": "https://www.androidauthority.com/google-chat-hdr-emoji-support-apk-teardown-3721301/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "您现在可以在 Mac 上运行 谷歌book 操作系统，当然是非官方的",
+      "title": "您的 PS5 现在可以以高达 120 FPS 的速度模拟 PS2 游戏（附加...",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "开源安装程序脚本可让 Apple Silicon Mac 用户在虚拟机内测试 Google 的新桌面操作系统。",
-      "url": "https://www.androidauthority.com/googlebook-os-apple-silicon-mac-gbos-vm-3720744/",
+      "date": "2026-10-09",
+      "summary": "新的 PS5SX2 v200 更新带来了帧生成和 8 倍缩放，但 PS5 上的模拟器需要相当简单的越狱。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/ps5sx2-emulator-v2-update-ps5-3721322/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "一些廉价的 Android 手机出厂时就内置了恶意软件",
+      "title": "谷歌books 上的 Linux 应用程序支持令人失望，但 Breadsti...",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "午夜含羞草恶意软件到达时已保存。",
-      "url": "https://www.androidauthority.com/midnight-mimosa-malware-android-phones-3720493/",
+      "date": "2026-10-09",
+      "summary": "终端应用程序让您对 Android 和 Googlebooks 感到失望？然后您应该在 Play 商店下载 Breadsticks Linux。",
+      "url": "https://www.androidauthority.com/breadstick-linux-android-app-googlebooks-3721224/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌地图正在推出自己的米其林指南，而你就是明星",
+      "title": "一些 Gboard 用户突然无法输入大写字母",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "Google 地图重点关注 2026 年最受欢迎的餐馆和最大的食品趋势。",
-      "url": "https://www.androidauthority.com/google-maps-dining-list-2026-3720627/",
+      "date": "2026-10-09",
+      "summary": "Gboard 中的 Shift 键变得无响应，导致无法手动大写。",
+      "url": "https://www.androidauthority.com/gboard-shift-key-not-working-bug-3721254/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "最便宜的 谷歌 图书正在为某些用户提供引导循环",
+      "title": "Nothing 的音频产品线可能很快就会扩展到扬声器领域",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "您现在可能需要重新考虑 Acer Googlebook 14。",
-      "url": "https://www.androidauthority.com/acer-googlebook-14-bootloop-3720675/",
+      "date": "2026-10-09",
+      "summary": "型号为E495的 FCC 文件暗示该品牌可能很快就会推出一款便携式蓝牙扬声器。",
+      "url": "https://www.androidauthority.com/nothing-e495-portable-wireless-speaker-fcc-listing-3721241/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +230,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 Messages 中的广告文本不是我们想要的 - 这 5 个修复是",
+      "title": "Z Fold 8 是我用过的最好的任天堂 DS 模拟手机，但它并不完美",
       "source": "Android Authority",
-      "date": "2026-10-08",
-      "summary": "从更好的 RCS 交叉兼容性到改进的主题，Google 还有很多工作要做。",
-      "url": "https://www.androidauthority.com/google-messages-wanted-features-2026-3715768/",
+      "date": "2026-10-09",
+      "summary": "一两个问题使 Z Fold 8 无法成为完美的 DS 仿真机。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-nintendo-ds-emulation-hands-on-3716371/",
       "tags": [
         "安卓"
       ],
