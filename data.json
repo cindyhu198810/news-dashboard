@@ -1,11 +1,119 @@
 {
-  "updated": "2026-10-17 12:17",
+  "updated": "2026-10-18 12:40",
   "news": [
     {
-      "title": "Honor Win2 runs AnTuTu too, its coolin...",
+      "title": "每周投票：如果可以的话，你会买一加 16 吗？",
+      "source": "GSMArena",
+      "date": "2026-10-18",
+      "summary": "OnePlus 15 是该公司最后一款全球旗舰产品。自推出以来，一加就离开了全球市场，只专注于印度和中国。好吧，主要是在中国本周，该公司宣布了针对中国市场的 OnePlus 16。至于印度，关于 16 是否会上市的信息相...",
+      "url": "https://www.gsmarena.com/weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-oneplus-16/-184x111/gsmarena_0000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：Galaxy Z Fold8随iPhone Duo推出打折，其他可折叠...",
+      "source": "GSMArena",
+      "date": "2026-10-18",
+      "summary": "亚马逊的 Prime Big Deal Days 几乎吸收了上周所有的折扣，因此周末所剩无几。然而，本周我们看到了回归状态。三星 Galaxy Z Fold8 起售价为 1405 欧元。这是针对 12256GB 设备的，...",
+      "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
+    {
+      "title": "每周调查结果：Galaxy Tab S12+ 和 Tab S12 Ultra...",
+      "source": "GSMArena",
+      "date": "2026-10-18",
+      "summary": "上周调查中的一位评论者提出了一个有趣的观点三星 Galaxy Tab S12 Ultra 12256GB 型号的起价为 1400 美元，而且不带键盘，需要额外支付 380 美元。为什么不买一台 MacBook 呢？配备 ...",
+      "url": "https://www.gsmarena.com/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-samsung-galaxy-tab-s12-ultra-tab-s12-plus/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo V80接受评测，真实体验如何？",
+      "source": "GSMArena",
+      "date": "2026-10-18",
+      "summary": "这就是vivo V80，是的，就是我们本月早些时候处理过的V80。嗯，不同的单位这个是绿色的还是蓝色的？。无论是绿色的蓝色阴影还是蓝色的绿色阴影，我们都感到困惑。不管怎样，它比我们上次处理的 iPhone 橙色色调要好得...",
+      "url": "https://www.gsmarena.com/vivo_v80_in_for_review-news-75087.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-v80-ifr/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：最新 Galaxy 可折叠手机和 Galaxy S26 系列促销",
       "source": "GSMArena",
       "date": "2026-10-17",
-      "summary": "Honor is launching the Win2 in China on October 21 and not long ago it was purportedly spotted in the Geekbenc...",
+      "summary": "上周，我们报道了亚马逊的 Prime 大促销日以及随后的后果一些手机即使在周末也保持了 Prime 促销的促销价格，而另一些手机则恢复了价格。本周再次查看它们，我们发现所有手机现在的价格都更高了。无论如何，这是在亚马逊上...",
+      "url": "https://www.gsmarena.com/deals_the_galaxy_z8_and_galaxy_s26_models_are_on_sale-news-75085.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/-184x111/gsmarena_us.jpg",
+      "type": "news"
+    },
+    {
+      "title": "高通否认有关 Snapdragon 8 Elite Extreme Gen ...",
+      "source": "GSMArena",
+      "date": "2026-10-17",
+      "summary": "昨天，一家韩国新闻媒体分享了一些有关即将推出的三星 Galaxy S27 Ultra 的令人担忧的消息。报道称，三星正在考虑明年全面采用 Exynos，因为内部测试显示，新发布的 Snapdragon 8 Elite E...，带来多项升级",
+      "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/qualcomm-directx-12-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 官方 iPhone Duo 硅胶保护壳需要粘合剂",
+      "source": "GSMArena",
+      "date": "2026-10-17",
+      "summary": "如果您将 iPhone Duo 视为您的下一款甚至第一款可折叠手机，您可能还会考虑苹果的官方配件，例如 79 美元的硅胶保护壳或 129 美元的对开式保护壳。好吧，关于更便宜的手机壳，您需要了解一些事情，因为它有一个警告...",
+      "url": "https://www.gsmarena.com/apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-case-adhesive/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀Win2再次亮相全球首款2K 185Hz显示屏",
+      "source": "GSMArena",
+      "date": "2026-10-17",
+      "summary": "荣耀准备推出Win2系列，包括Win2本身、Win2 RT和Win2 Turbo。 Win2 系列将成为一个有趣的技术展示，因为它由主动冷却风扇和大容量电池定义  据说标准 Win2 提供 10100 mAh 电池，而 ...",
+      "url": "https://www.gsmarena.com/honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-display-teased/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Insider 透露三星计划彻底改造 One UI 10",
+      "source": "GSMArena",
+      "date": "2026-10-17",
+      "summary": "一位接近诺基亚超级用户的消息人士称，三星正计划对 One UI 进行彻底改革，并对整体理念进行重大转变。事实上，这家韩国科技巨头正在寻找各种方式在该领域进行创新，并有可能改变 Galaxy 用户与软件交互的方式。这些说法...",
+      "url": "https://www.gsmarena.com/insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-one-ui-9-reaches-us/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀Win2也运行安兔兔，散热风扇助其获得最高分",
+      "source": "GSMArena",
+      "date": "2026-10-17",
+      "summary": "荣耀将于 10 月 21 日在中国推出 Win2，不久前据称它出现在 Geekbench 在线数据库中，证实了其将搭载 Snapdragon 8 Elite Extreme Gen 6 SoC。现在，型号相同的 BRMA...",
       "url": "https://www.gsmarena.com/honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095.php",
       "tags": [
         "安卓"
@@ -14,118 +122,94 @@
       "type": "news"
     },
     {
-      "title": "Deals: iPhone Duo pre-orders begin as ...",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "Apples first foldable iPhone is now available for preorder but the iPhone Duo sold out quickly in most regions...",
-      "url": "https://www.gsmarena.com/deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096.php",
+      "title": "Firefox 的这个功能让我放弃了日常研究的便利贴",
+      "source": "Android Authority",
+      "date": "2026-10-18",
+      "summary": "我不知道我需要这个功能，现在我不能没有它！",
+      "url": "https://www.androidauthority.com/firefox-feature-ditch-sticky-notes-3720865/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Pixel 11 Pro 的 120 倍变焦很荒谬，但它真的有用吗？",
+      "source": "Android Authority",
+      "date": "2026-10-18",
+      "summary": "Pixel 11 Pro 的极限变焦非常有用，但其人工智能增强图像也有一些明显的警告。",
+      "url": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我已经成为智能家居用户 10 年了，苹果 HomeView 看起来就像一个游...",
+      "source": "Android Authority",
+      "date": "2026-10-18",
+      "summary": "从侵入性广告到笨重的软件，智能家居格局还有很大的改进空间。 HomeView 可以提供帮助。",
+      "url": "https://www.androidauthority.com/apple-homeview-smart-home-3723150/",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/-184x111/gsmarena_uk.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "vivo V80 goes global",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "vivo launched the V80 in India last week and today the brand has announced the device for other markets too  i...",
-      "url": "https://www.gsmarena.com/vivo_v80_goes_global-news-75090.php",
+      "title": "摩托罗拉被遗忘的可折叠手机才是我真正想买的",
+      "source": "Android Authority",
+      "date": "2026-10-18",
+      "summary": "Razr Plus 并不像看上去那么无聊。",
+      "url": "https://www.androidauthority.com/motorola-forgotten-foldable-buy-3722300/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-v80-global/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "iQOO 16R / Z12 Turbo's chipset 泄露s alo...",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "According to Digital Chat Station on Weibo the upcoming iQOO Z12 Turbo will have a 659inch ultrahigh refresh r...",
-      "url": "https://www.gsmarena.com/iqoo_16r_z12_turbos_chipset_leaks_along_with_its_screen_size-news-75094.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-16r-z12-turbo-specs/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Honor 曝光 which global devices are gett...",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "Honor unveiled MagicOS 11 based on Android 17 last month and today the company has finally revealed when the s...",
-      "url": "https://www.gsmarena.com/honor_reveals_which_global_devices_are_getting_magicos_11-news-75093.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-magicos-11-global-rollout/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Moto G47 Power is coming with a much l...",
-      "source": "GSMArena",
-      "date": "2026-10-16",
-      "summary": "Motorola launched the Moto G47 in April and interestingly the company is now readying not a successor but a ne...",
-      "url": "https://www.gsmarena.com/moto_g47_power_is_coming_with_a_much_larger_battery_than_the_g47-news-75089.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/moto-g47-power-battery-capacity/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "If you haven't pre-ordered an iPhone D...",
-      "source": "GSMArena",
-      "date": "2026-10-16",
-      "summary": "The Apple iPhone Duo is available for preorder starting today  or rather we should say that it was available T...",
-      "url": "https://www.gsmarena.com/if_you_havent_preordered_an_iphone_duo_yet_but_want_one_youre_in_for_a_long_long_wait-news-75091.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-shipping-date-goes-into-2027/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星 Galaxy S27+ might miss out on UWB",
-      "source": "GSMArena",
-      "date": "2026-10-16",
-      "summary": "According to new MIIT Ministry of Industry and Information Technology listings in China the Samsung Galaxy S27...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_might_miss_out_on_uwb-news-75084.php",
+      "title": "您应该购买 5 款 Android 手机，而不是三星 Galaxy A16",
+      "source": "Android Authority",
+      "date": "2026-10-18",
+      "summary": "Galaxy A16 是一款廉价手机，但它适合您吗？",
+      "url": "https://www.androidauthority.com/samsung-galaxy-a16-alternatives-3721499/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-galaxy-s26-s26-plus-s26-ultra-certified-re-newed-uk/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "苹果's own website now hints at a new iP...",
-      "source": "GSMArena",
-      "date": "2026-10-16",
-      "summary": "We already know when Apple will show off its touchscreen MacBooks and the OLED iPad mini thanks to a leak from...",
-      "url": "https://www.gsmarena.com/apples_own_website_now_hints_at_a_new_ipad_mini-news-75081.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-new-case/-184x111/gsmarena_002.jpg",
-      "type": "news"
-    },
-    {
-      "title": "The Galaxy S27 Ultra runs into issues ...",
-      "source": "GSMArena",
-      "date": "2026-10-16",
-      "summary": "The Exynos 2700 reportedly beat the Snapdragon 8 Elite Extreme Gen 6 in internal benchmarks outscoring it in m...",
-      "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_runs_into_issues_with_the_snapdragon_8_ee_gen_6_exynos_2700_may_return-news-75078.php",
+      "title": "Pixel 11 Pro XL 对比. Galaxy S27 Ultra：为...",
+      "source": "Android Authority",
+      "date": "2026-10-18",
+      "summary": "我的 Pixel 迷恋者有承诺问题。",
+      "url": "https://www.androidauthority.com/pixel-11-pro-xl-vs-galaxy-s27-ultra-should-you-buy-wait-3722140/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-runs-into-issues-with-snapdragon-8-ee-gen-6/-184x111/gsmarena_000.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Amazon just did what 谷歌 couldn’t do in...",
+      "title": "苹果 HomeView 已经输给了我家里最不受欢迎的 谷歌 产品之一",
       "source": "Android Authority",
       "date": "2026-10-17",
-      "summary": "Out of the Fire rises the Alexa Tablet",
+      "summary": "谷歌 Pixel 平板电脑简单的多功能性使其比苹果首次尝试的智能家居中心更具优势。",
+      "url": "https://www.androidauthority.com/apple-homeview-vs-pixel-tablet-missing-features-3723785/",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "亚马逊刚刚做了谷歌 15 年来未能做到的事情：打造一款出色的日常 Andro...",
+      "source": "Android Authority",
+      "date": "2026-10-17",
+      "summary": "Alexa 平板电脑从火中崛起。",
       "url": "https://www.androidauthority.com/amazon-android-tablet-google-tablet-strategy-3722924/",
       "tags": [
         "安卓"
@@ -134,10 +218,10 @@
       "type": "news"
     },
     {
-      "title": "The one missing feature that stopped m...",
+      "title": "一项缺失的功能阻止我购买 Fitbit Edge",
       "source": "Android Authority",
       "date": "2026-10-17",
-      "summary": "The Fitbit Edge is a tough sell without NFC",
+      "summary": "没有 NFC 功能的 Fitbit Edge 很难销售。",
       "url": "https://www.androidauthority.com/fitbit-edge-missing-feature-3722753/",
       "tags": [
         "安卓"
@@ -146,95 +230,11 @@
       "type": "news"
     },
     {
-      "title": "Don’t buy a budget Android phone in 20...",
+      "title": "2026 年不要购买廉价 Android 手机——购买旧旗舰手机的 4 个理...",
       "source": "Android Authority",
       "date": "2026-10-17",
-      "summary": "Old flagships are the way to go right now",
+      "summary": "老旗舰是现在的出路。",
       "url": "https://www.androidauthority.com/dont-buy-budget-android-phone-2026-old-flagship-better-why-3718130/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "5 reasons why I’ll always buy 谷歌 Pixel...",
-      "source": "Android Authority",
-      "date": "2026-10-17",
-      "summary": "Im not trying to start a war here",
-      "url": "https://www.androidauthority.com/google-pixel-vs-samsung-galaxy-comparison-3721606/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "I never thought I’d ditch 三星 Notes, bu...",
-      "source": "Android Authority",
-      "date": "2026-10-17",
-      "summary": "Geminis finally useful somewhere and its here",
-      "url": "https://www.androidauthority.com/google-keep-gemini-how-to-use-3720665/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "I’ve been using an AI agent for a mont...",
-      "source": "Android Authority",
-      "date": "2026-10-17",
-      "summary": "Instinct AI is extremely good with some big caveats",
-      "url": "https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Amazon drops the Razer Kraken V4 X to ...",
-      "source": "Android Authority",
-      "date": "2026-10-16",
-      "summary": "Razer Kraken V4 X drops to 5439 on Amazon with USBC USBA support 40mm drivers and a 45star Amazon rating",
-      "url": "https://www.androidauthority.com/razer-kraken-v4-x-deal-3724679/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Nest doorbells get their spooky chimes...",
-      "source": "Android Authority",
-      "date": "2026-10-16",
-      "summary": "You have nine options to choose from",
-      "url": "https://www.androidauthority.com/google-nest-doorbell-halloween-chimes-2026-3724608/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "AI has graduated from hacking companie...",
-      "source": "Android Authority",
-      "date": "2026-10-16",
-      "summary": "Honestly it was probably only a matter of time",
-      "url": "https://www.androidauthority.com/ai-stole-crypto-3724642/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android 17 QPR2 Beta 7.1 has the perfo...",
-      "source": "Android Authority",
-      "date": "2026-10-16",
-      "summary": "Finally resolving some of those QPR1 headaches",
-      "url": "https://www.androidauthority.com/android-17-qpr2-beta-7-1-3724664/",
       "tags": [
         "安卓"
       ],
