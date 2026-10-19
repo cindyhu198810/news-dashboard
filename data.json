@@ -1,180 +1,132 @@
 {
-  "updated": "2026-10-18 12:40",
+  "updated": "2026-10-19 15:44",
   "news": [
     {
-      "title": "每周投票：如果可以的话，你会买一加 16 吗？",
+      "title": "印度第三季度智能手机出货量下降 26% 至 2016 年以来最低水平",
       "source": "GSMArena",
-      "date": "2026-10-18",
-      "summary": "OnePlus 15 是该公司最后一款全球旗舰产品。自推出以来，一加就离开了全球市场，只专注于印度和中国。好吧，主要是在中国本周，该公司宣布了针对中国市场的 OnePlus 16。至于印度，关于 16 是否会上市的信息相...",
-      "url": "https://www.gsmarena.com/weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067.php",
+      "date": "2026-10-19",
+      "summary": "根据 Omdia 的最新报告，第三季度7 月至 9 月印度智能手机出货量较去年同期下降 26，至 3580 万部。因此，尽管节日季已经开始，但 2026 年第三季度智能手机出货量仍创下 2016 年以来的最低水平。毫不奇...",
+      "url": "https://www.gsmarena.com/india_smartphone_shipments_drop_26_in_q3_to_the_lowest_level_since_2016-news-75111.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-oneplus-16/-184x111/gsmarena_0000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/omdia-indian-smartphone-market-q3/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "优惠：Galaxy Z Fold8随iPhone Duo推出打折，其他可折叠...",
+      "title": "HMD Vibe2 Max 规格和渲染图泄露，核心配置曝光",
       "source": "GSMArena",
-      "date": "2026-10-18",
-      "summary": "亚马逊的 Prime Big Deal Days 几乎吸收了上周所有的折扣，因此周末所剩无几。然而，本周我们看到了回归状态。三星 Galaxy Z Fold8 起售价为 1405 欧元。这是针对 12256GB 设备的，...",
-      "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088.php",
+      "date": "2026-10-19",
+      "summary": "HMD 可能很快就会为其 Vibe2 系列添加新的变体。一位爆料者分享了即将推出的 HMD Vibe2 Max 的全套规格和渲染图。根据泄露的信息，HMD Vibe2 Max 将配备 678 英寸 LCD 显示屏，支持 ...",
+      "url": "https://www.gsmarena.com/hmd_vibe2_max_specifications_and_renders_leak-news-75110.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/hmd-vibe2-max-specs-design-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Honor Win2、Win2 RT 和 Win Turbo2 规格以及实时...",
+      "source": "GSMArena",
+      "date": "2026-10-19",
+      "summary": "荣耀将于 10 月 21 日在中国推出 Win2 系列，现在微博上的一位爆料者分享了该系列所有三款手机的规格Win2、Win2 RT 和 Win Turbo2。我们还得到了两张图片，一张显示了手机的渲染图，另一张是所有三...",
+      "url": "https://www.gsmarena.com/honor_win2_win2_rt_and_win_turbo2_specs_leak_along_with_a_live_image-news-75109.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-win2-rt-win2-turbo-specs-images-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X500 Ultra关键规格曝光，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-10-19",
+      "summary": "据报道，vivo X500 Ultra 将于明年 3 月至 4 月在中国推出。新的泄漏现在透露了有关即将推出的旗舰硬件的更多细节。据爆料者数字聊天站称，vivo X500 Ultra 将搭载高通 Snapdragon 8...",
+      "url": "https://www.gsmarena.com/vivo_x500_ultra_key_specifications_tipped-news-75108.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-ultra-specs-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星可能比预期更早推出 Galaxy S27 系列，但内存问题依然存在",
+      "source": "GSMArena",
+      "date": "2026-10-19",
+      "summary": "Galaxy S26系列来得较晚S24一代于1月中旬发布并于1月下旬推出，而S25一代则于1月下旬发布并于2月初推出。 S26系列2月底才正式发布，3月初就已经问世。延迟可能是由于最后一刻从 S26 Edge 切换到 S...，带来多项升级",
+      "url": "https://www.gsmarena.com/samsung_may_launch_galaxy_s27_series_earlier_than_expected_but_memory_questions_still_linger-news-75106.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-series-maybe-in-january/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "配备 10,000mAh 电池和 6.83 英寸显示屏的 红米 K100 将...",
+      "source": "GSMArena",
+      "date": "2026-10-19",
+      "summary": "小米上周预告了红米 K100 即将登陆中国。该公司现已宣布这款手机的上市日期，并透露了其主要规格和设计。它将加入 8 月份推出的 K100 Pro 和 K100 Pro Max 行列。Redmi K100 将于 10 月...",
+      "url": "https://www.gsmarena.com/redmi_k100_with_10000mah_battery_and_683inch_display_is_launching_next_week-news-75105.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-launch-design/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy F70 到来，配备熟悉的规格",
+      "source": "GSMArena",
+      "date": "2026-10-19",
+      "summary": "随着 Galaxy F70 的推出，三星最新的 F 系列智能手机现已在印度正式上市。这是继 2 月份推出的 Galaxy F70e 和 8 月份推出的 Galaxy F70 Pro 之后，F70 系列的第三款产品。新款 ...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-f70-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO Neo12 将于 10 月 28 日发布，设计和颜色选项揭晓，新机...",
+      "source": "GSMArena",
+      "date": "2026-10-19",
+      "summary": "iQOO 最近确认其即将推出的 Neo12 将搭载 Snapdragon 8 Elite Gen 5 芯片组，并配备 185Hz 刷新率的 2K AMOLED 显示屏。该公司现已透露了这款手机的设计、颜色选择以及在中国的...",
+      "url": "https://www.gsmarena.com/iqoo_neo12_will_launch_on_october_28_design_and_color_options_revealed-news-75103.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-neo12-launch-date-design/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone Duo 电池容量正式公布",
+      "source": "GSMArena",
+      "date": "2026-10-19",
+      "summary": "苹果 iPhone Duo 上周开始接受预订，销售和交付将于本周晚些时候开始。在发布之前，苹果公司发布了可折叠 iPhone 的欧盟能源标签，揭示了其电池容量和耐用等级。官方能源标签列出了 iPhone Duo 的 48...，带来多项升级",
+      "url": "https://www.gsmarena.com/iphone_duos_battery_capacity_officially_revealed-news-75102.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/-184x111/gsmarena_de.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-battery-capacity/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "每周调查结果：Galaxy Tab S12+ 和 Tab S12 Ultra...",
+      "title": "荣耀手表6评测，真实体验如何？",
       "source": "GSMArena",
-      "date": "2026-10-18",
-      "summary": "上周调查中的一位评论者提出了一个有趣的观点三星 Galaxy Tab S12 Ultra 12256GB 型号的起价为 1400 美元，而且不带键盘，需要额外支付 380 美元。为什么不买一台 MacBook 呢？配备 ...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-samsung-galaxy-tab-s12-ultra-tab-s12-plus/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo V80接受评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-10-18",
-      "summary": "这就是vivo V80，是的，就是我们本月早些时候处理过的V80。嗯，不同的单位这个是绿色的还是蓝色的？。无论是绿色的蓝色阴影还是蓝色的绿色阴影，我们都感到困惑。不管怎样，它比我们上次处理的 iPhone 橙色色调要好得...",
-      "url": "https://www.gsmarena.com/vivo_v80_in_for_review-news-75087.php",
+      "date": "2026-10-19",
+      "summary": "欢迎来到我们的荣耀手表6评测。 我知道，我知道，我们在这件事上有点晚了。好吧，也许晚了很多，但在我们看来，这种迟到的部分原因是对一块续航时间超过一个月的手表进行了电池测试。荣耀是这么承诺的。这可能是荣耀手表 6 的主要卖...",
+      "url": "https://www.gsmarena.com/honor_watch_6_review-news-74910.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-v80-ifr/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-watch-6-review/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "优惠：最新 Galaxy 可折叠手机和 Galaxy S26 系列促销",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "上周，我们报道了亚马逊的 Prime 大促销日以及随后的后果一些手机即使在周末也保持了 Prime 促销的促销价格，而另一些手机则恢复了价格。本周再次查看它们，我们发现所有手机现在的价格都更高了。无论如何，这是在亚马逊上...",
-      "url": "https://www.gsmarena.com/deals_the_galaxy_z8_and_galaxy_s26_models_are_on_sale-news-75085.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-deals-16/-184x111/gsmarena_us.jpg",
-      "type": "news"
-    },
-    {
-      "title": "高通否认有关 Snapdragon 8 Elite Extreme Gen ...",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "昨天，一家韩国新闻媒体分享了一些有关即将推出的三星 Galaxy S27 Ultra 的令人担忧的消息。报道称，三星正在考虑明年全面采用 Exynos，因为内部测试显示，新发布的 Snapdragon 8 Elite E...，带来多项升级",
-      "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/qualcomm-directx-12-rumor/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果 官方 iPhone Duo 硅胶保护壳需要粘合剂",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "如果您将 iPhone Duo 视为您的下一款甚至第一款可折叠手机，您可能还会考虑苹果的官方配件，例如 79 美元的硅胶保护壳或 129 美元的对开式保护壳。好吧，关于更便宜的手机壳，您需要了解一些事情，因为它有一个警告...",
-      "url": "https://www.gsmarena.com/apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-case-adhesive/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀Win2再次亮相全球首款2K 185Hz显示屏",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "荣耀准备推出Win2系列，包括Win2本身、Win2 RT和Win2 Turbo。 Win2 系列将成为一个有趣的技术展示，因为它由主动冷却风扇和大容量电池定义  据说标准 Win2 提供 10100 mAh 电池，而 ...",
-      "url": "https://www.gsmarena.com/honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-display-teased/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Insider 透露三星计划彻底改造 One UI 10",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "一位接近诺基亚超级用户的消息人士称，三星正计划对 One UI 进行彻底改革，并对整体理念进行重大转变。事实上，这家韩国科技巨头正在寻找各种方式在该领域进行创新，并有可能改变 Galaxy 用户与软件交互的方式。这些说法...",
-      "url": "https://www.gsmarena.com/insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-one-ui-9-reaches-us/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀Win2也运行安兔兔，散热风扇助其获得最高分",
-      "source": "GSMArena",
-      "date": "2026-10-17",
-      "summary": "荣耀将于 10 月 21 日在中国推出 Win2，不久前据称它出现在 Geekbench 在线数据库中，证实了其将搭载 Snapdragon 8 Elite Extreme Gen 6 SoC。现在，型号相同的 BRMA...",
-      "url": "https://www.gsmarena.com/honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-antutu/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Firefox 的这个功能让我放弃了日常研究的便利贴",
+      "title": "三星有关于 One UI 9 状态栏图标消失的好消息和坏消息",
       "source": "Android Authority",
-      "date": "2026-10-18",
-      "summary": "我不知道我需要这个功能，现在我不能没有它！",
-      "url": "https://www.androidauthority.com/firefox-feature-ditch-sticky-notes-3720865/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Pixel 11 Pro 的 120 倍变焦很荒谬，但它真的有用吗？",
-      "source": "Android Authority",
-      "date": "2026-10-18",
-      "summary": "Pixel 11 Pro 的极限变焦非常有用，但其人工智能增强图像也有一些明显的警告。",
-      "url": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我已经成为智能家居用户 10 年了，苹果 HomeView 看起来就像一个游...",
-      "source": "Android Authority",
-      "date": "2026-10-18",
-      "summary": "从侵入性广告到笨重的软件，智能家居格局还有很大的改进空间。 HomeView 可以提供帮助。",
-      "url": "https://www.androidauthority.com/apple-homeview-smart-home-3723150/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉被遗忘的可折叠手机才是我真正想买的",
-      "source": "Android Authority",
-      "date": "2026-10-18",
-      "summary": "Razr Plus 并不像看上去那么无聊。",
-      "url": "https://www.androidauthority.com/motorola-forgotten-foldable-buy-3722300/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "您应该购买 5 款 Android 手机，而不是三星 Galaxy A16",
-      "source": "Android Authority",
-      "date": "2026-10-18",
-      "summary": "Galaxy A16 是一款廉价手机，但它适合您吗？",
-      "url": "https://www.androidauthority.com/samsung-galaxy-a16-alternatives-3721499/",
+      "date": "2026-10-19",
+      "summary": "三星已经发现了这个问题，但解决它并不容易。",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-quickstar-status-bar-icons-bug-3725088/",
       "tags": [
         "三星"
       ],
@@ -182,11 +134,47 @@
       "type": "news"
     },
     {
-      "title": "Pixel 11 Pro XL 对比. Galaxy S27 Ultra：为...",
+      "title": "Bose 2026 Lifestyle Ultra Soundbar 在 A...",
       "source": "Android Authority",
-      "date": "2026-10-18",
-      "summary": "我的 Pixel 迷恋者有承诺问题。",
-      "url": "https://www.androidauthority.com/pixel-11-pro-xl-vs-galaxy-s27-ultra-should-you-buy-wait-3722140/",
+      "date": "2026-10-19",
+      "summary": "购买 Bose 全新 Lifestyle Ultra Soundbar 可节省 23，这是一款具有 WiFi、蓝牙和语音增强功能的高级杜比全景声 Dolby Atmos 条形音箱。",
+      "url": "https://www.androidauthority.com/bose-new-lifestyle-ultra-soundbar-deal-3725118/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Pixel 10 Pro XL 促销使谷歌大型旗舰产品减价 350 美元",
+      "source": "Android Authority",
+      "date": "2026-10-19",
+      "summary": "购买 Google Pixel 10 Pro XL 可节省 29，因为它恢复了历史最低价，配备 Tensor G5、16GB RAM 和 AI 功能。",
+      "url": "https://www.androidauthority.com/pixel-10-pro-xl-deal-amazon-3725112/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "还没准备好去干草吗？你的 Pixel Watch 可以在就寝时间方面变得更加...",
+      "source": "Android Authority",
+      "date": "2026-10-19",
+      "summary": "谷歌可能很快就会让你在 Pixel Watch 型号上自动推迟就寝时间。",
+      "url": "https://www.androidauthority.com/pixel-watch-bedtime-snooze-3725055/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星可能会为其下一款坚固耐用的手机赋予不寻常的功能",
+      "source": "Android Authority",
+      "date": "2026-10-19",
+      "summary": "新的芯片组和商标暗示 Galaxy XCover 手机的设计不仅仅是耐用性。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-xcover-scan-rfid-reader-leak-3725030/",
       "tags": [
         "三星"
       ],
@@ -194,23 +182,11 @@
       "type": "news"
     },
     {
-      "title": "苹果 HomeView 已经输给了我家里最不受欢迎的 谷歌 产品之一",
+      "title": "你的 Pixel 手机很快就能将任何照片变成动画壁纸",
       "source": "Android Authority",
-      "date": "2026-10-17",
-      "summary": "谷歌 Pixel 平板电脑简单的多功能性使其比苹果首次尝试的智能家居中心更具优势。",
-      "url": "https://www.androidauthority.com/apple-homeview-vs-pixel-tablet-missing-features-3723785/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "亚马逊刚刚做了谷歌 15 年来未能做到的事情：打造一款出色的日常 Andro...",
-      "source": "Android Authority",
-      "date": "2026-10-17",
-      "summary": "Alexa 平板电脑从火中崛起。",
-      "url": "https://www.androidauthority.com/amazon-android-tablet-google-tablet-strategy-3722924/",
+      "date": "2026-10-19",
+      "summary": "壁纸和风格可能会进行重大升级。",
+      "url": "https://www.androidauthority.com/google-pixel-animated-ai-wallpaper-apk-teardown-3724969/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "一项缺失的功能阻止我购买 Fitbit Edge",
+      "title": "Android的Ultra旗舰时代或将在2027年获得第二次机会",
       "source": "Android Authority",
-      "date": "2026-10-17",
-      "summary": "没有 NFC 功能的 Fitbit Edge 很难销售。",
-      "url": "https://www.androidauthority.com/fitbit-edge-missing-feature-3722753/",
+      "date": "2026-10-19",
+      "summary": "尽管整个市场转向 Pro Max 机型，但新的泄漏表明另一个 Android 品牌可能会推出 Ultra 续作。",
+      "url": "https://www.androidauthority.com/android-ultra-flagship-return-2027-3725021/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +206,35 @@
       "type": "news"
     },
     {
-      "title": "2026 年不要购买廉价 Android 手机——购买旧旗舰手机的 4 个理...",
+      "title": "Fitbit Air 即将迎来另一个竞争对手，这次来自职业运动员品牌",
       "source": "Android Authority",
-      "date": "2026-10-17",
-      "summary": "老旗舰是现在的出路。",
-      "url": "https://www.androidauthority.com/dont-buy-budget-android-phone-2026-old-flagship-better-why-3718130/",
+      "date": "2026-10-19",
+      "summary": "Suunto 即将推出的无屏健身追踪器最近已获得认证，并将很快推出。",
+      "url": "https://www.androidauthority.com/suunto-screenless-fitness-tracker-fitbit-air-rival-3724934/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Spotify 正在打击家庭计划共享，但你仍然可以绕过检查",
+      "source": "Android Authority",
+      "date": "2026-10-19",
+      "summary": "该流媒体平台这次使用动态二维码来执行家庭规则。",
+      "url": "https://www.androidauthority.com/spotify-family-plan-qr-code-location-check-crackdown-3724983/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "AYN Odin 3 Portal 规格揭示了这款手持设备的精英马力和巨大电...",
+      "source": "Android Authority",
+      "date": "2026-10-19",
+      "summary": "当它最终推出时，它可能会成为市场上最强大的 Android 手持设备。",
+      "url": "https://www.androidauthority.com/ayn-odin-3-portal-specs-3724949/",
       "tags": [
         "安卓"
       ],
