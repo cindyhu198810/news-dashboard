@@ -1,156 +1,228 @@
 {
-  "updated": "2026-10-20 13:42",
+  "updated": "2026-10-21 13:58",
   "news": [
     {
-      "title": "Doogee 预览 Note60 W：受华为 Pura X View 启发的...",
+      "title": "Honor Win2 and Win Tablet 发布 with buil...",
       "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "Doogee 在第 140 届广交会上预览了一款有趣的手机一款宽屏平板手机，似乎深受华为 Pura X View 的启发。Doogee Note60 W 配备 638 英寸显示屏，似乎与 Pura X View 具有相同...",
-      "url": "https://www.gsmarena.com/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131.php",
+      "date": "2026-10-21",
+      "summary": "Honor launched the Win in China back in December and today its successor is official after weeks of teasers an...",
+      "url": "https://www.gsmarena.com/honor_win2_and_win_tablet_launch_with_builtin_fans_and_big_batteries-news-75152.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/doogee-note60-w-shown-off/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-win2-win-tablet-official/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星签署巨额 DRAM 和 HBM 合同",
+      "title": "vivo Buds Ultra 发布 in Europe with 60dB...",
       "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "据报道，三星签署了一项为期五年的长期内存芯片协议，其大部分通用 DRAM 和 HBM 内存芯片将销往全球大型科技公司。韩联社的一份新报告显示，三星 70 的 DRAM 供应以及定于明年生产的 100 高带宽内存 HBM ...",
-      "url": "https://www.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php",
+      "date": "2026-10-21",
+      "summary": "Back in June vivo unveiled the TWS 5 Pro buds in China alongside the X Fold6 Now what looks like the very same...",
+      "url": "https://www.gsmarena.com/vivo_buds_ultra_launch_in_europe_with_60db_anc_and_dual_drivers-news-75146.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-buds-ultra/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X500 Ultra said to use a larger t...",
+      "source": "GSMArena",
+      "date": "2026-10-21",
+      "summary": "Back in July wellknown tipster Digital Chat Station claimed that vivo was deciding between three 200MP sensors...",
+      "url": "https://www.gsmarena.com/vivo_x500_ultra_said_to_use_a_larger_telephoto_sensor_over_its_predecessor-news-75143.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-ultra-telephoto-camera-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Lisbon through the lenses of the Oppo ...",
+      "source": "GSMArena",
+      "date": "2026-10-21",
+      "summary": "We have an interesting early look at the Oppo Find X10 Pro Max before our review goes live We were given the c...",
+      "url": "https://www.gsmarena.com/lisbon_through_the_lenses_of_the_oppo_find_x10_pro_max-news-75144.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-pro-max-lisbon/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Omdia: foldable displays shipments wil...",
+      "source": "GSMArena",
+      "date": "2026-10-21",
+      "summary": "Foldables are growing in popularity  market research firm Omdia forecasts that foldable display shipments will...",
+      "url": "https://www.gsmarena.com/omdia_foldable_displays_shipments_will_increase_44_this_year_with_a_focus_on_wide_foldables-news-75142.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/omdia-foldable-display-shipments-2026-forecast/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Lava Aura Curve unveiled with curved d...",
+      "source": "GSMArena",
+      "date": "2026-10-21",
+      "summary": "Lava recently unveiled the Virat Curve in India featuring a curved display and a secondary screen on the back ...",
+      "url": "https://www.gsmarena.com/lava_aura_curve_unveiled_with_curved_display_rear_screen_and_6000mah_battery-news-75140.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/lava-aura-curve-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "红米 K100 to get a 50MP rear camera, ult...",
+      "source": "GSMArena",
+      "date": "2026-10-21",
+      "summary": "Redmi has revealed more details about the K100 ahead of its launch in China on October 26 The phone will join ...",
+      "url": "https://www.gsmarena.com/redmi_k100_to_get_a_50mp_rear_camera_ultrasonic_fingerprint_scanner-news-75138.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/redmi-k100-camera-specs/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Coolpad unveils the Cool X Wide with a...",
+      "source": "GSMArena",
+      "date": "2026-10-21",
+      "summary": "Chinese smartphone maker Coolpad isnt a brand we cover often but the company has just launched the Cool X Wide...",
+      "url": "https://www.gsmarena.com/coolpad_unveils_the_cool_x_wide_with_a_1610_display_and_50mp_camera-news-75132.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/coolpad-cool-x-wide-ofic/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Reno17 Pro specs 泄露, and they sou...",
+      "source": "GSMArena",
+      "date": "2026-10-21",
+      "summary": "Oppos Reno17 series is rumored to launch in China next month and today prolific tipster Digital Chat Station h...",
+      "url": "https://www.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-news-75133.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-pro-specs-leak/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 now sells iPhone 18 Pro repair part...",
+      "source": "GSMArena",
+      "date": "2026-10-21",
+      "summary": "After expanding its partnerships with American suppliers for the iPhone 18 Pro and iPhone Duo Apple has also s...",
+      "url": "https://www.gsmarena.com/apple_now_sells_iphone_18_pro_repair_parts-news-75137.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-selling-iphone-18-pro-iphone-18-pro-max-parts/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "The Timekettle LiveTalk earbuds can pl...",
+      "source": "Android Authority",
+      "date": "2026-10-21",
+      "summary": "Can the Timekettle LiveTalk earbuds beat Google Translate",
+      "url": "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Pixel UI may finally catch up to rival...",
+      "source": "Android Authority",
+      "date": "2026-10-21",
+      "summary": "Android 17 QPR3 Beta 2 code reveals Google is preparing numeric unread notification badges for Pixel Launcher",
+      "url": "https://www.androidauthority.com/pixel-launcher-numeric-notification-badges-apk-teardown-3726062/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "You can now play Gran Turismo 3 on And...",
+      "source": "Android Authority",
+      "date": "2026-10-21",
+      "summary": "Gran Turismo 3 not running great via emulation Then this unofficial port might be for you",
+      "url": "https://www.androidauthority.com/gran-turismo-3-android-port-recompilation-3726051/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Forget custom ROMs, you can now run iO...",
+      "source": "Android Authority",
+      "date": "2026-10-21",
+      "summary": "Not using emulation or a sandboxed environment The real deal",
+      "url": "https://www.androidauthority.com/ios-on-android-phones-3726001/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Spotify just dealt a major blow to a p...",
+      "source": "Android Authority",
+      "date": "2026-10-21",
+      "summary": "Existing SpotiFLAC users arent entirely out of luck and replacements are on the way",
+      "url": "https://www.androidauthority.com/spotify-spotiflac-legal-notice-takedown-3725957/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "This home security camera has a clever...",
+      "source": "Android Authority",
+      "date": "2026-10-21",
+      "summary": "Baseus latest home security camera includes two 3K sensors and a spotlight that can follow and illuminate subj...",
+      "url": "https://www.androidauthority.com/baseus-primesentinel-u2-pro-security-camera-spotlight-follow-3725939/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "The Odin 3 Portal 发布es this week with ...",
+      "source": "Android Authority",
+      "date": "2026-10-21",
+      "summary": "The Odin 3 Portal could be the ultimate Android handheld and it launches this week",
+      "url": "https://www.androidauthority.com/ayn-odin-3-portal-launch-pricing-3726007/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "This top-selling 三星 phone is finally g...",
+      "source": "Android Authority",
+      "date": "2026-10-21",
+      "summary": "Samsungs One UI 9 rollout is going strong",
+      "url": "https://www.androidauthority.com/samsung-galaxy-a55-stable-one-ui-9-rollout-3725983/",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-signs-huge-dram-hbm-contracts/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "许多用户的 iPhone Duo 发货日期已提前",
-      "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "苹果公司因 iPhone Duo 的预订而受到重创供不应求，以至于全球的发货日期很快被推迟到 1 月 22 日。但也许等待不会那么糟糕，因为许多用户报告说他们的发货日期已被推迟。如果您已经预订了 iPhone Duo，请...",
-      "url": "https://www.gsmarena.com/shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-duo-shipping-dates-pulled-forward/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo 的宽屏手机有望配备 8,000mAh 电池",
-      "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "过去几周，有关 Oppo 传闻中的宽屏智能手机的一些细节已经泄露，最新消息表明它将配备带有两个 200MP 传感器的三后置摄像头设置。现在，新的泄密事件揭示了这款手机的电池容量。Tipster数字聊天站分享了Oppo宽屏...",
-      "url": "https://www.gsmarena.com/oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno-x-wide-screen-battery-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus 详细介绍了即将推出的 Ace 7 系列的双气流风扇设计",
-      "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "OnePlus 已确认 Ace 7 系列将于本月晚些时候在中国推出。此外，一位公司高管还分享了有关即将推出的产品系列中的双气流冷却系统的详细信息。虽然 OnePlus 尚未公布确切的发布日期，但它在微博上的一段短视频中预...，带来多项升级",
-      "url": "https://www.gsmarena.com/oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-pro-launch-design-confirmed/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果已经在致力于开发更大更好的 HomeView",
-      "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "上周，苹果推出了 HomeView，这是其首款智能主屏幕产品，它固定在扬声器上，显然是为了与亚马逊的 Echo Show 和谷歌的 Nest Hub 竞争。 HomeView 基本上是苹果意识到自己需要进入这个领域，而不...",
-      "url": "https://www.gsmarena.com/apple_is_already_working_on_a_larger_and_better_homeview-news-75121.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-homeview-9-inch/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为 Mate X8 规格泄露，核心配置曝光",
-      "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "华为于去年11月推出了Mate X7，根据来自中国的新传言，其继任者Mate X8计划于下个月正式上市。据称，它将配备 65 英寸盖板显示屏、815 英寸内折叠屏、使用 1128 英寸可变光圈传感器的 50MP 主摄像头...",
-      "url": "https://www.gsmarena.com/huawei_mate_x8_specs_leak-news-75120.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-mate-x8-specs-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果 将于 10 月 28 日推出新款 MacBook Pro 机型",
-      "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "苹果公司宣布了 10 月份的第二场特别活动，预计将推出传闻中的触摸屏 MacBook Pro。该公司最近推出了 HomeView、HomePod mini 2、新款 Apple TV 4K 和几款智能家居产品。该活动定于...",
-      "url": "https://www.gsmarena.com/apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-event-october-28/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Karbonn Rebel 5G 即将推出，“为那些看破炒作的人们”",
-      "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "谁还记得卡邦？这个印度品牌在过去五年左右的时间里一直处于休眠状态，目前正准备在智能手机领域卷土重来。但这很快就会结束。亚马逊印度网站上有一个预告即将推出的 Karbonn Rebel 5G 的微型网站。不幸的是，该页面目...",
-      "url": "https://www.gsmarena.com/karbonn_rebel_5g_is_coming_soon_for_people_who_see_past_the_hype-news-75119.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/karbonn-rebel-5g-teaser/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新的 Realme 手机在发布前已上市，以下是其规格和价格，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-10-20",
-      "summary": "即将推出的 Realme C01不要与 2018 年的 Realme C1 混淆最近在马来西亚和阿联酋的认证平台上被发现，型号为 RMX5399，现在一家越南零售商提前上市，公布了其官方规格、图片和定价，尽管目前还无法购...",
-      "url": "https://www.gsmarena.com/new_realme_phone_gets_listed_before_launch_here_are_its_specs_and_price-news-75118.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/realme-c01-listing/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "2026 年使用初代 Pixel Fold 展示了谷歌的正确做法以及它为何仍...",
-      "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "Pixel Fold 可能是一些特殊事物的开始。",
-      "url": "https://www.androidauthority.com/google-pixel-fold-2026-revisit-iphone-duo-era-3725164/",
-      "tags": [
-        "安卓"
-      ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "我以 1.25 倍的速度观看 YouTube。您的默认播放速率是多少？",
+      "title": "Several 三星 Galaxy Watch owners report ...",
       "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "让我们知道：您使用媒体的速度是否比预期更快？",
-      "url": "https://www.androidauthority.com/youtube-video-playback-speed-open-thread-3725507/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "骁龙还是Exynos？ Exynos Galaxy S27 的新升级可能会让...",
-      "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "在蜂窝性能和效率方面，Exynos Galaxy S27 可能不会落后于 Snapdragon 版本。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s27-cellular-upgrade-modem-3725448/",
+      "date": "2026-10-21",
+      "summary": "User reports detail circular red patches under sensors sparking debates over burns versus skin irritation",
+      "url": "https://www.androidauthority.com/samsung-galaxy-watch-overheating-wrist-burn-reports-3725942/",
       "tags": [
         "三星"
       ],
@@ -158,85 +230,13 @@
       "type": "news"
     },
     {
-      "title": "大幅降级：一些 Android 品牌在即将推出的廉价手机中可能仅提供 4GB...",
+      "title": "This new phone brings Snapdragon 8 Eli...",
       "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "大幅降级：一些 Android 品牌在即将推出的廉价手机中可能仅提供 4GB RAM",
-      "url": "https://www.androidauthority.com/android-budget-phones-4gb-ram-2027-3725430/",
+      "date": "2026-10-21",
+      "summary": "Opt for the Win RT 2 and you get previous generation flagship silicon but a 12070mAh battery",
+      "url": "https://www.androidauthority.com/honor-win-2-series-12000mah-battery-3725933/",
       "tags": [
         "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我用过 Pixel 11 Pro XL 和 iPhone 18 Pro Ma...",
-      "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "我用过 Pixel 11 Pro XL 和 iPhone 18 Pro Max，苹果的生态系统已经不够了",
-      "url": "https://www.androidauthority.com/ive-used-the-pixel-11-pro-xl-and-iphone-18-pro-max-3720239/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我如何将 Pixel 变成 谷歌 从未制造过的 Nest Hub",
-      "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "我希望我能省去这个麻烦。",
-      "url": "https://www.androidauthority.com/google-pixel-nest-hub-diy-3723831/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "这款Ultra手机可能会通过迟来的变焦相机升级来摧毁三星和谷歌",
-      "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "这会是 2027 年的终极长焦相机吗？",
-      "url": "https://www.androidauthority.com/ultra-phone-200mp-telephoto-camera-upgrade-3725379/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "如果下一个人工智能突破不是更好的聊天机器人怎么办？",
-      "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "GPT 通过语言学习，但 JEPA 向世界学习。这对于下一代 API 意味着什么？",
-      "url": "https://www.androidauthority.com/jepa-next-gen-ai-3722612/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Chat 的最新功能最终可能会结束会议后的混乱",
-      "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "现在，您会议的最大收获就在您的团队聊天的地方。",
-      "url": "https://www.androidauthority.com/google-chat-meeting-recaps-3725385/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "通过 Gemini 升级，iPhone 上的 谷歌 Sheets 终于赶上 ...",
-      "source": "Android Authority",
-      "date": "2026-10-20",
-      "summary": "iPhone 上的电子表格有了大脑。",
-      "url": "https://www.androidauthority.com/gemini-in-google-sheets-on-iphone-3725413/",
-      "tags": [
-        "苹果"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
