@@ -1,132 +1,144 @@
 {
-  "updated": "2026-10-26 15:19",
+  "updated": "2026-10-27 14:42",
   "news": [
     {
-      "title": "Oppo Find X10 Ultra 的完整相机设置泄露，核心配置曝光",
+      "title": "Watch the vivo X500 series European 发布...",
       "source": "GSMArena",
-      "date": "2026-10-26",
-      "summary": "Oppo 的 Find X10 和 Find X10 Pro Max 最近走向全球，但距离该品牌这一代的顶级相机旗舰产品还有几个月的时间。今天，Digital Chat Station 发布了据称是 Find X10 U...，带来多项升级",
-      "url": "https://www.gsmarena.com/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206.php",
+      "date": "2026-10-27",
+      "summary": "在中国首发一个多月后，vivo X500系列今天正式走向全球。该公司的奥地利分公司正在 YouTube 上举办直播活动，我们为您留了一个座位。活动于欧洲中部时间下午 4:30 开始。我们预计会在今天的活动中看到 X500...",
+      "url": "https://www.gsmarena.com/watch_the_vivo_x500_series_european_launch_here-news-75223.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-ultra-more-details/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/watch-vivo-x500-series-eu-launch/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "iPhone Duo 弯曲测试结果不佳",
+      "title": "Instagram 正在测试名为“Features”的长视频",
       "source": "GSMArena",
-      "date": "2026-10-26",
-      "summary": "今天早些时候，我们曾报道过 iFixit 对 iPhone Duo 的拆解，解决了有关手机内部折叠屏及其铰链设计的一些担忧我们已经看到了大量有关内部屏幕损坏的报道，尽管 iPhone Duo 几天前才上市数量有限，不少于...",
-      "url": "https://www.gsmarena.com/iphone_duo_bend_test_doesnt_end_well-news-75207.php",
+      "date": "2026-10-27",
+      "summary": "Instagram 宣布正在平台上测试一种名为 Features 的新视频格式，该格式将允许用户上传最长 90 分钟的横向视频。据好莱坞报道报道，测试于周一开始，目前仅限于美国的部分创作者。不过，报道补充说，Instag...",
+      "url": "https://www.gsmarena.com/instagram_is_testing_longform_videos_called_features-news-75222.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/instagram-long-form-video-testing/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米手环11登陆欧洲",
+      "source": "GSMArena",
+      "date": "2026-10-27",
+      "summary": "继 9 月份在中国发布后，小米现在将其智能手环 11 带到了欧洲。该健身追踪器可直接从小米在该地区的在线商店购买，有两个版本。标准型号售价为 60 欧元，配备 NFC 的版本售价为 80 欧元。在小米西班牙网站上快速浏览...，带来多项升级",
+      "url": "https://www.gsmarena.com/xiaomi_smart_band_11_arrives_in_europe-news-75221.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/xiaomi-smart-band-11-europe/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果回应 iPhone Duo 内屏破裂问题",
+      "source": "GSMArena",
+      "date": "2026-10-27",
+      "summary": "苹果公司已对有关 iPhone Duo 内屏破裂的报道做出回应。在给 9to5Mac 的一份声明中，该公司承认它已经意识到这个问题并提供了基本建议。该公司发出以下声明作为回应强调我们的：早期用户对 iPhone Duo ...",
+      "url": "https://www.gsmarena.com/apple_responds_to_iphone_duo_inner_display_cracking_issue-news-75219.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-bend-test/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-apple-response/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "OnePlus Ace 7 Pro 相机规格和样品在发布前公布，新机正式登场",
+      "title": "iOS 27.2 更新推出这些新功能",
+      "source": "GSMArena",
+      "date": "2026-10-27",
+      "summary": "Apple 正在为受支持的 iPhone 型号发布 iOS 272 更新，其中包含多项新功能并修复了 160 多个安全漏洞。 iOS 更新为 Siri AI 带来了新语言、iPhone Duo 上的 Apple Penc...，带来多项升级",
+      "url": "https://www.gsmarena.com/ios_272_update_rolling_out_with_these_new_features-news-75220.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/ios-27-2-update/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Counterpoint 表示，印度智能手机市场刚刚经历了十年来最糟糕的季度",
+      "source": "GSMArena",
+      "date": "2026-10-27",
+      "summary": "上周，Omdia 报告称，第三季度印度智能手机出货量下降了 26，跌至 2016 年以来的最低水平。现在 Counterpoint Research 也公布了自己的数据，虽然数据没有那么可怕，但他们描绘了同样的情况。 7...",
+      "url": "https://www.gsmarena.com/indias_smartphone_market_just_had_its_worst_quarter_in_a_decade_counterpoint_says-news-75216.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/counterpoint-india-q3-smartphone-shipments/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米 18 Pro 和 18 Pro Max 在全球发售前已被欧洲零售商列出",
+      "source": "GSMArena",
+      "date": "2026-10-27",
+      "summary": "小米早在 9 月份就在中国推出了小米 18 Pro 和小米 18 Pro Max，一天后又确认这两款手机将走向全球。今天，意大利零售商 Epto 在这两款手机在国际上首次亮相之前列出了它们的欧洲价格、颜色和规格。小米 1...",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_get_listed_by_european_retailer_before_their_global_launch-news-75215.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/xiaomi-18-pro-18-pro-max-listed-in-europe/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "据报道，三星 Exynos 2700 的性能比小米 18 Pro Max 的...",
       "source": "GSMArena",
       "date": "2026-10-26",
-      "summary": "在本周晚些时候发布之前，OnePlus 一直在慢慢预告 Ace 7 系列的功能。今天，该公司曝光了 Ace 7 Pro 的后置摄像头细节，并分享了几张摄像头样张。OnePlus Ace 7 Pro 将配备 200MP 主...，带来多项升级",
-      "url": "https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php",
+      "summary": "早在 8 月份，内部人士就声称 Exynos 2700 在内部测试中击败了高通的下一代旗舰芯片。这些 Snapdragon 现已正式上市，据报道三星已将其即将推出的芯片再次与它们进行竞争。 Exynos 2700 预计至...",
+      "url": "https://www.gsmarena.com/exynos_2700_reportedly_beats_the_snapdragon_8_elite_extreme_gen_6_in_internal_tests-news-75217.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-ace-7-pro-camera/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-exynos-2700-vs-xiaomi-18-pro-18-pro-max/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "OnePlus Buds Clip 正式上市，配备双驱动器和长达 40 小时...",
+      "title": "T-Mobile 的新 T-Mix 计划可让您选择自己的福利",
       "source": "GSMArena",
       "date": "2026-10-26",
-      "summary": "OnePlus 没有大张旗鼓地发布了首款夹式耳机恰当地命名为 OnePlus Clip。虽然该品牌的智能手机不再在欧洲和美国销售，但 Buds Clip 将在全球一些地区销售，正如其在全球 OnePlus 网站上的列表所...，带来多项升级",
-      "url": "https://www.gsmarena.com/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205.php",
+      "summary": "最近有传言称 TMobile 正在准备新的 TMix 品牌计划，今天它们终于正式发布。共有三个级别，称为标准、更多和加载，它们将于 11 月推出。最重要的想法是，每个计划都有一些选择，而不是提供一组固定的福利，您可以将其...，带来多项升级",
+      "url": "https://www.gsmarena.com/tmobiles_new_tmix_plans_let_you_pick_your_own_perks-news-75218.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-buds-clip/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/t-mobile-t-mix-plans-live/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Poco X8s 首次亮相，配备 6.35 英寸 OLED 显示屏、Snap...",
+      "title": "摩托罗拉 Edge 70 Neo 关键规格泄露，核心配置曝光",
       "source": "GSMArena",
       "date": "2026-10-26",
-      "summary": "Poco X8系列在全球市场推出新型号。 Poco 推出了新款 X8s，其设计紧凑，后置三摄像头设置。它配备了 635 英寸 LTPO AMOLED 显示屏，分辨率为 15K，刷新率为 120Hz。该面板还提供高达 35...",
-      "url": "https://www.gsmarena.com/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204.php",
+      "summary": "早在 8 月份，摩托罗拉就无意中预告了尚未推出的 Edge 70 Neo，随后当月晚些时候渲染图也被泄露。渲染图展示了这款手机的设计和颜色选项，但新的泄漏现在透露了其关键规格。据爆料称，摩托罗拉 Edge 70 Neo ...",
+      "url": "https://www.gsmarena.com/motorola_edge_70_neo_key_specifications_leak-news-75214.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/poco-x8s-ofic/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/motorola-edge-70-neo-specs-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "iPhone Duo 拆解显示它相当可修复，但其复杂的铰链令人担忧",
-      "source": "GSMArena",
-      "date": "2026-10-26",
-      "summary": "iPhone Duo 是目前科技界最热门的产品，iFixit 已经发布了他们的签名拆解。它解决了最近关于一些早期设备铰链故障的报道，同时也让我们深入了解了第一款折叠 iPhone 的内部结构。让我们从积极的方面开始Duo...，带来多项升级",
-      "url": "https://www.gsmarena.com/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-teardown-ifixit/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo Y600正式发布，配备10000mAh电池和6.83英寸显示屏，新...",
-      "source": "GSMArena",
-      "date": "2026-10-26",
-      "summary": "vivo Y600现已按照承诺在中国开启预订，并于10月30日开始公开销售。该手机配备了10000mAh的大电池，并且还获得了电池续航力吉尼斯世界纪录。根据吉尼斯世界纪录测试，该手机在连续直播测试中持续了32小时37分钟...",
-      "url": "https://www.gsmarena.com/vivo_y600_is_official_with_a_10000mah_battery_and_683inch_display-news-75202.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-y600-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "OnePlus 15开始接收基于Android 17的稳定ColorOS 1...",
-      "source": "GSMArena",
-      "date": "2026-10-25",
-      "summary": "早在 7 月份，OnePlus 就确认，所有地区所有符合条件的 OnePlus 设备都将通过 Android 17 更新从 OxygenOS 切换到 ColorOS。现在，OnePlus 15 开始发生这种转变，它从今天...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/oneplus_15_starts_receiving_the_stable_coloros_17_update_based_on_android_17-news-75197.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oneplus-15-coloros-17-update/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "早期 iPhone Duo 买家报告因潜在铰链缺陷导致内部显示屏损坏",
-      "source": "GSMArena",
-      "date": "2026-10-25",
-      "summary": "苹果首款可折叠手机 iPhone Duo 的买家在网上报告了购买时遇到的严重问题。所有报告都表明，由于潜在的铰链故障，内部显示屏上出现了垂直和水平线的常见模式。图片来源：scarryduck23Reddit据这些报道称，...",
-      "url": "https://www.gsmarena.com/early_iphone_duo_buyers_report_inner_display_damage_caused_by_a_potential_hinge_defect-news-75201.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-display-crack/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "每周民意调查结果：OnePlus 16 可能会成为全球热门手机",
-      "source": "GSMArena",
-      "date": "2026-10-25",
-      "summary": "上周的民意调查结果已经出炉如果该公司退出大多数市场，OnePlus 16 可能会在全球大受欢迎。尽管 16 的价格高于平常公平地说，对于市场上所有其他新手机而言，该品牌仍然很强大，甚至价值主张也很强大。一加 16事实上，...",
-      "url": "https://www.gsmarena.com/weekly_poll_results_the_oneplus_16_could_have_been_a_global_hit-news-75170.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/weekly-poll-results-oneplus-16/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Steam 适合您吗？你并不孤单",
+      "title": "这是三星下一代可折叠手机几乎从各个角度的早期展示",
       "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "这是 Steam 上发生的事情。",
-      "url": "https://www.androidauthority.com/steam-outage-oct-2026-3728033/",
+      "date": "2026-10-27",
+      "summary": "另一款三星可折叠手机即将推出，但你将无法上手。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-w27-render-leak-3728500/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "OnePlus 的 Android 17 更新正在向旧款旗舰推出",
+      "source": "Android Authority",
+      "date": "2026-10-27",
+      "summary": "还有四款 OnePlus 手机加入了 Android 17 的部署。",
+      "url": "https://www.androidauthority.com/oneplus-android-17-update-13-series-15r-3728488/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +146,23 @@
       "type": "news"
     },
     {
-      "title": "谷歌 的 Health Connect 可以支持您设备上的多个用户配置文件",
+      "title": "Galaxy Watch Ultra 2 在这一健康指标上出现了故障，但修复...",
       "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "多个用户配置文件很快就可以通过一台设备使用 Health Connect 查看和管理他们的数据。",
-      "url": "https://www.androidauthority.com/google-android-health-connect-user-profiles-apk-teardown-3727932/",
+      "date": "2026-10-27",
+      "summary": "在三星修复该问题之前，田径运动员可能无法看到最大摄氧量数据。",
+      "url": "https://www.androidauthority.com/galaxy-watch-ultra-2-vo2-max-error-3728454/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我尝试了 Soulog Sense，现在它一直附着在我的手机上，直至另行通知",
+      "source": "Android Authority",
+      "date": "2026-10-27",
+      "summary": "使用 Soulog Sense 确保您的笔记和卡片安全！",
+      "url": "https://www.androidauthority.com/soulog-sense-ai-note-taking-device-review-3719400/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "甚至 G2 智能眼镜也拥有全新外观和两个实用配件",
+      "title": "Android 手持设备刚刚通过此启动器进行了大规模的多任务升级",
       "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "就连G2也把目光投向了时尚，而且看起来也不错。",
-      "url": "https://www.androidauthority.com/even-g2-brown-2-launch-3727850/",
+      "date": "2026-10-27",
+      "summary": "Cocoon 31 beta 让玩家可以快速冻结并在正在进行的游戏之间切换。",
+      "url": "https://www.androidauthority.com/cocoon-3-1-beta-update-3728453/",
       "tags": [
         "安卓"
       ],
@@ -158,35 +182,23 @@
       "type": "news"
     },
     {
-      "title": "苹果刚刚通过新款 iPad mini 消除了 Android 在紧凑型平板电...",
+      "title": "我测试了 Galaxy S26 Ultra 和 OPPO Find X10 ...",
       "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "通过采用 OLED 显示屏、A20 Pro SoC 和 IP67 耐用性，苹果让竞争对手的迷你平板电脑几乎没有对手。",
-      "url": "https://www.androidauthority.com/apple-ipad-mini-2026-3727999/",
+      "date": "2026-10-27",
+      "summary": "三台 200MP 摄像头比一台更好吗？ OPPO 希望您这么认为，所以我们发现了。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-oppo-find-x10-pro-max-camera-comparison-3727207/",
       "tags": [
-        "苹果"
+        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "谷歌books 很快就会变得更好，让你可以从上次停下的地方继续阅读",
+      "title": "我的 Android 手机会点燃东西，但我却受不了",
       "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "Chromebook 具有方便的 Welcome Recap 功能，而且 Googlebook 操作系统似乎也将采用该功能。",
-      "url": "https://www.androidauthority.com/googlebook-app-restore-apk-teardown-3727939/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "暂时不要购买 Pro：这款较小的金属旗舰产品可能值得等待",
-      "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "新的泄漏表明小米 18 可能配备顶级芯片、大电池和令人印象深刻的相机规格。",
-      "url": "https://www.androidauthority.com/xiaomi-18-specs-leak-3727957/",
+      "date": "2026-10-27",
+      "summary": "Android 手机上的点烟器？为什么不呢！",
+      "url": "https://www.androidauthority.com/android-phone-lights-things-on-fire-oukitel-wp63-hands-on-3727363/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌AI Pro升级对一些学生来说是一个代价高昂的头痛问题",
+      "title": "Android 的 iOS 化正在毁掉我最喜欢的手机",
       "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "学生付费升级他们的 Google AI 计划。然后一切都消失了。",
-      "url": "https://www.androidauthority.com/google-ai-student-plan-cancellations-refunds-3727905/",
+      "date": "2026-10-27",
+      "summary": "我喜欢 Android，但它对复制 Liquid Glass 的痴迷开始让我感到不安。",
+      "url": "https://www.androidauthority.com/ios-ification-of-android-3721391/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Android 上最好的原版 Xbox 模拟器刚刚获得了巨大的性能升级",
+      "title": "谷歌books 正在进行另一轮急需的修复，这次是 Chrome",
       "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "它甚至可以在你的设备上运行。",
-      "url": "https://www.androidauthority.com/hakux-original-xbox-emulator-android-3727845/",
+      "date": "2026-10-27",
+      "summary": "浏览器的最新清理解决了崩溃、快捷方式、下载等问题。",
+      "url": "https://www.androidauthority.com/googlebooks-chrome-m156-update-3728427/",
       "tags": [
         "安卓"
       ],
@@ -218,23 +230,11 @@
       "type": "news"
     },
     {
-      "title": "华硕 ROG Xbox Ally X20 是迄今为止最好（也是最贵）的 Al...",
+      "title": "MOVA V70 Ultra Complete 并不完美，但它解决了机器人真...",
       "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "华硕 ROG Xbox Ally X20 是迄今为止最好也是最贵的 Ally",
-      "url": "https://www.androidauthority.com/asus-rog-xbox-ally-x20-review-3722864/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Snapseed 正在准备对长曝光摄影进行重大升级，核心配置曝光",
-      "source": "Android Authority",
-      "date": "2026-10-26",
-      "summary": "未来的更新可以让您在拍摄照片之前从多种长时间曝光模式中进行选择。，更多细节逐步揭晓",
-      "url": "https://www.androidauthority.com/snapseed-camera-long-exposure-controls-apk-teardown-3727836/",
+      "date": "2026-10-27",
+      "summary": "伸手去清理一些东西！",
+      "url": "https://www.androidauthority.com/mova-v70-ultra-complete-review-3713204/",
       "tags": [
         "安卓"
       ],
