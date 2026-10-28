@@ -1,132 +1,168 @@
 {
-  "updated": "2026-10-27 14:42",
+  "updated": "2026-10-28 15:14",
   "news": [
     {
-      "title": "Watch the vivo X500 series European 发布...",
+      "title": "苹果 Creator Studio 推出 AI 助手，这是自发布以来最大的更...",
       "source": "GSMArena",
-      "date": "2026-10-27",
-      "summary": "在中国首发一个多月后，vivo X500系列今天正式走向全球。该公司的奥地利分公司正在 YouTube 上举办直播活动，我们为您留了一个座位。活动于欧洲中部时间下午 4:30 开始。我们预计会在今天的活动中看到 X500...",
-      "url": "https://www.gsmarena.com/watch_the_vivo_x500_series_european_launch_here-news-75223.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/watch-vivo-x500-series-eu-launch/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Instagram 正在测试名为“Features”的长视频",
-      "source": "GSMArena",
-      "date": "2026-10-27",
-      "summary": "Instagram 宣布正在平台上测试一种名为 Features 的新视频格式，该格式将允许用户上传最长 90 分钟的横向视频。据好莱坞报道报道，测试于周一开始，目前仅限于美国的部分创作者。不过，报道补充说，Instag...",
-      "url": "https://www.gsmarena.com/instagram_is_testing_longform_videos_called_features-news-75222.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/instagram-long-form-video-testing/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米手环11登陆欧洲",
-      "source": "GSMArena",
-      "date": "2026-10-27",
-      "summary": "继 9 月份在中国发布后，小米现在将其智能手环 11 带到了欧洲。该健身追踪器可直接从小米在该地区的在线商店购买，有两个版本。标准型号售价为 60 欧元，配备 NFC 的版本售价为 80 欧元。在小米西班牙网站上快速浏览...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_smart_band_11_arrives_in_europe-news-75221.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/xiaomi-smart-band-11-europe/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果回应 iPhone Duo 内屏破裂问题",
-      "source": "GSMArena",
-      "date": "2026-10-27",
-      "summary": "苹果公司已对有关 iPhone Duo 内屏破裂的报道做出回应。在给 9to5Mac 的一份声明中，该公司承认它已经意识到这个问题并提供了基本建议。该公司发出以下声明作为回应强调我们的：早期用户对 iPhone Duo ...",
-      "url": "https://www.gsmarena.com/apple_responds_to_iphone_duo_inner_display_cracking_issue-news-75219.php",
+      "date": "2026-10-28",
+      "summary": "苹果公司在一月份推出了 Creator Studio，作为其应用程序的订阅包，面向创意专业人士。今天，该公司宣布了一轮重大更新，称这是自推出以来最令人兴奋的一次。Final Cut Pro for Mac 现在集成了 M...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-duo-apple-response/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-creator-studio-updates/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "iOS 27.2 更新推出这些新功能",
+      "title": "华为畅享100 Pro Max和畅享100 Pro正式发布，新机正式登场",
       "source": "GSMArena",
-      "date": "2026-10-27",
-      "summary": "Apple 正在为受支持的 iPhone 型号发布 iOS 272 更新，其中包含多项新功能并修复了 160 多个安全漏洞。 iOS 更新为 Siri AI 带来了新语言、iPhone Duo 上的 Apple Penc...，带来多项升级",
-      "url": "https://www.gsmarena.com/ios_272_update_rolling_out_with_these_new_features-news-75220.php",
+      "date": "2026-10-28",
+      "summary": "华为在中国推出了采用麒麟8000系列芯片组和HarmonyOS 70的畅享100 Pro和畅享100 Pro Max。这两款手机现已在中国上市，各有四种颜色可供选择。华为畅享100 Pro配备67英寸OLED显示屏，分辨...",
+      "url": "https://www.gsmarena.com/huawei_enjoy_100_and_enjoy_100_pro_are_official-news-75243.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/ios-27-2-update/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-enjoy-100-pro-max-ofic/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Counterpoint 表示，印度智能手机市场刚刚经历了十年来最糟糕的季度",
+      "title": "三星在美国推出 Galaxy Buds On 夹式耳机，价格如下",
       "source": "GSMArena",
-      "date": "2026-10-27",
-      "summary": "上周，Omdia 报告称，第三季度印度智能手机出货量下降了 26，跌至 2016 年以来的最低水平。现在 Counterpoint Research 也公布了自己的数据，虽然数据没有那么可怕，但他们描绘了同样的情况。 7...",
-      "url": "https://www.gsmarena.com/indias_smartphone_market_just_had_its_worst_quarter_in_a_decade_counterpoint_says-news-75216.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/counterpoint-india-q3-smartphone-shipments/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "小米 18 Pro 和 18 Pro Max 在全球发售前已被欧洲零售商列出",
-      "source": "GSMArena",
-      "date": "2026-10-27",
-      "summary": "小米早在 9 月份就在中国推出了小米 18 Pro 和小米 18 Pro Max，一天后又确认这两款手机将走向全球。今天，意大利零售商 Epto 在这两款手机在国际上首次亮相之前列出了它们的欧洲价格、颜色和规格。小米 1...",
-      "url": "https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_get_listed_by_european_retailer_before_their_global_launch-news-75215.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/xiaomi-18-pro-18-pro-max-listed-in-europe/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "据报道，三星 Exynos 2700 的性能比小米 18 Pro Max 的...",
-      "source": "GSMArena",
-      "date": "2026-10-26",
-      "summary": "早在 8 月份，内部人士就声称 Exynos 2700 在内部测试中击败了高通的下一代旗舰芯片。这些 Snapdragon 现已正式上市，据报道三星已将其即将推出的芯片再次与它们进行竞争。 Exynos 2700 预计至...",
-      "url": "https://www.gsmarena.com/exynos_2700_reportedly_beats_the_snapdragon_8_elite_extreme_gen_6_in_internal_tests-news-75217.php",
+      "date": "2026-10-28",
+      "summary": "本月初，三星推出了首款夹式耳机 Galaxy Buds On。今天，该公司还宣布将在美国市场推出这些产品，并将于 11 月初以 229 美元的价格出售。然后，三星表示将于 2027 年初将它们带到欧洲。三星表示，Gala...",
+      "url": "https://www.gsmarena.com/samsung_launches_the_galaxy_buds_on_clipon_earbuds_in_the_us_heres_the_price-news-75231.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-exynos-2700-vs-xiaomi-18-pro-18-pro-max/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-buds-on-us/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "T-Mobile 的新 T-Mix 计划可让您选择自己的福利",
+      "title": "华为Pura 90 Plus发布，搭载麒麟9025和1英寸可变光圈主传感器，...",
       "source": "GSMArena",
-      "date": "2026-10-26",
-      "summary": "最近有传言称 TMobile 正在准备新的 TMix 品牌计划，今天它们终于正式发布。共有三个级别，称为标准、更多和加载，它们将于 11 月推出。最重要的想法是，每个计划都有一些选择，而不是提供一组固定的福利，您可以将其...，带来多项升级",
-      "url": "https://www.gsmarena.com/tmobiles_new_tmix_plans_let_you_pick_your_own_perks-news-75218.php",
+      "date": "2026-10-28",
+      "summary": "华为Pura 90系列今天在中国迎来了新成员Pura 90 Plus。它介于 Pura 90 和 Pura 90 Pro 之间，配备 Kirin 9025 芯片组和具有 f1440 可变光圈的 1 英寸型传感器。50MP...",
+      "url": "https://www.gsmarena.com/huawei_pura_90_plus_launched_with_kirin_9025_and_1inch_type_main_sensor_with_variable_aperture_-news-75242.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/t-mobile-t-mix-plans-live/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-pura-90-plus-ofic/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Edge 70 Neo 关键规格泄露，核心配置曝光",
+      "title": "vivo X500开箱及上手",
       "source": "GSMArena",
-      "date": "2026-10-26",
-      "summary": "早在 8 月份，摩托罗拉就无意中预告了尚未推出的 Edge 70 Neo，随后当月晚些时候渲染图也被泄露。渲染图展示了这款手机的设计和颜色选项，但新的泄漏现在透露了其关键规格。据爆料称，摩托罗拉 Edge 70 Neo ...",
-      "url": "https://www.gsmarena.com/motorola_edge_70_neo_key_specifications_leak-news-75214.php",
+      "date": "2026-10-28",
+      "summary": "vivo X500系列刚刚走向国际，但X500的上市范围将比两款Pro机型更窄。目前我们知道普通型号在东南亚有售，但将跳过欧洲。该系列预计将于 11 月在印度推出，然后我们将确认哪些型号将在印度上市。全球vivo X50...",
+      "url": "https://www.gsmarena.com/vivo_x500_unboxing_and_handson-news-75210.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/motorola-edge-70-neo-specs-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-unboxing/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "这是三星下一代可折叠手机几乎从各个角度的早期展示",
+      "title": "Infinix Note 70 Pro 携神秘 Snapdragon 芯片组...",
+      "source": "GSMArena",
+      "date": "2026-10-28",
+      "summary": "本月早些时候，Infinix Note 70 Pro 出现在认证数据库中，其 X6766 型号的先前 DevCheck 条目指出它使用 Snapdragon 7s Gen 4 芯片组。如今，相同的型号也出现在 Geekb...",
+      "url": "https://www.gsmarena.com/infinix_note_70_pro_visits_geekbench_with_a_mysterious_snapdragon_chipset-news-75237.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/infinix-note-70-pro-geekbench/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "索尼发布新款 LYTIA 720 50MP 1/1.56 英寸移动传感器，新...",
+      "source": "GSMArena",
+      "date": "2026-10-28",
+      "summary": "索尼宣布推出 LYTIA 720，这是一款专为移动设备设计的新型 50MP 堆叠式 CMOS 图像传感器。索尼 LYTIA 720 尺寸为 1156 英寸，像素尺寸为 10m。它采用索尼专有的超高转换增益 UHCG 电路...",
+      "url": "https://www.gsmarena.com/sony_unveils_new_lytia_720_50mp_1_156inch_sensor_for_mobile-news-75239.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/sony-lytia-720-announced/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Moto G47 Power 配备 7,000 mAh 电池和更快的充电速度",
+      "source": "GSMArena",
+      "date": "2026-10-28",
+      "summary": "摩托罗拉刚刚在欧洲正式推出 Moto G47 Power。它不是 4 月份推出的 Moto G47 的后继产品，而是该家族的新成员，它的电池容量从 5200 mAh 提升到了 7000 mAh，名副其实。这与本月早些时候...",
+      "url": "https://www.gsmarena.com/moto_g47_power_arrives_with_a_7000_mah_battery_and_faster_charging-news-75236.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/moto-g47-power-official/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy A08 在印度推出，配备 6,000mAh 电池",
+      "source": "GSMArena",
+      "date": "2026-10-28",
+      "summary": "上个月在部分全球市场正式上市后，三星将其价格实惠的 A08 4G 手机带到了印度。 Galaxy A08 配备 6000mAh 电池和 67 英寸 LCD 显示屏，刷新率为 90Hz。该手机可在印度通过三星官方在线商店和...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a08_launched_in_india_with_a_6000mah_battery-news-75238.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-a08-india-launch/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "这是vivo X500系列在印度推出的时间",
+      "source": "GSMArena",
+      "date": "2026-10-28",
+      "summary": "继上个月在中国推出后，vivo X500 系列现已在部分全球市场首次亮相。一份新报告现已透露了该阵容在印度的预计发布时间表。据报道，vivo X500系列预计将于11月底在印度推出。该公司还计划将所有三款机型引入中国，包...，带来多项升级",
+      "url": "https://www.gsmarena.com/heres_when_the_vivo_x500_series_could_launch_in_india-news-75233.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-x500-series-india-launch-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "购买 Razer 40Gbps Thunderbolt 4 线缆可享 50%...",
       "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "另一款三星可折叠手机即将推出，但你将无法上手。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-ultra-w27-render-leak-3728500/",
+      "date": "2026-10-28",
+      "summary": "购买 Razer 2 米 Thunderbolt 4 线缆可节省 59 美元。它旨在在整个长度上保持 40Gbps 的全速。",
+      "url": "https://www.androidauthority.com/razer-thunderbolt-4-cable-deal-3729239/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "亚马逊的新款 Echo Studio 扬声器也是家庭监控摄像头",
+      "source": "Android Authority",
+      "date": "2026-10-28",
+      "summary": "就像一个智能显示器，但没有显示器。",
+      "url": "https://www.androidauthority.com/echo-studio-with-home-camera-3729099/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "亚马逊升级 Echo Dot，内置智能家居中心，但你必须付费",
+      "source": "Android Authority",
+      "date": "2026-10-28",
+      "summary": "亚马逊的新款 Echo Dot 进行了很多升级，但价格也更高。",
+      "url": "https://www.androidauthority.com/amazon-launches-echo-dot-6th-gen-3729112/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S25 Ultra 降价 500 美元，创下历史新低",
+      "source": "Android Authority",
+      "date": "2026-10-28",
+      "summary": "三星 Galaxy S25 Ultra 在亚马逊上创下历史新低，售价为 799 美元，配备 69 英寸 120Hz 显示屏和 200MP 摄像头。",
+      "url": "https://www.androidauthority.com/deal-samsung-galaxy-s25-ultra-3729202/",
       "tags": [
         "三星"
       ],
@@ -134,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "OnePlus 的 Android 17 更新正在向旧款旗舰推出",
+      "title": "亚马逊 Garmin Instinct 2X Solar Tactical ...",
       "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "还有四款 OnePlus 手机加入了 Android 17 的部署。",
-      "url": "https://www.androidauthority.com/oneplus-android-17-update-13-series-15r-3728488/",
+      "date": "2026-10-28",
+      "summary": "Garmin 的 Instinct 2X Solar Tactical 在亚马逊上降至 31999 美元，配备太阳能充电、GNSS 和内置手电筒。",
+      "url": "https://www.androidauthority.com/garmin-instinct-2x-solar-tactical-deal-3729190/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +182,47 @@
       "type": "news"
     },
     {
-      "title": "Galaxy Watch Ultra 2 在这一健康指标上出现了故障，但修复...",
+      "title": "周三壁纸：精彩手机壁纸供大家分享（10 月 28 日）",
       "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "在三星修复该问题之前，田径运动员可能无法看到最大摄氧量数据。",
-      "url": "https://www.androidauthority.com/galaxy-watch-ultra-2-vo2-max-error-3728454/",
+      "date": "2026-10-28",
+      "summary": "需要壁纸吗？以下是 Android Authority 团队和我们的一些读者的一些精彩文章。也分享你的吧！",
+      "url": "https://www.androidauthority.com/wallpaper-wednesday-october-28-2026-3728289/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌 地图将为您的仪表板带来秋天的色彩",
+      "source": "Android Authority",
+      "date": "2026-10-28",
+      "summary": "Google 地图将为您的仪表板带来秋天的色彩",
+      "url": "https://www.androidauthority.com/google-maps-fall-colors-android-auto-3729057/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "不只是你：几位 谷歌 Pixel Watch 用户都遇到了严重的电池耗尽问题",
+      "source": "Android Authority",
+      "date": "2026-10-28",
+      "summary": "突然出现的电池耗尽问题困扰了多代 Pixel Watch，导致用户急于寻求修复。",
+      "url": "https://www.androidauthority.com/google-pixel-watch-battery-drain-3729042/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星的开放式耳机 Galaxy Buds On 即将登陆美国，我们终于知道什...",
+      "source": "Android Authority",
+      "date": "2026-10-28",
+      "summary": "美国将于下周开始供货！",
+      "url": "https://www.androidauthority.com/samsung-galaxy-buds-on-us-release-date-price-3728523/",
       "tags": [
         "三星"
       ],
@@ -158,83 +230,11 @@
       "type": "news"
     },
     {
-      "title": "我尝试了 Soulog Sense，现在它一直附着在我的手机上，直至另行通知",
+      "title": "我多年来一直是 T-Mobile 用户，这家运营商给了我留下来的重要理由",
       "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "使用 Soulog Sense 确保您的笔记和卡片安全！",
-      "url": "https://www.androidauthority.com/soulog-sense-ai-note-taking-device-review-3719400/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android 手持设备刚刚通过此启动器进行了大规模的多任务升级",
-      "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "Cocoon 31 beta 让玩家可以快速冻结并在正在进行的游戏之间切换。",
-      "url": "https://www.androidauthority.com/cocoon-3-1-beta-update-3728453/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我测试了 Galaxy S26 Ultra 和 OPPO Find X10 ...",
-      "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "三台 200MP 摄像头比一台更好吗？ OPPO 希望您这么认为，所以我们发现了。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-ultra-oppo-find-x10-pro-max-camera-comparison-3727207/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我的 Android 手机会点燃东西，但我却受不了",
-      "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "Android 手机上的点烟器？为什么不呢！",
-      "url": "https://www.androidauthority.com/android-phone-lights-things-on-fire-oukitel-wp63-hands-on-3727363/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android 的 iOS 化正在毁掉我最喜欢的手机",
-      "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "我喜欢 Android，但它对复制 Liquid Glass 的痴迷开始让我感到不安。",
-      "url": "https://www.androidauthority.com/ios-ification-of-android-3721391/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌books 正在进行另一轮急需的修复，这次是 Chrome",
-      "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "浏览器的最新清理解决了崩溃、快捷方式、下载等问题。",
-      "url": "https://www.androidauthority.com/googlebooks-chrome-m156-update-3728427/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "MOVA V70 Ultra Complete 并不完美，但它解决了机器人真...",
-      "source": "Android Authority",
-      "date": "2026-10-27",
-      "summary": "伸手去清理一些东西！",
-      "url": "https://www.androidauthority.com/mova-v70-ultra-complete-review-3713204/",
+      "date": "2026-10-28",
+      "summary": "从您的 TMobile 套餐中获得一些体面的福利。",
+      "url": "https://www.androidauthority.com/t-mobile-customer-years-big-reason-stay-t-mix-plans-3728636/",
       "tags": [
         "安卓"
       ],
