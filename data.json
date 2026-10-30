@@ -1,132 +1,156 @@
 {
-  "updated": "2026-10-29 15:19",
+  "updated": "2026-10-30 15:07",
   "news": [
     {
-      "title": "荣耀X9e发布，新机正式登场",
+      "title": "据报道，三星正在开发一款巨大的可折叠平板电脑",
       "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "荣耀X系列的最新成员现已正式推出荣耀X9e s。该设备已在整个中东地区上市，单个 8256GB 的起价为 1499 沙特里亚尔400 美元。它可能看起来很熟悉，这是有充分理由的：X9e s 是重新命名的 Honor Tu...",
-      "url": "https://www.gsmarena.com/honor_x9e_s_launched_-news-75264.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-x9e-s-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "据报道，苹果降低了 iPhone Duo 的 QA 标准，以便及时推出更多设...",
-      "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "围绕 iPhone Duo，尤其是其精致的铰链机制，一直存在争议。我们已经看到了大量有关内部显示屏损坏的报告，苹果公开承认了这个问题，声称它只影响一小部分 iPhone Duo 设备，受影响的用户应该联系苹果进行更换。图...",
-      "url": "https://www.gsmarena.com/apple_reportedly_lowered_its_iphone_duo_qa_standards_to_get_more_units_out_in_time-news-75262.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-reportedly-lowered-qa-standards-iphone-duo/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新认证证实了三星 Galaxy S27 的充电速度",
-      "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "型号为 SMS9520 的三星 Galaxy S7 上个月获得了 3C 认证，显示它将支持 25W 充电速度。现在，多款三星设备据信是 Galaxy S27已获得丹麦 UL Solutions Demko 认证，证实了充...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_charging_speed_corroborated-news-75261.php",
+      "date": "2026-10-30",
+      "summary": "早在 8 月底，X 上的爆料者就声称一款 17 英寸可折叠平板电脑正在开发中，有多个版本和测试设备正在开发中，但没有透露是哪家公司生产的。现在，同一位线人又补充了一个简短但有说服力的内容，透露三星已经开始了。根据原帖，该...",
+      "url": "https://www.gsmarena.com/samsung_is_reportedly_working_on_a_huge_foldable_tablet-news-75285.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-demko-certification/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-foldable-tablet-rumor/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Wobble 推出第二款智能手机 Speed 5G",
+      "title": "Oppo Reno17 F 5G 获得 NBTC 认证",
       "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "Indkal Technologies 旗下的印度智能手机品牌 Wobble 正准备推出第二款手机 Speed 5G。该公司于去年 11 月推出了首款智能手机 Wobble One。该公司在社交媒体上分享了一些预告片，确...",
-      "url": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php",
+      "date": "2026-10-30",
+      "summary": "Oppo 已确认将于下个月在中国推出 Reno17 系列，但尚未正式透露何时在国际上推出。在我们等待Reno17系列全球首发的更多信息时，泰国NBTC已经对Reno17 F 5G进行了认证，使其距离上市又近了一步。Ren...",
+      "url": "https://www.gsmarena.com/oppo_reno17_f_5g_nbtc_certified-news-75284.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/wobble-speed-india-launch/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-f-5g-nbtc-certified/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "据传 iQOO 16 将在中国境外发布，新机正式登场",
+      "title": "Strava 订阅者现在可以直接连接到 谷歌 Gemini 以获得个性化的锻...",
       "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "iQOO 16 于 9 月底在中国正式上市，本月早些时候我们听说它也将登陆印度。今天，X 上的一位线人声称确切地知道这种情况何时会发生。据他介绍，iQOO 16将于12月15日至17日左右在印度上市。如果这是真的，印度球...",
-      "url": "https://www.gsmarena.com/heres_when_the_iqoo_16_is_rumored_to_launch_in_india-news-75255.php",
+      "date": "2026-10-30",
+      "summary": "早在 6 月，Strava 就推出了模型上下文协议 MCP 连接器，让订阅者可以通过 Claude 查询他们的 Strava 数据，以获得深入的培训见解。在此基础上，Strava 宣布与 Google Gemini 集成...",
+      "url": "https://www.gsmarena.com/strava_google_gemini_integration-news-75280.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-16-india-launch-rumor/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/strava-google-gemini-integration/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "Oppo Find X10 和 Find X10 Pro Max 在印度开售",
+      "title": "Omdia：2026 年第三季度全球智能手机出货量同比下降 20%",
       "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "Oppo Find X10 和 Find X10 Pro Max 上周在印度推出，今天通过 Oppo 印度网站、Amazonin、Flipkart 和主流零售店开始销售。Oppo Find X10 Pro Max 有月神...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_find_x10_pro_max_india_price_sale_date-news-75258.php",
+      "date": "2026-10-30",
+      "summary": "研究公司 Omdia 的最新报告显示，2026 年第三季度全球智能手机出货量同比下降 20。该季度制造商共出货 2547 亿部。报告指出，这是自 2013 年以来第三季度出货量最低的一次，下滑归因于智能手机价格上涨。三星...",
+      "url": "https://www.gsmarena.com/omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-series-india-price-sale-date/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/global-smartphone-shipments-omdia-report/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "iQOO Pad Pro 以更低的价格带来 Ultra 的 165Hz 屏幕...",
+      "title": "Gemini 现在允许您直接在聊天中编辑它创建的文件",
       "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "iQOO 本月早些时候推出了一款更实惠的紧凑型游戏平板电脑，今天 iQOO Pad Pro 88 在中国正式上市。它与 iQOO Neo12 一起推出，并保留了 iQOO Pad Ultra 的大部分有趣之处，包括主动冷...",
-      "url": "https://www.gsmarena.com/iqoo_pad_pro_brings_the_ultras_165hz_screen_and_big_battery_for_less-news-75252.php",
+      "date": "2026-10-30",
+      "summary": "早在四月份，Google 的 Gemini 就能够为您生成文件，从文档和表格到 PDF 和 Markdown。但到目前为止，如果您想调整它所提供的内容，则必须先下载或导出文件。今天，Google 正在解决这个问题，让您可...",
+      "url": "https://www.gsmarena.com/gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/iqoo-pad-pro-official/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/google-gemini-edits/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "泄密称华为星光品牌将推出宽屏手机",
+      "title": "vivo S70的完整相机细节出现在新的泄漏中",
       "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "本月早些时候，有报道称华为正准备推出一个名为星芒的新子品牌，中文翻译为星光。现在，一位消息人士分享了有关即将推出的品牌的第一款智能手机的详细信息。据爆料者数字聊天站报道，华为即将推出的子品牌的首款智能手机将采用宽屏直板设...",
-      "url": "https://www.gsmarena.com/huaweis_starlight_brand_to_debut_with_a_widescreen_phone_leak_claims-news-75257.php",
+      "date": "2026-10-30",
+      "summary": "上周有传言称，vivo 准备在中国推出 V70，配备 64MP 索尼潜望式长焦摄像头，并支持增距镜。现在，新的泄密事件揭示了该手机的完整相机规格。据爆料者数字聊天站称，vivo V70 将配备 50MP 主后置传感器和 ...",
+      "url": "https://www.gsmarena.com/vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/huawei-starlight-first-phone-rumor/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-s70-camera-specs/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "新款 红米 Clip Neo 耳机的价格是小米 Clip-on 的一半",
+      "title": "诺基亚 2360 Flip 是一款带有 SOS 按钮的双屏功能手机",
       "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "小米的首款夹式耳机，恰如其分地命名为小米夹式耳机，于 5 月份与小米 17 Max 一起发布。今天，该公司推出了 Redmi K100，同时还推出了 Redmi Clip Neo 耳机。这种款式的耳机会夹在您的耳朵周围，...，带来多项升级",
-      "url": "https://www.gsmarena.com/the_new_redmi_clip_neo_buds_cost_half_as_much_as_the_xiaomi_clipon-news-75248.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/redmi-clip-neo-announced/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀 X8e 4G 悄然推出，配备 108MP 摄像头和 7,700mAh ...",
-      "source": "GSMArena",
-      "date": "2026-10-29",
-      "summary": "模型真的不能太多吗？也许是，也许不是，但还有一款荣耀 X8e 4G，一款与 8 月份发布的荣耀 X7e Plus 4G 几乎相同的手机。荣耀X8e 4G这款手机最引人注目的功能是 108MP 摄像头。这款手机是在荣耀阿塞...，带来多项升级",
-      "url": "https://www.gsmarena.com/honor_x8e_4g_quietly_launches_with_a_108mp_camera_and_a_7700mah_battery-news-75251.php",
+      "date": "2026-10-30",
+      "summary": "HMD 推出了诺基亚 2360 Flip，这是其最新的功能手机，采用翻盖设计并具有家庭辅助功能。该手机专为学生和老年人而设计，配有双显示屏和专用的 SOS 按钮。诺基亚 2360 Flip 的主要亮点是其家庭辅助功能，该...",
+      "url": "https://www.gsmarena.com/the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/honor-x8e-announced/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/nokia-2360-flip-2g-ofic/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy S26 Ultra 512GB 暴跌 472 美元，这是...",
+      "title": "新款 OLED iPad mini 跑 Geekbench，结果如下",
+      "source": "GSMArena",
+      "date": "2026-10-30",
+      "summary": "苹果周一推出了配备 OLED 屏幕和 A20 Pro 芯片组的 iPad mini2026，第一批设备将于 11 月 6 日到达买家手中。在此之前，其中一台已经通过了 Geekbench 7 测试，因此我们现在已经很好地...",
+      "url": "https://www.gsmarena.com/the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-geekbench/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉确认 Signature 27 的确切发布日期，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-10-30",
+      "summary": "摩托罗拉在 9 月份的高通 Snapdragon 峰会上首次展示了 Signature 27，但此后一直没有透露完整的规格和定价。昨天，其印度网站称这款手机将于今年 11 月上市，现在该公司已将具体日期缩小到：11 月 ...",
+      "url": "https://www.gsmarena.com/motorola_confirms_the_exact_signature_27_launch_date-news-75275.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/motorola-signature-27-launch-date/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Find X10 Ultra 可能会转向芯片组",
+      "source": "GSMArena",
+      "date": "2026-10-30",
+      "summary": "Oppo Find X10 Ultra 的完整摄像头设置已于本周早些时候泄露，但为其供电的芯片又如何呢？ Find X9 Ultra 于 4 月份推出，搭载 Snapdragon 8 Elite Gen 5 芯片组，因此...",
+      "url": "https://www.gsmarena.com/oppo_find_x10_ultra_could_be_heading_for_a_chipset_switch-news-75271.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-ultra-chipset-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Pixel Buds Pro 2 获亚马逊 60 美元大折扣",
       "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "三星 Galaxy S26 Ultra 在亚马逊上降至 1127 美元，这是我们今年看到的 512GB 型号的最低价格。",
-      "url": "https://www.androidauthority.com/deal-samsung-galaxy-s26-ultra-512gb-3729642/",
+      "date": "2026-10-30",
+      "summary": "谷歌 Pixel Buds Pro 2 在亚马逊上享受 26 的折扣，将其优质无线耳机的价格降至 169 美元。",
+      "url": "https://www.androidauthority.com/pixel-buds-pro-2-amazon-deal-3730165/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "对高通来说是一个巨大的打击吗？这款即将推出的 Ultra 旗舰可能会跳过 S...",
+      "source": "Android Authority",
+      "date": "2026-10-30",
+      "summary": "市场上最好的拍照手机之一的继任者可能会走联发科的路。",
+      "url": "https://www.androidauthority.com/oppo-find-x10-ultra-mediatek-dimensity-9600-pro-3730120/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "搭载 Android 17 的 One UI 9 正在向美国这两款流行的 G...",
+      "source": "Android Authority",
+      "date": "2026-10-30",
+      "summary": "Galaxy A35和Galaxy A16已在美国正式加入One UI 9派对。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-a16-a35-one-ui-9-us-3730018/",
       "tags": [
         "三星"
       ],
@@ -134,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "Garmin Messenger 过于信任短信验证，这可能不会有好结果",
+      "title": "谷歌正在 Pixel 上测试 iOS 风格的家庭中心",
       "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "重新分配您的电话号码后，您的旧聊天记录可能不会消失。",
-      "url": "https://www.androidauthority.com/garmin-messenger-recycled-phone-number-privacy-risk-3729560/",
+      "date": "2026-10-30",
+      "summary": "Android 家庭共享仍然是一个麻烦，但 Pixel 手机可能最终会改变这一状况。",
+      "url": "https://www.androidauthority.com/google-pixel-family-hub-test-ios-style-3729970/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "我总是在 谷歌 Pixel 手机上关闭 7 个 Android 设置",
+      "title": "没有互联网，没问题：谷歌正在为 Gemini Live 开发离线模式",
       "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "我的 Pixel 在这方面好多了。",
-      "url": "https://www.androidauthority.com/always-disable-these-google-pixel-settings-3727587/",
+      "date": "2026-10-30",
+      "summary": "离线模式会像标准 Gemini Live 模式一样灵敏和准确吗？",
+      "url": "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "这款强大的 Android 手持设备悄悄配备了 10,000mAh 的超大电...",
+      "title": "Nothing 的 Android 17 更新提前到达另外四款手机",
       "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "MANGMI Pocket Max 可能是手持设备领域的新电池之王。",
-      "url": "https://www.androidauthority.com/mangmi-pocket-max-10000mah-battery-3729563/",
+      "date": "2026-10-30",
+      "summary": "11 月的更新计划刚刚开始。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/nothing-android-17-update-phone-3a-4a-series-3730070/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "我希望摩托罗拉 Signature 27 很棒，但我有两个无法摆脱的重大担忧",
+      "title": "Android 的短信死亡错误可能会导致你的手机瘫痪，但很快就会有修复",
       "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "我喜欢这些硬件，但在购买之前我需要真正的更新承诺和合理的价格。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/motorola-signature-27-software-updates-price-concerns-3728019/",
+      "date": "2026-10-30",
+      "summary": "即使是紧急呼叫也无法免受这种无声威胁的影响。",
+      "url": "https://www.androidauthority.com/android-sms-of-death-google-fix-3729929/",
       "tags": [
         "安卓"
       ],
@@ -182,23 +206,11 @@
       "type": "news"
     },
     {
-      "title": "iPhone 18 Pro 是 Android AI 时代的对立面",
+      "title": "Signature 27 是摩托罗拉获得 Android 更新的最后机会",
       "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "苹果在人工智能方面可能落后于谷歌，但它对 iPhone 18 Pro 的方法才是我真正想要的。",
-      "url": "https://www.androidauthority.com/iphone-18-pro-google-gemini-android-3724781/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我测试过很多充电器，但这是我桌上的一个",
-      "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "一开始就喜欢吗？显然，是的。",
-      "url": "https://www.androidauthority.com/baseus-picogo-pro-100w-gan-charger-3722018/",
+      "date": "2026-10-30",
+      "summary": "在经历了多次承诺和失败之后，Signature 27 有很多东西需要证明。",
+      "url": "https://www.androidauthority.com/motorola-android-updates-mess-3726266/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "调查显示 Fitbit Edge 最大的竞争对手可能是它自己的谷歌兄弟",
+      "title": "您现在可以在 Gemini Notebook 中轻松查找和添加教科书",
       "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "电话是从屋内传来的。",
-      "url": "https://www.androidauthority.com/best-fitbit-edge-alternative-poll-results-3729522/",
+      "date": "2026-10-30",
+      "summary": "Gemini Notebook 对学生来说可能会变得更加有用。",
+      "url": "https://www.androidauthority.com/gemini-notebook-textbooks-feature-3729932/",
       "tags": [
         "安卓"
       ],
@@ -218,25 +230,13 @@
       "type": "news"
     },
     {
-      "title": "特朗普手机通过了弯曲测试，但未通过原创性测试",
+      "title": "我测试了 7 个最受欢迎的 Android 启动器——这是我的排名",
       "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "金色油漆只能隐藏这么多。",
-      "url": "https://www.androidauthority.com/trump-phone-durability-test-3729503/",
+      "date": "2026-10-30",
+      "summary": "一款发射器显然胜过其他发射器。",
+      "url": "https://www.androidauthority.com/popular-android-launcher-ranking-3727681/",
       "tags": [
         "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星正在终止另一项关键的 Galaxy 服务",
-      "source": "Android Authority",
-      "date": "2026-10-29",
-      "summary": "今年晚些时候，您的 One UI 主屏幕将会有所不同。",
-      "url": "https://www.androidauthority.com/samsung-news-shutdown-december-2026-3729509/",
-      "tags": [
-        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
