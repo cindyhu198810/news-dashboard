@@ -1,132 +1,132 @@
 {
-  "updated": "2026-10-30 15:07",
+  "updated": "2026-10-31 14:37",
   "news": [
     {
-      "title": "据报道，三星正在开发一款巨大的可折叠平板电脑",
+      "title": "三星 Galaxy Z Fold9 将带回 iPhone Duo 久违的功能",
       "source": "GSMArena",
-      "date": "2026-10-30",
-      "summary": "早在 8 月底，X 上的爆料者就声称一款 17 英寸可折叠平板电脑正在开发中，有多个版本和测试设备正在开发中，但没有透露是哪家公司生产的。现在，同一位线人又补充了一个简短但有说服力的内容，透露三星已经开始了。根据原帖，该...",
-      "url": "https://www.gsmarena.com/samsung_is_reportedly_working_on_a_huge_foldable_tablet-news-75285.php",
+      "date": "2026-10-31",
+      "summary": "三星在其书本式可折叠手机的内屏上安装了屏下摄像头，已经有四代了，从 2021 年的 Galaxy Z Fold3 开始，一直到 Galaxy Z Fold6。去年 Galaxy Z Fold7 改用了常规打孔，今年的 G...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-z-fold9-udc-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "WhatsApp 宣布新功能，包括群组状态",
+      "source": "GSMArena",
+      "date": "2026-10-31",
+      "summary": "WhatsApp 宣布了新功能。首先是群组状态，顾名思义，它允许您共享仅对群组成员可见的状态更新，他们可以查看、响应和喜欢状态，并添加自己的状态。群组状态与常规状态一样，会在 24 小时后消失。WhatsApp 已经允许...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/whatsapp-group-status/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "特惠：iPhone 17 系列促销、OLED 封装 iPad mini 和触...",
+      "source": "GSMArena",
+      "date": "2026-10-31",
+      "summary": "苹果上周推出了 iPhone Duo，与大多数发布的产品不同，它的进展并不顺利。那么，让我们看看非折叠 iPhone，再加上本周发布的两款新机本周的主题是OLED。我们将从一个不错的中间立场开始苹果 iPhone 17。...，带来多项升级",
+      "url": "https://www.gsmarena.com/deals_iphone_17_series_on_sale_oledpacking_ipad_mini_and_touchenabled_macbook_pro_launch-news-75286.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/deals-30/-184x111/gsmarena_de.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy Fit4 泄露，主要功能曝光，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-10-31",
+      "summary": "上周我们第一次看到了即将推出的三星 Galaxy Fit4，现在我们有了一些与图片相匹配的规格。感谢 SammyGuru 分享的 Galaxy Fit4 Manager 配套应用程序的 APK 拆解，我们现在掌握了这款可...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_fit4_leaks_key_features_revealed_-news-75289.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-foldable-tablet-rumor/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-fit-4-leaks-key-features/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Oppo Reno17 F 5G 获得 NBTC 认证",
+      "title": "以下是三星计划发布 Android XR 眼镜的时间和地点，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-10-31",
+      "summary": "本月早些时候，韩国的一篇报道援引三星官员的话说，三星的智能眼镜将于 11 月推出。今天，来自同一国家的一份新报告告诉我们何时可以真正购买到这款眼镜：12 月中旬。不过，这并不是故事的全部，因为据说它们最初只在韩国和美国发...",
+      "url": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-glasses-release-month-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "苹果 iPhone 18 Pro 与 iPhone 18 Pro Max",
       "source": "GSMArena",
       "date": "2026-10-30",
-      "summary": "Oppo 已确认将于下个月在中国推出 Reno17 系列，但尚未正式透露何时在国际上推出。在我们等待Reno17系列全球首发的更多信息时，泰国NBTC已经对Reno17 F 5G进行了认证，使其距离上市又近了一步。Ren...",
-      "url": "https://www.gsmarena.com/oppo_reno17_f_5g_nbtc_certified-news-75284.php",
+      "summary": "是时候该升级了，你所关注的就是新款iPhone 18 Pro系列。但该买哪一个呢？较小的 iPhone 18 Pro 或较大的 iPhone 18 Pro Max？有时，这不仅仅与屏幕尺寸有关还与屏幕尺寸有关。它还与功能...",
+      "url": "https://www.gsmarena.com/apple_iphone_18_pro_vs_iphone_18_pro_max_battery_camera_price_compared-news-75173.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-iphone-18-pro-vs-iphone-18-pro-max/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy S27 Ultra 芯片组传奇仍在继续，这是最新的变化",
+      "source": "GSMArena",
+      "date": "2026-10-30",
+      "summary": "Galaxy S27 Ultra 将使用哪种芯片组在过去几个月已经成为了一个颇为传奇的话题。早在 7 月，据说 Ultra 就会在全球范围内采用 Snapdragon 芯片，而该系列的其他产品将在北美以外地区使用 Exy...",
+      "url": "https://www.gsmarena.com/the_galaxy_s27_ultra_chipset_saga_continues_heres_the_latest_twist-news-75292.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-galaxy-s27-ultra-new-chipset-twist/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "一个新的漏洞可能会导致你的 Android 手机在收到死亡短信时变砖",
+      "source": "GSMArena",
+      "date": "2026-10-30",
+      "summary": "安全研究员 Mark Blaszczyk 发现了一个新的可怕漏洞，该漏洞会影响运行 Android 12 或更高版本的手机。它涉及接收 Android 电话框架无法正确处理的特制 WAP 推送 SMS 消息。棘手的部分是...",
+      "url": "https://www.gsmarena.com/a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-reno17-f-5g-nbtc-certified/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/25/02/google-messages-whatsapp-video-call/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Strava 订阅者现在可以直接连接到 谷歌 Gemini 以获得个性化的锻...",
+      "title": "Oppo Find X10 评测，真实体验如何？",
       "source": "GSMArena",
       "date": "2026-10-30",
-      "summary": "早在 6 月，Strava 就推出了模型上下文协议 MCP 连接器，让订阅者可以通过 Claude 查询他们的 Strava 数据，以获得深入的培训见解。在此基础上，Strava 宣布与 Google Gemini 集成...",
-      "url": "https://www.gsmarena.com/strava_google_gemini_integration-news-75280.php",
+      "summary": "Oppo Find X10 评测",
+      "url": "https://www.gsmarena.com/oppo_find_x10-review-3007.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/strava-google-gemini-integration/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/oppo-find-x10/-347x151/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "Omdia：2026 年第三季度全球智能手机出货量同比下降 20%",
+      "title": "三星宣布在内存业务的推动下，季度业绩再创新高",
       "source": "GSMArena",
       "date": "2026-10-30",
-      "summary": "研究公司 Omdia 的最新报告显示，2026 年第三季度全球智能手机出货量同比下降 20。该季度制造商共出货 2547 亿部。报告指出，这是自 2013 年以来第三季度出货量最低的一次，下滑归因于智能手机价格上涨。三星...",
-      "url": "https://www.gsmarena.com/omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281.php",
+      "summary": "三星电子刚刚公布了又一个历史最高季度业绩营收环比增长 14与第三季度相比。新闻稿称，三星电子是全球第一家季度营业利润超过 100 万亿韩元的科技公司，具体而言，其营业利润为 1074 万亿韩元。制造存储芯片的设备解决方案...",
+      "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/global-smartphone-shipments-omdia-report/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/samsung-q3-report/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Gemini 现在允许您直接在聊天中编辑它创建的文件",
-      "source": "GSMArena",
-      "date": "2026-10-30",
-      "summary": "早在四月份，Google 的 Gemini 就能够为您生成文件，从文档和表格到 PDF 和 Markdown。但到目前为止，如果您想调整它所提供的内容，则必须先下载或导出文件。今天，Google 正在解决这个问题，让您可...",
-      "url": "https://www.gsmarena.com/gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/google-gemini-edits/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "vivo S70的完整相机细节出现在新的泄漏中",
-      "source": "GSMArena",
-      "date": "2026-10-30",
-      "summary": "上周有传言称，vivo 准备在中国推出 V70，配备 64MP 索尼潜望式长焦摄像头，并支持增距镜。现在，新的泄密事件揭示了该手机的完整相机规格。据爆料者数字聊天站称，vivo V70 将配备 50MP 主后置传感器和 ...",
-      "url": "https://www.gsmarena.com/vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/vivo-s70-camera-specs/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "诺基亚 2360 Flip 是一款带有 SOS 按钮的双屏功能手机",
-      "source": "GSMArena",
-      "date": "2026-10-30",
-      "summary": "HMD 推出了诺基亚 2360 Flip，这是其最新的功能手机，采用翻盖设计并具有家庭辅助功能。该手机专为学生和老年人而设计，配有双显示屏和专用的 SOS 按钮。诺基亚 2360 Flip 的主要亮点是其家庭辅助功能，该...",
-      "url": "https://www.gsmarena.com/the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/nokia-2360-flip-2g-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "新款 OLED iPad mini 跑 Geekbench，结果如下",
-      "source": "GSMArena",
-      "date": "2026-10-30",
-      "summary": "苹果周一推出了配备 OLED 屏幕和 A20 Pro 芯片组的 iPad mini2026，第一批设备将于 11 月 6 日到达买家手中。在此之前，其中一台已经通过了 Geekbench 7 测试，因此我们现在已经很好地...",
-      "url": "https://www.gsmarena.com/the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/ipad-mini-geekbench/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉确认 Signature 27 的确切发布日期，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-10-30",
-      "summary": "摩托罗拉在 9 月份的高通 Snapdragon 峰会上首次展示了 Signature 27，但此后一直没有透露完整的规格和定价。昨天，其印度网站称这款手机将于今年 11 月上市，现在该公司已将具体日期缩小到：11 月 ...",
-      "url": "https://www.gsmarena.com/motorola_confirms_the_exact_signature_27_launch_date-news-75275.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/motorola-signature-27-launch-date/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Find X10 Ultra 可能会转向芯片组",
-      "source": "GSMArena",
-      "date": "2026-10-30",
-      "summary": "Oppo Find X10 Ultra 的完整摄像头设置已于本周早些时候泄露，但为其供电的芯片又如何呢？ Find X9 Ultra 于 4 月份推出，搭载 Snapdragon 8 Elite Gen 5 芯片组，因此...",
-      "url": "https://www.gsmarena.com/oppo_find_x10_ultra_could_be_heading_for_a_chipset_switch-news-75271.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/oppo-find-x10-ultra-chipset-rumor/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Pixel Buds Pro 2 获亚马逊 60 美元大折扣",
+      "title": "Anker MagGo Power Bank 2 Pro 非常出色，但不适用...",
       "source": "Android Authority",
-      "date": "2026-10-30",
-      "summary": "谷歌 Pixel Buds Pro 2 在亚马逊上享受 26 的折扣，将其优质无线耳机的价格降至 169 美元。",
-      "url": "https://www.androidauthority.com/pixel-buds-pro-2-amazon-deal-3730165/",
+      "date": "2026-10-31",
+      "summary": "一款很棒的充电器，但在 Android 上却无法发挥最佳效果。",
+      "url": "https://www.androidauthority.com/anker-maggo-power-bank-2-pro-review-3725445/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "对高通来说是一个巨大的打击吗？这款即将推出的 Ultra 旗舰可能会跳过 S...",
+      "title": "这个受尼亚加拉启发的发射器可能（最终）比原来的更好",
       "source": "Android Authority",
-      "date": "2026-10-30",
-      "summary": "市场上最好的拍照手机之一的继任者可能会走联发科的路。",
-      "url": "https://www.androidauthority.com/oppo-find-x10-ultra-mediatek-dimensity-9600-pro-3730120/",
+      "date": "2026-10-31",
+      "summary": "它是免费的、开源的，但有点混乱。",
+      "url": "https://www.androidauthority.com/niagara-launcher-vs-victoria-launcher-3728983/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +146,47 @@
       "type": "news"
     },
     {
-      "title": "搭载 Android 17 的 One UI 9 正在向美国这两款流行的 G...",
+      "title": "我在 谷歌 Messages 中制作的 10 个最佳自定义聊天主题",
       "source": "Android Authority",
-      "date": "2026-10-30",
-      "summary": "Galaxy A35和Galaxy A16已在美国正式加入One UI 9派对。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-a16-a35-one-ui-9-us-3730018/",
+      "date": "2026-10-31",
+      "summary": "有很多方法可以让你的谈话变得更加精彩。",
+      "url": "https://www.androidauthority.com/best-google-messages-custom-chat-themes-3728559/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "今年跳过升级了吗？ 5 款即将推出的 Android 手机值得收藏",
+      "source": "Android Authority",
+      "date": "2026-10-31",
+      "summary": "今年跳过升级了吗？ 5 款即将推出的 Android 手机值得收藏",
+      "url": "https://www.androidauthority.com/upcoming-android-phones-worth-saving-for-2027-3725669/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我每次都会选择这些耳机而不是 Pixel Buds Pro 2，原因很简单",
+      "source": "Android Authority",
+      "date": "2026-10-31",
+      "summary": "如果耳塞不太合适，它们很快就会变得烦人。 OPPO 已经挑战了谷歌，对我来说，打败了它。",
+      "url": "https://www.androidauthority.com/oppo-enco-x4-over-google-pixel-buds-pro-2-every-time-3727969/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "我讨厌三星的默认相机应用程序 - 这是我使用的",
+      "source": "Android Authority",
+      "date": "2026-10-31",
+      "summary": "我想要更好地控制自己的投篮。",
+      "url": "https://www.androidauthority.com/samsung-default-app-open-camera-comparison-3726024/",
       "tags": [
         "三星"
       ],
@@ -158,11 +194,23 @@
       "type": "news"
     },
     {
-      "title": "谷歌正在 Pixel 上测试 iOS 风格的家庭中心",
+      "title": "苹果 Watch Ultra 4 首次大幅降价，跌至 699.99 美元",
       "source": "Android Authority",
       "date": "2026-10-30",
-      "summary": "Android 家庭共享仍然是一个麻烦，但 Pixel 手机可能最终会改变这一状况。",
-      "url": "https://www.androidauthority.com/google-pixel-family-hub-test-ios-style-3729970/",
+      "summary": "通过亚马逊的这次促销活动，购买 Apple Watch Ultra 4 可节省 99 美元，这款坚固的钛金属智能手表售价为 69999 美元。",
+      "url": "https://www.androidauthority.com/apple-watch-ultra-4-deal-3730321/",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Bose SoundLink Plus 在亚马逊上的销量跌至历史最低点",
+      "source": "Android Authority",
+      "date": "2026-10-30",
+      "summary": "购买 Bose SoundLink Plus 可节省 90 美元，因为这款便携式扬声器凭借强劲的声音和手机充电功能恢复了历史最低水平。",
+      "url": "https://www.androidauthority.com/bose-soundlink-plus-deal-amazon-3730318/",
       "tags": [
         "安卓"
       ],
@@ -170,71 +218,23 @@
       "type": "news"
     },
     {
-      "title": "没有互联网，没问题：谷歌正在为 Gemini Live 开发离线模式",
+      "title": "亚马逊 三星 Galaxy S26 Plus 512GB 降价 429 美元",
       "source": "Android Authority",
       "date": "2026-10-30",
-      "summary": "离线模式会像标准 Gemini Live 模式一样灵敏和准确吗？",
-      "url": "https://www.androidauthority.com/google-gemini-live-offline-mode-teardown-3730033/",
+      "summary": "三星 Galaxy S26 Plus 512GB 在亚马逊上的建议零售价下降了 31，使这款 2026 年旗舰白色手机的售价低于 1000 美元。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-s26-plus-512gb-deal-3730308/",
       "tags": [
-        "安卓"
+        "三星"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Nothing 的 Android 17 更新提前到达另外四款手机",
+      "title": "Android Auto 可以使用这个新工具免费运行侧载应用程序",
       "source": "Android Authority",
       "date": "2026-10-30",
-      "summary": "11 月的更新计划刚刚开始。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/nothing-android-17-update-phone-3a-4a-series-3730070/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android 的短信死亡错误可能会导致你的手机瘫痪，但很快就会有修复",
-      "source": "Android Authority",
-      "date": "2026-10-30",
-      "summary": "即使是紧急呼叫也无法免受这种无声威胁的影响。",
-      "url": "https://www.androidauthority.com/android-sms-of-death-google-fix-3729929/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Signature 27 是摩托罗拉获得 Android 更新的最后机会",
-      "source": "Android Authority",
-      "date": "2026-10-30",
-      "summary": "在经历了多次承诺和失败之后，Signature 27 有很多东西需要证明。",
-      "url": "https://www.androidauthority.com/motorola-android-updates-mess-3726266/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "您现在可以在 Gemini Notebook 中轻松查找和添加教科书",
-      "source": "Android Authority",
-      "date": "2026-10-30",
-      "summary": "Gemini Notebook 对学生来说可能会变得更加有用。",
-      "url": "https://www.androidauthority.com/gemini-notebook-textbooks-feature-3729932/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "我测试了 7 个最受欢迎的 Android 启动器——这是我的排名",
-      "source": "Android Authority",
-      "date": "2026-10-30",
-      "summary": "一款发射器显然胜过其他发射器。",
-      "url": "https://www.androidauthority.com/popular-android-launcher-ranking-3727681/",
+      "summary": "此 Android Auto 工具可免费解锁侧载应用程序。",
+      "url": "https://www.androidauthority.com/android-auto-unknownauto-tool-3730284/",
       "tags": [
         "安卓"
       ],
