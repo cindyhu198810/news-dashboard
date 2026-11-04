@@ -1,132 +1,132 @@
 {
-  "updated": "2026-11-03 16:22",
+  "updated": "2026-11-04 16:26",
   "news": [
     {
-      "title": "Realme 17T设计在泄露的实时图像中曝光，核心配置曝光",
+      "title": "三星 UK drops prices of Galaxy S26 phone...",
       "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "上个月末，有消息透露了即将推出的 Realme 17 Pro 系列的规格。现在，新的泄密事件浮出水面，让人们初步了解了该系列中另一款预期型号 Realme 17T 的设计。泄露的图片展示了所谓的 Realme 17T 的...",
-      "url": "https://www.gsmarena.com/realme_17t_design_revealed_in_leaked_live_images-news-75324.php",
+      "date": "2026-11-04",
+      "summary": "Samsung UK is running a Black Friday promo campaign that drops the prices of many of its premium Galaxy device...",
+      "url": "https://www.gsmarena.com/samsung_uk_drops_prices_of_galaxy_s26_phones_by_250_z_fold8_price_by_100_for_black_friday-news-75344.php",
       "tags": [
-        "安卓"
+        "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/realme-17t-design-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-uk-black-friday-deals/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "小米手表S5 41mm泄露：预计电池容量大幅增加，核心配置曝光",
+      "title": "Oppo smartphone with 12,000mAh battery...",
       "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "距离小米推出 46mm 小米手表 S5 已有几个月了。现在，有消息透露了即将推出的 41 毫米版本手表的规格。 S系列运行专有版本的HyperOS而不是Wear OS，这意味着功能更少但运行时间更长。小米手表 S5 41...",
-      "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_leaks_expect_a_big_increase_in_battery_capacity-news-75323.php",
+      "date": "2026-11-04",
+      "summary": "Oppo could be gearing up to launch a smartphone with a massive 12000mAh battery An upcoming Oppo device featur...",
+      "url": "https://www.gsmarena.com/oppo_smartphone_with_12000mah_battery_gets_certification_-news-75345.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-12000-mah-phone-report/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Schools that want 谷歌 Search for studen...",
+      "source": "GSMArena",
+      "date": "2026-11-04",
+      "summary": "Google has announced that its AI products will soon be switched off by default for K12 student accounts Namely...",
+      "url": "https://www.gsmarena.com/schools_that_want_google_search_for_students_will_have_to_accept_its_ai_too-news-75341.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/google-ai-in-schools/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "New info 曝光 the 三星 Galaxy S27 Pro won'...",
+      "source": "GSMArena",
+      "date": "2026-11-04",
+      "summary": "Theres been a lot of talk lately about the chipset powering the Samsung Galaxy S27 Ultra with a recent rumor c...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_processor_revealed-news-75339.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s27-pro-leaked-renders/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米 unveils the HyperOS 4 update rollou...",
+      "source": "GSMArena",
+      "date": "2026-11-04",
+      "summary": "Xiaomis HyperOS 4 has a deeper integration with iOS  this includes easier sharing of photos files contacts and...",
+      "url": "https://www.gsmarena.com/xiaomi_sets_the_hyperos_4_update_rollout_schedule-news-75340.php",
       "tags": [
         "小米"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-watch-s5-41mm-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-hyperos-4-rollout-schedule/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星升级的睡眠呼吸暂停功能现已在 Galaxy Ring 和 Watch9 ...",
+      "title": "iPhone 18 is getting two major upgrade...",
       "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "三星上周宣布，继 7 月份在美国获得 FDA 批准后，其睡眠呼吸暂停功能的升级版在韩国获得批准。今天，该公司宣布新版本已在美国上市，其中包括 Galaxy Ring，三星称这是首款具有 FDA 批准的非处方睡眠呼吸暂停风...",
-      "url": "https://www.gsmarena.com/samsungs_upgraded_sleep_apnea_feature_is_now_available_on_the_galaxy_ring_and_watch9-news-75313.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-better-sleep-apnea-detection-live/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "RedMagic 12 Pro将RGB液冷和185Hz屏幕推向全球市场",
-      "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "早在10月中旬，RedMagic 12 Pro就在中国亮相，当时RedMagic表示还将以RedMagic 12 Pro的形式在全球推出。今天，RedMagic 12 Pro 正式面向世界其他地区推出，它保留了中国版本的...",
-      "url": "https://www.gsmarena.com/redmagic_12_pro_brings_its_rgb_liquid_cooling_and_185hz_screen_to_the_global_market-news-75316.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/redmagic-12-pro-global/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "苹果报告创纪录的季度业绩 - iPhone 和 Mac 销量上升，服务创历史...",
-      "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "苹果公布截至 9 月份的三个月即苹果第四财季营收创纪录的 1145 亿美元，毛利率为 479。收入同比增长 12，每股收益增长 14，达到 210 美元。关税退款帮助苹果公司的股价每股增长了 005 美元，毛利率提高了 ...",
-      "url": "https://www.gsmarena.com/apple_reports_record_quarter__iphone_and_mac_sales_are_up_services_reach_an_alltime_high-news-75321.php",
+      "date": "2026-11-04",
+      "summary": "According to a renowned Chinese leaker on Weibo the upcoming iPhone 18 will get performance and battery upgrad...",
+      "url": "https://www.gsmarena.com/iphone_18_is_getting_two_major_upgrades_but_also_another_price_hike-news-75333.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/apple-september-quarter-financials/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/09/iphone-17-16-17e-air-price-hike/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "vivo V80 FE上线，搭载天玑7400-Turbo SoC和7000m...",
+      "title": "New Motorola One's design revealed as ...",
       "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "vivo V80上个月在全球市场首次亮相，该公司现在似乎正准备推出V80 FE。这款即将推出的智能手机已出现在vivo菲律宾官方网站上，暗示即将推出。vivo还通过官方在线列表透露了V80 FE的完整规格。该手机保留了与...",
-      "url": "https://www.gsmarena.com/vivo_v80_fe_listed_online_with_dimensity_7400turbo_soc_and_7000mah_battery-news-75320.php",
+      "date": "2026-11-04",
+      "summary": "Motorola has launched multiple smartphones under the One lineup before and we now know its preparing to launch...",
+      "url": "https://www.gsmarena.com/motorola_one_key_specs_wireless_charging_speed-news-75338.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/vivo-v80-fe-online-listing/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/new-motorola-one-key-specs-wireless-certification/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy S27 Pro 和 S27 Ultra 将配备升级版防窥...",
+      "title": "苹果 Watch Series 12 and Ultra 4's contr...",
       "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "三星今年早些时候推出了具有隐私显示功能的 Galaxy S26 Ultra，据传明年的 Galaxy S27 Pro 和 Galaxy S27 Ultra 也将配备该功能。 SamMobile 的一份新报告证实了这些谣言...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_galaxy_s27_ultra_upgraded_privacy_display-news-75319.php",
+      "date": "2026-11-04",
+      "summary": "Apple unveiled the Apple Watch Series 12 and Watch Ultra 4 back in September along with a set of microphonebas...",
+      "url": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336.php",
       "tags": [
-        "三星"
+        "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/03/samsung-galaxy-s26-ultra-privacy-display-tested/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/watchos-27-3-beta-live-rewind-siri-recap/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Oppo Reno17 和 Reno17 Pro 的规格、颜色和配置泄露，核...",
+      "title": "vivo X500 FE and V80 FE pick up more c...",
       "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "Oppo最近确认Reno17系列将于本月在中国推出。在首次亮相之前，新的泄漏揭示了 Reno17 和 Reno17 Pro 的主要规格、颜色选项和配置。在微博上的一篇现已编辑的帖子中，爆料者数码闲聊站分享了有关即将推出的...",
-      "url": "https://www.gsmarena.com/oppo_reno17_and_reno17_pro_specs_colors_and_configurations_leak-news-75318.php",
+      "date": "2026-11-04",
+      "summary": "vivo launched the X300 FE back in April and its successor is already starting to show up in certification data...",
+      "url": "https://www.gsmarena.com/vivo_x500_fe_and_v80_fe_pick_up_more_certifications_ahead_of_launch-news-75334.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-new-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/vivo-x500-fe-v80-fe-certifications/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "埃隆·马斯克 (Elon Musk) 的 SpaceX 可能会收购 Boos...",
+      "title": "WhatsApp starts suggesting your latest...",
       "source": "GSMArena",
-      "date": "2026-11-03",
-      "summary": "SpaceX 毫不掩饰其将 Starlink Mobile 转变为一家成熟的美国运营商的计划，并于上个月购买了更多频谱以帮助实现这一目标。它仍然缺乏的是地面网络，上周 TMobile 首席执行官排除了让 Starlink...",
-      "url": "https://www.gsmarena.com/elon_musks_spacex_may_buy_boost_mobile_to_make_starlink_into_a_fullfledged_carrier-news-75317.php",
+      "date": "2026-11-04",
+      "summary": "WhatsApp already suggests stickers above the keyboard on Android based on the emojis you type and now its taki...",
+      "url": "https://www.gsmarena.com/whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/spacex-boost-mobile-talks/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-media-suggestions/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "OnePlus Turbo 7 关键规格泄露，这是一个巨大的进步，核心配置曝...",
-      "source": "GSMArena",
-      "date": "2026-11-02",
-      "summary": "一加一月份在中国推出了 Turbo 6，现在微博上的一位爆料者分享了有关其继任者的第一个细节。据消息人士透露，Turbo 7 将搭载 Snapdragon 8 Gen 6，该处理器仍在完善中，据称 OnePlus 正在争...",
-      "url": "https://www.gsmarena.com/oneplus_turbo_7_key_specs_leak_and_its_a_big_step_up-news-75314.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oneplus-turbo-7-leak/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "购买陶瓷 Midnight Oura Ring 4 可节省 120 美元，创...",
+      "title": "TCL’s compact S45H sound bar gets a 38...",
       "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "Oura Ring 4 目前在亚马逊上有 30 的折扣，以历史最低的价格提供优质的睡眠和健康追踪功能。",
-      "url": "https://www.androidauthority.com/ceramic-midnight-oura-ring-4-deal-3731251/",
+      "date": "2026-11-04",
+      "summary": "TCLs S45H sound bar drops to 7999 on Amazon bringing Dolby Atmos and clearer TV audio to smaller rooms for les...",
+      "url": "https://www.androidauthority.com/tcl-s45h-2-0-sound-bar-deal-3731727/",
       "tags": [
         "安卓"
       ],
@@ -134,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "这款 TP-Link 三频 Wi-Fi 7 路由器刚刚恢复到有史以来的最低价...",
+      "title": "This popular Baseus 45W power bank wit...",
       "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "购买 TPLink Archer BE700 即可节省 100 美元，并获得具有多链路操作和 44 星级评级的三频 WiFi 7 路由器。",
-      "url": "https://www.androidauthority.com/tp-link-tri-band-be15000-wi-fi-7-router-deal-3731246/",
+      "date": "2026-11-04",
+      "summary": "Baseus PicoGo AR11 hits a new recordlow price of 2999 on Amazon with 45W charging and a builtin USBC cable",
+      "url": "https://www.androidauthority.com/baseus-picogo-ar11-45w-10000mah-deal-3731716/",
       "tags": [
         "安卓"
       ],
@@ -146,23 +146,11 @@
       "type": "news"
     },
     {
-      "title": "Galaxy S26 FE 256GB 获亚马逊折扣 100 美元",
+      "title": "Ring Battery Doorbell 2K falls back to...",
       "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "三星 Galaxy S26 FE 256GB 在亚马逊上降至 69999 美元，配备 67 英寸 120Hz AMOLED 显示屏和 7 年更新。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/galaxy-s26-fe-256gb-deal-3731227/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Straight Talk 适合您吗？这是发生的事情",
-      "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "Straight Talk 有一些问题。",
-      "url": "https://www.androidauthority.com/straight-talk-outage-nov-2026-3731215/",
+      "date": "2026-11-04",
+      "summary": "This Ring Battery Doorbell 2K deal cuts 60 off the RRP bringing sharp 2K video and twoway talk for much less",
+      "url": "https://www.androidauthority.com/ring-battery-doorbell-2k-amazon-deal-3731710/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "更便宜的睡眠温度：SweetNight 的 CoolNest Ultra 提...",
+      "title": "Where’s my Subscriptions tab? Users ar...",
       "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "记忆海绵舒适，同时保持热量远离。",
-      "url": "https://www.androidauthority.com/sweetnight-coolnest-ultra-memory-foam-mattress-3731101/",
+      "date": "2026-11-04",
+      "summary": "The bottom bar continues to house the Shorts and Upload button which users say they dont use as much as Subscr...",
+      "url": "https://www.androidauthority.com/youtube-subscriptions-tab-redesign-3731679/",
       "tags": [
         "安卓"
       ],
@@ -182,23 +170,11 @@
       "type": "news"
     },
     {
-      "title": "Galaxy Z Fold 9 和 9 Ultra 泄露表明其相机策略谨慎，...",
+      "title": "Wallpaper Wednesday: Amazing phone wal...",
       "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "做好迎接又一年回收相机规格的准备吧。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-z-fold-9-ultra-camera-leak-3731206/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Gmail 中的“Ask Gemini”可能终于得到了期待已久的设计改进",
-      "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "Gmail 应用程序的 Ask Gemini 体验可以从独立的 Gemini 应用程序中汲取一些线索。",
-      "url": "https://www.androidauthority.com/gmail-ask-gemini-redesign-apk-teardown-3731134/",
+      "date": "2026-11-04",
+      "summary": "Need a wallpaper Here are some great ones from the Android Authority team and some of our readers Share yours ...",
+      "url": "https://www.androidauthority.com/wallpaper-wednesday-november-04-2026-3730899/",
       "tags": [
         "安卓"
       ],
@@ -206,35 +182,59 @@
       "type": "news"
     },
     {
-      "title": "使用 Galaxy S26 FE 两周后，我不再相信它适合粉​​丝了",
+      "title": "Amazon drops JBL Tune Flex earbuds 50%...",
       "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "Galaxy S26 FE 使 S25 FE 看起来像是一次巨大的升级。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-s26-fe-review-3725050/",
+      "date": "2026-11-04",
+      "summary": "Save 50 on JBL Tune Flex earbuds at Amazon and get ANC 10mm drivers and switchable ear tips for comfort or iso...",
+      "url": "https://www.androidauthority.com/deal-jbl-tune-flex-3731687/",
       "tags": [
-        "三星"
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星升级版睡眠呼吸暂停检测功能即将应用于 Galaxy Watch 和 Ga...",
+      "title": "Snapped a photo of an event poster? 谷歌...",
       "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "较新的手表排在第一位，但较旧的手表也没有完全落后。",
-      "url": "https://www.androidauthority.com/samsung-sleep-apnea-detection-rolling-out-3731174/",
+      "date": "2026-11-04",
+      "summary": "Ask Photos could pull event details from photos but watch out for classic AI mistakes",
+      "url": "https://www.androidauthority.com/google-photos-ask-photos-calendar-apk-teardown-3731650/",
       "tags": [
-        "三星"
+        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "HUAWEI Watch D3 拥有令人印象深刻的电池续航时间和健康功能",
+      "title": "Your next phone could cost even more, ...",
       "source": "Android Authority",
-      "date": "2026-11-03",
-      "summary": "华为 Watch D3 是令人印象深刻的健康伴侣。",
-      "url": "https://www.androidauthority.com/huawei-watch-d3-hands-on-3725319/",
+      "date": "2026-11-04",
+      "summary": "Reports suggest Samsungs OLED panels could cost 1020 more in 2027",
+      "url": "https://www.androidauthority.com/samsung-oled-ram-price-increase-report-3731642/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Here’s your first look at 谷歌 Photos’ u...",
+      "source": "Android Authority",
+      "date": "2026-11-04",
+      "summary": "These images show Google Photos upcoming backup option that holds off on uploads until night",
+      "url": "https://www.androidauthority.com/google-photos-overnight-backup-preview-apk-teardown-3731603/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Cleaning up your 谷歌 Photos library mig...",
+      "source": "Android Authority",
+      "date": "2026-11-04",
+      "summary": "Ask Photos could soon get an upgrade that could let you bulk delete and even batch edit photos",
+      "url": "https://www.androidauthority.com/google-photos-ask-photos-bulk-actions-apk-teardown-3731483/",
       "tags": [
         "安卓"
       ],
