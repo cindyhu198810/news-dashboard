@@ -1,144 +1,132 @@
 {
-  "updated": "2026-11-11 16:23",
+  "updated": "2026-11-12 16:55",
   "news": [
     {
-      "title": "Oppo A7 Pro 即将登陆欧洲，价格如下",
+      "title": "取消的 Oppo Find X10 Ultra 的屏幕和摄像头可能会保留在 ...",
       "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "Oppo 于 9 月份在中国推出了 A7 Pro，现在似乎已经准备好将其带到欧洲，与已经上市的 A7 Pro Max 一起使用。据新传言，A7 Pro 128GB 存储售价为 499 欧元，256GB 售价为 599 欧...",
-      "url": "https://www.gsmarena.com/oppo_a7_pro_is_coming_to_europe_heres_how_much_it_will_cost-news-75441.php",
+      "date": "2026-11-12",
+      "summary": "最近有报道称 Oppo Find X10 Ultra 已被取消，或者至少被搁置。现在，微博上的数字聊天站表示，该项目剩余的硬件将被分配给以后的其他手机。据他介绍，主要迭代已经在测试，配备 689 英寸2K京东方制造的显示...",
+      "url": "https://www.gsmarena.com/canceled_find_x10_ultras_screen_and_cameras_may_live_on_in_another_oppo_pro_max-news-75457.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-pro-european-pricing-leaks/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-find-x10-ultra-specs-to-live-on/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Magic10系列可能标志着荣耀智能手机上可变光圈相机的回归",
+      "title": "Honor Magic9 Pro Max 马来西亚发售日期公布",
       "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "荣耀在Magic6系列智能手机上引入了物理可变光圈，并推出了具有该功能的Magic7系列。但随着Magic8系列的推出，它被放弃了。然而，爆料者Smart Pikachu最近在微博上表示，可变光圈可能会在Magic10系...",
-      "url": "https://www.gsmarena.com/honor_magic10_series_variable_aperture_camera-news-75438.php",
+      "date": "2026-11-12",
+      "summary": "荣耀于9月下旬在中国推出了Magic9 Pro Max，今天，该公司宣布这款智能手机将于当地时间11月24日下午3点在马来西亚首次亮相。Honor尚未透露Magic9 Pro Max在马来西亚的售价或何时上市。不过，荣耀...",
+      "url": "https://www.gsmarena.com/honor_magic9_pro_max_malaysia_launch_date-news-75453.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-magic10-series-variable-aperture-camera/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-magic9-pro-max-malaysia-launch-date/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "荣耀 700 Pro 可能刚刚运行 Geekbench 确认其芯片组",
+      "title": "三星智能眼镜现已接受预订",
       "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "荣耀已经透露了700家族所有三名成员的设计，但尚未完全官方。发布会将于 11 月 13 日举行。与此同时，Geekbench 在线数据库中发现了一款型号为 FAPAN00 的荣耀设备，该设备今天早些时候运行了 671 版...，带来多项升级",
-      "url": "https://www.gsmarena.com/honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-700-pro-geekbench/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "WhatsApp 为其 Android 应用程序带来透明导航栏",
-      "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "最新的 WhatsApp Beta版本 226455揭示了导航栏的新外观。感谢 WABetaInfo 的团队，我们第一次看到了浮动导航栏及其透明设计。当您向下滚动聊天时，该栏的宽度和高度会缩小为较小的药丸形状，并带有圆角...",
-      "url": "https://www.gsmarena.com/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-floating-nav-bar-android/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo A7 Ultra 预计下个月推出，配备 12,000mAh 电池",
-      "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "上周，一款型号为 PNC110 的 Oppo 智能手机出现在中国工业和信息化部 MIIT 网站上，电池容量为 12000mAh。现在，有消息称 Oppo 将于下个月推出具有相同电池容量的手机。据爆料数码闲聊站在微博上发布...，带来多项升级",
-      "url": "https://www.gsmarena.com/oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-ultra-12000-mah-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "哈曼推出 Drops - 一款播放短片的音乐发现应用程序",
-      "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "哈曼推出了一款名为 Drops 的新音乐发现应用程序。这个名字来源于它的工作方式你可以使用该应用程序收听歌曲的短片最多 30 秒、drop，如果你喜欢它，就可以收藏它。每滴不仅仅是音乐它还配有歌词、专辑封面、授权艺术家图...",
-      "url": "https://www.gsmarena.com/harman_unveils_drops__a_music_discovery_app_that_plays_short_clips-news-75435.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/harman-introduces-drops-music-discovery-app/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "iFixit 拆解揭示了 MacBook PROLED 发光 苹果 标志背后...",
-      "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "苹果的新款 MacBook Pro 成为头条新闻主要是因为它们是第一款使用 OLED 技术并且第一款支持触摸功能的产品。但它们也更轻，并重新出现了发光的苹果标志，这对于苹果忠实用户来说都是显着的改进。触摸屏 MacBoo...",
-      "url": "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/apple-ifixit-proled/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "三星可能允许 One UI 9.5 用户录制 WhatsApp 和 Tele...",
-      "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "三星目前正在向符合条件的 Galaxy 设备推出稳定的 One UI 9 更新，在发布 One UI 10 之前，它将发布 One UI 95。该韩国品牌尚未宣布 One UI 95 的发布日期，但当它发布时，它可能会包...，带来多项升级",
-      "url": "https://www.gsmarena.com/samsung_one_ui_9_5_voip_voice_call_recording-news-75433.php",
+      "date": "2026-11-12",
+      "summary": "继 7 月份宣布推出智能眼镜后，三星现已开放其智能眼镜的预订。它们采用与 Warby Parker 和 Gentle Monster 共同开发的 30 种独特设计。这款眼镜的起价为 395 美元，计划仅在韩国和美国这两个...",
+      "url": "https://www.gsmarena.com/samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-one-ui-9-5-voip-voice-call-recording/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-intelligent-eyewear-now-on-pre-order/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "据称荣耀正在测试一款配备 8000mAh 电池的宽屏手机",
+      "title": "中国的卖家已开始接受普通版小米 18 的盲目预订",
       "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "在过去的几周里，我们听到了有关 Oppo、vivo、小米，甚至 OnePlus 正在开发宽屏智能手机的传言。现在，新的泄密事件表明，另一个中国主要智能手机品牌正在加入宽屏阵营。Tipster Digital Chat S...",
-      "url": "https://www.gsmarena.com/honor_said_to_be_testing_a_widescreen_phone_with_an_8000mah_battery-news-75432.php",
+      "date": "2026-11-12",
+      "summary": "小米 18 可能比我们预期的更接近来自中国的报道表明，一位卖家已经开始对即将推出的型号进行盲目预订。请注意，这不是小米的官方销售。无论如何，实际的发射可能要到 12 月才会发生。这款手机被描述为一款全面的旗舰产品，将配备...",
+      "url": "https://www.gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-blind-pre-orders-in-china/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "您可以提前一天获得 REDMAGIC 12 Pro，具体方法如下",
+      "source": "GSMArena",
+      "date": "2026-11-12",
+      "summary": "按照传统，REDMAGIC 允许其最大的粉丝提前一天获得其最新的游戏旗舰产品  以下是如何加入 REDMAGIC 12 Pro 抢先体验计划并获得一些福利。早鸟优惠券将于 11 月 12 日提供。一张价格为 1 美元1 ...",
+      "url": "https://www.gsmarena.com/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-wide-screen-phone-leak/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/redmagic-12-pro-early-bird-sponsored/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "据报道，三星正在开发一款具有可扩展显示屏的手机",
+      "title": "Oppo A7 Pro正式登陆欧洲",
       "source": "GSMArena",
-      "date": "2026-11-11",
-      "summary": "据新传言，三星正在开发一款具有垂直可滚动显示屏的智能手机，允许用户在两种宽高比之间切换。虽然各品牌正在探索宽屏手机，但三星可以通过适应不同观看偏好的设备提供两全其美的产品。知名爆料者 Ice Universe 声称，该设...",
-      "url": "https://www.gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-vertical-rolling-phone-new-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "亚马逊将流行的 Tribit StormBox Micro 3 降价至 52...",
-      "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "购买新款 StormBox Micro 3 可节省 15 美元，目前价格处于历史最低价，具有强劲的声音、IP68 耐用性和适合自行车安装。",
-      "url": "https://www.androidauthority.com/tribit-stormbox-micro-3-deal-amazon-3734010/",
+      "date": "2026-11-12",
+      "summary": "我们最近看到了 Oppo A7 Pro 欧洲上市价格的报道，Oppo 比利时现已在其在线商店上架该设备。正如我们报道的那样，7 Pro 256GB 存储配置的售价为 499 欧元。Oppo 比利时提供 70 欧元特别折扣...",
+      "url": "https://www.gsmarena.com/oppo_a7_pro_officially_lands_in_europe-news-75451.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-a7-pro-lands-in-europe/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Galaxy Z Fold 8 Ultra 立减 250 美元",
+      "title": "WhatsApp 的“查看一次”短信功能现已向 Android 测试版用户开...",
+      "source": "GSMArena",
+      "date": "2026-11-12",
+      "summary": "WhatsApp 已经允许用户发送查看一次的照片、视频和语音消息，这些消息在收件人看到或听到后就会消失。过去几个月，该公司一直在测试一次性短信，该功能现已向 Android 测试版用户开放。这一消息来自 WABetaIn...",
+      "url": "https://www.gsmarena.com/whatsapp_view_once_text_message_android_beta_users-news-75450.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-view-once-text-message-android-beta-users/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "vivo X500系列和Watch GT2印度上市日期公布",
+      "source": "GSMArena",
+      "date": "2026-11-12",
+      "summary": "一周前，vivo 在印度预告了 X500 系列和 Watch GT2，今天宣布这些产品将于当地时间 11 月 26 日中午 12 点在印度上市。vivo 此前只确认了 X500 Pro Max 针对印度市场，但今天确认 ...",
+      "url": "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/vivo-x500-series-watch-gt2-india-launch-date/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "华为子品牌Osta现已确定正式发布日期，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-11-12",
+      "summary": "最近有传言称，华为正致力于推出一个新的子品牌，中文名为星芒，英文为Osta。现在，该公司已正式宣布该品牌的发布日期：11 月 20 日。华为消费者业务集团负责人余承东甚至确认了该系列前两款手机之一的名称：Osta O1 ...，带来多项升级",
+      "url": "https://www.gsmarena.com/huaweis_osta_subbrand_now_has_an_official_launch_date-news-75448.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-osta-sub-brand-launch-date/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Oppo Reno17 将配备四个 50MP 摄像头",
+      "source": "GSMArena",
+      "date": "2026-11-12",
+      "summary": "Oppo 将于 11 月 16 日在中国推出 Reno17 和 Reno17 Pro，在此之前，今天该公司透露 Reno17 将配备四个 50MP 摄像头：一个主摄像头、一个潜望式长焦摄像头、一个超广角摄像头和一个自拍摄...",
+      "url": "https://www.gsmarena.com/oppo_reno17_will_have_four_50mp_cameras-news-75447.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-camera-setup/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星通讯录正在努力解决追踪生日的麻烦",
       "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "三星 Galaxy Z Fold 8 Ultra 在亚马逊上降至 204839 美元，配备 512GB 存储、16GB RAM 和双 120Hz 屏幕。",
-      "url": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-deal-amazon-3733982/",
+      "date": "2026-11-12",
+      "summary": "厌倦了忘记生日吗？三星通讯录正在为您打造专属产品。",
+      "url": "https://www.androidauthority.com/samsung-contacts-could-get-a-birthdays-section-3734463/",
       "tags": [
         "三星"
       ],
@@ -146,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌揭示了谁可以使用 Pixel 的 Create My Widget、可用...",
+      "title": "随着 Gen 6 Plus 到达 Boost Mobile，美国运营商开始热...",
       "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "五个国家，仅推出英语版本，并且在英国存在功能空白。",
-      "url": "https://www.androidauthority.com/google-create-my-widget-features-restrictions-3733943/",
+      "date": "2026-11-12",
+      "summary": "这款易于维修的手机承诺在 2033 年之前提供软件支持。",
+      "url": "https://www.androidauthority.com/fairphone-gen-6-boost-mobile-launch-3734481/",
       "tags": [
         "安卓"
       ],
@@ -158,23 +146,11 @@
       "type": "news"
     },
     {
-      "title": "苹果 AirTag 2 四件装获得亚马逊 30 美元折扣",
+      "title": "Sennheiser Momentum 4 耳机立减 100 美元，电池续航...",
       "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "AirTag 第二代 4 件装在亚马逊上恢复至历史最低价 69 美元，并提供查找我的支持和改进的精确查找功能。",
-      "url": "https://www.androidauthority.com/apple-airtag-2-four-pack-deal-3733970/",
-      "tags": [
-        "苹果"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 Voice 正在为 RCS 聊天奠定基础",
-      "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "我们不知道这需要多长时间，但现在有一些希望。",
-      "url": "https://www.androidauthority.com/google-voice-rcs-support-apk-teardown-3733929/",
+      "date": "2026-11-12",
+      "summary": "Sennheiser 的长效降噪耳机在亚马逊上黑色和白色现价 19995 美元。",
+      "url": "https://www.androidauthority.com/sennheiser-momentum-4-deal-amazon-3734570/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "亚马逊 eero Max 7 降价 180 美元，重回历史新低",
+      "title": "NVIDIA 首席执行官黄仁勋因丑闻不断而辞职",
       "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "eero Max 7 网状路由器可享受 30 的折扣，这是覆盖面积高达 2500 平方英尺的大型家庭的 WiFi 7 升级版。",
-      "url": "https://www.androidauthority.com/amazon-eero-max-7-deals-3733963/",
+      "date": "2026-11-12",
+      "summary": "首席财务官科莱特克雷斯 Colette Kress 将担任临时首席执行官。",
+      "url": "https://www.androidauthority.com/jensen-huang-nvidia-resignation-3734527/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌官方 Fitbit Air 系列增加了 dbrand 的 35 美元脉冲...",
+      "title": "OnePlus 12 用户比预期更早获得 Android 17",
       "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "这是 Google 商店中第一款第三方 Fitbit Air 手环。",
-      "url": "https://www.androidauthority.com/dbrand-pulse-band-google-fitbit-air-3733624/",
+      "date": "2026-11-12",
+      "summary": "ColorOS 17 提前到来，并进行了大量升级。",
+      "url": "https://www.androidauthority.com/oneplus-12-android-17-update-3734513/",
       "tags": [
         "安卓"
       ],
@@ -206,11 +182,35 @@
       "type": "news"
     },
     {
-      "title": "Pixel Journal 更新带来了录音和导出选项",
+      "title": "三星 27 英寸 QD-OLED 游戏显示器享受 36% 折扣",
       "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "虽然导出选项如宣传的那样工作，但录音目前无法使用。",
-      "url": "https://www.androidauthority.com/google-pixel-journal-audio-recording-export-3733816/",
+      "date": "2026-11-12",
+      "summary": "三星 27 英寸 Odyssey OLED G5 在亚马逊上降至 31999 美元，以更低的价格提供 QDOLED、180Hz 速度和 QHD 游戏。",
+      "url": "https://www.androidauthority.com/samsung-27-inch-odyssey-oled-g5-deal-3734559/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "亚马逊将小米红米手表 6 降价 35 美元",
+      "source": "Android Authority",
+      "date": "2026-11-12",
+      "summary": "Watch 6 在亚马逊上跌至历史最低价 8499 美元，配备明亮的 207 英寸 AMOLED 显示屏和长达 24 天的电池。",
+      "url": "https://www.androidauthority.com/xiaomi-redmi-watch-6-deal-3734533/",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "一些 Pixel 用户表示，谷歌 11 月的更新破坏了无线充电功能",
+      "source": "Android Authority",
+      "date": "2026-11-12",
+      "summary": "用户报告 Pixel 手机显示正在充电时会放电。",
+      "url": "https://www.androidauthority.com/pixel-wireless-charging-issues-november-update-3734451/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Pixel 11 的 GrapheneOS 即将推出，性能方面有令人鼓舞的消...",
+      "title": "Soundcore Q31i 耳机立减 25 美元，创历史新低",
       "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "Pixel 11 手机上的 GrapheneOS 可能具有与其他 Pixel 类似的性能。",
-      "url": "https://www.androidauthority.com/grapheneos-for-pixel-11-almost-here-3733803/",
+      "date": "2026-11-12",
+      "summary": "Anker 2026 款耳罩式耳机增加了 LDAC 和长达 50 小时的 ANC 播放时间，现可享受 28 折扣。",
+      "url": "https://www.androidauthority.com/soundcore-q31i-headphones-deal-3734503/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +230,11 @@
       "type": "news"
     },
     {
-      "title": "如何查看和删除双子座对你的了解，以及为什么你应该",
+      "title": "谷歌确认 Android 上的 YouTube 服务器错误 400 现已修复",
       "source": "Android Authority",
-      "date": "2026-11-11",
-      "summary": "记忆摘要让您可以更好地控制双子座的记忆。",
-      "url": "https://www.androidauthority.com/how-to-see-edit-delete-gemini-memory-summary-3733364/",
+      "date": "2026-11-12",
+      "summary": "第二次修复是在谷歌最初的尝试未能为所有人解决问题之后进行的。",
+      "url": "https://www.androidauthority.com/youtube-server-error-400-android-fixed-3734468/",
       "tags": [
         "安卓"
       ],
