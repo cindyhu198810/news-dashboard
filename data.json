@@ -1,6 +1,90 @@
 {
-  "updated": "2026-11-13 16:34",
+  "updated": "2026-11-14 15:13",
   "news": [
+    {
+      "title": "据传 OnePlus 16 在印度的发布取决于以下内容，新机正式登场",
+      "source": "GSMArena",
+      "date": "2026-11-14",
+      "summary": "OnePlus 16 于 10 月份在中国推出，自从 OnePlus 于 7 月份正式退出欧洲和北美市场，同时表示将继续在印度市场运营以来，印度的粉丝可能一直想知道这款新旗舰何时会登陆他们的国家。据 X 上的爆料者称，O...",
+      "url": "https://www.gsmarena.com/heres_what_the_oneplus_16s_launch_in_india_is_rumored_to_depend_on-news-75475.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oneplus-16-india-reasoning/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "优惠：Galaxy S26系列最高降价570英镑，Pixel 11系列也打折...",
+      "source": "GSMArena",
+      "date": "2026-11-14",
+      "summary": "美国的黑色星期五是 11 月 27 日，大多数英国零售商也选择了同一日期。不过，您不必等到月底，因为亚马逊有一些早期的黑色星期五优惠，不容错过。官方有一项促销活动，Galaxy 产品折扣高达 300 英镑  您可以在此处...",
+      "url": "https://www.gsmarena.com/deals_the_galaxy_s26_series_is_up_to_570_off_pixel_11_series_also_discounted_oppo_find_x10_price_dro-news-75473.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/weekly-deals-13/-184x111/gsmarena_uk.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy A18 4G 在新加坡推出，但采用不同的芯片",
+      "source": "GSMArena",
+      "date": "2026-11-14",
+      "summary": "三星 Galaxy A18 4G 于 9 月份在欧洲推出，现已在新加坡首次亮相，但采用了不同的芯片。欧洲发售的 Galaxy A18 4G 采用三星 Exynos 1610 SoC，而新加坡机型则采用联发科 Helio ...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_a18_4g_singapore_price_sale_date-news-75483.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a18-4g-singapore-price-sale-date/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "华为的下一代 nova Flip 可能会采用宽屏设计",
+      "source": "GSMArena",
+      "date": "2026-11-14",
+      "summary": "华为去年10月在中国推出了nova Flip S，它主要是具有新颜色、更低价格和不同芯片组的nova Flip。不过，据传其继任者将进行更大的改变。今天，微博上的消息人士称，华为计划明年更新其 nova Flip 系列，...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-nova-flip-wide-rumor/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Gemini 现在可以深入了解您的 谷歌 电子钱包支出以帮助您制定预算",
+      "source": "GSMArena",
+      "date": "2026-11-14",
+      "summary": "Google 钱包现已出现在您可以连接到 Gemini 中的 Personal Intelligence 的应用程序列表中，加入了 Gmail、照片、YouTube 和搜索等应用程序的行列。一旦你这样做了，聊天机器人就可...",
+      "url": "https://www.gsmarena.com/gemini_can_now_dig_into_your_google_wallet_spending_to_help_you_budget-news-75482.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/google-wallet-gemini-personal-intelligence/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "ChatGPT 钱包让 OpenAI 的代理为您买东西",
+      "source": "GSMArena",
+      "date": "2026-11-14",
+      "summary": "OpenAI 今天发布了 ChatGPT 钱包，这是一项新功能，可让其 Dots AI 代理代表您完成购买。它是与美国运通卡、万事达卡和 Visa 合作开发的，最初仅适用于美国的 ChatGPT Pro 订阅者。这个想法...，带来多项升级",
+      "url": "https://www.gsmarena.com/chatgpt_wallet_lets_openais_agents_buy_things_for_you-news-75481.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/openai-chatgpt-wallet/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Razr 50 Ultra 的 Android 17 更新已在欧洲...",
+      "source": "GSMArena",
+      "date": "2026-11-13",
+      "summary": "摩托罗拉 Razr 50 Ultra 在美国销售的名称为 Razr 2024，早在 4 月份就加入了摩托罗拉的 Android 17 测试版计划。 Razr Ultra 2026 等较新型号已经获得稳定版本，现在终于轮到...",
+      "url": "https://www.gsmarena.com/motorola_razr_50_ultra_starts_getting_android_17_in_europe-news-75480.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-razr-50-ultra-android-17-update/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
     {
       "title": "小米18 Pro距离在印度上市又近了一步",
       "source": "GSMArena",
@@ -38,205 +122,121 @@
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Signature 27 在德国的电池容量与其他地区相同",
-      "source": "GSMArena",
-      "date": "2026-11-13",
-      "summary": "摩托罗拉于 9 月份推出了 Signature 27，并于上周全面亮相。该智能手机配备 7000 mAh 电池。然而，摩托罗拉最初表示它将在德国配备 5500 mAh 电池。值得庆幸的是，事实并非如此。这一确认直接来自摩...",
-      "url": "https://www.gsmarena.com/motorola_signature_27_battery_capacity_germany-news-75468.php",
+      "title": "我如何在不删除一张照片的情况下释放 Android 手机上的 36GB 空间",
+      "source": "Android Authority",
+      "date": "2026-11-14",
+      "summary": "我如何在不删除一张照片的情况下释放 Android 手机上的 36GB 空间",
+      "url": "https://www.androidauthority.com/free-up-android-storage-tips-3734228/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/10/motorola-signature-27-key-specs-geekbench/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "vivo X300 Ultra 获得全新 OriginOS 7 更新，优化相...",
-      "source": "GSMArena",
-      "date": "2026-11-13",
-      "summary": "vivo X300 Ultra搭载基于Android 16的OriginOS 6，目前正在接收基于Android 17的新OriginOS 7更新。此次更新针对的是vivo X300 Ultra的中国型号，并且带来了相当...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/vivo_x300_ultra_china_originos_7_camera_update-news-75467.php",
+      "title": "如何判断黑色星期五促销是否真的值得",
+      "source": "Android Authority",
+      "date": "2026-11-14",
+      "summary": "经过多年寻找黑色星期五优惠后，这里是区分便宜货和虚张声势的关键。",
+      "url": "https://www.androidauthority.com/how-to-tell-if-a-black-friday-deal-is-worth-it-3734185/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/vivo-x300-ultra-china-originos-7-camera-update/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "Oppo 袖珍云台相机据说将于今年首次亮相，宽折叠也即将推出",
-      "source": "GSMArena",
-      "date": "2026-11-13",
-      "summary": "Tipster Digital Chat Station 分享了 Oppo 计划即将推出的几款旗舰产品的详细信息。这些产品将包括袖珍万向相机、宽屏可折叠手机以及配备 16:9 显示屏的宽直板旗舰机。据爆料称，Oppo 的...",
-      "url": "https://www.gsmarena.com/oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466.php",
+      "title": "我测试了 Meta Muse 和 ChatGPT Dots，这是我坚持使用的...",
+      "source": "Android Authority",
+      "date": "2026-11-14",
+      "summary": "我测试了 Meta Muse 和 ChatGPT Dots，这是我坚持使用的一个",
+      "url": "https://www.androidauthority.com/i-used-meta-muse-and-chatgpt-dots-3733591/",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-gimbal-camera-launch-wide-foldable-details/-184x111/gsmarena_00.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy A18 5G 获得蓝牙认证",
-      "source": "GSMArena",
-      "date": "2026-11-13",
-      "summary": "三星于 9 月推出了 Galaxy A18 4G。几个月后，它可能会推出 Galaxy A18 5G，该产品已获得蓝牙 SIG 认证。三星 Galaxy A18 4G三星 Galaxy A18 5G 已在蓝牙 SIG 网...",
-      "url": "https://www.gsmarena.com/samsung_galaxy_a18_5g_bluetooth_certified-news-75465.php",
+      "title": "Vela 地图是最接近 谷歌 地图（无需 谷歌）的工具 - 以下是安装方法",
+      "source": "Android Authority",
+      "date": "2026-11-14",
+      "summary": "这个开源应用程序的外观、感觉和行为都类似于 Google 地图，但它不仅仅是一个副本。",
+      "url": "https://www.androidauthority.com/vela-maps-vs-google-maps-android-3733791/",
       "tags": [
-        "三星"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-a18-5g-bluetooth-certified/-184x111/gsmarena_001.jpg",
+      "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
     },
     {
-      "title": "红米 Note 18系列现身网上，充电速度曝光，核心配置曝光",
-      "source": "GSMArena",
+      "title": "您可以使用 5 个应用来代替 谷歌 Messages",
+      "source": "Android Authority",
+      "date": "2026-11-14",
+      "summary": "这些应用程序可能没有 RCS，但它们在其他方面脱颖而出。",
+      "url": "https://www.androidauthority.com/google-messages-alternative-messaging-apps-3733535/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "经过野外测试：最佳生存技术！",
+      "source": "Android Authority",
       "date": "2026-11-13",
-      "summary": "尽管小米几个月前才推出了红米Note 17系列，但该公司似乎正在准备推出其继任者。一款新的Redmi智能手机，据信是即将推出的Redmi Note 18系列的一部分，已通过中国3C认证。Tipster数码闲聊站在微博上分...",
-      "url": "https://www.gsmarena.com/redmi_note_18_charging_speed_revealed_via_online_listing-news-75464.php",
+      "summary": "我们勇敢的冒险家团队深入加拿大荒野，测试一些您可以买到的最好的户外技术。",
+      "url": "https://www.androidauthority.com/tested-in-the-wild-best-survival-tech-3735211/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "在浅色和深色模式之间切换时，谷歌 Pixel bug会显示隐藏的私人空间",
+      "source": "Android Authority",
+      "date": "2026-11-13",
+      "summary": "谷歌 11 月的更新修复了许多错误，但私人空间问题并不是其中之一。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/google-pixel-private-space-persistent-bug-3735167/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Nothing 耳机 (a) 电池续航时间为 135 小时，在亚马逊上可享受...",
+      "source": "Android Authority",
+      "date": "2026-11-13",
+      "summary": "Nothings 持久耐用的入耳式耳机可享受 90 美元折扣，与亚马逊上的历史最低价持平。",
+      "url": "https://www.androidauthority.com/nothing-headphone-a-black-friday-3735126/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌准备淘汰 Pixel 10 Magic Cue，转而支持主动协助",
+      "source": "Android Authority",
+      "date": "2026-11-13",
+      "summary": "谷歌似乎准备在 2027 年底之前停止使用 Magic Cue。",
+      "url": "https://www.androidauthority.com/google-kill-magic-cue-3735173/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "谷歌地图、Spotify 等功能将登陆小米 18 Pro 的后显示屏",
+      "source": "Android Authority",
+      "date": "2026-11-13",
+      "summary": "小米希望你花更多时间看手机背面。",
+      "url": "https://www.androidauthority.com/xiaomi-18-pro-rear-display-features-3735180/",
       "tags": [
         "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/redmi-note-18-pro-max-3c-certification/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为 Mate X8 现在有传闻的发布日期，新机正式登场",
-      "source": "GSMArena",
-      "date": "2026-11-13",
-      "summary": "据来自中国的新传言称，华为将于 11 月 24 日推出 Mate X8。该设备将比 Mate X5、Mate X6 和 Mate X7 更薄、更轻，并且可能提供与 Mate X7 相同的颜色，以及另一种大胆而明亮的颜色。...",
-      "url": "https://www.gsmarena.com/huawei_mate_x8_now_has_a_rumored_launch_date-news-75463.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-mate-x8-purported-launch-date/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo 确认了 Reno17 Pro 的主摄像头和为其供电的芯片组以及 R...",
-      "source": "GSMArena",
-      "date": "2026-11-13",
-      "summary": "Oppo 将于 11 月 16 日在中国全面推出 Reno17 和 Reno17 Pro，就在昨天，该公司正式确认 Reno17 将配备四个 50MP 摄像头，其中包括主广角摄像头。今天，Oppo 已确认 Reno17 ...",
-      "url": "https://www.gsmarena.com/oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-series-chipsets-confirmed/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Nothing Ear (3a) 耳塞可享受 30 美元折扣，现价 69 美...",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "Nothing Ear 3a 耳塞在黑色星期五早期促销中可享受 30 的折扣，将亚马逊上的价格降至历史最低水平。",
-      "url": "https://www.androidauthority.com/nothing-ear-3a-deal-3735098/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌 11 月的 Pixel 更新导致屏幕保护程序停留在全亮度状态",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "该更新似乎打破了屏幕保护程序的低光模式。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/google-pixel-screensaver-dimming-broken-november-update-3735044/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Anthropic 的 Claude 正在经历大范围的中断，导致错误增加",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "不仅仅是你，克劳德也很沮丧。",
-      "url": "https://www.androidauthority.com/anthropic-claude-outage-nov-2026-3735078/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Garmin Instinct 3 AMOLED 在黑色星期五早期促销中下跌...",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "Instinct 3 AMOLED 在亚马逊上降至 24999 美元，使这款坚固耐用的 GPS 智能手表的价格回到了有史以来的最低价格。",
-      "url": "https://www.androidauthority.com/garmin-instinct-3-amoled-deal-3735085/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "黑色星期五最佳优惠：手机、智能手表等的早期折扣",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "今年最大的促销活动正在进行中，价格已经大幅下跌。以下是您现在可以获得的最佳技术优惠。",
-      "url": "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "AT&T应用程序已离线，部分用户报告网络中断",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "由于潜在的网络问题，ATT 应用程序已离线。",
-      "url": "https://www.androidauthority.com/att-app-down-3735059/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Nothing 耳机 (1) 在亚马逊上跌至历史新低 169 美元",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "购买 Nothing 耳机 1 可节省 130 美元，只需 169 美元即可获得混合 ANC、蓝牙 53 和长达 80 小时的播放时间。",
-      "url": "https://www.androidauthority.com/nothing-headphone-1-deal-amazon-3735065/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Android Auto 的音乐控件仍然一按即可跳过两首歌曲",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "按一下按钮，跳过两首歌曲，目前还没有解决办法。",
-      "url": "https://www.androidauthority.com/android-auto-music-double-skipping-bug-3735036/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "亚马逊将 Nothing Phone (4a) Pro 降价 101 美元，...",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "Nothing Phone 4a Pro 在亚马逊上跌至历史最低价 398 美元，具有 35 倍光学变焦和出色的透明设计。",
-      "url": "https://www.androidauthority.com/nothing-phone-4a-pro-deal-amazon-3735060/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "谷歌正在测试运动辅助和在交通模式下接收消息的自动触发器",
-      "source": "Android Authority",
-      "date": "2026-11-13",
-      "summary": "现在我们有了自动运动辅助集成的屏幕截图。",
-      "url": "https://www.androidauthority.com/pixel-transit-mode-automatic-motion-assist-take-a-message-3734960/",
-      "tags": [
-        "安卓"
       ],
       "image": "https://via.placeholder.com/120x80?text=Phone",
       "type": "news"
