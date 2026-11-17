@@ -1,11 +1,71 @@
 {
-  "updated": "2026-11-16 18:42",
+  "updated": "2026-11-17 17:42",
   "news": [
+    {
+      "title": "这是 iOS 27.3 beta 2 和 macOS 27.3 beta 2...",
+      "source": "GSMArena",
+      "date": "2026-11-17",
+      "summary": "在 iOS 2721 更新发布一周后，苹果发布了 iOS 273 的第二个开发者测试版。它是在第一个测试版之后推出的，该测试版在 Safari 中引入了垂直选项卡、Siri Recaps、Live Rewind 以及重新...，带来多项升级",
+      "url": "https://www.gsmarena.com/heres_everything_new_in_ios_273_beta_2_and_macos_273_beta_2-news-75508.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/ios-27-3-beta-2-macos-27-3-beta-2/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "180度大转弯：摩托罗拉Signature 27在德国的电池容量将更小",
+      "source": "GSMArena",
+      "date": "2026-11-17",
+      "summary": "摩托罗拉本月早些时候全面推出了配备 7000 mAh 电池的 Signature 27，但该公司表示，这款智能手机将在德国配备 5500 mAh 电池。然而，上周它回溯并更新了德国产品页面，提到了 7000 mAh 电池...，用户体验进一步优化",
+      "url": "https://www.gsmarena.com/motorola_signature_27_battery_capacity_germany_confirmed-news-75509.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-signature-27-official/-184x111/gsmarena_010.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米手表 S5 41mm、小米夹式耳机和小米手环 11 NFC 走向全球",
+      "source": "GSMArena",
+      "date": "2026-11-17",
+      "summary": "对于小米来说，这不仅仅是一件事该公司刚刚宣布在全球推出其小米 18 Pro 旗舰产品，并且还向全球市场推出了多种配件。小米手表 S5 41mm小米手表 S5 41mm 此前在中国推出。它是 Watch S5 46mm 的...",
+      "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-watch-s5-41mm-clip-buds-band-11-nfc/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "小米 18 Pro 和 18 Pro Max 开始国际推广",
+      "source": "GSMArena",
+      "date": "2026-11-17",
+      "summary": "小米今天在法国巴黎举办了一场活动，举行小米 18 Pro 和小米 18 Pro Max 的国际发布会，这两款手机于 9 月在中国发布。小米18 Pro和18 Pro Max的全球型号与中国同类产品共享硬件，但电池较小。全...，带来多项升级",
+      "url": "https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php",
+      "tags": [
+        "小米"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pro-18-pro-max-international-launch/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone 20 Pro 前玻璃曝光，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-11-17",
+      "summary": "网上出现了新的泄密事件，据称是苹果 20 周年纪念版 iPhone 的前玻璃的首次亮相，预计将于明年推出。据传 iPhone 20 Pro 系列采用四曲面显示屏，边框非常窄。知名爆料者Ice Universe在社交媒体上...",
+      "url": "https://www.gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php",
+      "tags": [
+        "苹果"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iphone-20-pro-cover-glass-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
     {
       "title": "在此观看小米 18 Pro 和小米 18 Pro Max 全球发布会，新机正...",
       "source": "GSMArena",
-      "date": "2026-11-16",
-      "summary": "小米将其最新旗舰智能手机推向全球市场的时机已经到来。继去年 9 月在中国推出小米 18 Pro 和小米 18 Pro Max 后，该公司现在正在向世界各地发布这两款手机，将于明天当地时间 14:00 在法国巴黎举行特别发...，带来多项升级",
+      "date": "2026-11-17",
+      "summary": "小米将其最新旗舰智能手机推向全球市场的时机已经到来。继去年 9 月在中国推出小米 18 Pro 和小米 18 Pro Max 后，该公司现在正在全球范围内发布这两款手机，并于当地时间 14:00 在法国巴黎举办了一场特别...，带来多项升级",
       "url": "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php",
       "tags": [
         "小米"
@@ -14,131 +74,59 @@
       "type": "news"
     },
     {
-      "title": "华为 Osta O1 Pro 实时图像在发布前泄露，新机正式登场",
+      "title": "华为Watch Air漏水，超薄设计令人印象深刻",
       "source": "GSMArena",
-      "date": "2026-11-16",
-      "summary": "华为最近确认将于 11 月 20 日推出新子品牌 Osta。该公司还透露，即将推出的一款设备将被称为 Osta O1 Pro。现在，泄露的实时图像让人们初步了解了这款手机的设计。这张在中国社交媒体平台微博上流传的实时图像...",
-      "url": "https://www.gsmarena.com/huawei_osta_o1_pros_live_image_leaks_ahead_of_launch-news-75493.php",
+      "date": "2026-11-17",
+      "summary": "华为预计很快将在其产品组合中推出一款新的智能手表 Watch Air。顾名思义，该设备将具有轻薄的外形，有传言称其钛合金一体式外壳厚度仅为 69 毫米。为了让您了解它有多薄，Watch Fit 5 和 Fit 5 Pro...",
+      "url": "https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-osta-o1-pro-live-image/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-watch-air-leak/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "华为 Mate X8 RAM 和存储选项已开放预订",
+      "title": "iPhone Duo 在最新的 iOS 27.3 Beta 中获得面部解锁功...",
       "source": "GSMArena",
-      "date": "2026-11-16",
-      "summary": "上周我们曾告诉大家，传闻 Mate X8 将于 11 月 24 日发布，今天华为正式宣布了这一消息。这款可折叠产品将于当天14:30在中国的一场活动中亮相，目前它已经在该公司的Vmall网上商店上架，您可以在那里预订。清...，带来多项升级",
-      "url": "https://www.gsmarena.com/huawei_mate_x8_ram_and_storage_options_revealed_as_reservations_open-news-75490.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-mate-x8-reservations/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Reno17 和 Reno17 Pro 现已正式发布，它们非常熟悉...",
-      "source": "GSMArena",
-      "date": "2026-11-16",
-      "summary": "在大量泄密和预告片之后，Oppo 刚刚在中国正式推出了 Reno17 和 Reno17 Pro。它们继承了中国的 Reno16 和 Reno16 Pro，但有一点不同去年，普通型号是紧凑型，配备 632 英寸屏幕，而 P...",
-      "url": "https://www.gsmarena.com/oppo_reno17_and_reno17_pro_are_now_official_and_theyre_quite_familiar-news-75492.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-reno17-reno17-pro-official/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Oppo Watch 5 首发，1.85 英寸 AMOLED 显示屏，7 天...",
-      "source": "GSMArena",
-      "date": "2026-11-16",
-      "summary": "Oppo Watch 5 今天在中国发布，它是该品牌最新的健身手表。这也是很长一段时间以来首款配备矩形屏幕的 Oppo 智能手表。您将获得 185 英寸 AMOLED 显示屏，分辨率为 390450 像素，刷新率为 60...，带来多项升级",
-      "url": "https://www.gsmarena.com/oppo_watch_5_debuts_with_185_amoled_7day_battery_life-news-75489.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-watch-5-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "以下是如何获得 Airalo 无限数据 eSIM 25% 的折扣",
-      "source": "GSMArena",
-      "date": "2026-11-16",
-      "summary": "几年前，我们去伦敦旅行，使用 Airalo eSIM 获取数据设置很简单，旅途也没有任何问题。从那时起，我们在旅行时总是有一张数据eSIM卡。如果您计划出国度假，您可能也想买一件。Airalo 在结帐时使用我们的链接和代...",
-      "url": "https://www.gsmarena.com/heres_how_you_can_get_25_off_airalos_unlimited_data_esims-news-75488.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/airalo-black-friday-promo/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "这就是 Galaxy S27 Pro 和 Ultra 上的相机岛的样子",
-      "source": "GSMArena",
-      "date": "2026-11-16",
-      "summary": "三星 Galaxy S27 Pro 和 S27 Ultra 的渲染图已经在网上流传了几个月，上周我们第一次看到了该系列的模型。Pro 和 Ultra 型号正在重新设计相机岛，并且这些虚拟单元与早期渲染相比具有不同的外观。...",
-      "url": "https://www.gsmarena.com/this_is_what_the_camera_island_on_the_galaxy_s27_pro_and_ultra_looks_like-news-75487.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-s27-pro-ultra-camera-design/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "游戏性能演变：iPhone 15 Pro 到 iPhone 18 Pro",
-      "source": "GSMArena",
-      "date": "2026-11-15",
-      "summary": "iPhone 一直有很多游戏供您选择，其中包括一些来自老一代游戏机的 AAA 游戏。然而，随着 iPhone 15 Pro 的推出，苹果首次为当前一代游戏移植到移动平台打开了大门。 Apple A17 Pro 的图形飞跃...",
-      "url": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php",
+      "date": "2026-11-17",
+      "summary": "第二个 iOS 273 Beta 版现已向开发者推出，带来了多项新功能，包括 iPhone Duo 上的面部解锁。值得注意的是，第一个 iOS 273 测试版于本月初发布。苹果在设置应用程序的Touch ID和密码下添加...，带来多项升级",
+      "url": "https://www.gsmarena.com/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iphone-gaming-comparison/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/ios-27-3-beta-2-iphone-duo-face-unlock/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "Tilta Khronos Oppo Find X10 Pro Max Cr...",
+      "title": "WhatsApp 自己的加密云存储备份选项现已向部分 Android 测试版...",
       "source": "GSMArena",
-      "date": "2026-11-15",
-      "summary": "今天，我们有另一个视频创作工具包可供拆箱。这是 Tilta 制造的 Khronos Oppo Find X10 Pro Max Creator 套件，与我们在 Find X9 Ultra 上试用的套件几乎相同。如果您想要...",
-      "url": "https://www.gsmarena.com/tilta_khronos_oppo_find_x10_pro_max_creator_kit_handson-news-75476.php",
+      "date": "2026-11-17",
+      "summary": "WhatsApp 于 4 月份开始在 Android 上测试其加密云存储备份解决方案，并于 7 月份将测试范围扩大到 iOS。 WABetaInfo 报道称，WhatsApp 现在允许一些 Android 测试版用户将聊...",
+      "url": "https://www.gsmarena.com/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/khronos-find-x10-pro-max/new/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-encrypted-cloud-storage-backup-android-beta/-184x111/gsmarena_001.jpg",
       "type": "news"
     },
     {
-      "title": "Galaxy S27 虚拟机、小米 18s 登陆办公室，第 46 周回顾",
+      "title": "Oppo 的下一代 Pro Max 可能会将边框隐藏在四面曲面玻璃下",
       "source": "GSMArena",
-      "date": "2026-11-15",
-      "summary": "三星即将推出的 Galaxy S27 系列出现在新的泄露中，由 Sonny Dickson 提供，他分享了 Galaxy S27 Ultra、S27 Pro 和 S27 的虚拟机。 Ultra 和 Pro 配备了经过彻底...",
-      "url": "https://www.gsmarena.com/galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478.php",
+      "date": "2026-11-17",
+      "summary": "上周，据报道被取消的 Oppo Find X10 Ultra 的剩余硬件据说将用于后来的手机，有望成为 Find X11 Pro Max。今天，微博数码闲聊站分享了OPPO将使用的下一代旗舰显示屏的超级早期预览。据消息人...",
+      "url": "https://www.gsmarena.com/oppos_next_pro_max_may_hide_its_bezels_under_foursided_curved_glass-news-75495.php",
       "tags": [
-        "三星"
+        "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/week-46-in-review/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/oppo-find-x11-pro-max-bezels-rumor/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy Studio 耳机泄露揭示了物理和触摸控制，核心配置曝光",
+      "title": "Pixel 用户在关闭最近的应用程序时看到一个奇怪的动画错误",
       "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "请欣赏这些新泄露的图像。",
-      "url": "https://www.androidauthority.com/samsung-headphones-physical-and-touch-controls-3735643/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Nothing Headphone (1) Pro 首次优惠 20%",
-      "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "购买 Nothing 的三驱动器旗舰耳机可节省 80 美元，该耳机配备 LDAC、头部追踪和 46dB ANC。",
-      "url": "https://www.androidauthority.com/nothing-headphone-1-pro-deal-3735680/",
+      "date": "2026-11-17",
+      "summary": "一个重影错误让 Android 流畅的应用程序关闭动画看起来很糟糕。",
+      "url": "https://www.androidauthority.com/pixel-recent-apps-ghosting-bug-3736172/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "CMF Buds Pro 2 29% 折扣，创历史新低",
+      "title": "Gemini 正在通过 Channels 获取短信和电子邮件控制权",
       "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "购买 CMF 的 ANC 耳机可节省 14 美元，该耳机配备 LDAC 和外壳上方便的智能拨号盘。",
-      "url": "https://www.androidauthority.com/cmf-buds-pro-2-deal-amazon-3735676/",
+      "date": "2026-11-17",
+      "summary": "设置完成后，您可以将 Gemini 任务和任务更新发送至geminigooglecom。，用户体验进一步优化",
+      "url": "https://www.androidauthority.com/gemini-channels-3736176/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "256GB 三星 Galaxy Tab A11 Plus 立减 101 美元",
+      "title": "您付费的 Galaxy AI 订阅可以在 Now Brief 中解锁额外的自...",
       "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "8GB256GB 型号折扣 27，为 7 月初以来的最低价格。",
-      "url": "https://www.androidauthority.com/samsung-galaxy-tab-a11-plus-256gb-deal-3735661/",
+      "date": "2026-11-17",
+      "summary": "三星还允许您购买更多编辑和创建自定义卡片所需的 AI 计划积分。",
+      "url": "https://www.androidauthority.com/samsung-galaxy-ai-custom-cards-now-brief-limit-credits-3736153/",
       "tags": [
         "三星"
       ],
@@ -170,11 +158,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 地图扩展了 Ask Maps，提供行程、列表搜索和预约预订",
+      "title": "CMF Buds Neo 享受 32% 折扣，价格低于 20 美元",
       "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "该更新从今天开始推出。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/google-maps-ask-maps-update-3735628/",
+      "date": "2026-11-17",
+      "summary": "黑色的 CMF Buds Neo 在亚马逊上的售价为 1699 美元，这是他们销售的最低价格。",
+      "url": "https://www.androidauthority.com/cmf-buds-neo-deal-3736171/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +170,59 @@
       "type": "news"
     },
     {
-      "title": "苹果 Watch Series 12 创下历史新低 329 美元",
+      "title": "配备 S Pen 的三星 Galaxy Tab S10 FE 降价 200 ...",
       "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "Apple 最新款智能手表每款 42 毫米颜色可享受 70 美元折扣，而且价格从未如此便宜。",
-      "url": "https://www.androidauthority.com/apple-watch-series-12-deal-amazon-3735657/",
+      "date": "2026-11-17",
+      "summary": "三星 Galaxy Tab S10 FE 在亚马逊上立减 200 美元，这是自 2025 年 12 月以来的最低价格。",
+      "url": "https://www.androidauthority.com/galaxy-tab-s10-fe-200-off-deal-3736170/",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "JBL Tune 530BT（2026）耳机半价创历史新低",
+      "source": "Android Authority",
+      "date": "2026-11-17",
+      "summary": "JBL Tune 530BT 2026 在亚马逊上的售价为 2995 美元，半价，是迄今为止的最低价格。",
+      "url": "https://www.androidauthority.com/jbl-tune-530bt-2026-deal-3736169/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "黑色星期五提前促销使 Fire TV Soundbar Plus 跌至历史新...",
+      "source": "Android Authority",
+      "date": "2026-11-17",
+      "summary": "带低音炮的 Fire TV Soundbar Plus 在亚马逊上可享受 145 美元的折扣，这是有史以来的最低价格。",
+      "url": "https://www.androidauthority.com/fire-tv-soundbar-plus-subwoofer-deal-3736160/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Skullcandy Crusher Evo 耳机降至 89.99 美元，立...",
+      "source": "Android Authority",
+      "date": "2026-11-17",
+      "summary": "Skullcandy Crusher Evo 在亚马逊上的售价为 8999 美元，与最低价相当。",
+      "url": "https://www.androidauthority.com/skullcandy-crusher-evo-early-black-friday-deal-3736159/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "小米 Clip 耳机来了，支持 苹果 Find My，但不支持 谷歌 Fin...",
+      "source": "Android Authority",
+      "date": "2026-11-17",
+      "summary": "小米的夹式耳塞还支持 LHDC 50 编解码器，并能够通过耳机盒快速启动录音。",
+      "url": "https://www.androidauthority.com/xiaomi-clip-earbuds-3735877/",
       "tags": [
         "苹果"
       ],
@@ -194,47 +230,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 日历现在可以让您选择在哪里安排五分钟的会议休息时间",
+      "title": "谷歌正在测试一种通过人工智能模式更快地共享文件的方法",
       "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "Google 日历的快速会议更新添加了稍后开始会议的选项。，用户体验进一步优化",
-      "url": "https://www.androidauthority.com/google-calendar-meeting-buffer-3735599/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Bose QuietComfort 耳机降至 169 美元，节省 180 美...",
-      "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "Bose 舒适的降噪耳机在亚马逊上有 52 的折扣，有五种颜色可供选择。",
-      "url": "https://www.androidauthority.com/bose-quietcomfort-headphones-deal-amazon-3735622/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "三星可以让你在 One UI 9.5 中录制自定义直接语音邮件消息",
-      "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "三星的直接语音邮件可能最终会赶上 Pixel 的自定义问候语功能。",
-      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-direct-voicemail-custom-greeting-apk-teardown-3735581/",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Morphe v2.3.0 更新解锁 1440p 和 4K YouTube ...",
-      "source": "Android Authority",
-      "date": "2026-11-16",
-      "summary": "这个社区驱动的定制项目还为 YouTube Music 添加了原生离线下载功能。",
-      "url": "https://www.androidauthority.com/morphe-v2-3-0-1440p-4k-youtube-downloads-3735577/",
+      "date": "2026-11-17",
+      "summary": "谷歌还可以让你使用专用按钮将 Search Live 的音频静音。",
+      "url": "https://www.androidauthority.com/google-ai-mode-file-sharing-search-live-mute-apk-teardown-3736093/",
       "tags": [
         "安卓"
       ],
