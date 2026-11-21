@@ -1,132 +1,168 @@
 {
-  "updated": "2026-11-20 17:03",
+  "updated": "2026-11-21 16:15",
   "news": [
     {
-      "title": "据报道，苹果正在开发一款可以编码和使用应用程序的人工智能代理",
+      "title": "iPhone Air 2 在另一个泄露的假机中展示了其双摄像头设计，核心配置...",
       "source": "GSMArena",
-      "date": "2026-11-20",
-      "summary": "据彭博社马克古尔曼Mark Gurman的一份新报告称，根据苹果公司的官方职位清单，该公司正在开发一种人工智能代理，可以代表用户执行各种任务。该报告称，现已删除的职位清单正在寻找一名高级工程经理来领导主动、代理的人工智能...",
-      "url": "https://www.gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php",
+      "date": "2026-11-21",
+      "summary": "本月早些时候，iPhone Air 2 和标准版 iPhone 18 在微博上以假机的形式出现。现在，另一组所谓的假人已经出现在 X 上，让我们可以更仔细地了解这两款手机的设计。最大的变化还是 iPhone Air 2，...",
+      "url": "https://www.gsmarena.com/iphone_air_2_shows_off_its_dualcamera_design_in_another_dummy_unit_leak-news-75574.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/apple-ai-agent-job-listing-report/-184x111/gsmarena_00.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iphone-air-2-new-dummy-unit/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星任命新领导层，卢武铉继续担任首席执行官",
+      "title": "特惠：三星 Galaxy Z Fold8 Ultra 亚马逊英国黑色星期五促...",
       "source": "GSMArena",
-      "date": "2026-11-20",
-      "summary": "七年后，三星正在重组其领导地位，并更换移动部门的负责人。有趣的是，TM Roh 仍将担任该公司的首席执行官，但三星 MX 的负责人将被 WonJoon Choi 取代。 TM Roh 还继续担任设备体验 DX 主管。据三...",
-      "url": "https://www.gsmarena.com/samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568.php",
+      "date": "2026-11-21",
+      "summary": "本月早些时候，三星 Galaxy Z Fold8 Ultra 基本 12256GB 型号的售价降至 1600 英镑。在英国亚马逊黑色星期五促销期间，同样的商品可以便宜 100 英镑，而且还有更多福利需要考虑。三星 Gal...",
+      "url": "https://www.gsmarena.com/deal_the_samsung_galaxy_z_fold8_ultra_is_up_to_555_off_for_amazon_uks_black_friday_sale-news-75575.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-dram-market-q2-2026/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-uk/-184x111/gsmarena_003.jpg",
       "type": "news"
     },
     {
-      "title": "华为Osta 1 Pro首发",
+      "title": "据报道，荣耀将推出一款 13,500 mAh 的手机，Power3 也不甘落...",
       "source": "GSMArena",
-      "date": "2026-11-20",
-      "summary": "继本月初的几篇报道之后，华为继续在中国宣布推出新的 Osta 子品牌。华为高管余承东透露，Osta 代表原创智能技术可访问Original Smart Technology Accessible。Osta 1 Pro 是...",
-      "url": "https://www.gsmarena.com/huawei_osta_1_pro_debuts_in_china_-news-75562.php",
+      "date": "2026-11-21",
+      "summary": "荣耀一直在推动智能手机电池容量越来越高，本月初我们听说其1400015000mAh的电池已经进入试产。现在，同一位爆料者 Digital Chat Station 表示，该公司将在 2 月 6 日农历新年之前推出一款新的...",
+      "url": "https://www.gsmarena.com/honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-osta-1-pro-ofic/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-13500-mah-battery-phone-rumor/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "特惠：小米 18 Pro 和 18 Pro Max 在德国亚马逊免费赠送小米...",
+      "title": "优惠：Oppo Find X10 和 Find X10 Pro Max 现在...",
       "source": "GSMArena",
-      "date": "2026-11-20",
-      "summary": "与亚马逊英国不同，亚马逊德国的小米 18 Pro 和小米 18 Pro Max 交易不需要 Prime 订阅。这两款旗舰产品才刚刚开始在全球推出，因此虽然获得折扣固然很酷，但这也是一个有趣的优惠免费的小米 Pad 8 8...",
-      "url": "https://www.gsmarena.com/deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-de/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉 Razr Flex 认证揭示了意外的芯片组作为实时图像泄漏",
-      "source": "GSMArena",
-      "date": "2026-11-20",
-      "summary": "摩托罗拉宽幅可折叠手机 Razr Flex 本月早些时候出现在 Geekbench 上，其看似搭载的是 Snapdragon 8 Gen 5 芯片组。现在，TrustCB 安全认证文件列出了该设备，代号为 Parker，...",
-      "url": "https://www.gsmarena.com/motorola_razr_flex_certification_reveals_an_unexpected_chipset_as_a_live_image_leaks-news-75553.php",
+      "date": "2026-11-21",
+      "summary": "Oppo 比其主要竞争对手更早地将 Find X10 和 Find X10 Pro Max 推向全球舞台Oppo 于 10 月 21 日开始推出，vivo 于 10 月 27 日推出 X500 系列，小米本周早些时候扩大...",
+      "url": "https://www.gsmarena.com/deal_the_oppo_find_x10_and_find_x10_pro_max_now_have_an_even_bigger_discount_for_black_friday-news-75566.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-razr-flex-certification/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/black-friday-amazon-de/-184x111/gsmarena_002.jpg",
       "type": "news"
     },
     {
-      "title": "小米 18 现已在中国开启预订",
+      "title": "HMD 可能会在新手机中恢复诺基亚的 PureView 品牌",
       "source": "GSMArena",
-      "date": "2026-11-20",
-      "summary": "小米 18 的发布可能指日可待，因为该公司已开始在中国接受这款手机的盲目预订。此前，一家中国零售商最近上市了这款手机，该零售商也开始接受这款手机的预订。有兴趣的中国买家现在可以通过该公司的官方网上商店预订小米 18。小米...，带来多项升级",
-      "url": "https://www.gsmarena.com/xiaomi_18_prereservations_are_now_live_in_china-news-75561.php",
-      "tags": [
-        "小米"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/xiaomi-18-pre-reservations-china/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉分享了符合 Android 17 更新资格的新智能手机列表",
-      "source": "GSMArena",
-      "date": "2026-11-20",
-      "summary": "8 月，联想分享了符合 Android 17 更新资格的摩托罗拉智能手机列表。该列表缺少一些智能手机，现已从官方网站上删除。不过，摩托罗拉现在发布了一份新清单，其中包括之前缺失的智能手机。摩托罗拉表示已经接收 Andro...，带来多项升级",
-      "url": "https://www.gsmarena.com/motorola_smartphone_android_17_update_list-news-75558.php",
+      "date": "2026-11-21",
+      "summary": "自从我们上次听到 PureView 这个名字以来已经有一段时间了，但一份新的报告表明它可能会卷土重来。据报道，HMD Global 正在考虑恢复诺基亚曾经用于其以摄像头为核心的旗舰手机的品牌。据芬兰网站 SuomiMob...",
+      "url": "https://www.gsmarena.com/hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/02/android-17-beta-1-released/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/hmd-pureview-phone-leak/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "Lava Smart 4 Pro 宣布配备 7,000 mAh 电池",
+      "title": "摩托罗拉宽屏 Razr Flex 现在有两种颜色可供选择，展示多种角度",
       "source": "GSMArena",
-      "date": "2026-11-20",
-      "summary": "Lava 于 6 月推出了 Smart 4 Plus，并于 8 月推出了 Smart 4。今天，这家印度手机制造商宣布 Lava Smart 4 Pro 作为 Smart 系列的最新成员。Lava Smart 4 Pro...",
-      "url": "https://www.gsmarena.com/lava_smart_4_pro_features_price_sale_date-news-75559.php",
+      "date": "2026-11-21",
+      "summary": "摩托罗拉首款宽屏可折叠手机 Razr Flex 最近泄露了很多信息。昨天，一张所谓的背面实时图像与认证一起出现，现在我们有了该设备的几张新渲染图，以两种颜色描绘了它，让我们能够最好地了解它的设计。Pantone 深色植物...",
+      "url": "https://www.gsmarena.com/motorolas_wide_razr_flex_now_leaks_in_two_colors_showing_off_a_lot_of_angles-news-75578.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/lava-smart-4-pro-official/-184x111/gsmarena_001.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-razr-flex-new-renders/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "苹果加强对不断萎缩的美国智能手机市场的控制",
+      "title": "WhatsApp 将群聊成员上限提高至 1,500 人",
+      "source": "GSMArena",
+      "date": "2026-11-21",
+      "summary": "据 WABetaInfo 报道，WhatsApp 已将群组聊天成员上限从 1024 人增加到 1500 人。根据新的限制，管理员现在最多可以向群组添加 1500 名成员。这一增加的限制不仅适用于群聊，还适用于社区群聊。A...",
+      "url": "https://www.gsmarena.com/whatsapp_group_chat_member_limit_increased-news-75560.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/whatsapp-group-chat-limit-increased/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iPhone Duo 的发货时间终于变短了",
       "source": "GSMArena",
       "date": "2026-11-20",
-      "summary": "Counterpoint Research公布了最新的美国智能手机市场数据，今年第三季度7月至9月的表现并不好。总体出货量同比下降 9，该研究公司将其归咎于全球内存限制，这对 Android 造成了最严重的打击，尤其是低...",
-      "url": "https://www.gsmarena.com/apple_tightens_its_grip_on_a_shrinking_us_smartphone_market-news-75556.php",
+      "summary": "苹果的 iPhone Duo 在上个月开放预订后的几个小时内就售空了，如果您此后尝试从苹果订购 iPhone，那么您一直在查看 1 月底的交货预估。本月早些时候，该公司首席执行官甚至表示，在可预见的未来，短缺现象仍将持续...",
+      "url": "https://www.gsmarena.com/iphone_duo_shipping_times_are_finally_getting_shorter-news-75573.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/counterpoint-us-q3-shipments/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iphone-duo-new-shipping-estimates/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星 Galaxy Buds Active 运动耳机泄露，具有高端功能，核心...",
+      "title": "无屏人工智能设备正式发布日期，新机正式登场",
       "source": "GSMArena",
       "date": "2026-11-20",
-      "summary": "三星最近推出了首款夹式耳机 Galaxy Buds On，看起来另一款新耳机即将推出。 SammyGuru 深入研究了最新的 One UI 95 测试版，发现了大量针对 Galaxy Buds Active 的参考资料，...",
-      "url": "https://www.gsmarena.com/samsungs_galaxy_buds_active_sport_earbuds_leak_with_highend_features-news-75554.php",
+      "summary": "本月早些时候，Nothing 首席执行官 Carl Pei 确认该公司的首款 AI 原生产品将于 12 月推出，此后我们已经初步了解了它的设计，昨天又看到了一张显示对话按钮的新图片。现在，Nothing 宣布将于 12 ...",
+      "url": "https://www.gsmarena.com/nothings_screenless_ai_device_gets_an_official_launch_date-news-75567.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/nothing-ai-device-official-launch-date/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Galaxy S27 Pro 的 Exynos 2700 运行 Geekbe...",
+      "source": "GSMArena",
+      "date": "2026-11-20",
+      "summary": "早在 4 月份，三星的 Exynos 2700 就出现在早期的 Geekbench 列表中，但该工程样本的最快核心运行速度仅为 288GHz。上个月，有内部人士称该芯片在内部测试中击败了小米 18 Pro Max 中的 ...",
+      "url": "https://www.gsmarena.com/galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-buds-active-leak/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-pro-geekbench/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "随着三星和摩托罗拉下滑，谷歌在美国智能手机市场占据一席之地",
+      "title": "Anker 的 13 合 1 码头配有弹出式旅行中心，立减 50 美元",
       "source": "Android Authority",
-      "date": "2026-11-20",
-      "summary": "尽管同比下降，但这一情况还是出现了。",
-      "url": "https://www.androidauthority.com/google-pixel-11-us-market-share-q3-2026-3737766/",
+      "date": "2026-11-21",
+      "summary": "Anker 的 Nano Docking Station 在黑色星期五之前有 33 的折扣，与亚马逊上的最低价格相当。",
+      "url": "https://www.androidauthority.com/anker-nano-13-in-1-docking-station-deal-3737772/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "这个黑色星期五购买 TCL NXTPAPER 11 Plus 可节省 142...",
+      "source": "Android Authority",
+      "date": "2026-11-21",
+      "summary": "TCL 的纸质 115 英寸平板电脑在亚马逊上对 Prime 会员可享受 38 的折扣，包装盒内配有手写笔和翻盖保护套。",
+      "url": "https://www.androidauthority.com/tcl-nxtpaper-11-plus-black-friday-deal-3737826/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "Sonos Beam（第 2 代）条形音箱跌至历史新低 339 美元",
+      "source": "Android Authority",
+      "date": "2026-11-21",
+      "summary": "购买 Sonos 的紧凑型杜比全景声条形音箱可节省 160 美元，目前比亚马逊上之前的最优惠价格低 10 美元。",
+      "url": "https://www.androidauthority.com/sonos-beam-gen-2-deal-3737775/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "小心！ Galaxy Watch 7 黑色星期五 40% 折扣",
+      "source": "Android Authority",
+      "date": "2026-11-21",
+      "summary": "购买三星 40 毫米 Galaxy Watch 7 绿色版可节省 100 美元，这是自去年假期以来亚马逊上的最优惠价格。",
+      "url": "https://www.androidauthority.com/galaxy-watch-7-black-friday-deal-3737771/",
       "tags": [
         "三星"
       ],
@@ -134,11 +170,11 @@
       "type": "news"
     },
     {
-      "title": "SanDisk 512GB microSD Express 卡降至 98.9...",
+      "title": "Sylvox 黑色星期五特卖：适合露台、全日光泳池和游戏的最佳户外电视",
       "source": "Android Authority",
-      "date": "2026-11-20",
-      "summary": "为您的 Nintendo Switch 2 添加 512GB 快速存储空间，价格比该卡在亚马逊上的正常价格低 24。",
-      "url": "https://www.androidauthority.com/sandisk-512gb-microsd-express-deal-3737773/",
+      "date": "2026-11-21",
+      "summary": "享受一些适用于露台、泳池和甲板的最佳防风雨 4K 电视的大幅折扣。",
+      "url": "https://www.androidauthority.com/sylvox-black-friday-sale-2026-3737509/",
       "tags": [
         "安卓"
       ],
@@ -146,11 +182,11 @@
       "type": "news"
     },
     {
-      "title": "JLab Go Air Pop Plus 耳塞创下 16 美元以下的历史新低",
+      "title": "Titan 2 Elite键盘手机即将换上新配色，粉丝们已经有了猜测",
       "source": "Android Authority",
       "date": "2026-11-20",
-      "summary": "这些经济实惠的真无线耳机紫罗兰色可享受 49 的折扣，具有 35 小时的播放时间和 USBC 充电盒。",
-      "url": "https://www.androidauthority.com/jlab-go-air-pop-plus-deal-3737774/",
+      "summary": "Titan 2 Elite 将于本月晚些时候推出新配色。",
+      "url": "https://www.androidauthority.com/unihertz-teases-new-titan-2-elite-colorway-3737949/",
       "tags": [
         "安卓"
       ],
@@ -158,11 +194,11 @@
       "type": "news"
     },
     {
-      "title": "OSTA O1 Pro是加入宽屏趋势的最新平板手机",
+      "title": "谷歌 Health 5.13 更新让跟踪锻炼和膳食变得更容易",
       "source": "Android Authority",
       "date": "2026-11-20",
-      "summary": "OSTA是华为的子品牌，这是其第一款智能手机。",
-      "url": "https://www.androidauthority.com/huawei-osta-o1-pro-wide-screen-slab-phone-3737706/",
+      "summary": "对于 iPhone 用户来说，也有一些好消息。",
+      "url": "https://www.androidauthority.com/google-health-5-13-update-fitness-features-3737916/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "Ray-Ban Meta（第 2 代）眼镜黑色星期五立减 103 美元",
+      "title": "OpenAI 的 ChatGPT 应用程序重新设计添加了专用的 Dots 选...",
       "source": "Android Authority",
       "date": "2026-11-20",
-      "summary": "这些偏光智能眼镜在亚马逊上的售价降至 306 美元，这是该眼镜有史以来的最低价格。",
-      "url": "https://www.androidauthority.com/ray-ban-meta-wayfarer-gen-2-deal-3737770/",
+      "summary": "看看新的移动体验。",
+      "url": "https://www.androidauthority.com/chatgpt-app-redesign-rollout-3737931/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "Sonos Arc Ultra 降价 250 美元，创下历史新低",
+      "title": "调查发现 Pixel 11 Pro 用户对购买的产品大多感到满意",
       "source": "Android Authority",
       "date": "2026-11-20",
-      "summary": "Sonos 的旗舰杜比全景声 Dolby Atmos 条形音箱在黑色星期五之前可享受 23 的折扣，而且在亚马逊上从未如此便宜。",
-      "url": "https://www.androidauthority.com/sonos-arc-ultra-black-friday-deal-3737769/",
+      "summary": "调查发现 Pixel 11 Pro 用户对购买的产品大多感到满意",
+      "url": "https://www.androidauthority.com/pixel-11-pro-three-months-later-poll-results-3737834/",
       "tags": [
         "安卓"
       ],
@@ -194,47 +230,11 @@
       "type": "news"
     },
     {
-      "title": "无论是日常通勤者还是公路旅行者，这个黑色星期五都有适合您的 Botslab ...",
+      "title": "Gemini 现在可以成为您制作 GIF 的首选来源",
       "source": "Android Authority",
       "date": "2026-11-20",
-      "summary": "在 Botslab 黑色星期五促销期间享受高达 49 的折扣。",
-      "url": "https://www.androidauthority.com/botslab-black-friday-sale-2026-3736706/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "这款 Android 播放器利用 AI 巧妙地消除了播客的干扰",
-      "source": "Android Authority",
-      "date": "2026-11-20",
-      "summary": "此外，我们在本周的新人工智能应用程序和服务综述中还介绍了 Pocket Relay 和 Buddy。",
-      "url": "https://www.androidauthority.com/new-ai-apps-services-trimplayer-3737704/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "下一次 AI 硬件发布时间尚未确定 12 月 8 日，新机正式登场",
-      "source": "Android Authority",
-      "date": "2026-11-20",
-      "summary": "一个神秘的 X 预告片在标语旁边显示了一个金属圆形组件，在场。值得注意。",
-      "url": "https://www.androidauthority.com/nothing-ai-hardware-december-8-teaser-3737727/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "Beats Pill 扬声器跌至 95 美元以下，创历史新低",
-      "source": "Android Authority",
-      "date": "2026-11-20",
-      "summary": "购买配备 24 小时电池和 IP67 防护等级的 Apple 便携式扬声器可节省 55 美元。",
-      "url": "https://www.androidauthority.com/beats-pill-black-friday-deal-3737475/",
+      "summary": "Gemini 在 GIF 生成方面追随 ChatGPT 的领先地位。",
+      "url": "https://www.androidauthority.com/gemini-gif-generation-rollout-3737901/",
       "tags": [
         "安卓"
       ],
