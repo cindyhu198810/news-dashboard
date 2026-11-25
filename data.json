@@ -1,168 +1,132 @@
 {
-  "updated": "2026-11-24 19:35",
+  "updated": "2026-11-25 18:43",
   "news": [
     {
-      "title": "华为 MateBook Fold S 是一款可折叠 14.7 英寸平板电脑，...",
+      "title": "Realme 17 Pro设计在泄露的图像中完全暴露，核心配置曝光",
       "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "虽然有些品牌已经变得无聊，但我们总是可以依靠华为的一些创新思维。看看华为 MateBook Fold S不不，继续看，你看得越多就越奇怪。这是一款可折叠平板电脑，可用于类似笔记本电脑的半折叠配置  下半部分变成第二个屏幕...",
-      "url": "https://www.gsmarena.com/the_huawei_matebook_fold_s_is_a_foldable_147_tablet_with_an_extra_display_on_the_back-news-75614.php",
+      "date": "2026-11-25",
+      "summary": "上个月，一份报告披露了即将推出的 Realme 17 Pro 的关键规格。现在，一位爆料者分享了展示这款手机完整设计的图片，其灵感似乎来自一加。爆料者 Abhishek Yadav 在 X 上分享了这些图片，揭示了所谓的...",
+      "url": "https://www.gsmarena.com/realme_17_pro_design_fully_revealed_in_leaked_images-news-75636.php",
       "tags": [
         "安卓"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-matebook-fold-s-announcement/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/realme-17-pro-live-images-leak/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "三星通过 One UI 9 Watch 更新为 Galaxy Watch8 ...",
+      "title": "Honor Choice T20推出配备更大的7,000mAh电池，仍然运行...",
       "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "三星宣布开始为 Galaxy Watch8 系列植入 One UI 9 Watch 更新。新的操作系统更新带来了新的健康功能、其他功能和定制选项。One UI 9 Watch OS 随今年的 Galaxy Watch9 ...，用户体验进一步优化",
-      "url": "https://www.gsmarena.com/samsung_brings_new_health_features_to_the_galaxy_watch8_series_with_one_ui_9_watch_update-news-75617.php",
+      "date": "2026-11-25",
+      "summary": "今年早些时候，荣耀推出了 Choice T10，一款基本的 Android 16 Go 版本设备。现在，该公司又推出了一款名为 Honor Choice T20 的后续产品。虽然它具有一些硬件升级，但它仍然是一款仅支持 ...",
+      "url": "https://www.gsmarena.com/honor_choice_t20_launches_with_bigger_7000mah_battery_still_runs_android_go_edition-news-75633.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-choice-t20/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "有关vivo首款宽直板智能手机的更多细节出现",
+      "source": "GSMArena",
+      "date": "2026-11-25",
+      "summary": "本月早些时候，有传言称vivo正在开发一款宽屏直板智能手机，今天我们通过微博数字聊天站获得了一些有关它的新信息。他说它将面向照片和视频，有趣的是，vivo 似乎还没有决定如何命名它。据 DCS 称，这款手机可能属于 X ...",
+      "url": "https://www.gsmarena.com/more_details_about_vivos_first_wide_candybar_smartphone_appear-news-75632.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/vivo-wide-phone-more-details/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "三星 Galaxy S27 Ultra 获得 60W 充电认证",
+      "source": "GSMArena",
+      "date": "2026-11-25",
+      "summary": "今年，三星推出了 Galaxy S26 Ultra，这是其首款具有 60W 充电功能的智能手机。实际上，如果我们包括平板电脑但不包括笔记本电脑，那么它是第一个移动设备。这是自 2020 年 S20 Ultra 充电功率为...",
+      "url": "https://www.gsmarena.com/the_samsung_galaxy_s27_ultra_gets_certified_with_60w_charging-news-75631.php",
       "tags": [
         "三星"
       ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-watch8-classic-new-update/-184x111/gsmarena_000.jpg",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/samsung-galaxy-s27-ultra-60w-charging-certificate/-184x111/gsmarena_000.jpg",
       "type": "news"
     },
     {
-      "title": "华为Mate X8推出磁控扁平铰链系统",
+      "title": "苹果即将推出（产品）红色版 HomePod mini 2、AirPods M...",
       "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "华为 Mate X8 已在中国正式上市，它采用了创新的铰链技术，并对其前身进行了多项改进。它还支持该公司的 Ruiying Z10 模块化相机配件，该配件拥有自己的 1 英寸 50MP 传感器。华为 Mate X8 内部...",
-      "url": "https://www.gsmarena.com/huawei_mate_x8_launches_with_a_magnetic_controlled_flattening_hinge_system_-news-75620.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-mate-x8-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "优惠：Oppo Find X10 立减 200 英镑",
-      "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "Oppo Find X10系列一个月前开始了全球之旅，现在亚马逊的黑色星期五销售带来了第一次大幅折扣。不幸的是，Find X10 Pro Max 缺货不过上周就有货。OPPO Find X10Oppo Find X10 ...",
-      "url": "https://www.gsmarena.com/deal_the_oppo_find_x10_is_200_off-news-75616.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/deals-uk-oppo-find-x10/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "首款摩托罗拉 Signature 27 欧洲上市带来好消息",
-      "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "摩托罗拉 Signature 27 于本月早些时候于 11 月 5 日正式发布，尽管该公司承诺该手机将于 11 月 16 日登陆欧洲，但到目前为止我们仍然没有看到任何官方消息。一些罗马尼亚零售商今天开始预购，预购期将持续...，带来多项升级",
-      "url": "https://www.gsmarena.com/motorola_signature_27_briefly_listed_at_romanian_retailers-news-75609.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/weekly-poll-motorola-signature-27/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为Watch Air是该系列中最薄的一款",
-      "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "除了全新的Mate 90 Air之外，华为还推出了一款新的智能手表。华为Watch Air恰如其名，是该制造商迄今为止最薄、最轻的手表，尺寸为69毫米，重量为27克不含表带。它具有与华为 Watch 6 相同的 110 ...",
-      "url": "https://www.gsmarena.com/huawei_watch_air_arrives_as_the_thinnest_entry_in_the_series_-news-75610.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-watch-air-ofic/-184x111/gsmarena_000.jpg",
-      "type": "news"
-    },
-    {
-      "title": "Galaxy S27 Ultra 可能会失去除 3 倍长焦之外的另一项相机功...",
-      "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "预计将于 2027 年初推出的三星 Galaxy S27 Ultra 据传将采用重新设计的后置摄像头模块，配备三个传感器而不是四个。现在有新的泄漏声称它可能会丢失另一个相机组件。据爆料者 Ice Universe 报道，...",
-      "url": "https://www.gsmarena.com/galaxy_s27_ultra_could_lose_another_camera_component_alongside_3x_telephoto-news-75608.php",
-      "tags": [
-        "三星"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-s27-ultra-laser-autofocus-removed-leak/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "摩托罗拉 Edge 70 Neo 售价和发售日期公布",
-      "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "摩托罗拉昨天推出了 Edge 70 Neo，今天宣布了其定价和供货情况。该智能手机有 8GB128GB 配置，售价 40999 印度卢比。不过，在有限的时间内，它的售价为 37999 印度卢比。Edge 70 Neo 将...",
-      "url": "https://www.gsmarena.com/motorola_edge_70_neo_price_sale_date-news-75606.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-edge-70-neo-price-sale-date/-184x111/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "华为 Mate 90 Air 到来，配备熟悉的规格",
-      "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "正如预期的那样，华为今天在中国发布了 Mate 90 Air。该设备是去年 Mate 70 Air 的后继产品，您可能会看到其规格上的一些升级，但这里的情况大多并非如此。华为Mate 90 AirMate 90 Air ...，带来多项升级",
-      "url": "https://www.gsmarena.com/huawei_mate_90_air_arrives_with_familiar_specs_-news-75607.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/huawei-mate-90-air-ofic/-184x111/gsmarena_00.jpg",
-      "type": "news"
-    },
-    {
-      "title": "荣耀Magic9 Pro Max（全球）评测，真实体验如何？",
-      "source": "GSMArena",
-      "date": "2026-11-24",
-      "summary": "荣耀Magic9 Pro Max全球评测",
-      "url": "https://www.gsmarena.com/honor_magic9_pro_max-review-3014.php",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://fdn.gsmarena.com/imgroot/reviews/26/honor-magic9-pro-max/-347x151/gsmarena_001.jpg",
-      "type": "news"
-    },
-    {
-      "title": "联想 Legion Go Beam 游戏手持机泄露，支持 Android 和...",
-      "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "毕竟，这看起来不像是 Windows 掌上电脑。",
-      "url": "https://www.androidauthority.com/lenovo-legion-go-beam-3738970/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "搭载 谷歌 TV HD 的 Chromecast 获得今年首个安全更新",
-      "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "与 4K 同类产品相比，它的下载量要小得多。",
-      "url": "https://www.androidauthority.com/chromecast-google-tv-hd-first-2026-update-3739022/",
-      "tags": [
-        "安卓"
-      ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
-      "type": "news"
-    },
-    {
-      "title": "蜂窝 苹果 Watch SE 3 跌至 259 美元新低",
-      "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "购买 44 毫米 Apple Watch SE 3支持 5G可节省 70 美元，这是黑色星期五之前的最低价格。",
-      "url": "https://www.androidauthority.com/apple-watch-se-3-cellular-record-low-deal-3738940/",
+      "date": "2026-11-25",
+      "summary": "据彭博社马克古尔曼 Mark Gurman 的一份新报告称，苹果计划最早在下周推出其设备的几款新产品红色变体。值得注意的是，12 月 1 日是世界艾滋病日。Gurman 援引知情人士的话称，苹果将为最近推出的 HomeP...",
+      "url": "https://www.gsmarena.com/apple_could_launch_product_red_versions_of_homepod_mini_2_airpods_max_2_soon-news-75627.php",
       "tags": [
         "苹果"
       ],
-      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/apple-product-red-homepod-mini-2-airpods-max-2-report/-184x111/gsmarena_00.jpg",
       "type": "news"
     },
     {
-      "title": "你的旧智能手机现在以旧换新的价值可能比去年更高",
+      "title": "三星 Galaxy Z Trifold2 代号和供货细节泄露，核心配置曝光",
+      "source": "GSMArena",
+      "date": "2026-11-25",
+      "summary": "三星去年推出了首款三折叠手机 Galaxy Z TriFold。这款可折叠产品限量发售，并在推出几个月后就停产了。然而，Galaxy Z TriFold2 仍在计划中，并且有关它的新细节现已浮出水面。根据一份新报告，三星...",
+      "url": "https://www.gsmarena.com/samsung_galaxy_z_trifold2_codename_and_availability_details_leak-news-75630.php",
+      "tags": [
+        "三星"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/galaxy-z-trifold2-codename-availability-leak/-184x111/gsmarena_00.jpg",
+      "type": "news"
+    },
+    {
+      "title": "摩托罗拉 Signature 27 现已在欧盟市场接受预订",
+      "source": "GSMArena",
+      "date": "2026-11-25",
+      "summary": "本月早些时候，摩托罗拉推出了 Signature 27 作为该品牌的旗舰产品。当时，我们得到了一些关于其欧洲定价的令人困惑的细节，数字从 1399 欧元一直到 1799 欧元不等。现在，我们从几个地区的摩托罗拉官方在线商...",
+      "url": "https://www.gsmarena.com/motorola_signature_27_up_for_preorder_across_eu_markets-news-75629.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/motorola-signature-27-eu-pre-orders-ofic/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "Tidal 禁止完全由人工智能生成的音乐",
+      "source": "GSMArena",
+      "date": "2026-11-25",
+      "summary": "Tidal 早在 6 月份就推出了一项 AI 政策，用于识别、标记和取消其确定为 Suno、Lyria 等工具 100 AI 生成的输出的曲目。今天，它采取了更严厉的措施：从 12 月 9 日开始，任何提交给该服务的完全...",
+      "url": "https://www.gsmarena.com/tidal_is_banning_fully_aigenerated_music-news-75623.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/tidal-hates-ai/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "荣耀Magic9 Lite+配备9,530mAh电池和新芯片组",
+      "source": "GSMArena",
+      "date": "2026-11-25",
+      "summary": "荣耀Magic9 Lite尚未正式发布，但已发售！意大利零售商 MediaWorld 的这款手机售价为 700 欧元，并提供 100 欧元折扣、透明外壳和 45W 充电器。这一切都很好，但荣耀尚未正式推出这款手机。嗯，有...，带来多项升级",
+      "url": "https://www.gsmarena.com/honor_magic9_lite_breaks_cover_with_9530mah_battery_new_chipset-news-75628.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/honor-magic9-lite-plus-surfaces/-184x111/gsmarena_000.jpg",
+      "type": "news"
+    },
+    {
+      "title": "iQOO 16s的设计和颜色揭晓",
+      "source": "GSMArena",
+      "date": "2026-11-25",
+      "summary": "iQOO将于12月8日在马来西亚推出iQOO 16，同时推出iQOO 16s。 iQOO 尚未详细介绍 16s 的规格表，但已经透露了这款智能手机的设计和颜色。iQOO 16s 将提供矢量灰和暗影黑两种颜色。两者都有一个...",
+      "url": "https://www.gsmarena.com/iqoo_16s_design_colors-news-75626.php",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://fdn.gsmarena.com/imgroot/news/26/11/iqoo-16s-design-colors/-184x111/gsmarena_001.jpg",
+      "type": "news"
+    },
+    {
+      "title": "罗技MX Master 3S蓝牙版创历史新低",
       "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "旧手机的以旧换新支出比去年更高。",
-      "url": "https://www.androidauthority.com/us-trade-in-values-increasing-3738967/",
+      "date": "2026-11-25",
+      "summary": "购买罗技安静、符合人体工学的高效鼠标，配备 MagSpeed 滚轮和三设备切换功能，可节省 28 美元。",
+      "url": "https://www.androidauthority.com/logitech-mx-master-3s-bluetooth-deal-3739433/",
       "tags": [
         "安卓"
       ],
@@ -170,11 +134,11 @@
       "type": "news"
     },
     {
-      "title": "得益于 LineageOS，已有 12 年历史的 OnePlus One 现...",
+      "title": "谷歌 Pixel Buds 2a 降价 23%，追平最低价",
       "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "Android 17 已经成为开发者议程上的下一个目标。",
-      "url": "https://www.androidauthority.com/oneplus-one-android-16-update-3738957/",
+      "date": "2026-11-25",
+      "summary": "在黑色星期五之前购买 Google 降噪耳机可节省 30 美元，所有颜色均包含在优惠中。",
+      "url": "https://www.androidauthority.com/pixel-buds-2a-black-friday-deal-3739432/",
       "tags": [
         "安卓"
       ],
@@ -182,11 +146,11 @@
       "type": "news"
     },
     {
-      "title": "谷歌 Home 错误导致设备列表中出现多余的图块",
+      "title": "Nothing Ear note 预告片展示了其耳塞和独特的充电盒",
       "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "有些设备同时显示为灯和插座。",
-      "url": "https://www.androidauthority.com/google-home-duplicate-devices-bug-3738934/",
+      "date": "2026-11-25",
+      "summary": "没有任何文字说明它具有该公司有史以来最好的入耳式音频。",
+      "url": "https://www.androidauthority.com/nothing-ear-note-earbuds-ai-recorder-teaser-video-3739402/",
       "tags": [
         "安卓"
       ],
@@ -194,11 +158,47 @@
       "type": "news"
     },
     {
-      "title": "三星、谷歌、Nothing 等黑色星期五最佳手机优惠",
+      "title": "CMF Watch 3 Pro 创下新低，仅售 55 美元",
       "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "通过这些黑色星期五智能手机优惠，购买来自最大 Android 制造商的顶级智能手机，最高可节省 500 美元。",
-      "url": "https://www.androidauthority.com/best-black-friday-phone-deals-3738947/",
+      "date": "2026-11-25",
+      "summary": "购买配备 AMOLED 屏幕、双频 GPS 和 13 天电池续航时间的廉价智能手表可节省 30。",
+      "url": "https://www.androidauthority.com/cmf-watch-3-pro-record-low-deal-3739125/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "购买免订阅的 RingConn Gen 2 智能戒指可节省 90 美元",
+      "source": "Android Authority",
+      "date": "2026-11-25",
+      "summary": "RingConn 的钛金属智能环具有睡眠呼吸洞察功能，在亚马逊上大多数颜色和尺寸的售价均降至 20930 美元。",
+      "url": "https://www.androidauthority.com/ringconn-gen-2-deal-3739127/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "HyperX Cloud Stinger 3 游戏耳机跌至历史新低 29.9...",
+      "source": "Android Authority",
+      "date": "2026-11-25",
+      "summary": "在黑色星期五之前购买配备 50 毫米驱动器的 HyperX 有线多平台耳机可节省 40。",
+      "url": "https://www.androidauthority.com/hyperx-cloud-stinger-3-deal-3739090/",
+      "tags": [
+        "安卓"
+      ],
+      "image": "https://via.placeholder.com/120x80?text=Phone",
+      "type": "news"
+    },
+    {
+      "title": "三星在 One UI 9.5 中悄然扩展了具有人工智能和 7 个预设的模式和...",
+      "source": "Android Authority",
+      "date": "2026-11-25",
+      "summary": "您可以询问 Gemini 或 Perplexity，但只有 Perplexity 会自动回答。",
+      "url": "https://www.androidauthority.com/samsung-one-ui-9-5-modes-and-routines-ask-ai-presets-apk-teardown-3738354/",
       "tags": [
         "三星"
       ],
@@ -206,11 +206,11 @@
       "type": "news"
     },
     {
-      "title": "Alienware 34 英寸曲面游戏显示器降价 130 美元，创历史新低",
+      "title": "Dreame D30 Ultra CE 机器人真空吸尘器下跌 250 美元，...",
       "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "Alienware 34 AW3426DWM 在亚马逊上有 33 的折扣，这是这个黑色星期五季节这款 240Hz 超宽显示器的新低。",
-      "url": "https://www.androidauthority.com/alienware-34-gaming-monitor-deal-3738937/",
+      "date": "2026-11-25",
+      "summary": "在黑色星期五到来之前，购买具有 25000Pa 吸力的 Dreame 自动清空拖把清洗机器人可节省 42 的费用。",
+      "url": "https://www.androidauthority.com/dreame-d30-ultra-ce-deal-3739061/",
       "tags": [
         "安卓"
       ],
@@ -218,11 +218,11 @@
       "type": "news"
     },
     {
-      "title": "摩托罗拉 Razr 2027 泄露表明一月份发布是可能的，新机正式登场",
+      "title": "Soundcore Space One Pro 可折叠 ANC 耳机立减 4...",
       "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "摩托罗拉 Razr 2027 系列可能会在 CES 期间首次亮相。",
-      "url": "https://www.androidauthority.com/motorola-razr-2027-possible-launch-date-3738927/",
+      "date": "2026-11-25",
+      "summary": "购买 Anker 旅行友好型降噪耳机可节省 86 美元，目前与亚马逊上的最低价格相当。",
+      "url": "https://www.androidauthority.com/soundcore-space-one-pro-deal-3739073/",
       "tags": [
         "安卓"
       ],
@@ -230,11 +230,11 @@
       "type": "news"
     },
     {
-      "title": "芒米展示搭载骁龙865和5.5英寸1080p屏幕的Air X Pro",
+      "title": "黑色星期五最佳优惠：手机、智能手表等商品大折扣",
       "source": "Android Authority",
-      "date": "2026-11-24",
-      "summary": "更好地了解 Mangmi 即将推出的 Android 游戏掌上电脑。",
-      "url": "https://www.androidauthority.com/mangmi-air-x-pro-specs-display-processor-3738916/",
+      "date": "2026-11-25",
+      "summary": "今年最大的促销活动正在进行中，价格已经大幅下跌。以下是您现在可以获得的最佳技术优惠。",
+      "url": "https://www.androidauthority.com/best-black-friday-2026-deals-3733655/",
       "tags": [
         "安卓"
       ],
